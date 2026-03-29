@@ -1236,7 +1236,7 @@
         "DefaultValue": false,
         "Type": "Bool"
       },
-      "<Unknown_78C90CDD>": {
+      "IsUnlockedOtherRegion": {
         "DefaultValue": false,
         "Type": "Bool"
       },
@@ -15798,8 +15798,8 @@
       "DefaultValue": -1,
       "Type": "Int"
     },
-    "<Unknown_0EEA4197>": {
-      "<Unknown_CF3077A5>": {
+    "MarketUpdateInfo": {
+      "MarketCoordinateInfo": {
         "Variation": {
           "DefaultValue": 0,
           "Type": "Int"
@@ -15809,11 +15809,11 @@
           "Type": "UInt"
         }
       },
-      "<Unknown_F3FCC2C5>": {
+      "MarketFoodStringId": {
         "DefaultValue": 0,
         "Type": "UInt"
       },
-      "<Unknown_85784011>": {
+      "LastEnterTime": {
         "DefaultValue": 0,
         "Type": "UInt64"
       },
@@ -15832,7 +15832,7 @@
         "Type": "IntArray",
         "Size": 6
       },
-      "<Unknown_D5311674>": {
+      "LastWatchedTime": {
         "DefaultValue": 0,
         "Type": "UInt64"
       }
@@ -15952,11 +15952,11 @@
       "DefaultValue": 0,
       "Type": "UInt64"
     },
-    "<Unknown_1D034A45>": {
+    "LastBazaarPurchasedTime": {
       "DefaultValue": 0,
       "Type": "UInt64"
     },
-    "<Unknown_8ABB06BA>": {
+    "LastDonationGameTime": {
       "DefaultValue": 0,
       "Type": "UInt64"
     },
@@ -15964,7 +15964,7 @@
       "DefaultValue": 0,
       "Type": "UInt64"
     },
-    "<Unknown_2C02D495>": {
+    "LastNewsWatchedTime": {
       "DefaultValue": 0,
       "Type": "UInt64"
     },
@@ -15972,7 +15972,7 @@
       "DefaultValue": 0,
       "Type": "UInt64"
     },
-    "<Unknown_C67DC94C>": {
+    "LastPlayerBirthdayTime": {
       "DefaultValue": 0,
       "Type": "UInt64"
     },
@@ -17490,7 +17490,7 @@
           "Type": "IntArray",
           "Size": 70
         },
-        "<Unknown_E37C0CFA>": {
+        "LastFoodGiveTime": {
           "DefaultValue": null,
           "Type": "UInt64Array",
           "Size": 70
@@ -17562,12 +17562,12 @@
           "Type": "UInt64Array",
           "Size": 70
         },
-        "<Unknown_FF0AFEB9>": {
+        "ReadyHairChangeGameTime": {
           "DefaultValue": null,
           "Type": "UInt64Array",
           "Size": 70
         },
-        "<Unknown_6EA6EC31>": {
+        "RejectHairChangeGameTime": {
           "DefaultValue": null,
           "Type": "UInt64Array",
           "Size": 70
@@ -17586,7 +17586,7 @@
         }
       },
       "ClothInfo": {
-        "<Unknown_C11776DD>": {
+        "IsTopsIn": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70
@@ -17719,7 +17719,7 @@
           "Type": "IntArray",
           "Size": 70
         },
-        "<Unknown_1C7708C4>": {
+        "NextClothWantGameTime": {
           "DefaultValue": null,
           "Type": "UInt64Array",
           "Size": 70
@@ -17746,7 +17746,7 @@
           "Type": "IntArray",
           "Size": 70
         },
-        "<Unknown_2204EF96>": {
+        "NewEntryGameTime": {
           "DefaultValue": null,
           "Type": "UInt64Array",
           "Size": 70
@@ -17910,14 +17910,14 @@
           "Type": "UInt64Array",
           "Size": 70
         },
-        "<Unknown_2261558F>": {
+        "LastMiiTouchGameTime": {
           "DefaultValue": null,
           "Type": "UInt64Array",
           "Size": 70
         }
       },
       "PatInfo": {
-        "<Unknown_B9C4E881>": {
+        "LastPatGameTime": {
           "DefaultValue": null,
           "Type": "UInt64Array",
           "Size": 70
@@ -20591,12 +20591,12 @@
           "Size": 840
         }
       },
-      "<Unknown_F44D6569>": {
+      "ExteriorNextEmotionBallTime": {
         "DefaultValue": null,
         "Type": "UInt64Array",
         "Size": 70
       },
-      "<Unknown_76D8D4D5>": {
+      "InteriorNextEmotionBallTime": {
         "DefaultValue": null,
         "Type": "UInt64Array",
         "Size": 70
@@ -20729,7 +20729,7 @@
         "Type": "Int64Array",
         "Size": 70
       },
-      "<Unknown_576619A1>": {
+      "FeelingEndGameTime": {
         "DefaultValue": null,
         "Type": "UInt64Array",
         "Size": 70
@@ -20847,7 +20847,7 @@
         "Type": "IntArray",
         "Size": 70
       },
-      "<Unknown_5F1EBA8F>": {
+      "StartLiveTogetherTime": {
         "DefaultValue": null,
         "Type": "UInt64Array",
         "Size": 70
@@ -22464,12 +22464,12 @@
         }
       }
     },
-    "<Unknown_F44D6569>": {
+    "ExteriorNextEmotionBallTime": {
       "DefaultValue": null,
       "Type": "UInt64Array",
       "Size": 70
     },
-    "<Unknown_76D8D4D5>": {
+    "InteriorNextEmotionBallTime": {
       "DefaultValue": null,
       "Type": "UInt64Array",
       "Size": 70
@@ -22745,7 +22745,7 @@
       "DefaultValue": 0,
       "Type": "Int"
     },
-    "<Unknown_630B130E>": {
+    "LastSavePhotoTime": {
       "DefaultValue": 0,
       "Type": "UInt64"
     }
@@ -23176,12 +23176,12 @@
     }
   },
   "MiiEvent": {
-    "<Unknown_822A91E2>": {
+    "EnableGenerateGameTime": {
       "DefaultValue": 0,
       "Type": "UInt64"
     },
     "MiiEventInfo": {
-      "<Unknown_2DB4D33E>": {
+      "InfoEnableGenerateGameTime": {
         "DefaultValue": null,
         "Type": "UInt64Array",
         "Size": 128

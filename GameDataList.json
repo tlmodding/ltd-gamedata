@@ -1157,7 +1157,7 @@
           "Hash": 692177933,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.FoodShopDailyItem.<Unknown_78C90CDD>"
+          "HashText": "Player.FoodShopDailyItem.IsUnlockedOtherRegion"
         },
         {
           "DefaultValue": false,
@@ -13873,7 +13873,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.MiiMisc.ClothInfo.<Unknown_C11776DD>"
+          "HashText": "Mii.MiiMisc.ClothInfo.IsTopsIn"
         },
         {
           "DefaultValue": null,
@@ -33759,7 +33759,7 @@
           "Hash": 571305530,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_0EEA4197>.<Unknown_CF3077A5>.Variation"
+          "HashText": "Player.MarketUpdateInfo.MarketCoordinateInfo.Variation"
         },
         {
           "DefaultValue": 0,
@@ -38039,14 +38039,14 @@
             {
               "Hash": 1993921749,
               "Value": 438561737,
-              "HashText": "<Unknown_76D8D4D5>",
-              "ValueText": "House.<Unknown_76D8D4D5>"
+              "HashText": "InteriorNextEmotionBallTime",
+              "ValueText": "House.InteriorNextEmotionBallTime"
             },
             {
               "Hash": 4098712937,
               "Value": 421679034,
-              "HashText": "<Unknown_F44D6569>",
-              "ValueText": "House.<Unknown_F44D6569>"
+              "HashText": "ExteriorNextEmotionBallTime",
+              "ValueText": "House.ExteriorNextEmotionBallTime"
             },
             {
               "Hash": 4238045011,
@@ -40323,14 +40323,14 @@
             {
               "Hash": 1993921749,
               "Value": 1554314706,
-              "HashText": "<Unknown_76D8D4D5>",
-              "ValueText": "Mii.Belongings.<Unknown_76D8D4D5>"
+              "HashText": "InteriorNextEmotionBallTime",
+              "ValueText": "Mii.Belongings.InteriorNextEmotionBallTime"
             },
             {
               "Hash": 4098712937,
               "Value": 4118860020,
-              "HashText": "<Unknown_F44D6569>",
-              "ValueText": "Mii.Belongings.<Unknown_F44D6569>"
+              "HashText": "ExteriorNextEmotionBallTime",
+              "ValueText": "Mii.Belongings.ExteriorNextEmotionBallTime"
             },
             {
               "Hash": 1665548192,
@@ -44462,8 +44462,8 @@
             {
               "Hash": 1466309025,
               "Value": 2407621077,
-              "HashText": "<Unknown_576619A1>",
-              "ValueText": "Mii.Feeling.<Unknown_576619A1>"
+              "HashText": "FeelingEndGameTime",
+              "ValueText": "Mii.Feeling.FeelingEndGameTime"
             }
           ],
           "Hash": 719401130,
@@ -44488,8 +44488,8 @@
             {
               "Hash": 1595849359,
               "Value": 874056927,
-              "HashText": "<Unknown_5F1EBA8F>",
-              "ValueText": "Mii.HomeLiveTime.<Unknown_5F1EBA8F>"
+              "HashText": "StartLiveTogetherTime",
+              "ValueText": "Mii.HomeLiveTime.StartLiveTogetherTime"
             }
           ],
           "Hash": 2214735308,
@@ -44740,8 +44740,8 @@
             {
               "Hash": 3239540445,
               "Value": 3601665547,
-              "HashText": "<Unknown_C11776DD>",
-              "ValueText": "Mii.MiiMisc.ClothInfo.<Unknown_C11776DD>"
+              "HashText": "IsTopsIn",
+              "ValueText": "Mii.MiiMisc.ClothInfo.IsTopsIn"
             },
             {
               "Hash": 655704088,
@@ -44752,8 +44752,8 @@
             {
               "Hash": 477563076,
               "Value": 475225516,
-              "HashText": "<Unknown_1C7708C4>",
-              "ValueText": "Mii.MiiMisc.ClothInfo.<Unknown_1C7708C4>"
+              "HashText": "NextClothWantGameTime",
+              "ValueText": "Mii.MiiMisc.ClothInfo.NextClothWantGameTime"
             },
             {
               "Hash": 2871491430,
@@ -44982,8 +44982,8 @@
             {
               "Hash": 3816557818,
               "Value": 264972861,
-              "HashText": "<Unknown_E37C0CFA>",
-              "ValueText": "Mii.MiiMisc.EatInfo.<Unknown_E37C0CFA>"
+              "HashText": "LastFoodGiveTime",
+              "ValueText": "Mii.MiiMisc.EatInfo.LastFoodGiveTime"
             },
             {
               "Hash": 3189584431,
@@ -45085,8 +45085,8 @@
             {
               "Hash": 570748822,
               "Value": 730339414,
-              "HashText": "<Unknown_2204EF96>",
-              "ValueText": "Mii.MiiMisc.EntryInfo.<Unknown_2204EF96>"
+              "HashText": "NewEntryGameTime",
+              "ValueText": "Mii.MiiMisc.EntryInfo.NewEntryGameTime"
             },
             {
               "Hash": 514730802,
@@ -45165,8 +45165,8 @@
             {
               "Hash": 4278910649,
               "Value": 2174583092,
-              "HashText": "<Unknown_FF0AFEB9>",
-              "ValueText": "Mii.MiiMisc.FaceInfo.<Unknown_FF0AFEB9>"
+              "HashText": "ReadyHairChangeGameTime",
+              "ValueText": "Mii.MiiMisc.FaceInfo.ReadyHairChangeGameTime"
             },
             {
               "Hash": 1405598306,
@@ -45195,8 +45195,8 @@
             {
               "Hash": 1856433201,
               "Value": 1294459168,
-              "HashText": "<Unknown_6EA6EC31>",
-              "ValueText": "Mii.MiiMisc.FaceInfo.<Unknown_6EA6EC31>"
+              "HashText": "RejectHairChangeGameTime",
+              "ValueText": "Mii.MiiMisc.FaceInfo.RejectHairChangeGameTime"
             }
           ],
           "Hash": 3051588909,
@@ -45209,8 +45209,8 @@
             {
               "Hash": 3116689537,
               "Value": 1180216045,
-              "HashText": "<Unknown_B9C4E881>",
-              "ValueText": "Mii.MiiMisc.PatInfo.<Unknown_B9C4E881>"
+              "HashText": "LastPatGameTime",
+              "ValueText": "Mii.MiiMisc.PatInfo.LastPatGameTime"
             }
           ],
           "Hash": 3879234345,
@@ -45241,8 +45241,8 @@
             {
               "Hash": 576804239,
               "Value": 3232946174,
-              "HashText": "<Unknown_2261558F>",
-              "ValueText": "Mii.MiiMisc.SatisfyInfo.<Unknown_2261558F>"
+              "HashText": "LastMiiTouchGameTime",
+              "ValueText": "Mii.MiiMisc.SatisfyInfo.LastMiiTouchGameTime"
             }
           ],
           "Hash": 2179311050,
@@ -45629,8 +45629,8 @@
             {
               "Hash": 2183827938,
               "Value": 1080829685,
-              "HashText": "<Unknown_822A91E2>",
-              "ValueText": "MiiEvent.<Unknown_822A91E2>"
+              "HashText": "EnableGenerateGameTime",
+              "ValueText": "MiiEvent.EnableGenerateGameTime"
             },
             {
               "Hash": 1880417931,
@@ -45670,8 +45670,8 @@
             {
               "Hash": 766825278,
               "Value": 3692878521,
-              "HashText": "<Unknown_2DB4D33E>",
-              "ValueText": "MiiEvent.MiiEventInfo.<Unknown_2DB4D33E>"
+              "HashText": "InfoEnableGenerateGameTime",
+              "ValueText": "MiiEvent.MiiEventInfo.InfoEnableGenerateGameTime"
             },
             {
               "Hash": 3142803700,
@@ -45953,8 +45953,8 @@
             {
               "Hash": 1661670158,
               "Value": 859739945,
-              "HashText": "<Unknown_630B130E>",
-              "ValueText": "PhotoStudio.<Unknown_630B130E>"
+              "HashText": "LastSavePhotoTime",
+              "ValueText": "PhotoStudio.LastSavePhotoTime"
             },
             {
               "Hash": 3220459650,
@@ -46162,8 +46162,8 @@
             {
               "Hash": 250233239,
               "Value": 2516639940,
-              "HashText": "<Unknown_0EEA4197>",
-              "ValueText": "Player.<Unknown_0EEA4197>"
+              "HashText": "MarketUpdateInfo",
+              "ValueText": "Player.MarketUpdateInfo"
             },
             {
               "Hash": 3498280890,
@@ -46174,26 +46174,26 @@
             {
               "Hash": 486754885,
               "Value": 2821315101,
-              "HashText": "<Unknown_1D034A45>",
-              "ValueText": "Player.<Unknown_1D034A45>"
+              "HashText": "LastBazaarPurchasedTime",
+              "ValueText": "Player.LastBazaarPurchasedTime"
             },
             {
               "Hash": 2327512762,
               "Value": 3148464272,
-              "HashText": "<Unknown_8ABB06BA>",
-              "ValueText": "Player.<Unknown_8ABB06BA>"
+              "HashText": "LastDonationGameTime",
+              "ValueText": "Player.LastDonationGameTime"
             },
             {
               "Hash": 3330132300,
               "Value": 3562692024,
-              "HashText": "<Unknown_C67DC94C>",
-              "ValueText": "Player.<Unknown_C67DC94C>"
+              "HashText": "LastPlayerBirthdayTime",
+              "ValueText": "Player.LastPlayerBirthdayTime"
             },
             {
               "Hash": 738382997,
               "Value": 3361071116,
-              "HashText": "<Unknown_2C02D495>",
-              "ValueText": "Player.<Unknown_2C02D495>"
+              "HashText": "LastNewsWatchedTime",
+              "ValueText": "Player.LastNewsWatchedTime"
             },
             {
               "Hash": 62364649,
@@ -46837,8 +46837,8 @@
             {
               "Hash": 2026441949,
               "Value": 692177933,
-              "HashText": "<Unknown_78C90CDD>",
-              "ValueText": "Player.FoodShopDailyItem.<Unknown_78C90CDD>"
+              "HashText": "IsUnlockedOtherRegion",
+              "ValueText": "Player.FoodShopDailyItem.IsUnlockedOtherRegion"
             }
           ],
           "Hash": 1422436689,
@@ -74998,31 +74998,31 @@
               "Hash": 975140863,
               "Value": 344691411,
               "HashText": "LastUpdateTime",
-              "ValueText": "Player.<Unknown_0EEA4197>.LastUpdateTime"
+              "ValueText": "Player.MarketUpdateInfo.LastUpdateTime"
             },
             {
               "Hash": 2239250449,
               "Value": 2133469859,
               "HashText": "LastEnterTime",
-              "ValueText": "Player.<Unknown_0EEA4197>.<Unknown_85784011>"
+              "ValueText": "Player.MarketUpdateInfo.LastEnterTime"
             },
             {
               "Hash": 4093428421,
               "Value": 1947379586,
               "HashText": "MarketFoodStringId",
-              "ValueText": "Player.<Unknown_0EEA4197>.<Unknown_F3FCC2C5>"
+              "ValueText": "Player.MarketUpdateInfo.MarketFoodStringId"
             },
             {
               "Hash": 3476060069,
               "Value": 2597361630,
               "HashText": "MarketCoordinateInfo",
-              "ValueText": "Player.<Unknown_0EEA4197>.<Unknown_CF3077A5>"
+              "ValueText": "Player.MarketUpdateInfo.MarketCoordinateInfo"
             }
           ],
           "Hash": 2516639940,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.<Unknown_0EEA4197>"
+          "HashText": "Player.MarketUpdateInfo"
         },
         {
           "DefaultValue": [
@@ -75030,27 +75030,27 @@
               "Hash": 2005221708,
               "Value": 950635269,
               "HashText": "CoordinateStringId",
-              "ValueText": "Player.<Unknown_0EEA4197>.<Unknown_CF3077A5>.CoordinateStringId"
+              "ValueText": "Player.MarketUpdateInfo.MarketCoordinateInfo.CoordinateStringId"
             },
             {
               "Hash": 3968776596,
               "Value": 571305530,
               "HashText": "Variation",
-              "ValueText": "Player.<Unknown_0EEA4197>.<Unknown_CF3077A5>.Variation"
+              "ValueText": "Player.MarketUpdateInfo.MarketCoordinateInfo.Variation"
             }
           ],
           "Hash": 2597361630,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.<Unknown_0EEA4197>.<Unknown_CF3077A5>"
+          "HashText": "Player.MarketUpdateInfo.MarketCoordinateInfo"
         },
         {
           "DefaultValue": [
             {
               "Hash": 3576764020,
               "Value": 1904654725,
-              "HashText": "<Unknown_D5311674>",
-              "ValueText": "Player.MiiBirthdayNews.<Unknown_D5311674>"
+              "HashText": "LastWatchedTime",
+              "ValueText": "Player.MiiBirthdayNews.LastWatchedTime"
             },
             {
               "Hash": 2724184324,
@@ -79803,14 +79803,14 @@
           "Hash": 950635269,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_0EEA4197>.<Unknown_CF3077A5>.CoordinateStringId"
+          "HashText": "Player.MarketUpdateInfo.MarketCoordinateInfo.CoordinateStringId"
         },
         {
           "DefaultValue": 0,
           "Hash": 1947379586,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_0EEA4197>.<Unknown_F3FCC2C5>"
+          "HashText": "Player.MarketUpdateInfo.MarketFoodStringId"
         },
         {
           "DefaultValue": 0,
@@ -80246,14 +80246,14 @@
           "Hash": 1080829685,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "MiiEvent.<Unknown_822A91E2>"
+          "HashText": "MiiEvent.EnableGenerateGameTime"
         },
         {
           "DefaultValue": 0,
           "Hash": 859739945,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "PhotoStudio.<Unknown_630B130E>"
+          "HashText": "PhotoStudio.LastSavePhotoTime"
         },
         {
           "DefaultValue": 0,
@@ -86462,14 +86462,14 @@
           "Hash": 2821315101,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_1D034A45>"
+          "HashText": "Player.LastBazaarPurchasedTime"
         },
         {
           "DefaultValue": 0,
           "Hash": 3148464272,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_8ABB06BA>"
+          "HashText": "Player.LastDonationGameTime"
         },
         {
           "DefaultValue": 0,
@@ -86483,7 +86483,7 @@
           "Hash": 3361071116,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_2C02D495>"
+          "HashText": "Player.LastNewsWatchedTime"
         },
         {
           "DefaultValue": 0,
@@ -86497,28 +86497,28 @@
           "Hash": 3562692024,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_C67DC94C>"
+          "HashText": "Player.LastPlayerBirthdayTime"
         },
         {
           "DefaultValue": 0,
           "Hash": 2133469859,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_0EEA4197>.<Unknown_85784011>"
+          "HashText": "Player.MarketUpdateInfo.LastEnterTime"
         },
         {
           "DefaultValue": 0,
           "Hash": 344691411,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_0EEA4197>.LastUpdateTime"
+          "HashText": "Player.MarketUpdateInfo.LastUpdateTime"
         },
         {
           "DefaultValue": 0,
           "Hash": 1904654725,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.MiiBirthdayNews.<Unknown_D5311674>"
+          "HashText": "Player.MiiBirthdayNews.LastWatchedTime"
         },
         {
           "DefaultValue": 0,
@@ -86612,7 +86612,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.<Unknown_F44D6569>"
+          "HashText": "House.ExteriorNextEmotionBallTime"
         },
         {
           "DefaultValue": null,
@@ -86621,7 +86621,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.<Unknown_76D8D4D5>"
+          "HashText": "House.InteriorNextEmotionBallTime"
         },
         {
           "DefaultValue": null,
@@ -86657,7 +86657,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.<Unknown_F44D6569>"
+          "HashText": "Mii.Belongings.ExteriorNextEmotionBallTime"
         },
         {
           "DefaultValue": null,
@@ -86675,7 +86675,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.<Unknown_76D8D4D5>"
+          "HashText": "Mii.Belongings.InteriorNextEmotionBallTime"
         },
         {
           "DefaultValue": null,
@@ -86693,7 +86693,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Feeling.<Unknown_576619A1>"
+          "HashText": "Mii.Feeling.FeelingEndGameTime"
         },
         {
           "DefaultValue": null,
@@ -86702,7 +86702,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.HomeLiveTime.<Unknown_5F1EBA8F>"
+          "HashText": "Mii.HomeLiveTime.StartLiveTogetherTime"
         },
         {
           "DefaultValue": null,
@@ -86720,7 +86720,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.MiiMisc.ClothInfo.<Unknown_1C7708C4>"
+          "HashText": "Mii.MiiMisc.ClothInfo.NextClothWantGameTime"
         },
         {
           "DefaultValue": null,
@@ -86729,7 +86729,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.MiiMisc.EatInfo.<Unknown_E37C0CFA>"
+          "HashText": "Mii.MiiMisc.EatInfo.LastFoodGiveTime"
         },
         {
           "DefaultValue": null,
@@ -86738,7 +86738,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.MiiMisc.EntryInfo.<Unknown_2204EF96>"
+          "HashText": "Mii.MiiMisc.EntryInfo.NewEntryGameTime"
         },
         {
           "DefaultValue": null,
@@ -86756,7 +86756,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.MiiMisc.FaceInfo.<Unknown_FF0AFEB9>"
+          "HashText": "Mii.MiiMisc.FaceInfo.ReadyHairChangeGameTime"
         },
         {
           "DefaultValue": null,
@@ -86765,7 +86765,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.MiiMisc.FaceInfo.<Unknown_6EA6EC31>"
+          "HashText": "Mii.MiiMisc.FaceInfo.RejectHairChangeGameTime"
         },
         {
           "DefaultValue": null,
@@ -86774,7 +86774,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.MiiMisc.PatInfo.<Unknown_B9C4E881>"
+          "HashText": "Mii.MiiMisc.PatInfo.LastPatGameTime"
         },
         {
           "DefaultValue": null,
@@ -86792,7 +86792,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.MiiMisc.SatisfyInfo.<Unknown_2261558F>"
+          "HashText": "Mii.MiiMisc.SatisfyInfo.LastMiiTouchGameTime"
         },
         {
           "DefaultValue": null,
@@ -86837,7 +86837,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
           "TotalSize": 128,
-          "HashText": "MiiEvent.MiiEventInfo.<Unknown_2DB4D33E>"
+          "HashText": "MiiEvent.MiiEventInfo.InfoEnableGenerateGameTime"
         },
         {
           "DefaultValue": null,
