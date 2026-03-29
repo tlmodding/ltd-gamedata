@@ -9427,7 +9427,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.RoomStyleInfo.Flag.<Unknown_17AD3F67>"
+          "HashText": "House.RoomStyleInfo.Flag.SmallFlower04"
         },
         {
           "DefaultValue": null,
@@ -9445,7 +9445,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.RoomStyleInfo.Flag.<Unknown_48ACB899>"
+          "HashText": "House.RoomStyleInfo.Flag.SmallFlower06"
         },
         {
           "DefaultValue": null,
@@ -9454,7 +9454,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.RoomStyleInfo.Flag.<Unknown_88C8F6B4>"
+          "HashText": "House.RoomStyleInfo.Flag.SmallFlower07"
         },
         {
           "DefaultValue": null,
@@ -13288,7 +13288,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_17AD3F67>"
+          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.SmallFlower04"
         },
         {
           "DefaultValue": null,
@@ -13306,7 +13306,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_48ACB899>"
+          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.SmallFlower06"
         },
         {
           "DefaultValue": null,
@@ -13315,7 +13315,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_88C8F6B4>"
+          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.SmallFlower07"
         },
         {
           "DefaultValue": null,
@@ -23725,7 +23725,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.State"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower04.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -23755,7 +23755,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.State"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower06.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -23770,7 +23770,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.State"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower07.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -33332,7 +33332,7 @@
           "Hash": 85093825,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.OwnNum"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower04.OwnNum"
         },
         {
           "DefaultValue": -2,
@@ -33346,14 +33346,14 @@
           "Hash": 1468012753,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.OwnNum"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower06.OwnNum"
         },
         {
           "DefaultValue": -2,
           "Hash": 1112892613,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.OwnNum"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower07.OwnNum"
         },
         {
           "DefaultValue": -2,
@@ -39432,8 +39432,8 @@
             {
               "Hash": 397229927,
               "Value": 1074916418,
-              "HashText": "<Unknown_17AD3F67>",
-              "ValueText": "House.RoomStyleInfo.Flag.<Unknown_17AD3F67>"
+              "HashText": "SmallFlower04",
+              "ValueText": "House.RoomStyleInfo.Flag.SmallFlower04"
             },
             {
               "Hash": 913042969,
@@ -39444,14 +39444,14 @@
             {
               "Hash": 1219279001,
               "Value": 2895456277,
-              "HashText": "<Unknown_48ACB899>",
-              "ValueText": "House.RoomStyleInfo.Flag.<Unknown_48ACB899>"
+              "HashText": "SmallFlower06",
+              "ValueText": "House.RoomStyleInfo.Flag.SmallFlower06"
             },
             {
               "Hash": 2294871732,
               "Value": 2948771823,
-              "HashText": "<Unknown_88C8F6B4>",
-              "ValueText": "House.RoomStyleInfo.Flag.<Unknown_88C8F6B4>"
+              "HashText": "SmallFlower07",
+              "ValueText": "House.RoomStyleInfo.Flag.SmallFlower07"
             },
             {
               "Hash": 747711323,
@@ -39850,8 +39850,8 @@
             {
               "Hash": 605243783,
               "Value": 509081800,
-              "HashText": "<Unknown_24134987>",
-              "ValueText": "Introduction.FocusLeadingInfo.<Unknown_24134987>"
+              "HashText": "LastTimeObject",
+              "ValueText": "Introduction.FocusLeadingInfo.LastTimeObject"
             }
           ],
           "Hash": 3369541554,
@@ -44044,8 +44044,8 @@
             {
               "Hash": 397229927,
               "Value": 4061209799,
-              "HashText": "<Unknown_17AD3F67>",
-              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_17AD3F67>"
+              "HashText": "SmallFlower04",
+              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.SmallFlower04"
             },
             {
               "Hash": 913042969,
@@ -44056,14 +44056,14 @@
             {
               "Hash": 1219279001,
               "Value": 2555789129,
-              "HashText": "<Unknown_48ACB899>",
-              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_48ACB899>"
+              "HashText": "SmallFlower06",
+              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.SmallFlower06"
             },
             {
               "Hash": 2294871732,
               "Value": 940077001,
-              "HashText": "<Unknown_88C8F6B4>",
-              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_88C8F6B4>"
+              "HashText": "SmallFlower07",
+              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.SmallFlower07"
             },
             {
               "Hash": 747711323,
@@ -60965,8 +60965,8 @@
             {
               "Hash": 397229927,
               "Value": 4232332964,
-              "HashText": "<Unknown_17AD3F67>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>"
+              "HashText": "SmallFlower04",
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower04"
             },
             {
               "Hash": 913042969,
@@ -60977,14 +60977,14 @@
             {
               "Hash": 1219279001,
               "Value": 1416387633,
-              "HashText": "<Unknown_48ACB899>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>"
+              "HashText": "SmallFlower06",
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower06"
             },
             {
               "Hash": 2294871732,
               "Value": 3441135719,
-              "HashText": "<Unknown_88C8F6B4>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>"
+              "HashText": "SmallFlower07",
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower07"
             },
             {
               "Hash": 747711323,
@@ -71984,13 +71984,13 @@
               "Hash": 1331458961,
               "Value": 3195423382,
               "HashText": "KeyHash",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.KeyHash"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower04.KeyHash"
             },
             {
               "Hash": 4107346500,
               "Value": 85093825,
               "HashText": "OwnNum",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.OwnNum"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower04.OwnNum"
             },
             {
               "Hash": 3610792363,
@@ -72020,13 +72020,13 @@
               "Hash": 1588172936,
               "Value": 3775110772,
               "HashText": "State",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.State"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower04.State"
             }
           ],
           "Hash": 4232332964,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower04"
         },
         {
           "DefaultValue": [
@@ -72084,13 +72084,13 @@
               "Hash": 1331458961,
               "Value": 131558095,
               "HashText": "KeyHash",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.KeyHash"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower06.KeyHash"
             },
             {
               "Hash": 4107346500,
               "Value": 1468012753,
               "HashText": "OwnNum",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.OwnNum"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower06.OwnNum"
             },
             {
               "Hash": 3610792363,
@@ -72120,13 +72120,13 @@
               "Hash": 1588172936,
               "Value": 1794559405,
               "HashText": "State",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.State"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower06.State"
             }
           ],
           "Hash": 1416387633,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower06"
         },
         {
           "DefaultValue": [
@@ -72134,13 +72134,13 @@
               "Hash": 1331458961,
               "Value": 2858484263,
               "HashText": "KeyHash",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.KeyHash"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower07.KeyHash"
             },
             {
               "Hash": 4107346500,
               "Value": 1112892613,
               "HashText": "OwnNum",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.OwnNum"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower07.OwnNum"
             },
             {
               "Hash": 3610792363,
@@ -72170,13 +72170,13 @@
               "Hash": 1588172936,
               "Value": 1572883598,
               "HashText": "State",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.State"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower07.State"
             }
           ],
           "Hash": 3441135719,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower07"
         },
         {
           "DefaultValue": [
@@ -79383,7 +79383,7 @@
           "Hash": 3195423382,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.KeyHash"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower04.KeyHash"
         },
         {
           "DefaultValue": 0,
@@ -79397,14 +79397,14 @@
           "Hash": 131558095,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.KeyHash"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower06.KeyHash"
         },
         {
           "DefaultValue": 0,
           "Hash": 2858484263,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.KeyHash"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower07.KeyHash"
         },
         {
           "DefaultValue": 0,
@@ -80232,7 +80232,7 @@
           "Hash": 509081800,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Introduction.FocusLeadingInfo.<Unknown_24134987>"
+          "HashText": "Introduction.FocusLeadingInfo.LastTimeObject"
         },
         {
           "DefaultValue": 0,
