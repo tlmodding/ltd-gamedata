@@ -2273,10 +2273,18 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_196C6CF5>": {
+      "CDJazz": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": 0,
+          "Type": "Int"
         },
         "<Unknown_D73851AB>": {
           "DefaultValue": 0,
@@ -2319,10 +2327,18 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_FA00C173>": {
+      "CDReggae": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": 0,
+          "Type": "Int"
         },
         "<Unknown_D73851AB>": {
           "DefaultValue": 0,
@@ -5371,10 +5387,18 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_EFC92131>": {
+      "SuspiciousSwitch": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": 0,
+          "Type": "Int"
         },
         "<Unknown_D73851AB>": {
           "DefaultValue": 0,
@@ -5955,36 +5979,6 @@
         "<Unknown_D73851AB>": {
           "DefaultValue": 0,
           "Type": "UInt64"
-        }
-      },
-      "CDJazz": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": 0,
-          "Type": "Int"
-        }
-      },
-      "CDReggae": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": 0,
-          "Type": "Int"
-        }
-      },
-      "SuspiciousSwitch": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": 0,
-          "Type": "Int"
         }
       }
     },
@@ -7779,7 +7773,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_6FEFCFC6>": {
+      "BigFlower00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -7787,6 +7781,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -7797,7 +7803,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_0CE172B1>": {
+      "BigFlower01": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -7805,6 +7811,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -7815,7 +7833,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_79B6B6BF>": {
+      "BigFlower02": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -7823,6 +7841,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -7833,7 +7863,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_8038CD88>": {
+      "BigFlower03": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -7841,6 +7871,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -9261,7 +9303,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_17F15F46>": {
+      "DropCurtain00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -9269,6 +9311,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -11319,7 +11373,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_4AC590CE>": {
+      "LightStick00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -11327,6 +11381,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -11337,7 +11403,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_F5D60243>": {
+      "LightStick01": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -11345,6 +11411,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -11355,7 +11433,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_D6C9D1D6>": {
+      "LightStick02": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -11363,6 +11441,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -12123,7 +12213,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_4BBE6324>": {
+      "MovingBox00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -12131,6 +12221,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -12141,7 +12243,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_8EDB5A45>": {
+      "MovingBox01": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -12149,6 +12251,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -13479,7 +13593,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_A3FEF41D>": {
+      "SmallFlower00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -13487,6 +13601,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -13497,7 +13623,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_B19412D7>": {
+      "SmallFlower01": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -13505,6 +13631,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -13515,7 +13653,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_6E2F57E4>": {
+      "SmallFlower02": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -13523,6 +13661,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -13533,7 +13683,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_104D4EEE>": {
+      "SmallFlower03": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -13541,6 +13691,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -13551,7 +13713,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_17AD3F67>": {
+      "SmallFlower04": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -13559,6 +13721,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -13569,7 +13743,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_366BEE19>": {
+      "SmallFlower05": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -13577,6 +13751,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -13587,7 +13773,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_48ACB899>": {
+      "SmallFlower06": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -13595,6 +13781,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -13605,7 +13803,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_88C8F6B4>": {
+      "SmallFlower07": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -13613,6 +13811,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -14583,7 +14793,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_B75D7DB6>": {
+      "TropicalSea00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -14591,6 +14801,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -14751,7 +14973,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_B9E732D9>": {
+      "WesternStyle00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -14759,6 +14981,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -14769,7 +15003,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_357F1E1D>": {
+      "WesternStyle01": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -14777,6 +15011,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -14787,7 +15033,7 @@
           "Type": "UInt64"
         }
       },
-      "<Unknown_A2F9CB6B>": {
+      "WesternStyle02": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool"
@@ -14795,6 +15041,18 @@
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool"
+        },
+        "State": {
+          "DefaultValue": "Lock",
+          "Type": "Enum"
+        },
+        "OwnNum": {
+          "DefaultValue": -2,
+          "Type": "Int"
+        },
+        "KeyHash": {
+          "DefaultValue": 0,
+          "Type": "UInt"
         },
         "<Unknown_3C82867E>": {
           "DefaultValue": 0,
@@ -15253,314 +15511,6 @@
         "<Unknown_D73851AB>": {
           "DefaultValue": 0,
           "Type": "UInt64"
-        }
-      },
-      "BigFlower00": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "BigFlower01": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "BigFlower02": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "BigFlower03": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "DropCurtain00": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "LightStick00": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "LightStick01": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "LightStick02": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "MovingBox00": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "MovingBox01": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "SmallFlower00": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "SmallFlower01": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "SmallFlower02": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "SmallFlower03": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "SmallFlower04": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "SmallFlower05": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "SmallFlower06": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "SmallFlower07": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "TropicalSea00": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "WesternStyle00": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "WesternStyle01": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
-        }
-      },
-      "WesternStyle02": {
-        "State": {
-          "DefaultValue": "Lock",
-          "Type": "Enum"
-        },
-        "OwnNum": {
-          "DefaultValue": -2,
-          "Type": "Int"
-        },
-        "KeyHash": {
-          "DefaultValue": 0,
-          "Type": "UInt"
         }
       }
     },
@@ -20899,7 +20849,7 @@
           "Type": "EnumArray",
           "Size": 4830
         },
-        "<Unknown_7205DB34>": {
+        "ThirdPersonRegionLanguageID": {
           "DefaultValue": "JPja",
           "Type": "EnumArray",
           "Size": 4830

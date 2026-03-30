@@ -4289,6 +4289,7 @@ Relation.Info.DirectionalInfo.BloodType
 Relation.Info.DirectionalInfo.Meter
 Relation.Info.DirectionalInfo.NameSetBin
 Relation.Info.DirectionalInfo.SecondPersonRegionLanguageID
+Relation.Info.DirectionalInfo.ThirdPersonRegionLanguageID
 Relation.Info.DirectionalInfo.UpdateTimeRanking
 Relation.Info.IsFight
 Relation.Info.IsNotifiedBloodTypeCouple
@@ -4509,6 +4510,7 @@ TextureSourceType
 Theme
 They
 Third
+ThirdPersonRegionLanguageID
 Ticket
 Tile
 Time

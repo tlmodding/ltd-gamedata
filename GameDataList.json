@@ -1563,7 +1563,7 @@
           "Hash": 3159047001,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.GoodsInfo2.<Unknown_196C6CF5>.<Unknown_2940FA1C>"
+          "HashText": "Player.GoodsInfo2.CDJazz.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -1584,7 +1584,7 @@
           "Hash": 52567757,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.GoodsInfo2.<Unknown_FA00C173>.<Unknown_2940FA1C>"
+          "HashText": "Player.GoodsInfo2.CDReggae.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -2774,7 +2774,7 @@
           "Hash": 2736316466,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.GoodsInfo2.<Unknown_EFC92131>.<Unknown_2940FA1C>"
+          "HashText": "Player.GoodsInfo2.SuspiciousSwitch.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -3740,56 +3740,56 @@
           "Hash": 4178489819,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_6FEFCFC6>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower00.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 3686730706,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_6FEFCFC6>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower00.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 98657476,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_0CE172B1>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower01.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 266474133,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_0CE172B1>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower01.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 3098953831,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_79B6B6BF>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower02.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 1932060110,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_79B6B6BF>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower02.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 684848451,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_8038CD88>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower03.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 1661825976,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_8038CD88>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower03.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -4454,14 +4454,14 @@
           "Hash": 3149449206,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_17F15F46>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.DropCurtain00.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 4263952377,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_17F15F46>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.DropCurtain00.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -5420,42 +5420,42 @@
           "Hash": 1106543433,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_4AC590CE>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick00.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 1890101199,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_4AC590CE>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick00.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 2514319552,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_F5D60243>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick01.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 2628726053,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_F5D60243>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick01.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 4009652996,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_D6C9D1D6>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick02.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 3689559467,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_D6C9D1D6>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick02.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -5812,28 +5812,28 @@
           "Hash": 859381532,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_4BBE6324>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.MovingBox00.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 148545856,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_4BBE6324>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.MovingBox00.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 1370669524,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_8EDB5A45>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.MovingBox01.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 3400632359,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_8EDB5A45>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.MovingBox01.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -6456,112 +6456,112 @@
           "Hash": 2803701688,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_A3FEF41D>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower00.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 870675539,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_A3FEF41D>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower00.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 3552045616,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B19412D7>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower01.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 3512383429,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B19412D7>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower01.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 809704509,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_6E2F57E4>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower02.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 3914531131,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_6E2F57E4>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower02.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 2254280326,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_104D4EEE>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower03.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 2740063665,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_104D4EEE>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower03.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 1378600450,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower04.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 2442107312,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower04.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 3805311636,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_366BEE19>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower05.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 3248110585,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_366BEE19>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower05.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 2239987247,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower06.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 245130020,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower06.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 2475947762,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower07.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 1879531513,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower07.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -7016,14 +7016,14 @@
           "Hash": 2039570690,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B75D7DB6>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.TropicalSea00.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 1051875127,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B75D7DB6>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.TropicalSea00.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -7100,42 +7100,42 @@
           "Hash": 2672295105,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B9E732D9>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle00.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 2202856641,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B9E732D9>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle00.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 1334933954,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_357F1E1D>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle01.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 1874707055,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_357F1E1D>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle01.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 597462043,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_A2F9CB6B>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle02.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 2622161302,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_A2F9CB6B>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle02.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -27120,7 +27120,7 @@
             "44D6FC24:TWzh"
           ],
           "ValueText": "JPja",
-          "HashText": "Relation.Info.DirectionalInfo.<Unknown_7205DB34>"
+          "HashText": "Relation.Info.DirectionalInfo.ThirdPersonRegionLanguageID"
         },
         {
           "DefaultValue": 1713948853,
@@ -50268,13 +50268,13 @@
               "Hash": 3610792363,
               "Value": 896162659,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.GoodsInfo2.<Unknown_196C6CF5>.<Unknown_D73851AB>"
+              "ValueText": "Player.GoodsInfo2.CDJazz.<Unknown_D73851AB>"
             },
             {
               "Hash": 692124188,
               "Value": 3159047001,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.GoodsInfo2.<Unknown_196C6CF5>.<Unknown_2940FA1C>"
+              "ValueText": "Player.GoodsInfo2.CDJazz.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -50364,13 +50364,13 @@
               "Hash": 3610792363,
               "Value": 2511541578,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.GoodsInfo2.<Unknown_FA00C173>.<Unknown_D73851AB>"
+              "ValueText": "Player.GoodsInfo2.CDReggae.<Unknown_D73851AB>"
             },
             {
               "Hash": 692124188,
               "Value": 52567757,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.GoodsInfo2.<Unknown_FA00C173>.<Unknown_2940FA1C>"
+              "ValueText": "Player.GoodsInfo2.CDReggae.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -55804,13 +55804,13 @@
               "Hash": 3610792363,
               "Value": 3842838940,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.GoodsInfo2.<Unknown_EFC92131>.<Unknown_D73851AB>"
+              "ValueText": "Player.GoodsInfo2.SuspiciousSwitch.<Unknown_D73851AB>"
             },
             {
               "Hash": 692124188,
               "Value": 2736316466,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.GoodsInfo2.<Unknown_EFC92131>.<Unknown_2940FA1C>"
+              "ValueText": "Player.GoodsInfo2.SuspiciousSwitch.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -62096,25 +62096,25 @@
               "Hash": 3610792363,
               "Value": 1801917034,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_6FEFCFC6>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower00.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 3671977441,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_6FEFCFC6>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower00.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 4178489819,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_6FEFCFC6>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower00.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 3686730706,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_6FEFCFC6>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower00.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -62146,25 +62146,25 @@
               "Hash": 3610792363,
               "Value": 278604709,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_0CE172B1>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower01.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 835994527,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_0CE172B1>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower01.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 98657476,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_0CE172B1>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower01.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 266474133,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_0CE172B1>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower01.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -62196,25 +62196,25 @@
               "Hash": 3610792363,
               "Value": 2867587002,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_79B6B6BF>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower02.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 96484802,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_79B6B6BF>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower02.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 3098953831,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_79B6B6BF>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower02.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 1932060110,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_79B6B6BF>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower02.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -62246,25 +62246,25 @@
               "Hash": 3610792363,
               "Value": 1502296222,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_8038CD88>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower03.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 350702502,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_8038CD88>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower03.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 684848451,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_8038CD88>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower03.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 1661825976,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_8038CD88>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.BigFlower03.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -64646,25 +64646,25 @@
               "Hash": 3610792363,
               "Value": 3126359314,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_17F15F46>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.DropCurtain00.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 1825390367,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_17F15F46>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.DropCurtain00.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 3149449206,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_17F15F46>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.DropCurtain00.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 4263952377,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_17F15F46>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.DropCurtain00.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -68096,25 +68096,25 @@
               "Hash": 3610792363,
               "Value": 496893943,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_4AC590CE>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick00.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 1399947501,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_4AC590CE>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick00.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 1106543433,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_4AC590CE>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick00.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 1890101199,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_4AC590CE>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick00.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -68146,25 +68146,25 @@
               "Hash": 3610792363,
               "Value": 2094093673,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_F5D60243>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick01.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 2015916951,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_F5D60243>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick01.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 2514319552,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_F5D60243>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick01.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 2628726053,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_F5D60243>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick01.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -68196,25 +68196,25 @@
               "Hash": 3610792363,
               "Value": 1290547772,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_D6C9D1D6>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick02.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 2509636849,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_D6C9D1D6>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick02.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 4009652996,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_D6C9D1D6>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick02.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 3689559467,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_D6C9D1D6>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick02.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -69496,25 +69496,25 @@
               "Hash": 3610792363,
               "Value": 460480152,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_4BBE6324>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.MovingBox00.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 3766050198,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_4BBE6324>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.MovingBox00.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 859381532,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_4BBE6324>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.MovingBox00.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 148545856,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_4BBE6324>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.MovingBox00.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -69546,25 +69546,25 @@
               "Hash": 3610792363,
               "Value": 4202088147,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_8EDB5A45>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.MovingBox01.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 3778627922,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_8EDB5A45>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.MovingBox01.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 1370669524,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_8EDB5A45>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.MovingBox01.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 3400632359,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_8EDB5A45>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.MovingBox01.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -71796,25 +71796,25 @@
               "Hash": 3610792363,
               "Value": 3633620171,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_A3FEF41D>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower00.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 2778175865,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_A3FEF41D>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower00.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 2803701688,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_A3FEF41D>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower00.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 870675539,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_A3FEF41D>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower00.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -71846,25 +71846,25 @@
               "Hash": 3610792363,
               "Value": 131123550,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B19412D7>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower01.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 2120791142,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B19412D7>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower01.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 3552045616,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B19412D7>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower01.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 3512383429,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B19412D7>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower01.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -71896,25 +71896,25 @@
               "Hash": 3610792363,
               "Value": 740769899,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_6E2F57E4>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower02.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 3959097816,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_6E2F57E4>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower02.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 809704509,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_6E2F57E4>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower02.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 3914531131,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_6E2F57E4>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower02.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -71946,25 +71946,25 @@
               "Hash": 3610792363,
               "Value": 3426483104,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_104D4EEE>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower03.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 2723240295,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_104D4EEE>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower03.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 2254280326,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_104D4EEE>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower03.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 2740063665,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_104D4EEE>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower03.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -71996,25 +71996,25 @@
               "Hash": 3610792363,
               "Value": 1800788848,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower04.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 1233997592,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower04.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 1378600450,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower04.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 2442107312,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower04.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -72046,25 +72046,25 @@
               "Hash": 3610792363,
               "Value": 1937317128,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_366BEE19>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower05.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 3736285337,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_366BEE19>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower05.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 3805311636,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_366BEE19>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower05.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 3248110585,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_366BEE19>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower05.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -72096,25 +72096,25 @@
               "Hash": 3610792363,
               "Value": 3573135120,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower06.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 2494885949,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower06.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 2239987247,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower06.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 245130020,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower06.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -72146,25 +72146,25 @@
               "Hash": 3610792363,
               "Value": 1333361610,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower07.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 2094929628,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower07.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 2475947762,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower07.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 1879531513,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.SmallFlower07.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -73796,25 +73796,25 @@
               "Hash": 3610792363,
               "Value": 1871197287,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B75D7DB6>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.TropicalSea00.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 1012526191,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B75D7DB6>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.TropicalSea00.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 2039570690,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B75D7DB6>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.TropicalSea00.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 1051875127,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B75D7DB6>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.TropicalSea00.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -74096,25 +74096,25 @@
               "Hash": 3610792363,
               "Value": 304414709,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B9E732D9>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle00.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 845998629,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B9E732D9>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle00.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 2672295105,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B9E732D9>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle00.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 2202856641,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B9E732D9>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle00.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -74146,25 +74146,25 @@
               "Hash": 3610792363,
               "Value": 602161558,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_357F1E1D>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle01.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 4003547476,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_357F1E1D>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle01.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 1334933954,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_357F1E1D>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle01.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 1874707055,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_357F1E1D>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle01.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -74196,25 +74196,25 @@
               "Hash": 3610792363,
               "Value": 2231166674,
               "HashText": "<Unknown_D73851AB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_A2F9CB6B>.<Unknown_D73851AB>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle02.<Unknown_D73851AB>"
             },
             {
               "Hash": 1015187070,
               "Value": 1216399813,
               "HashText": "<Unknown_3C82867E>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_A2F9CB6B>.<Unknown_3C82867E>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle02.<Unknown_3C82867E>"
             },
             {
               "Hash": 1940767795,
               "Value": 597462043,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_A2F9CB6B>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle02.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 2622161302,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_A2F9CB6B>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle02.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
@@ -75241,8 +75241,8 @@
             {
               "Hash": 1912986420,
               "Value": 730288767,
-              "HashText": "<Unknown_7205DB34>",
-              "ValueText": "Relation.Info.DirectionalInfo.<Unknown_7205DB34>"
+              "HashText": "ThirdPersonRegionLanguageID",
+              "ValueText": "Relation.Info.DirectionalInfo.ThirdPersonRegionLanguageID"
             }
           ],
           "Hash": 3358322265,
@@ -80680,7 +80680,7 @@
           "Hash": 896162659,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.GoodsInfo2.<Unknown_196C6CF5>.<Unknown_D73851AB>"
+          "HashText": "Player.GoodsInfo2.CDJazz.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
@@ -80701,7 +80701,7 @@
           "Hash": 2511541578,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.GoodsInfo2.<Unknown_FA00C173>.<Unknown_D73851AB>"
+          "HashText": "Player.GoodsInfo2.CDReggae.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
@@ -81891,7 +81891,7 @@
           "Hash": 3842838940,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.GoodsInfo2.<Unknown_EFC92131>.<Unknown_D73851AB>"
+          "HashText": "Player.GoodsInfo2.SuspiciousSwitch.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
@@ -82850,56 +82850,56 @@
           "Hash": 3671977441,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_6FEFCFC6>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower00.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 1801917034,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_6FEFCFC6>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower00.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 835994527,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_0CE172B1>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower01.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 278604709,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_0CE172B1>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower01.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 96484802,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_79B6B6BF>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower02.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 2867587002,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_79B6B6BF>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower02.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 350702502,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_8038CD88>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower03.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 1502296222,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_8038CD88>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.BigFlower03.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
@@ -83564,14 +83564,14 @@
           "Hash": 1825390367,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_17F15F46>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.DropCurtain00.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 3126359314,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_17F15F46>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.DropCurtain00.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
@@ -84530,42 +84530,42 @@
           "Hash": 1399947501,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_4AC590CE>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick00.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 496893943,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_4AC590CE>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick00.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 2015916951,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_F5D60243>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick01.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 2094093673,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_F5D60243>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick01.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 2509636849,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_D6C9D1D6>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick02.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 1290547772,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_D6C9D1D6>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick02.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
@@ -84922,28 +84922,28 @@
           "Hash": 3766050198,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_4BBE6324>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.MovingBox00.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 460480152,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_4BBE6324>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.MovingBox00.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 3778627922,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_8EDB5A45>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.MovingBox01.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 4202088147,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_8EDB5A45>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.MovingBox01.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
@@ -85566,112 +85566,112 @@
           "Hash": 2778175865,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_A3FEF41D>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower00.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 3633620171,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_A3FEF41D>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower00.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 2120791142,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B19412D7>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower01.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 131123550,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B19412D7>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower01.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 3959097816,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_6E2F57E4>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower02.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 740769899,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_6E2F57E4>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower02.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 2723240295,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_104D4EEE>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower03.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 3426483104,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_104D4EEE>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower03.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 1233997592,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower04.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 1800788848,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_17AD3F67>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower04.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 3736285337,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_366BEE19>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower05.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 1937317128,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_366BEE19>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower05.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 2494885949,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower06.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 3573135120,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_48ACB899>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower06.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 2094929628,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower07.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 1333361610,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_88C8F6B4>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.SmallFlower07.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
@@ -86126,14 +86126,14 @@
           "Hash": 1012526191,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B75D7DB6>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.TropicalSea00.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 1871197287,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B75D7DB6>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.TropicalSea00.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
@@ -86210,42 +86210,42 @@
           "Hash": 845998629,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B9E732D9>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle00.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 304414709,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B9E732D9>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle00.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 4003547476,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_357F1E1D>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle01.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 602161558,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_357F1E1D>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle01.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
           "Hash": 1216399813,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_A2F9CB6B>.<Unknown_3C82867E>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle02.<Unknown_3C82867E>"
         },
         {
           "DefaultValue": 0,
           "Hash": 2231166674,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_A2F9CB6B>.<Unknown_D73851AB>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle02.<Unknown_D73851AB>"
         },
         {
           "DefaultValue": 0,
