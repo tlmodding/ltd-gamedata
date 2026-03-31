@@ -4315,6 +4315,7 @@ RoommateGroupName
 RoomSettings
 RoomStyle
 RoomStyleInfo
+RoomStyleVariationGroupStringId
 Rose
 RotY
 Rouble

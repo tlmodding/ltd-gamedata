@@ -75075,8 +75075,8 @@
             {
               "Hash": 1647503626,
               "Value": 3690183729,
-              "HashText": "<Unknown_6232E90A>",
-              "ValueText": "Player.<Unknown_9C175D66>.<Unknown_6232E90A>"
+              "HashText": "RoomStyleVariationGroupStringId",
+              "ValueText": "Player.<Unknown_9C175D66>.RoomStyleVariationGroupStringId"
             },
             {
               "Hash": 567882143,
@@ -79831,7 +79831,7 @@
           "Hash": 3690183729,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_9C175D66>.<Unknown_6232E90A>"
+          "HashText": "Player.<Unknown_9C175D66>.RoomStyleVariationGroupStringId"
         },
         {
           "DefaultValue": 0,
