@@ -3,7 +3,7 @@ A279320C,2725851660,Binary,Player.<Unknown_CB8A4231>
 114EFF89,0290389897,Binary,UGC.SuspendMii.CharInfoEx
 881CA27A,2283577978,BinaryArray,Mii.CharInfoEx
 FE434951,4265822545,BinaryArray,Mii.MiiMisc.EatInfo.GivenFlag
-C022C1AE,3223503278,BinaryArray,Mii.MiiMisc.EatInfo.<Unknown_C117ECC0>
+C022C1AE,3223503278,BinaryArray,Mii.MiiMisc.EatInfo.GivenUgcFlag
 CAB805E6,3401057766,BinaryArray,Mii.MiiMisc.FaceInfo.<Unknown_F13124BD>
 AFA5024A,2946826826,BinaryArray,Relation.Info.DirectionalInfo.NameSetBin
 0F581F56,0257433430,Bool,Childcare.Pending.HabitOwnInfo.BlinkLot.IsChecked
@@ -1051,14 +1051,14 @@ B10C8C18,2970389528,Bool,Player.<Unknown_C73509FA>
 8E79031D,2390295325,Bool,Player.<Unknown_45796467>
 306439C2,0811874754,Bool,Player.<Unknown_C9308D89>
 B679F9D3,3061447123,Bool,Player.<Unknown_7784F7CE>
-A95A0527,2841249063,Bool,Player.<Unknown_9C175D66>.IsNeedShowNew
+A95A0527,2841249063,Bool,Player.RoomStyleWeeklyItem.IsNeedShowNew
 F16A6B96,4050283414,Bool,Player.<Unknown_07948742>
-7448D1E7,1950929383,Bool,Trial.<Unknown_0875E791>
+7448D1E7,1950929383,Bool,Trial.IsClothShopDialogShown
 070419B6,0117709238,Bool,Trial.<Unknown_62A35019>
 C77FB830,3347036208,Bool,Trial.<Unknown_76A4C055>
 8C209782,2350946178,Bool,Trial.<Unknown_7E46ECD5>
 A04EC338,2689516344,Bool,Trial.IsFinishedPR
-E7DF3B58,3890166616,Bool,Trial.<Unknown_C377FC01>
+E7DF3B58,3890166616,Bool,Trial.IsFoodShopDialogShown
 D9DA6BB6,3654970294,Bool,Trial.IsGeneratedMiiEvent
 F0F82AC6,4042795718,Bool,Trial.<Unknown_1C2E91AB>
 6CEC276E,1827415918,Bool,Trial.<Unknown_B4464FD7>
@@ -1775,7 +1775,7 @@ DC1D18C0,3692894400,BoolArray,Mii.Belongings.UgcExteriorOwnInfo
 7EB955C7,2126075335,BoolArray,Mii.Belongings.UgcInteriorOwnInfo
 E0B5E5A1,3770017185,BoolArray,Mii.MiiMisc.BondInfo.IsUnlockPlayerNickName
 D6AD0E0B,3601665547,BoolArray,Mii.MiiMisc.ClothInfo.IsTopsIn
-8AFF821B,2332000795,BoolArray,Mii.MiiMisc.EntryInfo.<Unknown_EDBCE213>
+8AFF821B,2332000795,BoolArray,Mii.MiiMisc.EntryInfo.IsChildInGame
 5A4F133A,1515131706,BoolArray,Mii.MiiMisc.FaceInfo.<Unknown_9F0161C1>
 DE73CEE6,3732131558,BoolArray,Mii.MiiMisc.FaceInfo.IsFacePaintFront
 DFC82223,3754435107,BoolArray,Mii.MiiMisc.FaceInfo.IsLoveGender
@@ -2652,7 +2652,7 @@ F0211AB3,4028701363,EnumArray,Player.FloorInfo.State,Lock;New;Arrived;Opened;Obt
 933DA780,2470291328,EnumArray,Player.FoodInfo.State,Lock;New;Arrived;Opened;Obtained
 8B41897E,2336328062,EnumArray,Relation.Info.DirectionalInfo.BaseRelationType,Invalid;Other;Know;Friend;ExFriend;Lover;ExLover;Couple;Divorce;Parent;Child;BrotherSisterOlder;BrotherSisterYounger;GrandParent;GrandChild;Relative
 77D6AFCE,2010558414,EnumArray,Relation.Info.DirectionalInfo.BloodType,Invalid;Other;Partner;Parent;Child;BrotherSisterOlder;BrotherSisterYounger;GrandParent;GrandChild;Relative
-A0058500,2684716288,EnumArray,Relation.Info.DirectionalInfo.<Unknown_B6FAD38D>,CustomThirdPerson;SecondPerson;MiiName
+A0058500,2684716288,EnumArray,Relation.Info.DirectionalInfo.NickNameToOtherType,CustomThirdPerson;SecondPerson;MiiName
 96AA92D5,2527761109,EnumArray,Relation.Info.DirectionalInfo.SecondPersonRegionLanguageID,JPja;USen;USes;USfr;USpt;EUen;EUes;EUfr;EUde;EUit;EUpt;EUnl;EUru;KRko;CNzh;TWzh
 2B87527F,0730288767,EnumArray,Relation.Info.DirectionalInfo.ThirdPersonRegionLanguageID,JPja;USen;USes;USfr;USpt;EUen;EUes;EUfr;EUde;EUit;EUpt;EUnl;EUru;KRko;CNzh;TWzh
 7EEC35E9,2129409513,EnumArray,UGC.Cloth.ClothGender,Unisex;Men;Women
@@ -3528,7 +3528,7 @@ B82DE527,3090015527,UInt,DailyLog.CoinGold
 B6E959DC,3068746204,UInt,DailyLog.CoinSilver
 A88537BF,2827302847,UInt,DailyLog.ContentsCountByFocusLeading
 315DA155,0828219733,UInt,DailyLog.ContentsCountByPickUp
-90D48669,2429847145,UInt,DailyLog.<Unknown_E1A58F40>
+90D48669,2429847145,UInt,DailyLog.CurrentPlayDay
 9C426820,2621597728,UInt,DailyLog.CurrentPlayMonth
 1F736DBD,0527658429,UInt,DailyLog.<Unknown_AE878FF9>
 602EE35D,1613685597,UInt,DailyLog.EmotionBallGet
@@ -3850,7 +3850,7 @@ C7B6AC5B,3350637659,UInt,Player.InteriorRoomStyleInfo.WoodBoard05.KeyHash
 7412A782,1947379586,UInt,Player.MarketUpdateInfo.MarketFoodStringId
 365FAB1F,0912239391,UInt,Player.Money
 17512C0D,0391195661,UInt,Player.<Unknown_03B79BE9>
-DBF3BC31,3690183729,UInt,Player.<Unknown_9C175D66>.RoomStyleVariationGroupStringId
+DBF3BC31,3690183729,UInt,Player.RoomStyleWeeklyItem.RoomStyleVariationGroupStringId
 FDB31247,4256371271,UInt,Player.SaveEventFlag
 9DC950D2,2647216338,UInt,Player.SEVolume
 AFBDF7DC,2948462556,UInt,Player.SkinColorIndex
@@ -5884,7 +5884,7 @@ C2B3543D,3266532413,Struct,Player.ItemShopDisplayItem
 9600E0C4,2516639940,Struct,Player.MarketUpdateInfo
 9AD097DE,2597361630,Struct,Player.MarketUpdateInfo.MarketCoordinateInfo
 B8F41002,3103002626,Struct,Player.MiiBirthdayNews
-1DDBB4CC,0500937932,Struct,Player.<Unknown_9C175D66>
+1DDBB4CC,0500937932,Struct,Player.RoomStyleWeeklyItem
 192B4ADF,0422267615,Struct,Player.TroubleInfo
 DC9FF1D9,3701469657,Struct,Relation
 E3BFE72E,3821004590,Struct,Relation.Info

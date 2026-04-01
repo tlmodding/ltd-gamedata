@@ -582,6 +582,7 @@ CrystalBall
 cSingular
 Cube
 Currency
+CurrentPlayDay
 CurrentPlayMonth
 Custom
 CustomThirdPerson
@@ -602,6 +603,7 @@ DailyLog.CoinGold
 DailyLog.CoinSilver
 DailyLog.ContentsCountByFocusLeading
 DailyLog.ContentsCountByPickUp
+DailyLog.CurrentPlayDay
 DailyLog.CurrentPlayMonth
 DailyLog.EmotionBallGet
 DailyLog.EmotionBallSpent
@@ -5014,6 +5016,7 @@ Player.PlayTime
 Player.ProposalFailureCount
 Player.Region
 Player.RegionCode
+Player.RoomStyleWeeklyItem
 Player.SaveDataUniqueHash
 Player.SaveDataVersion
 Player.SaveEventFlag
@@ -5105,6 +5108,7 @@ RoomSettings
 RoomStyle
 RoomStyleInfo
 RoomStyleVariationGroupStringId
+RoomStyleWeeklyItem
 Rose
 RotY
 Rouble

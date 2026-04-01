@@ -52,7 +52,7 @@
           "OriginalSize": 1,
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
-          "HashText": "Mii.MiiMisc.EatInfo.<Unknown_C117ECC0>"
+          "HashText": "Mii.MiiMisc.EatInfo.GivenUgcFlag"
         },
         {
           "ArraySize": 70,
@@ -7408,7 +7408,7 @@
           "Hash": 1950929383,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Trial.<Unknown_0875E791>"
+          "HashText": "Trial.IsClothShopDialogShown"
         },
         {
           "DefaultValue": false,
@@ -7443,7 +7443,7 @@
           "Hash": 3890166616,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Trial.<Unknown_C377FC01>"
+          "HashText": "Trial.IsFoodShopDialogShown"
         },
         {
           "DefaultValue": false,
@@ -13882,7 +13882,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.MiiMisc.EntryInfo.<Unknown_EDBCE213>"
+          "HashText": "Mii.MiiMisc.EntryInfo.IsChildInGame"
         },
         {
           "DefaultValue": null,
@@ -27062,7 +27062,7 @@
             "3E7238FF:MiiName"
           ],
           "ValueText": "SecondPerson",
-          "HashText": "Relation.Info.DirectionalInfo.<Unknown_B6FAD38D>"
+          "HashText": "Relation.Info.DirectionalInfo.NickNameToOtherType"
         },
         {
           "DefaultValue": 4128769134,
@@ -37678,8 +37678,8 @@
             {
               "Hash": 3785723712,
               "Value": 2429847145,
-              "HashText": "<Unknown_E1A58F40>",
-              "ValueText": "DailyLog.<Unknown_E1A58F40>"
+              "HashText": "CurrentPlayDay",
+              "ValueText": "DailyLog.CurrentPlayDay"
             },
             {
               "Hash": 2165433434,
@@ -38832,7 +38832,7 @@
             {
               "Hash": 4273812235,
               "Value": 3954482124,
-              "HashText": "<Unknown_FEBD330B>0x1f736dbd",
+              "HashText": "<Unknown_FEBD330B>",
               "ValueText": "House.RoomStyleInfo.Flag.<Unknown_FEBD330B>"
             },
             {
@@ -43444,7 +43444,7 @@
             {
               "Hash": 4273812235,
               "Value": 3389596760,
-              "HashText": "<Unknown_FEBD330B>0x1f736dbd",
+              "HashText": "<Unknown_FEBD330B>",
               "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_FEBD330B>"
             },
             {
@@ -45030,8 +45030,8 @@
             {
               "Hash": 3239570624,
               "Value": 3223503278,
-              "HashText": "<Unknown_C117ECC0>",
-              "ValueText": "Mii.MiiMisc.EatInfo.<Unknown_C117ECC0>"
+              "HashText": "GivenUgcFlag",
+              "ValueText": "Mii.MiiMisc.EatInfo.GivenUgcFlag"
             }
           ],
           "Hash": 3865588229,
@@ -45121,8 +45121,8 @@
             {
               "Hash": 3988578835,
               "Value": 2332000795,
-              "HashText": "<Unknown_EDBCE213>",
-              "ValueText": "Mii.MiiMisc.EntryInfo.<Unknown_EDBCE213>"
+              "HashText": "IsChildInGame",
+              "ValueText": "Mii.MiiMisc.EntryInfo.IsChildInGame"
             }
           ],
           "Hash": 2239278860,
@@ -46144,8 +46144,8 @@
             {
               "Hash": 2618776934,
               "Value": 500937932,
-              "HashText": "<Unknown_9C175D66>",
-              "ValueText": "Player.<Unknown_9C175D66>"
+              "HashText": "RoomStyleWeeklyItem",
+              "ValueText": "Player.RoomStyleWeeklyItem"
             },
             {
               "Hash": 953162915,
@@ -60365,7 +60365,7 @@
             {
               "Hash": 4273812235,
               "Value": 9609084,
-              "HashText": "<Unknown_FEBD330B>0x1f736dbd",
+              "HashText": "<Unknown_FEBD330B>",
               "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_FEBD330B>"
             },
             {
@@ -75088,7 +75088,7 @@
           "Hash": 500937932,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.<Unknown_9C175D66>"
+          "HashText": "Player.RoomStyleWeeklyItem"
         },
         {
           "DefaultValue": [
@@ -75229,8 +75229,8 @@
             {
               "Hash": 3069891469,
               "Value": 2684716288,
-              "HashText": "<Unknown_B6FAD38D>",
-              "ValueText": "Relation.Info.DirectionalInfo.<Unknown_B6FAD38D>"
+              "HashText": "NickNameToOtherType",
+              "ValueText": "Relation.Info.DirectionalInfo.NickNameToOtherType"
             },
             {
               "Hash": 190165805,
@@ -75276,14 +75276,14 @@
             {
               "Hash": 3279420417,
               "Value": 3890166616,
-              "HashText": "<Unknown_C377FC01>",
-              "ValueText": "Trial.<Unknown_C377FC01>"
+              "HashText": "IsFoodShopDialogShown",
+              "ValueText": "Trial.IsFoodShopDialogShown"
             },
             {
               "Hash": 141944721,
               "Value": 1950929383,
-              "HashText": "<Unknown_0875E791>",
-              "ValueText": "Trial.<Unknown_0875E791>"
+              "HashText": "IsClothShopDialogShown",
+              "ValueText": "Trial.IsClothShopDialogShown"
             },
             {
               "Hash": 2118577365,
@@ -77577,7 +77577,7 @@
           "Hash": 2429847145,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "DailyLog.<Unknown_E1A58F40>"
+          "HashText": "DailyLog.CurrentPlayDay"
         },
         {
           "DefaultValue": 0,
