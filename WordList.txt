@@ -865,6 +865,7 @@ GetTime
 Ghost
 Girl
 GivenFlag
+GivenUgcFlag
 GlitterBeads
 Gloss
 Gold00
@@ -1251,6 +1252,8 @@ Invalid_Billboard
 Irritate
 IsCameraReverseRotateY
 IsChecked
+IsChildInGame
+IsClothShopDialogShown
 IsCompleted
 IsCopy
 IsEdit
@@ -1260,6 +1263,7 @@ IsFacePaintFront
 IsFight
 IsFinishedPR
 IsFirstDemoDone
+IsFoodShopDialogShown
 IsGeneratedMiiEvent
 IslandName
 IslandNameRegionLanguageID
@@ -2028,6 +2032,7 @@ Mii.MiiMisc.EatInfo
 Mii.MiiMisc.EatInfo.BestId
 Mii.MiiMisc.EatInfo.EatFullness
 Mii.MiiMisc.EatInfo.GivenFlag
+Mii.MiiMisc.EatInfo.GivenUgcFlag
 Mii.MiiMisc.EatInfo.LastEatId
 Mii.MiiMisc.EatInfo.LastEatId.Id
 Mii.MiiMisc.EatInfo.LastEatId.UgcIndex
@@ -2039,6 +2044,7 @@ Mii.MiiMisc.EatInfo.WorstId
 Mii.MiiMisc.EntryInfo
 Mii.MiiMisc.EntryInfo.BloodMiiIndex
 Mii.MiiMisc.EntryInfo.HowToCallPlayerNickName
+Mii.MiiMisc.EntryInfo.IsChildInGame
 Mii.MiiMisc.EntryInfo.NewEntryGameTime
 Mii.MiiMisc.EntryInfo.PlayerNickName
 Mii.MiiMisc.EntryInfo.PlayerNickNameRegionLanguageID
@@ -2206,6 +2212,7 @@ NextGameTime
 NextId
 NextIndex
 NextTime
+NickNameToOtherType
 NightView00
 Nobility00
 Nobility01
@@ -5069,6 +5076,7 @@ Relation.Info.DirectionalInfo.BitFlag
 Relation.Info.DirectionalInfo.BloodType
 Relation.Info.DirectionalInfo.Meter
 Relation.Info.DirectionalInfo.NameSetBin
+Relation.Info.DirectionalInfo.NickNameToOtherType
 Relation.Info.DirectionalInfo.SecondPersonRegionLanguageID
 Relation.Info.DirectionalInfo.ThirdPersonRegionLanguageID
 Relation.Info.DirectionalInfo.UpdateTimeRanking
@@ -5315,7 +5323,9 @@ Travel
 TreasureMap
 TreeBranch
 Trial
+Trial.IsClothShopDialogShown
 Trial.IsFinishedPR
+Trial.IsFoodShopDialogShown
 Trial.IsGeneratedMiiEvent
 Trial.PresentCoordinateColor
 Triangle00
