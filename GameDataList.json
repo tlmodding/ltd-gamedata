@@ -1535,7 +1535,7 @@
           "Hash": 3237027295,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.GoodsInfo2.<Unknown_7A02FEC6>.<Unknown_2940FA1C>"
+          "HashText": "Player.GoodsInfo2.CDClassic.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -7394,7 +7394,7 @@
           "Hash": 2841249063,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_9C175D66>.IsNeedShowNew"
+          "HashText": "Player.RoomStyleWeeklyItem.IsNeedShowNew"
         },
         {
           "DefaultValue": false,
@@ -16257,7 +16257,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.GoodsInfo2.<Unknown_7A02FEC6>.State"
+          "HashText": "Player.GoodsInfo2.CDClassic.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -29853,7 +29853,7 @@
           "Hash": 1231069686,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.GoodsInfo2.<Unknown_7A02FEC6>.OwnNum"
+          "HashText": "Player.GoodsInfo2.CDClassic.OwnNum"
         },
         {
           "DefaultValue": 0,
@@ -47169,8 +47169,8 @@
             {
               "Hash": 2047016646,
               "Value": 1722890092,
-              "HashText": "<Unknown_7A02FEC6>",
-              "ValueText": "Player.GoodsInfo2.<Unknown_7A02FEC6>"
+              "HashText": "CDClassic",
+              "ValueText": "Player.GoodsInfo2.CDClassic"
             },
             {
               "Hash": 2645887626,
@@ -50134,31 +50134,31 @@
               "Hash": 4107346500,
               "Value": 1231069686,
               "HashText": "OwnNum",
-              "ValueText": "Player.GoodsInfo2.<Unknown_7A02FEC6>.OwnNum"
+              "ValueText": "Player.GoodsInfo2.CDClassic.OwnNum"
             },
             {
               "Hash": 3610792363,
               "Value": 2494514028,
               "HashText": "LastObtainedSec",
-              "ValueText": "Player.GoodsInfo2.<Unknown_7A02FEC6>.LastObtainedSec"
+              "ValueText": "Player.GoodsInfo2.CDClassic.LastObtainedSec"
             },
             {
               "Hash": 692124188,
               "Value": 3237027295,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.GoodsInfo2.<Unknown_7A02FEC6>.<Unknown_2940FA1C>"
+              "ValueText": "Player.GoodsInfo2.CDClassic.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
               "Value": 1628942479,
               "HashText": "State",
-              "ValueText": "Player.GoodsInfo2.<Unknown_7A02FEC6>.State"
+              "ValueText": "Player.GoodsInfo2.CDClassic.State"
             }
           ],
           "Hash": 1722890092,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.GoodsInfo2.<Unknown_7A02FEC6>"
+          "HashText": "Player.GoodsInfo2.CDClassic"
         },
         {
           "DefaultValue": [
@@ -75076,13 +75076,13 @@
               "Hash": 1647503626,
               "Value": 3690183729,
               "HashText": "RoomStyleVariationGroupStringId",
-              "ValueText": "Player.<Unknown_9C175D66>.RoomStyleVariationGroupStringId"
+              "ValueText": "Player.RoomStyleWeeklyItem.RoomStyleVariationGroupStringId"
             },
             {
               "Hash": 567882143,
               "Value": 2841249063,
               "HashText": "IsNeedShowNew",
-              "ValueText": "Player.<Unknown_9C175D66>.IsNeedShowNew"
+              "ValueText": "Player.RoomStyleWeeklyItem.IsNeedShowNew"
             }
           ],
           "Hash": 500937932,
@@ -79831,7 +79831,7 @@
           "Hash": 3690183729,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_9C175D66>.RoomStyleVariationGroupStringId"
+          "HashText": "Player.RoomStyleWeeklyItem.RoomStyleVariationGroupStringId"
         },
         {
           "DefaultValue": 0,
@@ -80652,7 +80652,7 @@
           "Hash": 2494514028,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.GoodsInfo2.<Unknown_7A02FEC6>.LastObtainedSec"
+          "HashText": "Player.GoodsInfo2.CDClassic.LastObtainedSec"
         },
         {
           "DefaultValue": 0,
@@ -88438,3 +88438,4 @@
     }
   }
 }
+

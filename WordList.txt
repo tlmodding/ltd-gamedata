@@ -153,6 +153,7 @@ Cashbox
 CasterMii
 Cat
 CD
+CDClassic
 CDDance
 CDGameMusic
 CDIdol
@@ -2554,6 +2555,10 @@ Player.GoodsInfo2.Cat
 Player.GoodsInfo2.Cat.LastObtainedSec
 Player.GoodsInfo2.Cat.OwnNum
 Player.GoodsInfo2.Cat.State
+Player.GoodsInfo2.CDClassic
+Player.GoodsInfo2.CDClassic.LastObtainedSec
+Player.GoodsInfo2.CDClassic.OwnNum
+Player.GoodsInfo2.CDClassic.State
 Player.GoodsInfo2.CDDance
 Player.GoodsInfo2.CDDance.LastObtainedSec
 Player.GoodsInfo2.CDDance.OwnNum
@@ -5017,6 +5022,8 @@ Player.ProposalFailureCount
 Player.Region
 Player.RegionCode
 Player.RoomStyleWeeklyItem
+Player.RoomStyleWeeklyItem.IsNeedShowNew
+Player.RoomStyleWeeklyItem.RoomStyleVariationGroupStringId
 Player.SaveDataUniqueHash
 Player.SaveDataVersion
 Player.SaveEventFlag
