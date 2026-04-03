@@ -33822,7 +33822,7 @@
           "Hash": 12323255,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "UGC.SuspendMii.<Unknown_23796DA8>"
+          "HashText": "UGC.SuspendMii.ImportHeadwearColorIndex"
         }
       ],
       "Int64": [
@@ -37666,8 +37666,8 @@
             {
               "Hash": 2928119801,
               "Value": 527658429,
-              "HashText": "<Unknown_AE878FF9>",
-              "ValueText": "DailyLog.<Unknown_AE878FF9>"
+              "HashText": "CurrentPlayYear",
+              "ValueText": "DailyLog.CurrentPlayYear"
             },
             {
               "Hash": 3434657239,
@@ -38015,8 +38015,8 @@
             {
               "Hash": 2517240408,
               "Value": 1206327195,
-              "HashText": "<Unknown_960A0A58>",
-              "ValueText": "House.<Unknown_960A0A58>"
+              "HashText": "HowToCallRoommateGroupName",
+              "ValueText": "House.HowToCallRoommateGroupName"
             },
             {
               "Hash": 1727541687,
@@ -77166,8 +77166,8 @@
             {
               "Hash": 595160488,
               "Value": 12323255,
-              "HashText": "<Unknown_23796DA8>",
-              "ValueText": "UGC.SuspendMii.<Unknown_23796DA8>"
+              "HashText": "ImportHeadwearColorIndex",
+              "ValueText": "UGC.SuspendMii.ImportHeadwearColorIndex"
             },
             {
               "Hash": 2093337204,
@@ -77591,7 +77591,7 @@
           "Hash": 527658429,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "DailyLog.<Unknown_AE878FF9>"
+          "HashText": "DailyLog.CurrentPlayYear"
         },
         {
           "DefaultValue": 0,
@@ -88200,7 +88200,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.<Unknown_960A0A58>"
+          "HashText": "House.HowToCallRoommateGroupName"
         },
         {
           "DefaultValue": "",

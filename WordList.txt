@@ -585,6 +585,7 @@ Cube
 Currency
 CurrentPlayDay
 CurrentPlayMonth
+CurrentPlayYear
 Custom
 CustomThirdPerson
 Cute00
@@ -606,6 +607,7 @@ DailyLog.ContentsCountByFocusLeading
 DailyLog.ContentsCountByPickUp
 DailyLog.CurrentPlayDay
 DailyLog.CurrentPlayMonth
+DailyLog.CurrentPlayYear
 DailyLog.EmotionBallGet
 DailyLog.EmotionBallSpent
 DailyLog.EnterAtelierCount
@@ -958,6 +960,7 @@ HostIOUgcRgba
 Hot
 House
 House.ExteriorNextEmotionBallTime
+House.HowToCallRoommateGroupName
 House.InteriorNextEmotionBallTime
 House.MapId
 House.OuterHouse
@@ -1229,11 +1232,13 @@ HowToCallGoodsText
 HowToCallIslandName
 HowToCallName
 HowToCallPlayerNickName
+HowToCallRoommateGroupName
 HowToCallText
 Humid
 IceRink00
 Id
 Image
+ImportHeadwearColorIndex
 ImportHeadwearId
 Impression
 IncenseBurner
@@ -5716,6 +5721,7 @@ UGC.SuspendData.UgcSaveDataType
 UGC.SuspendData.UvPatternIdx
 UGC.SuspendMii
 UGC.SuspendMii.CharInfoEx
+UGC.SuspendMii.ImportHeadwearColorIndex
 UGC.SuspendMii.ImportHeadwearId
 UGC.SuspendMii.IsCopy
 UGC.SuspendMii.IsFacePaintFront

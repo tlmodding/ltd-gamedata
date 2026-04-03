@@ -19623,7 +19623,7 @@
         "Type": "Bool",
         "Hash": 2317096269
       },
-      "<Unknown_23796DA8>": {
+      "ImportHeadwearColorIndex": {
         "DefaultValue": 0,
         "Type": "Int",
         "Hash": 12323255
@@ -27325,7 +27325,7 @@
       "Size": 70,
       "Hash": 227950750
     },
-    "<Unknown_960A0A58>": {
+    "HowToCallRoommateGroupName": {
       "DefaultValue": "",
       "Type": "WString64Array",
       "Size": 70,
@@ -27757,7 +27757,7 @@
       "Type": "UInt",
       "Hash": 2621597728
     },
-    "<Unknown_AE878FF9>": {
+    "CurrentPlayYear": {
       "DefaultValue": 0,
       "Type": "UInt",
       "Hash": 527658429

@@ -3391,7 +3391,7 @@ D9276E3A,3643239994,Int,Player.<Unknown_C6DCE61A>
 4743F115,1195634965,Int,Trial.PresentCoordinateColor
 05FE2411,0100541457,Int,UGC.Editor.Setting.<Unknown_027D7033>
 B5B0AD29,3048254761,Int,UGC.SuspendData.UvPatternIdx
-00BC09B7,0012323255,Int,UGC.SuspendMii.<Unknown_23796DA8>
+00BC09B7,0012323255,Int,UGC.SuspendMii.ImportHeadwearColorIndex
 E6644DC4,3865333188,IntArray,Childcare.Pending.ParentMiiIndex
 AC6F0D0E,2892958990,IntArray,Childcare.Reserve.ParentMiiIndex
 0B5276E9,0189953769,IntArray,House.MapId
@@ -3530,7 +3530,7 @@ A88537BF,2827302847,UInt,DailyLog.ContentsCountByFocusLeading
 315DA155,0828219733,UInt,DailyLog.ContentsCountByPickUp
 90D48669,2429847145,UInt,DailyLog.CurrentPlayDay
 9C426820,2621597728,UInt,DailyLog.CurrentPlayMonth
-1F736DBD,0527658429,UInt,DailyLog.<Unknown_AE878FF9>
+1F736DBD,0527658429,UInt,DailyLog.CurrentPlayYear
 602EE35D,1613685597,UInt,DailyLog.EmotionBallGet
 E515229C,3843367580,UInt,DailyLog.EmotionBallSpent
 0AD95B4A,0182016842,UInt,DailyLog.EnterAtelierCount
@@ -4983,7 +4983,7 @@ C6482C14,3326618644,WString64,Player.HowToCallIslandName
 BD8C4DA1,3180088737,WString64,Player.HowToCallName
 A2EACB08,2733296392,WString64Array,Childcare.Pending.WordInfo.WordArray.WordHowToCall
 B98A5545,3112850757,WString64Array,Childcare.Pending.WordInfo.WordArray.WordText
-47E7179B,1206327195,WString64Array,House.<Unknown_960A0A58>
+47E7179B,1206327195,WString64Array,House.HowToCallRoommateGroupName
 80EEFCA9,2163145897,WString64Array,Mii.MiiMisc.EntryInfo.HowToCallPlayerNickName
 0B2A261E,0187311646,WString64Array,Mii.MiiMisc.WordInfo.WordArray.WordHowToCall
 09EF8656,0166692438,WString64Array,Mii.MiiMisc.WordInfo.WordArray.WordText

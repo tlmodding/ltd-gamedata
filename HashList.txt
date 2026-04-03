@@ -1,5 +1,15 @@
 0x00000000,
 0x8FF7B62D,00
+0x61EAD0A4,00_Boy
+0xB97974F9,01_Girl
+0x41A1271A,02_Male
+0x45424E6B,03_Female
+0x8D94A255,04_OldMan
+0x409A8019,05_OldWoman
+0x038EA416,06_BigCharacter
+0x048CA1C9,07_SmallCharacter
+0xC57B55EF,08_Robot_L
+0x0F8757F6,09_Robot_S
 0x110B6AD0,3DControl
 0x2B5338A2,3DLayout
 0x59360B5C,3DLayoutFront
@@ -1294,6 +1304,7 @@
 0xE6E2D8D7,Currency
 0xE1A58F40,CurrentPlayDay
 0xCCB8B5D7,CurrentPlayMonth
+0xAE878FF9,CurrentPlayYear
 0x525D59A8,Currypan
 0x669C3090,CurryRice
 0x7BB2650B,CursorPush
@@ -1324,6 +1335,7 @@
 0x315DA155,DailyLog.ContentsCountByPickUp
 0x90D48669,DailyLog.CurrentPlayDay
 0x9C426820,DailyLog.CurrentPlayMonth
+0x1F736DBD,DailyLog.CurrentPlayYear
 0x602EE35D,DailyLog.EmotionBallGet
 0xE515229C,DailyLog.EmotionBallSpent
 0x0AD95B4A,DailyLog.EnterAtelierCount
@@ -1425,7 +1437,9 @@
 0xD5AEBFE3,DemoDM104014
 0xA1FE68D3,DemoDM104041
 0xD500FCF7,DemoDM104042
+0x7E4B9166,DemoDM104042_00
 0x4CC233A5,DemoDM104050
+0xB6FAFBE9,DemoDM104050_00
 0x75CD0BDE,DemoEndTime
 0xCF7B30ED,DemoEndTimeAry
 0xFBF88C6E,DemoForkCloth
@@ -1436,6 +1450,7 @@
 0xF27D51CB,DemoPR000016
 0x9FDC806C,DemoPR000034
 0x1224BB07,DemoPR000043
+0x0B42EF11,DemoPR000055_00
 0x32E2095C,DemoPR000055_01
 0x3325DF07,DemoPR000055_03
 0x481A08D8,DemoPR000055_04
@@ -1457,6 +1472,7 @@
 0xE96CF420,DemoPR000055S01Trial
 0xCDDAAA7F,DemoPR000101Trial
 0xB12996EC,DemoPR000114
+0x5D8AD5D2,DemoPR000114_03
 0x2FBD4034,DemoPR000116
 0x347E3FE5,DemoPR000126
 0xD810C948,DemoSB302002
@@ -1937,6 +1953,7 @@
 0xB20CF63B,Erupt00
 0xEA9D3AB9,Erupt01
 0xFA8A02BD,Erupt02
+0x1443027D,EruptingFireWork
 0x6F52E9DE,EruptingFireWorkGroup
 0x9A25BFDC,Escargot
 0xC74A9C9B,Espresso
@@ -2726,6 +2743,7 @@
 0x57AAFEE7,House_SofaCarpet
 0xDFBDD98E,House_Table
 0x19224FBA,House.ExteriorNextEmotionBallTime
+0x47E7179B,House.HowToCallRoommateGroupName
 0x1A23EBC9,House.InteriorNextEmotionBallTime
 0x0B5276E9,House.MapId
 0xFADAAAA0,House.OuterHouse
@@ -3015,6 +3033,7 @@
 0x031D2391,HowToCallIslandName
 0x046BF9F8,HowToCallName
 0xD9EAA8CA,HowToCallPlayerNickName
+0x960A0A58,HowToCallRoommateGroupName
 0xBAE2846F,HowToCallText
 0x9095E591,Hugusashi
 0x918169F8,Hukumame
@@ -3083,6 +3102,7 @@
 0x76EFB466,ImitationWatchSunrise
 0x86E5535F,ImitationWatchSunset
 0xC2559D49,ImmediatelyEmptyHands
+0x23796DA8,ImportHeadwearColorIndex
 0xBFE3A896,ImportHeadwearId
 0xEF0CDE20,Impossible
 0x498C49D8,Impression
@@ -3429,6 +3449,7 @@
 0xC77D43E5,Light
 0x01666931,LightBlue
 0x2F3B7D03,LightBulb
+0xADD4CCCB,LightConfluencePageInfo
 0x4AC590CE,LightStick00
 0xF5D60243,LightStick01
 0xD6C9D1D6,LightStick02
@@ -4845,13 +4866,17 @@
 0x72EB0D7A,ObjFireworksAerial
 0x41436CBA,ObjFireworksErupting
 0xFACFE9B8,ObjFlowerPampasGrass_center
+0xB0CA1F66,ObjFlowerpot_center_02
 0xE5C37F30,ObjGrandlight
+0x3634F451,ObjGrandlight_02
 0x48E1E211,ObjHedge
+0x609ECA96,ObjHedge_center
 0x811B4C0F,ObjJackOLantern_Center
 0x1384D84B,ObjLanternSakura_02
 0x61078936,ObjLanternSakura_Center
 0xAB8D53D0,ObjLighthouse
 0x75493CF4,ObjNewlife00_Ceiling
+0xEAB6C014,ObjPinwheel
 0x1D43382B,ObjRoadSign
 0x69F07EC5,ObjRock
 0x2CC82645,ObjRock_Center
@@ -4875,10 +4900,14 @@
 0x4328D64F,ObjStreetLamp_Center
 0x01EA4280,ObjStreetLampRetro_Center
 0x3DD59DDB,ObjSwingRider_Center
+0x209F15DD,ObjTableBenchf_Center
 0xDD0B050B,ObjThrone
+0xD6C18295,ObjThrone_Center
+0x4A3DB173,ObjTrafficLight_Center
 0x559867D9,ObjTrashCan_Center
 0xA23B09BA,ObjTreeBroadleaf_Center
 0x0CC83210,ObjTreeBroadleaf_center_02
+0x6B53EF54,ObjTreeCactus_Center
 0x70887561,ObjTreeCherry_Center
 0x35042895,ObjTreeChristmas
 0x005500E1,ObjTreeConiferous_Center
@@ -4887,8 +4916,11 @@
 0x2664F7D1,ObjTreePalm
 0x00BF02BF,ObjTreePalm_Center
 0xBE44582E,ObjUgc01_00
+0x3805023D,ObjUgc12_Center
+0x41C71456,ObjVendingMachine_Front_02
 0x77B633DD,ObjWeed
 0xBC5FEF7C,Obtained
+0xFCC4C4C8,Obty
 0xD2F7FADD,OchaDuke
 0x02AF42B6,Ocher
 0x269AE3CD,Octahedron
@@ -8383,6 +8415,8 @@
 0x2F960F99,ScreenEmpty
 0x447B02FF,Screw
 0x063878DE,ScrubbingBrush
+0xB9DC5DBF,SE_Env_LeakOut
+0x25834A50,SE_EnvObj_Player_BgmDuc
 0x79C16EB4,SeaBuoy
 0xB53F5F3D,Seaside
 0x9DDBF189,Seaside_2x1
@@ -8434,6 +8468,7 @@
 0xC2F69583,SF03
 0x262445A2,SF04
 0x24D2FCB2,SF05
+0x001F1BDA,Sfg
 0x1606F2A4,SFX00
 0xDDC12704,SFX01
 0x99E2D93D,ShanghaiCrab
@@ -9801,6 +9836,7 @@
 0xB5B0AD29,UGC.SuspendData.UvPatternIdx
 0xDED4B3E8,UGC.SuspendMii
 0x114EFF89,UGC.SuspendMii.CharInfoEx
+0x00BC09B7,UGC.SuspendMii.ImportHeadwearColorIndex
 0x843C6580,UGC.SuspendMii.ImportHeadwearId
 0x570FFE79,UGC.SuspendMii.IsCopy
 0x8A1C154D,UGC.SuspendMii.IsFacePaintFront
