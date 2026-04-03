@@ -11,6 +11,7 @@
 0x0E407A32,Accident
 0xC6144892,Acrylic
 0xF59B6FEA,Action
+0xFF13095D,ActionArea
 0xE65989C0,Activeness
 0xB8C7F7EC,ActModel
 0x9610D708,Actor
@@ -246,6 +247,7 @@
 0x33382690,BlowBubblesAtObj
 0x6BD294B2,BlowBubblesAtObjN
 0xE3935852,BlowBubblesCycle
+0x4EC605EF,BlowBubblesGrouping
 0x7617C722,BlowBubblesSea
 0xED22B31D,BlowBubblesShort
 0xE2911ABA,Blue
@@ -292,6 +294,7 @@
 0x7C30AE04,BookCover
 0xE36AF0F9,BookFeature
 0x6FB73EDA,BookHorror
+0xFCBBCCC0,BookHorrorLastObtainedSec
 0x4EEF217D,BookLove
 0x4FC444CC,BookManga
 0x1C6B1F36,BookPhrase
@@ -472,6 +475,8 @@
 0x05F5F62C,CharInfoEx
 0xD7379829,ChaseAndRun
 0x53732B14,ChasePickedUpMii
+0x3E47D99D,ChaseRun
+0x51792718,ChaseWalk
 0xB8510838,ChaseWalkingMii
 0x6D5B6024,ChaseWalkingMiiTailing
 0xB1818305,ChatMiiBoredom
@@ -483,6 +488,7 @@
 0x2047CA67,CheckCameraToDemoStage
 0x128377B0,CheckCameraToParticipants
 0x30C5C8CA,Cheer
+0xB3B8ED1C,Cheerfully
 0x44F4E9E1,Cheesacake
 0x1483D7E0,Cheese
 0x7D446ECB,CheeseBoard
@@ -2937,8 +2943,10 @@
 0xF88C4624,ImitationPlayMaracas
 0xBF7957C0,ImitationPoseChange
 0xEAB07A0E,ImitationRandomAct
+0x2E36925F,ImitationRandomAct_Monologue
 0xA501FEF4,ImitationRandomActSameDir
 0xCBA6BF3D,ImitationSameDir
+0x754DE24E,ImitationSameDirAndMonologue
 0x410EFD47,ImitationSameDirLargeAction
 0x40007F13,ImitationSameDirShort
 0xDADECDA4,ImitationScreamToSeaLover
@@ -3387,6 +3395,7 @@
 0x0A5D938F,LvUPGoods_Ballet_House_Room_raw
 0x483F5677,LvUPGoods_Ballet_Outdoor_raw
 0x92F2F5EC,LvUPGoods_BlowBubble_Outdoor_raw
+0xD8ECA018,LvUPGoods_Camera
 0xE4D1E8E9,LvUPGoods_Camera_House_LDKCarpet_raw
 0xB6B4B3C5,LvUPGoods_Camera_House_raw
 0x2415B69A,LvUPGoods_Camera_House_Room_raw
@@ -3407,6 +3416,7 @@
 0x5AE43BCD,LvUPGoods_Karate_Outdoor_raw
 0x655F6676,LvUPGoods_Knitting_House_Sofa_raw
 0xBB9C0345,LvUPGoods_Knitting_Outdoor_raw
+0x5D79217D,LvUPGoods_Maracas_Grouping
 0xAFC19B61,LvUPGoods_Maracas_Here_raw
 0xE83591A3,LvUPGoods_Maracas_House_LDKCarpet_raw
 0x48D0A1E8,LvUPGoods_Maracas_House_raw
@@ -3420,6 +3430,7 @@
 0x450FA3D8,LvUPGoods_ReplicaSword_House_LDKCarpet_raw
 0x9F159DFD,LvUPGoods_ReplicaSword_House_Room_raw
 0x33A1C767,LvUPGoods_ReplicaSword_Outdoor_raw
+0x38872AD7,LvUPGoods_Soccer
 0x834AB892,LvUPGoods_Soccer_raw
 0x6660E14E,LvUPGoods_StreetDance_House_LDKCarpet_raw
 0xA5365942,LvUPGoods_StreetDance_House_Room_raw
@@ -4359,6 +4370,7 @@
 0x94B0C6D3,Minigame
 0x80363AB7,MiniGameFader
 0x1D0C9CF6,MinigameInField
+0x6D7C054C,MinigameInFieldLowLand
 0x39530923,MiniGamePrizeBox
 0xA6C7D70D,MinigameSilhouetteQuizType
 0x7CEDA436,MinigameSuccess
@@ -4367,6 +4379,7 @@
 0x4CB74EB3,MintCandy
 0xEDCDA0D5,Minus1
 0x86D277D8,MirrorBall
+0x6DA46548,Misc_CantPassEachOther
 0x0E4EDF34,Misc_ChatFree_Chat_House
 0xC3270BB4,Misc_ChatFree_Chat_Outdoor
 0xBE3FC1F2,Misc_ChatFree_House
@@ -4379,7 +4392,10 @@
 0x002F9891,Misc_EmotionTelopChatRestaurant
 0x8CB01060,Misc_EmotionTelopChatRoom
 0x764BF57F,Misc_EmotionTelopChatSofa
+0x69171542,Misc_EmotionTelopChatStand
 0x49EE44D6,Misc_EmotionTelopChatTV
+0x37884EBC,Misc_EmotionTelopChatVacantLand
+0xAF556C61,Misc_FlashLight
 0x8A3789A1,Misc_Hopscotch
 0xFF6F681F,Misc_Insurance
 0x52F25373,Misc_Insurance_Chat
@@ -4388,6 +4404,8 @@
 0x19283876,Misc_MessageGame
 0x7D48057D,Misc_PlayFree_House
 0xDE371509,Misc_PlayFree_Outdoor
+0x76FE9CB7,Misc_PlaySeaside
+0xCF7018E0,Misc_PoseBattle
 0x5A3C2517,Misc_RelaxFloor_House
 0xAD218D02,Misc_RelaxFloor_Outdoor
 0x51915DC9,Misc_RunCircle
@@ -4396,6 +4414,7 @@
 0x0732703E,Misc_Stretch
 0xB9EE0019,Misc_Stretch_House
 0xA3FFFC8F,Misc_Stretch_Outdoor
+0xE702C261,Misc_Walking
 0x27073417,Misc_WatchingTV
 0xE543695B,MisoSoup
 0x37CEF1D6,Mithai
@@ -4458,6 +4477,7 @@
 0xACE5B915,NameRegionLanguageID
 0x6027A44F,NameSetBin
 0x8602ED2B,Namuru
+0x0C0540E8,NapBenchDream
 0x1C83F2E1,Napping
 0xE559BDEA,NappingBlush
 0x201647E2,NappingBlushOpenMouth
@@ -4869,6 +4889,7 @@
 0x7036687B,Place_Facility_ALL_Chat_raw
 0xEA3D2BD1,Place_Facility_ALL_NotChat_raw
 0x0C7242A3,Place_Facility_FerrisWheel_raw
+0xF58655AA,Place_Facility_Fountain
 0xE39985D6,Place_Facility_Fountain_raw
 0x05370286,Place_Facility_Restaurant_Chat_raw
 0xAA6A2AD7,Place_Facility_Restaurant_NotChat_raw
@@ -4877,8 +4898,11 @@
 0x6016BDDB,Place_Here_Play_NotGoods
 0xAB80ED60,Place_House_DiningTable_NotGoods
 0x640B5595,Place_House_DiningTable_raw
+0xA5998937,Place_House_HouseDeck
+0x08046A25,Place_House_LDK
 0x6328BC91,Place_House_LDKCarpet_NotGoods
 0x433C27A2,Place_House_LDKCarpet_raw
+0x7434757C,Place_House_Room
 0x3705F091,Place_House_Room_NotGoods
 0xC96182BC,Place_House_Room_NotGoods_Chat
 0x38C69DB8,Place_House_Room_NotGoods_NotChat
@@ -4886,6 +4910,7 @@
 0xF1817B9A,Place_House_Sofa_raw
 0x1089341F,Place_MapObj_ALL_Chat_raw
 0xDDAD18C2,Place_MapObj_ALL_NotChat_raw
+0xBC170B47,Place_MapObj_Bench
 0x65D32AD4,Place_MapObj_Bench_Chat_raw
 0x2C29E5B4,Place_MapObj_Bench_NotChat_raw
 0x3B89ABCB,Place_MapObj_Bench_raw
@@ -7727,6 +7752,7 @@
 0xE9B1EE06,PlayVacantLand
 0x1271B7DF,PlayVacantLandWide
 0x12988769,PlayVacantLandWithPet
+0x341E16B8,PlayWithPet
 0x196FD47F,PlayWithPetField
 0x8D56D33F,PlayWithPetMyRoom
 0x3DE8E1AD,PlumPudding
@@ -7903,6 +7929,7 @@
 0xBF1F15DD,Relation_FriendAndMore_Outdoor
 0x2497C215,Relation_FriendAndMore_Outdoor_Chat
 0x26D1DBA1,Relation_FriendAndMore_Outdoor_NotChat
+0xC24A0DFC,Relation_Housemate_raw
 0xE3BFE72E,Relation.Info
 0xC82BEE59,Relation.Info.DirectionalInfo
 0x8B41897E,Relation.Info.DirectionalInfo.BaseRelationType
@@ -8252,6 +8279,7 @@
 0xA7292608,Smores
 0x31AC81BF,Smug
 0x455E57A7,SmugOM
+0xF43FD40F,Sniff
 0xAB99ED7A,SnoreLoudly
 0x47F627BD,Snow
 0x2C912B5B,Snow00
@@ -8957,6 +8985,7 @@
 0xB8EE2FEE,TreasureGoods_ALL_House_Sofa_raw
 0x0CD716AB,TreasureGoods_ALL_Outdoor_Chat_raw
 0x083ED259,TreasureGoods_ALL_Outdoor_NotChat_raw
+0x4F215C30,TreasureGoods_Anything
 0x68C86FFD,TreasureGoods_Anything_House_DiningTable_raw
 0x93CC418F,TreasureGoods_Anything_House_LDKCarpet_raw
 0x2E7C5DF3,TreasureGoods_Anything_House_raw
@@ -8973,6 +9002,7 @@
 0xFD0F0649,TreasureGoods_Book_House_Sofa_raw
 0xF4846E29,TreasureGoods_Book_Outdoor_raw
 0x8EA273C5,TreasureGoods_Book_Sitting_Outdoor
+0x7AC6199E,TreasureGoods_Game
 0x79D852C0,TreasureGoods_Game_Floor_House
 0x2C84AE75,TreasureGoods_Game_Floor_Outdoor
 0xFE0C563A,TreasureGoods_Game_House_LDKCarpet_raw
@@ -8985,6 +9015,7 @@
 0xE488B41D,TreasureGoods_Movie_House_LDKCarpet_raw
 0x56C25E6B,TreasureGoods_Movie_House_Room_raw
 0x6D181521,TreasureGoods_Movie_House_Sofa_raw
+0xAE2F100E,TreasureGoods_Pet
 0x9F41779B,TreasureGoods_Pet_Chat_Outdoor_raw
 0x7EE8D484,TreasureGoods_Pet_House_LDKCarpet_raw
 0x5898D583,TreasureGoods_Pet_House_raw
@@ -8993,6 +9024,7 @@
 0xC121948F,TreasureGoods_Pet_Outdoor_NotChat_raw
 0x4C81E411,TreasureGoods_Pet_Outdoor_raw
 0x09592B0E,TreasureGoods_Pet_Speech_Outdoor
+0xF222B47E,TreasureGoods_Record
 0x5F50DA23,TreasureGoods_Record_Chat_Outdoor
 0xAC058093,TreasureGoods_Record_House_LDKCarpet_raw
 0x1FBBAE8E,TreasureGoods_Record_House_raw
@@ -9146,6 +9178,7 @@
 0xC0F43D8D,TrophySilver
 0xB75D7DB6,TropicalSea00
 0x7CA26C97,Trouble
+0x240ECF75,Trouble_Friend
 0x36686ADC,Trouble_FriendUgc_Success
 0xFE5716BE,TroubleFriendUgc
 0x6E9D2A6D,TroubleInfo
@@ -9619,6 +9652,7 @@
 0x68BD29F2,VacantLand_5x5_High
 0x2498745A,VacantLand_5x5_Low
 0x58241AC7,VacantLandForDummyPark
+0x0508F23F,VacantLandWide
 0xF790535F,VacuumTube
 0xEC8EB994,Variation
 0x0CEB60EA,Vegetable
@@ -9664,6 +9698,7 @@
 0xF4664EC7,WakeUpLauncher
 0x15142DC2,WakeUpTime
 0xB778A0CE,WalkAroundMyRoom
+0x43AC6C08,WalkAroundRoom
 0x7AF2ECB1,WalkAroundVacantLand
 0xF9B2C25C,WalkCool
 0x18E69CF6,WalkFloat
@@ -9683,6 +9718,7 @@
 0xDA93023D,WalkType
 0x6C4D880D,WalkUneasily
 0x6BDFEA86,WalkUnsteady
+0x6A7253EE,WalkWithPet
 0x80EA8F8B,WalkWithUgc
 0x983BCEFA,WalkWithUgcHere
 0x2C388F97,Wall
@@ -9690,12 +9726,14 @@
 0xE6508664,Warmly
 0x0A603881,Warp
 0x2FBAEE86,Wataame
+0xDDDF31EB,WatchCalmly
 0xF58BA651,WatchCalmlyRandomSequential
 0xF2EE40FE,WatchCalmlyRandomSqHouseMate
 0x517DF947,WatchCheerfullyRandomSequential
 0x55975098,WatchedCount
 0xA25FC104,WatchedMiiIndex
 0x61E0148D,WatchNightSky
+0x12D186C5,WatchSky
 0xF0A60ADE,WatchSunrise
 0xB199793C,WatchSunset
 0x6E902C2F,WatchTVLivingFloorGroup
