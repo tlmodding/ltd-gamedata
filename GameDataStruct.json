@@ -25529,17 +25529,17 @@
       "Type": "Bool",
       "Hash": 1950929383
     },
-    "<IsDemoPR000002Finished_62A35019>": {
+    "IsFinishedContentsAccident": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 117709238
     },
-    "<IsDemoPR000034Finished_76A4C055>": {
+    "IsFinishedContentsDream": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 3347036208
     },
-    "<IsDemoPR000116Finished_7E46ECD5>": {
+    "IsFinishedContentsMinigame": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 2350946178

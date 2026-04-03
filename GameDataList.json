@@ -7415,21 +7415,21 @@
           "Hash": 117709238,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Trial.<IsDemoPR000002Finished_62A35019>"
+          "HashText": "Trial.IsFinishedContentsAccident"
         },
         {
           "DefaultValue": false,
           "Hash": 3347036208,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Trial.<IsDemoPR000034Finished_76A4C055>"
+          "HashText": "Trial.IsFinishedContentsDream"
         },
         {
           "DefaultValue": false,
           "Hash": 2350946178,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Trial.<IsDemoPR000116Finished_7E46ECD5>"
+          "HashText": "Trial.IsFinishedContentsMinigame"
         },
         {
           "DefaultValue": false,
@@ -75288,20 +75288,20 @@
             {
               "Hash": 2118577365,
               "Value": 2350946178,
-              "HashText": "<IsDemoPR000116Finished_7E46ECD5>",
-              "ValueText": "Trial.<IsDemoPR000116Finished_7E46ECD5>"
+              "HashText": "IsFinishedContentsMinigame",
+              "ValueText": "Trial.IsFinishedContentsMinigame"
             },
             {
               "Hash": 1990508629,
               "Value": 3347036208,
-              "HashText": "<IsDemoPR000034Finished_76A4C055>",
-              "ValueText": "Trial.<IsDemoPR000034Finished_76A4C055>"
+              "HashText": "IsFinishedContentsDream",
+              "ValueText": "Trial.IsFinishedContentsDream"
             },
             {
               "Hash": 1654870041,
               "Value": 117709238,
-              "HashText": "<IsDemoPR000002Finished_62A35019>",
-              "ValueText": "Trial.<IsDemoPR000002Finished_62A35019>"
+              "HashText": "IsFinishedContentsAccident",
+              "ValueText": "Trial.IsFinishedContentsAccident"
             },
             {
               "Hash": 2360011381,

@@ -1054,9 +1054,9 @@ B679F9D3,3061447123,Bool,Player.<Unknown_7784F7CE>
 A95A0527,2841249063,Bool,Player.RoomStyleWeeklyItem.IsNeedShowNew
 F16A6B96,4050283414,Bool,Player.<Unknown_07948742>
 7448D1E7,1950929383,Bool,Trial.IsClothShopDialogShown
-070419B6,0117709238,Bool,Trial.<IsDemoPR000002Finished_62A35019>
-C77FB830,3347036208,Bool,Trial.<IsDemoPR000034Finished_76A4C055>
-8C209782,2350946178,Bool,Trial.<IsDemoPR000116Finished_7E46ECD5>
+070419B6,0117709238,Bool,Trial.IsFinishedContentsAccident
+C77FB830,3347036208,Bool,Trial.IsFinishedContentsDream
+8C209782,2350946178,Bool,Trial.IsFinishedContentsMinigame
 A04EC338,2689516344,Bool,Trial.IsFinishedPR
 E7DF3B58,3890166616,Bool,Trial.IsFoodShopDialogShown
 D9DA6BB6,3654970294,Bool,Trial.IsGeneratedMiiEvent

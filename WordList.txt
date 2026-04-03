@@ -1274,6 +1274,9 @@ IsEmissionNightOnly
 IsEnableChildbirth
 IsFacePaintFront
 IsFight
+IsFinishedContentsAccident
+IsFinishedContentsDream
+IsFinishedContentsMinigame
 IsFinishedPR
 IsFirstDemoDone
 IsFoodShopDialogShown
@@ -5420,6 +5423,9 @@ TreasureMap
 TreeBranch
 Trial
 Trial.IsClothShopDialogShown
+Trial.IsFinishedContentsAccident
+Trial.IsFinishedContentsDream
+Trial.IsFinishedContentsMinigame
 Trial.IsFinishedPR
 Trial.IsFoodShopDialogShown
 Trial.IsGeneratedMiiEvent
