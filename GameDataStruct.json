@@ -14042,7 +14042,7 @@
           "Hash": 1290547772
         }
       },
-      "<Unknown_F4C1C5DB>": {
+      "LightStick03": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14079,7 +14079,7 @@
           "Hash": 105518146
         }
       },
-      "<Unknown_874D1143>": {
+      "LightStick04": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14116,7 +14116,7 @@
           "Hash": 1084220131
         }
       },
-      "<Unknown_139F1425>": {
+      "LightStick05": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14153,7 +14153,7 @@
           "Hash": 843495388
         }
       },
-      "<Unknown_74D57F16>": {
+      "LightStick06": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14190,7 +14190,7 @@
           "Hash": 2596328710
         }
       },
-      "<Unknown_2BDFCC05>": {
+      "LightStick07": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -18482,7 +18482,7 @@
           "Hash": 2231166674
         }
       },
-      "<Unknown_B24B43EB>": {
+      "WesternStyle03": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -18519,7 +18519,7 @@
           "Hash": 2419774536
         }
       },
-      "<Unknown_C1C26075>": {
+      "WesternStyle04": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -18556,7 +18556,7 @@
           "Hash": 3181810030
         }
       },
-      "<Unknown_DB730FAC>": {
+      "WesternStyle05": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -18593,7 +18593,7 @@
           "Hash": 4022715488
         }
       },
-      "<Unknown_35B94F7B>": {
+      "WesternStyle06": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -18630,7 +18630,7 @@
           "Hash": 1983991801
         }
       },
-      "<Unknown_E211C2A3>": {
+      "WesternStyle07": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -24177,31 +24177,31 @@
             "Size": 70,
             "Hash": 2782527981
           },
-          "<Unknown_F4C1C5DB>": {
+          "LightStick03": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 3237500727
           },
-          "<Unknown_874D1143>": {
+          "LightStick04": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 2846546159
           },
-          "<Unknown_139F1425>": {
+          "LightStick05": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 4184580884
           },
-          "<Unknown_74D57F16>": {
+          "LightStick06": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 153893858
           },
-          "<Unknown_2BDFCC05>": {
+          "LightStick07": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
@@ -24897,31 +24897,31 @@
             "Size": 70,
             "Hash": 3395902348
           },
-          "<Unknown_B24B43EB>": {
+          "WesternStyle03": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 3799198133
           },
-          "<Unknown_C1C26075>": {
+          "WesternStyle04": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 2599364900
           },
-          "<Unknown_DB730FAC>": {
+          "WesternStyle05": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 3342117375
           },
-          "<Unknown_35B94F7B>": {
+          "WesternStyle06": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 3470754025
           },
-          "<Unknown_E211C2A3>": {
+          "WesternStyle07": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
@@ -25529,17 +25529,17 @@
       "Type": "Bool",
       "Hash": 1950929383
     },
-    "<Unknown_62A35019>": {
+    "<IsDemoPR000002Finished_62A35019>": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 117709238
     },
-    "<Unknown_76A4C055>": {
+    "<IsDemoPR000034Finished_76A4C055>": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 3347036208
     },
-    "<Unknown_7E46ECD5>": {
+    "<IsDemoPR000116Finished_7E46ECD5>": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 2350946178
@@ -26411,31 +26411,31 @@
           "Size": 70,
           "Hash": 696964706
         },
-        "<Unknown_F4C1C5DB>": {
+        "LightStick03": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 3562186182
         },
-        "<Unknown_874D1143>": {
+        "LightStick04": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 735499502
         },
-        "<Unknown_139F1425>": {
+        "LightStick05": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 208211528
         },
-        "<Unknown_74D57F16>": {
+        "LightStick06": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 3056921128
         },
-        "<Unknown_2BDFCC05>": {
+        "LightStick07": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
@@ -27131,31 +27131,31 @@
           "Size": 70,
           "Hash": 446929606
         },
-        "<Unknown_B24B43EB>": {
+        "WesternStyle03": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 1107645328
         },
-        "<Unknown_C1C26075>": {
+        "WesternStyle04": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 835728801
         },
-        "<Unknown_DB730FAC>": {
+        "WesternStyle05": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 1870125117
         },
-        "<Unknown_35B94F7B>": {
+        "WesternStyle06": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 3017898530
         },
-        "<Unknown_E211C2A3>": {
+        "WesternStyle07": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,

@@ -5462,70 +5462,70 @@
           "Hash": 2200685359,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick03.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 629421478,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick03.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 3921439498,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick04.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 906351229,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick04.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 2392010743,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick05.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 4005602852,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick05.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 3237340171,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick06.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 1638965991,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick06.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 2469741725,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick07.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 3806911643,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick07.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -7142,70 +7142,70 @@
           "Hash": 3173310359,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle03.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 3722323241,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle03.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 504425396,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle04.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 3521645238,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle04.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 3744819058,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle05.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 4079434234,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle05.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 4099521403,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle06.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 3571121687,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle06.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
           "Hash": 4282021884,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.<Unknown_73ADC433>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle07.<Unknown_73ADC433>"
         },
         {
           "DefaultValue": false,
           "Hash": 1661433507,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.<Unknown_2940FA1C>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle07.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -7415,21 +7415,21 @@
           "Hash": 117709238,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Trial.<Unknown_62A35019>"
+          "HashText": "Trial.<IsDemoPR000002Finished_62A35019>"
         },
         {
           "DefaultValue": false,
           "Hash": 3347036208,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Trial.<Unknown_76A4C055>"
+          "HashText": "Trial.<IsDemoPR000034Finished_76A4C055>"
         },
         {
           "DefaultValue": false,
           "Hash": 2350946178,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Trial.<Unknown_7E46ECD5>"
+          "HashText": "Trial.<IsDemoPR000116Finished_7E46ECD5>"
         },
         {
           "DefaultValue": false,
@@ -8752,7 +8752,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.RoomStyleInfo.Flag.<Unknown_F4C1C5DB>"
+          "HashText": "House.RoomStyleInfo.Flag.LightStick03"
         },
         {
           "DefaultValue": null,
@@ -8761,7 +8761,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.RoomStyleInfo.Flag.<Unknown_874D1143>"
+          "HashText": "House.RoomStyleInfo.Flag.LightStick04"
         },
         {
           "DefaultValue": null,
@@ -8770,7 +8770,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.RoomStyleInfo.Flag.<Unknown_139F1425>"
+          "HashText": "House.RoomStyleInfo.Flag.LightStick05"
         },
         {
           "DefaultValue": null,
@@ -8779,7 +8779,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.RoomStyleInfo.Flag.<Unknown_74D57F16>"
+          "HashText": "House.RoomStyleInfo.Flag.LightStick06"
         },
         {
           "DefaultValue": null,
@@ -8788,7 +8788,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.RoomStyleInfo.Flag.<Unknown_2BDFCC05>"
+          "HashText": "House.RoomStyleInfo.Flag.LightStick07"
         },
         {
           "DefaultValue": null,
@@ -9832,7 +9832,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.RoomStyleInfo.Flag.<Unknown_B24B43EB>"
+          "HashText": "House.RoomStyleInfo.Flag.WesternStyle03"
         },
         {
           "DefaultValue": null,
@@ -9841,7 +9841,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.RoomStyleInfo.Flag.<Unknown_C1C26075>"
+          "HashText": "House.RoomStyleInfo.Flag.WesternStyle04"
         },
         {
           "DefaultValue": null,
@@ -9850,7 +9850,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.RoomStyleInfo.Flag.<Unknown_DB730FAC>"
+          "HashText": "House.RoomStyleInfo.Flag.WesternStyle05"
         },
         {
           "DefaultValue": null,
@@ -9859,7 +9859,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.RoomStyleInfo.Flag.<Unknown_35B94F7B>"
+          "HashText": "House.RoomStyleInfo.Flag.WesternStyle06"
         },
         {
           "DefaultValue": null,
@@ -9868,7 +9868,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 70,
-          "HashText": "House.RoomStyleInfo.Flag.<Unknown_E211C2A3>"
+          "HashText": "House.RoomStyleInfo.Flag.WesternStyle07"
         },
         {
           "DefaultValue": null,
@@ -12613,7 +12613,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_F4C1C5DB>"
+          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.LightStick03"
         },
         {
           "DefaultValue": null,
@@ -12622,7 +12622,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_874D1143>"
+          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.LightStick04"
         },
         {
           "DefaultValue": null,
@@ -12631,7 +12631,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_139F1425>"
+          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.LightStick05"
         },
         {
           "DefaultValue": null,
@@ -12640,7 +12640,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_74D57F16>"
+          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.LightStick06"
         },
         {
           "DefaultValue": null,
@@ -12649,7 +12649,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_2BDFCC05>"
+          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.LightStick07"
         },
         {
           "DefaultValue": null,
@@ -13693,7 +13693,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_B24B43EB>"
+          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.WesternStyle03"
         },
         {
           "DefaultValue": null,
@@ -13702,7 +13702,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_C1C26075>"
+          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.WesternStyle04"
         },
         {
           "DefaultValue": null,
@@ -13711,7 +13711,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_DB730FAC>"
+          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.WesternStyle05"
         },
         {
           "DefaultValue": null,
@@ -13720,7 +13720,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_35B94F7B>"
+          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.WesternStyle06"
         },
         {
           "DefaultValue": null,
@@ -13729,7 +13729,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_E211C2A3>"
+          "HashText": "Mii.Belongings.RoomStyleInfo.Flag.WesternStyle07"
         },
         {
           "DefaultValue": null,
@@ -22600,7 +22600,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.State"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick03.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -22615,7 +22615,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.State"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick04.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -22630,7 +22630,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.State"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick05.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -22645,7 +22645,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.State"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick06.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -22660,7 +22660,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.State"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick07.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -24400,7 +24400,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.State"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle03.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -24415,7 +24415,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.State"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle04.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -24430,7 +24430,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.State"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle05.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -24445,7 +24445,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.State"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle06.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -24460,7 +24460,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.State"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle07.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -32807,35 +32807,35 @@
           "Hash": 2148363543,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.OwnNum"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick03.OwnNum"
         },
         {
           "DefaultValue": -2,
           "Hash": 4147007029,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.OwnNum"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick04.OwnNum"
         },
         {
           "DefaultValue": -2,
           "Hash": 2772543235,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.OwnNum"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick05.OwnNum"
         },
         {
           "DefaultValue": -2,
           "Hash": 696850243,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.OwnNum"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick06.OwnNum"
         },
         {
           "DefaultValue": -2,
           "Hash": 3470804823,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.OwnNum"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick07.OwnNum"
         },
         {
           "DefaultValue": -2,
@@ -33647,35 +33647,35 @@
           "Hash": 3320465431,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.OwnNum"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle03.OwnNum"
         },
         {
           "DefaultValue": -2,
           "Hash": 799073971,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.OwnNum"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle04.OwnNum"
         },
         {
           "DefaultValue": -2,
           "Hash": 2142327993,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.OwnNum"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle05.OwnNum"
         },
         {
           "DefaultValue": -2,
           "Hash": 1116989769,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.OwnNum"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle06.OwnNum"
         },
         {
           "DefaultValue": -2,
           "Hash": 1978098168,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.OwnNum"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle07.OwnNum"
         },
         {
           "DefaultValue": -2,
@@ -38982,32 +38982,32 @@
             {
               "Hash": 4106339803,
               "Value": 3562186182,
-              "HashText": "<Unknown_F4C1C5DB>",
-              "ValueText": "House.RoomStyleInfo.Flag.<Unknown_F4C1C5DB>"
+              "HashText": "LightStick03",
+              "ValueText": "House.RoomStyleInfo.Flag.LightStick03"
             },
             {
               "Hash": 2269974851,
               "Value": 735499502,
-              "HashText": "<Unknown_874D1143>",
-              "ValueText": "House.RoomStyleInfo.Flag.<Unknown_874D1143>"
+              "HashText": "LightStick04",
+              "ValueText": "House.RoomStyleInfo.Flag.LightStick04"
             },
             {
               "Hash": 329192485,
               "Value": 208211528,
-              "HashText": "<Unknown_139F1425>",
-              "ValueText": "House.RoomStyleInfo.Flag.<Unknown_139F1425>"
+              "HashText": "LightStick05",
+              "ValueText": "House.RoomStyleInfo.Flag.LightStick05"
             },
             {
               "Hash": 1960148758,
               "Value": 3056921128,
-              "HashText": "<Unknown_74D57F16>",
-              "ValueText": "House.RoomStyleInfo.Flag.<Unknown_74D57F16>"
+              "HashText": "LightStick06",
+              "ValueText": "House.RoomStyleInfo.Flag.LightStick06"
             },
             {
               "Hash": 736087045,
               "Value": 3858885241,
-              "HashText": "<Unknown_2BDFCC05>",
-              "ValueText": "House.RoomStyleInfo.Flag.<Unknown_2BDFCC05>"
+              "HashText": "LightStick07",
+              "ValueText": "House.RoomStyleInfo.Flag.LightStick07"
             },
             {
               "Hash": 1972021603,
@@ -39702,32 +39702,32 @@
             {
               "Hash": 2991277035,
               "Value": 1107645328,
-              "HashText": "<Unknown_B24B43EB>",
-              "ValueText": "House.RoomStyleInfo.Flag.<Unknown_B24B43EB>"
+              "HashText": "WesternStyle03",
+              "ValueText": "House.RoomStyleInfo.Flag.WesternStyle03"
             },
             {
               "Hash": 3250741365,
               "Value": 835728801,
-              "HashText": "<Unknown_C1C26075>",
-              "ValueText": "House.RoomStyleInfo.Flag.<Unknown_C1C26075>"
+              "HashText": "WesternStyle04",
+              "ValueText": "House.RoomStyleInfo.Flag.WesternStyle04"
             },
             {
               "Hash": 3681750956,
               "Value": 1870125117,
-              "HashText": "<Unknown_DB730FAC>",
-              "ValueText": "House.RoomStyleInfo.Flag.<Unknown_DB730FAC>"
+              "HashText": "WesternStyle05",
+              "ValueText": "House.RoomStyleInfo.Flag.WesternStyle05"
             },
             {
               "Hash": 901336955,
               "Value": 3017898530,
-              "HashText": "<Unknown_35B94F7B>",
-              "ValueText": "House.RoomStyleInfo.Flag.<Unknown_35B94F7B>"
+              "HashText": "WesternStyle06",
+              "ValueText": "House.RoomStyleInfo.Flag.WesternStyle06"
             },
             {
               "Hash": 3792814755,
               "Value": 2838072661,
-              "HashText": "<Unknown_E211C2A3>",
-              "ValueText": "House.RoomStyleInfo.Flag.<Unknown_E211C2A3>"
+              "HashText": "WesternStyle07",
+              "ValueText": "House.RoomStyleInfo.Flag.WesternStyle07"
             },
             {
               "Hash": 1116597447,
@@ -43594,32 +43594,32 @@
             {
               "Hash": 4106339803,
               "Value": 3237500727,
-              "HashText": "<Unknown_F4C1C5DB>",
-              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_F4C1C5DB>"
+              "HashText": "LightStick03",
+              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.LightStick03"
             },
             {
               "Hash": 2269974851,
               "Value": 2846546159,
-              "HashText": "<Unknown_874D1143>",
-              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_874D1143>"
+              "HashText": "LightStick04",
+              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.LightStick04"
             },
             {
               "Hash": 329192485,
               "Value": 4184580884,
-              "HashText": "<Unknown_139F1425>",
-              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_139F1425>"
+              "HashText": "LightStick05",
+              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.LightStick05"
             },
             {
               "Hash": 1960148758,
               "Value": 153893858,
-              "HashText": "<Unknown_74D57F16>",
-              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_74D57F16>"
+              "HashText": "LightStick06",
+              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.LightStick06"
             },
             {
               "Hash": 736087045,
               "Value": 1459873608,
-              "HashText": "<Unknown_2BDFCC05>",
-              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_2BDFCC05>"
+              "HashText": "LightStick07",
+              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.LightStick07"
             },
             {
               "Hash": 1972021603,
@@ -44314,32 +44314,32 @@
             {
               "Hash": 2991277035,
               "Value": 3799198133,
-              "HashText": "<Unknown_B24B43EB>",
-              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_B24B43EB>"
+              "HashText": "WesternStyle03",
+              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.WesternStyle03"
             },
             {
               "Hash": 3250741365,
               "Value": 2599364900,
-              "HashText": "<Unknown_C1C26075>",
-              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_C1C26075>"
+              "HashText": "WesternStyle04",
+              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.WesternStyle04"
             },
             {
               "Hash": 3681750956,
               "Value": 3342117375,
-              "HashText": "<Unknown_DB730FAC>",
-              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_DB730FAC>"
+              "HashText": "WesternStyle05",
+              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.WesternStyle05"
             },
             {
               "Hash": 901336955,
               "Value": 3470754025,
-              "HashText": "<Unknown_35B94F7B>",
-              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_35B94F7B>"
+              "HashText": "WesternStyle06",
+              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.WesternStyle06"
             },
             {
               "Hash": 3792814755,
               "Value": 2403030746,
-              "HashText": "<Unknown_E211C2A3>",
-              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.<Unknown_E211C2A3>"
+              "HashText": "WesternStyle07",
+              "ValueText": "Mii.Belongings.RoomStyleInfo.Flag.WesternStyle07"
             },
             {
               "Hash": 1116597447,
@@ -60515,32 +60515,32 @@
             {
               "Hash": 4106339803,
               "Value": 1029874436,
-              "HashText": "<Unknown_F4C1C5DB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>"
+              "HashText": "LightStick03",
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick03"
             },
             {
               "Hash": 2269974851,
               "Value": 1357917990,
-              "HashText": "<Unknown_874D1143>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>"
+              "HashText": "LightStick04",
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick04"
             },
             {
               "Hash": 329192485,
               "Value": 894654476,
-              "HashText": "<Unknown_139F1425>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>"
+              "HashText": "LightStick05",
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick05"
             },
             {
               "Hash": 1960148758,
               "Value": 4038744222,
-              "HashText": "<Unknown_74D57F16>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>"
+              "HashText": "LightStick06",
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick06"
             },
             {
               "Hash": 736087045,
               "Value": 187578891,
-              "HashText": "<Unknown_2BDFCC05>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>"
+              "HashText": "LightStick07",
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick07"
             },
             {
               "Hash": 1972021603,
@@ -61235,32 +61235,32 @@
             {
               "Hash": 2991277035,
               "Value": 486785108,
-              "HashText": "<Unknown_B24B43EB>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>"
+              "HashText": "WesternStyle03",
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle03"
             },
             {
               "Hash": 3250741365,
               "Value": 961540057,
-              "HashText": "<Unknown_C1C26075>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>"
+              "HashText": "WesternStyle04",
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle04"
             },
             {
               "Hash": 3681750956,
               "Value": 4018265840,
-              "HashText": "<Unknown_DB730FAC>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>"
+              "HashText": "WesternStyle05",
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle05"
             },
             {
               "Hash": 901336955,
               "Value": 1341478347,
-              "HashText": "<Unknown_35B94F7B>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>"
+              "HashText": "WesternStyle06",
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle06"
             },
             {
               "Hash": 3792814755,
               "Value": 1415634115,
-              "HashText": "<Unknown_E211C2A3>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>"
+              "HashText": "WesternStyle07",
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle07"
             },
             {
               "Hash": 1116597447,
@@ -68234,49 +68234,49 @@
               "Hash": 1331458961,
               "Value": 2043991832,
               "HashText": "KeyHash",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.KeyHash"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick03.KeyHash"
             },
             {
               "Hash": 4107346500,
               "Value": 2148363543,
               "HashText": "OwnNum",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.OwnNum"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick03.OwnNum"
             },
             {
               "Hash": 3610792363,
               "Value": 105518146,
               "HashText": "LastObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.LastObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick03.LastObtainedSec"
             },
             {
               "Hash": 1015187070,
               "Value": 1538664057,
               "HashText": "FirstObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.FirstObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick03.FirstObtainedSec"
             },
             {
               "Hash": 1940767795,
               "Value": 2200685359,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick03.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 629421478,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick03.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
               "Value": 3172173940,
               "HashText": "State",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.State"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick03.State"
             }
           ],
           "Hash": 1029874436,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick03"
         },
         {
           "DefaultValue": [
@@ -68284,49 +68284,49 @@
               "Hash": 1331458961,
               "Value": 3672671466,
               "HashText": "KeyHash",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.KeyHash"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick04.KeyHash"
             },
             {
               "Hash": 4107346500,
               "Value": 4147007029,
               "HashText": "OwnNum",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.OwnNum"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick04.OwnNum"
             },
             {
               "Hash": 3610792363,
               "Value": 1084220131,
               "HashText": "LastObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.LastObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick04.LastObtainedSec"
             },
             {
               "Hash": 1015187070,
               "Value": 3990151193,
               "HashText": "FirstObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.FirstObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick04.FirstObtainedSec"
             },
             {
               "Hash": 1940767795,
               "Value": 3921439498,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick04.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 906351229,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick04.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
               "Value": 4216749204,
               "HashText": "State",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.State"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick04.State"
             }
           ],
           "Hash": 1357917990,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick04"
         },
         {
           "DefaultValue": [
@@ -68334,49 +68334,49 @@
               "Hash": 1331458961,
               "Value": 1013763780,
               "HashText": "KeyHash",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.KeyHash"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick05.KeyHash"
             },
             {
               "Hash": 4107346500,
               "Value": 2772543235,
               "HashText": "OwnNum",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.OwnNum"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick05.OwnNum"
             },
             {
               "Hash": 3610792363,
               "Value": 843495388,
               "HashText": "LastObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.LastObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick05.LastObtainedSec"
             },
             {
               "Hash": 1015187070,
               "Value": 4269776047,
               "HashText": "FirstObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.FirstObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick05.FirstObtainedSec"
             },
             {
               "Hash": 1940767795,
               "Value": 2392010743,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick05.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 4005602852,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick05.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
               "Value": 394831441,
               "HashText": "State",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.State"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick05.State"
             }
           ],
           "Hash": 894654476,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick05"
         },
         {
           "DefaultValue": [
@@ -68384,49 +68384,49 @@
               "Hash": 1331458961,
               "Value": 2651888870,
               "HashText": "KeyHash",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.KeyHash"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick06.KeyHash"
             },
             {
               "Hash": 4107346500,
               "Value": 696850243,
               "HashText": "OwnNum",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.OwnNum"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick06.OwnNum"
             },
             {
               "Hash": 3610792363,
               "Value": 2596328710,
               "HashText": "LastObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.LastObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick06.LastObtainedSec"
             },
             {
               "Hash": 1015187070,
               "Value": 757425784,
               "HashText": "FirstObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.FirstObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick06.FirstObtainedSec"
             },
             {
               "Hash": 1940767795,
               "Value": 3237340171,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick06.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 1638965991,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick06.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
               "Value": 492186337,
               "HashText": "State",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.State"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick06.State"
             }
           ],
           "Hash": 4038744222,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick06"
         },
         {
           "DefaultValue": [
@@ -68434,49 +68434,49 @@
               "Hash": 1331458961,
               "Value": 3745090062,
               "HashText": "KeyHash",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.KeyHash"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick07.KeyHash"
             },
             {
               "Hash": 4107346500,
               "Value": 3470804823,
               "HashText": "OwnNum",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.OwnNum"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick07.OwnNum"
             },
             {
               "Hash": 3610792363,
               "Value": 1284574145,
               "HashText": "LastObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.LastObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick07.LastObtainedSec"
             },
             {
               "Hash": 1015187070,
               "Value": 2237782344,
               "HashText": "FirstObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.FirstObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick07.FirstObtainedSec"
             },
             {
               "Hash": 1940767795,
               "Value": 2469741725,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick07.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 3806911643,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick07.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
               "Value": 327170266,
               "HashText": "State",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.State"
+              "ValueText": "Player.InteriorRoomStyleInfo.LightStick07.State"
             }
           ],
           "Hash": 187578891,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick07"
         },
         {
           "DefaultValue": [
@@ -74234,49 +74234,49 @@
               "Hash": 1331458961,
               "Value": 1285082069,
               "HashText": "KeyHash",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.KeyHash"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle03.KeyHash"
             },
             {
               "Hash": 4107346500,
               "Value": 3320465431,
               "HashText": "OwnNum",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.OwnNum"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle03.OwnNum"
             },
             {
               "Hash": 3610792363,
               "Value": 2419774536,
               "HashText": "LastObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.LastObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle03.LastObtainedSec"
             },
             {
               "Hash": 1015187070,
               "Value": 3232161893,
               "HashText": "FirstObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.FirstObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle03.FirstObtainedSec"
             },
             {
               "Hash": 1940767795,
               "Value": 3173310359,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle03.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 3722323241,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle03.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
               "Value": 2116146053,
               "HashText": "State",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.State"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle03.State"
             }
           ],
           "Hash": 486785108,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle03"
         },
         {
           "DefaultValue": [
@@ -74284,49 +74284,49 @@
               "Hash": 1331458961,
               "Value": 1253650731,
               "HashText": "KeyHash",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.KeyHash"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle04.KeyHash"
             },
             {
               "Hash": 4107346500,
               "Value": 799073971,
               "HashText": "OwnNum",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.OwnNum"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle04.OwnNum"
             },
             {
               "Hash": 3610792363,
               "Value": 3181810030,
               "HashText": "LastObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.LastObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle04.LastObtainedSec"
             },
             {
               "Hash": 1015187070,
               "Value": 3077129594,
               "HashText": "FirstObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.FirstObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle04.FirstObtainedSec"
             },
             {
               "Hash": 1940767795,
               "Value": 504425396,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle04.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 3521645238,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle04.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
               "Value": 3285571019,
               "HashText": "State",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.State"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle04.State"
             }
           ],
           "Hash": 961540057,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle04"
         },
         {
           "DefaultValue": [
@@ -74334,49 +74334,49 @@
               "Hash": 1331458961,
               "Value": 4073108704,
               "HashText": "KeyHash",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.KeyHash"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle05.KeyHash"
             },
             {
               "Hash": 4107346500,
               "Value": 2142327993,
               "HashText": "OwnNum",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.OwnNum"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle05.OwnNum"
             },
             {
               "Hash": 3610792363,
               "Value": 4022715488,
               "HashText": "LastObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.LastObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle05.LastObtainedSec"
             },
             {
               "Hash": 1015187070,
               "Value": 824126139,
               "HashText": "FirstObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.FirstObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle05.FirstObtainedSec"
             },
             {
               "Hash": 1940767795,
               "Value": 3744819058,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle05.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 4079434234,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle05.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
               "Value": 2300374398,
               "HashText": "State",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.State"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle05.State"
             }
           ],
           "Hash": 4018265840,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle05"
         },
         {
           "DefaultValue": [
@@ -74384,49 +74384,49 @@
               "Hash": 1331458961,
               "Value": 3169732817,
               "HashText": "KeyHash",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.KeyHash"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle06.KeyHash"
             },
             {
               "Hash": 4107346500,
               "Value": 1116989769,
               "HashText": "OwnNum",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.OwnNum"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle06.OwnNum"
             },
             {
               "Hash": 3610792363,
               "Value": 1983991801,
               "HashText": "LastObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.LastObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle06.LastObtainedSec"
             },
             {
               "Hash": 1015187070,
               "Value": 3295065550,
               "HashText": "FirstObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.FirstObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle06.FirstObtainedSec"
             },
             {
               "Hash": 1940767795,
               "Value": 4099521403,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle06.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 3571121687,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle06.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
               "Value": 1555601236,
               "HashText": "State",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.State"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle06.State"
             }
           ],
           "Hash": 1341478347,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle06"
         },
         {
           "DefaultValue": [
@@ -74434,49 +74434,49 @@
               "Hash": 1331458961,
               "Value": 947055791,
               "HashText": "KeyHash",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.KeyHash"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle07.KeyHash"
             },
             {
               "Hash": 4107346500,
               "Value": 1978098168,
               "HashText": "OwnNum",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.OwnNum"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle07.OwnNum"
             },
             {
               "Hash": 3610792363,
               "Value": 647842405,
               "HashText": "LastObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.LastObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle07.LastObtainedSec"
             },
             {
               "Hash": 1015187070,
               "Value": 2476309952,
               "HashText": "FirstObtainedSec",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.FirstObtainedSec"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle07.FirstObtainedSec"
             },
             {
               "Hash": 1940767795,
               "Value": 4282021884,
               "HashText": "<Unknown_73ADC433>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.<Unknown_73ADC433>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle07.<Unknown_73ADC433>"
             },
             {
               "Hash": 692124188,
               "Value": 1661433507,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.<Unknown_2940FA1C>"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle07.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
               "Value": 3385288919,
               "HashText": "State",
-              "ValueText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.State"
+              "ValueText": "Player.InteriorRoomStyleInfo.WesternStyle07.State"
             }
           ],
           "Hash": 1415634115,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle07"
         },
         {
           "DefaultValue": [
@@ -75288,20 +75288,20 @@
             {
               "Hash": 2118577365,
               "Value": 2350946178,
-              "HashText": "<Unknown_7E46ECD5>",
-              "ValueText": "Trial.<Unknown_7E46ECD5>"
+              "HashText": "<IsDemoPR000116Finished_7E46ECD5>",
+              "ValueText": "Trial.<IsDemoPR000116Finished_7E46ECD5>"
             },
             {
               "Hash": 1990508629,
               "Value": 3347036208,
-              "HashText": "<Unknown_76A4C055>",
-              "ValueText": "Trial.<Unknown_76A4C055>"
+              "HashText": "<IsDemoPR000034Finished_76A4C055>",
+              "ValueText": "Trial.<IsDemoPR000034Finished_76A4C055>"
             },
             {
               "Hash": 1654870041,
               "Value": 117709238,
-              "HashText": "<Unknown_62A35019>",
-              "ValueText": "Trial.<Unknown_62A35019>"
+              "HashText": "<IsDemoPR000002Finished_62A35019>",
+              "ValueText": "Trial.<IsDemoPR000002Finished_62A35019>"
             },
             {
               "Hash": 2360011381,
@@ -78858,35 +78858,35 @@
           "Hash": 2043991832,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.KeyHash"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick03.KeyHash"
         },
         {
           "DefaultValue": 0,
           "Hash": 3672671466,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.KeyHash"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick04.KeyHash"
         },
         {
           "DefaultValue": 0,
           "Hash": 1013763780,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.KeyHash"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick05.KeyHash"
         },
         {
           "DefaultValue": 0,
           "Hash": 2651888870,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.KeyHash"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick06.KeyHash"
         },
         {
           "DefaultValue": 0,
           "Hash": 3745090062,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.KeyHash"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick07.KeyHash"
         },
         {
           "DefaultValue": 0,
@@ -79698,35 +79698,35 @@
           "Hash": 1285082069,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.KeyHash"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle03.KeyHash"
         },
         {
           "DefaultValue": 0,
           "Hash": 1253650731,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.KeyHash"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle04.KeyHash"
         },
         {
           "DefaultValue": 0,
           "Hash": 4073108704,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.KeyHash"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle05.KeyHash"
         },
         {
           "DefaultValue": 0,
           "Hash": 3169732817,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.KeyHash"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle06.KeyHash"
         },
         {
           "DefaultValue": 0,
           "Hash": 947055791,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.KeyHash"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle07.KeyHash"
         },
         {
           "DefaultValue": 0,
@@ -84572,70 +84572,70 @@
           "Hash": 1538664057,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.FirstObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick03.FirstObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 105518146,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_F4C1C5DB>.LastObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick03.LastObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 3990151193,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.FirstObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick04.FirstObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 1084220131,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_874D1143>.LastObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick04.LastObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 4269776047,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.FirstObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick05.FirstObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 843495388,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_139F1425>.LastObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick05.LastObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 757425784,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.FirstObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick06.FirstObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 2596328710,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_74D57F16>.LastObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick06.LastObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 2237782344,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.FirstObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick07.FirstObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 1284574145,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_2BDFCC05>.LastObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.LightStick07.LastObtainedSec"
         },
         {
           "DefaultValue": 0,
@@ -86252,70 +86252,70 @@
           "Hash": 3232161893,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.FirstObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle03.FirstObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 2419774536,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_B24B43EB>.LastObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle03.LastObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 3077129594,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.FirstObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle04.FirstObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 3181810030,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_C1C26075>.LastObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle04.LastObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 824126139,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.FirstObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle05.FirstObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 4022715488,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_DB730FAC>.LastObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle05.LastObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 3295065550,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.FirstObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle06.FirstObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 1983991801,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_35B94F7B>.LastObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle06.LastObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 2476309952,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.FirstObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle07.FirstObtainedSec"
         },
         {
           "DefaultValue": 0,
           "Hash": 647842405,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.InteriorRoomStyleInfo.<Unknown_E211C2A3>.LastObtainedSec"
+          "HashText": "Player.InteriorRoomStyleInfo.WesternStyle07.LastObtainedSec"
         },
         {
           "DefaultValue": 0,
@@ -88438,4 +88438,3 @@
     }
   }
 }
-
