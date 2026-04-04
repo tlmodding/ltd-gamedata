@@ -16,7 +16,7 @@
           "Hash": 2725851660,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_CB8A4231>"
+          "HashText": "Player.LastClockSnapshot"
         },
         {
           "DefaultValue": 152,
@@ -33979,7 +33979,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 840,
-          "HashText": "Mii.Belongings.<Unknown_B6777AF5>.UgcGoodsIndex"
+          "HashText": "Mii.Belongings.GoodsOwnInfoSlot.UgcGoodsIndex"
         },
         {
           "DefaultValue": 0,
@@ -34636,7 +34636,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 2415,
-          "HashText": "Relation.Info.RelationId.<Unknown_F110E214>"
+          "HashText": "Relation.Info.RelationId.Id_a"
         },
         {
           "DefaultValue": -1,
@@ -34645,7 +34645,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 2415,
-          "HashText": "Relation.Info.RelationId.<Unknown_0F9D0174>"
+          "HashText": "Relation.Info.RelationId.Id_b"
         },
         {
           "DefaultValue": 0,
@@ -40305,8 +40305,8 @@
             {
               "Hash": 3061283573,
               "Value": 3048325643,
-              "HashText": "<Unknown_B6777AF5>",
-              "ValueText": "Mii.Belongings.<Unknown_B6777AF5>"
+              "HashText": "GoodsOwnInfoSlot",
+              "ValueText": "Mii.Belongings.GoodsOwnInfoSlot"
             },
             {
               "Hash": 2933962295,
@@ -40350,26 +40350,26 @@
               "Hash": 4109364166,
               "Value": 3822452830,
               "HashText": "GoodsStringId",
-              "ValueText": "Mii.Belongings.<Unknown_B6777AF5>.GoodsStringId"
+              "ValueText": "Mii.Belongings.GoodsOwnInfoSlot.GoodsStringId"
             },
             {
               "Hash": 2957954298,
               "Value": 555069366,
               "HashText": "UgcGoodsIndex",
-              "ValueText": "Mii.Belongings.<Unknown_B6777AF5>.UgcGoodsIndex"
+              "ValueText": "Mii.Belongings.GoodsOwnInfoSlot.UgcGoodsIndex"
             },
             {
               "Hash": 3749994320,
               "Value": 1220773914,
               "HashText": "GetTime",
-              "ValueText": "Mii.Belongings.<Unknown_B6777AF5>.GetTime"
+              "ValueText": "Mii.Belongings.GoodsOwnInfoSlot.GetTime"
             }
           ],
           "Hash": 3048325643,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
           "Size": 12,
-          "HashText": "Mii.Belongings.<Unknown_B6777AF5>"
+          "HashText": "Mii.Belongings.GoodsOwnInfoSlot"
         },
         {
           "DefaultValue": [
@@ -46024,8 +46024,8 @@
             {
               "Hash": 3414835761,
               "Value": 2725851660,
-              "HashText": "<Unknown_CB8A4231>",
-              "ValueText": "Player.<Unknown_CB8A4231>"
+              "HashText": "LastClockSnapshot",
+              "ValueText": "Player.LastClockSnapshot"
             },
             {
               "Hash": 1527735456,
@@ -75256,14 +75256,14 @@
             {
               "Hash": 4044415508,
               "Value": 4148300539,
-              "HashText": "<Unknown_F110E214>",
-              "ValueText": "Relation.Info.RelationId.<Unknown_F110E214>"
+              "HashText": "Id_a",
+              "ValueText": "Relation.Info.RelationId.Id_a"
             },
             {
               "Hash": 261947764,
               "Value": 1081210652,
-              "HashText": "<Unknown_0F9D0174>",
-              "ValueText": "Relation.Info.RelationId.<Unknown_0F9D0174>"
+              "HashText": "Id_b",
+              "ValueText": "Relation.Info.RelationId.Id_b"
             }
           ],
           "Hash": 1899152710,
@@ -86666,7 +86666,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 840,
-          "HashText": "Mii.Belongings.<Unknown_B6777AF5>.GetTime"
+          "HashText": "Mii.Belongings.GoodsOwnInfoSlot.GetTime"
         },
         {
           "DefaultValue": null,
@@ -87271,7 +87271,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 840,
-          "HashText": "Mii.Belongings.<Unknown_B6777AF5>.GoodsStringId"
+          "HashText": "Mii.Belongings.GoodsOwnInfoSlot.GoodsStringId"
         },
         {
           "DefaultValue": null,

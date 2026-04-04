@@ -880,6 +880,7 @@ Goldfish
 Good
 Goods
 GoodsInfo2
+GoodsOwnInfoSlot
 GoodsShopItem
 GoodsStringId
 GoodsText
@@ -1237,6 +1238,8 @@ HowToCallText
 Humid
 IceRink00
 Id
+Id_a
+Id_b
 Image
 ImportHeadwearColorIndex
 ImportHeadwearId
@@ -1333,6 +1336,7 @@ Lace04
 Lace05
 Large
 LastBazaarPurchasedTime
+LastClockSnapshot
 LastDonationGameTime
 LastEatId
 LastEnterTime
@@ -1445,6 +1449,10 @@ Mii.Belongings
 Mii.Belongings.ClothOwnInfo
 Mii.Belongings.CoordinateOwnInfo
 Mii.Belongings.ExteriorNextEmotionBallTime
+Mii.Belongings.GoodsOwnInfoSlot
+Mii.Belongings.GoodsOwnInfoSlot.GetTime
+Mii.Belongings.GoodsOwnInfoSlot.GoodsStringId
+Mii.Belongings.GoodsOwnInfoSlot.UgcGoodsIndex
 Mii.Belongings.HabitOwnInfo
 Mii.Belongings.HabitOwnInfo.BlinkLot
 Mii.Belongings.HabitOwnInfo.BlinkLot.IsChecked
@@ -5088,6 +5096,7 @@ Player.IslandName
 Player.IslandNameRegionLanguageID
 Player.ItemShopDisplayItem
 Player.LastBazaarPurchasedTime
+Player.LastClockSnapshot
 Player.LastDonationGameTime
 Player.LastIslandEditTime
 Player.LastNewsWatchedTime
@@ -5186,6 +5195,8 @@ Relation.Info.DirectionalInfo.UpdateTimeRanking
 Relation.Info.IsFight
 Relation.Info.IsNotifiedBloodTypeCouple
 Relation.Info.RelationId
+Relation.Info.RelationId.Id_a
+Relation.Info.RelationId.Id_b
 Relation.Info.TypeSetTime
 RelationId
 Relative

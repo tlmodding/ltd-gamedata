@@ -1439,7 +1439,7 @@
     }
   },
   "Player": {
-    "<Unknown_CB8A4231>": {
+    "LastClockSnapshot": {
       "DefaultValue": 208,
       "Type": "Binary",
       "Hash": 2725851660
@@ -25013,7 +25013,7 @@
         "Size": 7000,
         "Hash": 2126075335
       },
-      "<Unknown_B6777AF5>": {
+      "GoodsOwnInfoSlot": {
         "UgcGoodsIndex": {
           "DefaultValue": -1,
           "Type": "IntArray",
@@ -25436,13 +25436,13 @@
         "Hash": 1845546596
       },
       "RelationId": {
-        "<Unknown_F110E214>": {
+        "Id_a": {
           "DefaultValue": -1,
           "Type": "IntArray",
           "Size": 2415,
           "Hash": 4148300539
         },
-        "<Unknown_0F9D0174>": {
+        "Id_b": {
           "DefaultValue": -1,
           "Type": "IntArray",
           "Size": 2415,
