@@ -213,7 +213,7 @@ DEB4CA22,3736390178,Bool,Player.GoodsInfo2.Capybara.<Unknown_2940FA1C>
 FD7734C8,4252447944,Bool,Player.GoodsInfo2.Carnation.<Unknown_2940FA1C>
 FB4E8789,4216227721,Bool,Player.GoodsInfo2.Cashbox.<Unknown_2940FA1C>
 F1F9AF46,4059672390,Bool,Player.GoodsInfo2.Cat.<Unknown_2940FA1C>
-BCF0E89D,3169904797,Bool,Player.GoodsInfo2.<Unknown_4157B3C7>.<Unknown_2940FA1C>
+BCF0E89D,3169904797,Bool,Player.GoodsInfo2.CDAnimeSong.<Unknown_2940FA1C>
 C0F11DDF,3237027295,Bool,Player.GoodsInfo2.CDClassic.<Unknown_2940FA1C>
 DA7D5D1A,3665648922,Bool,Player.GoodsInfo2.CDDance.<Unknown_2940FA1C>
 10A698B8,0279353528,Bool,Player.GoodsInfo2.CDGameMusic.<Unknown_2940FA1C>
@@ -1961,7 +1961,7 @@ EB1623E8,3944096744,Enum,Player.GoodsInfo2.Camera.State,Lock;New;Arrived;Opened;
 EF38799D,4013455773,Enum,Player.GoodsInfo2.Carnation.State,Lock;New;Arrived;Opened;Obtained
 C1BE25EA,3250464234,Enum,Player.GoodsInfo2.Cashbox.State,Lock;New;Arrived;Opened;Obtained
 098C612E,0160194862,Enum,Player.GoodsInfo2.Cat.State,Lock;New;Arrived;Opened;Obtained
-CD52B00C,3444748300,Enum,Player.GoodsInfo2.<Unknown_4157B3C7>.State,Lock;New;Arrived;Opened;Obtained
+CD52B00C,3444748300,Enum,Player.GoodsInfo2.CDAnimeSong.State,Lock;New;Arrived;Opened;Obtained
 6117B08F,1628942479,Enum,Player.GoodsInfo2.CDClassic.State,Lock;New;Arrived;Opened;Obtained
 B092AA4E,2962401870,Enum,Player.GoodsInfo2.CDDance.State,Lock;New;Arrived;Opened;Obtained
 D0763F87,3497410439,Enum,Player.GoodsInfo2.CDGameMusic.State,Lock;New;Arrived;Opened;Obtained
@@ -2823,7 +2823,7 @@ D36BAE69,3547049577,Int,Player.GoodsInfo2.Camera.OwnNum
 A87E25F0,2826839536,Int,Player.GoodsInfo2.Carnation.OwnNum
 F330B967,4080056679,Int,Player.GoodsInfo2.Cashbox.OwnNum
 61BF9D45,1639947589,Int,Player.GoodsInfo2.Cat.OwnNum
-F9B7B505,4189566213,Int,Player.GoodsInfo2.<Unknown_4157B3C7>.OwnNum
+F9B7B505,4189566213,Int,Player.GoodsInfo2.CDAnimeSong.OwnNum
 4960A1F6,1231069686,Int,Player.GoodsInfo2.CDClassic.OwnNum
 40845E15,1082416661,Int,Player.GoodsInfo2.CDDance.OwnNum
 5736391C,1463171356,Int,Player.GoodsInfo2.CDGameMusic.OwnNum
@@ -4041,7 +4041,7 @@ FC54413F,4233380159,UInt64,Player.GoodsInfo2.CallBell.LastObtainedSec
 D432DA7E,3560102526,UInt64,Player.GoodsInfo2.Carnation.LastObtainedSec
 0BF2B593,0200455571,UInt64,Player.GoodsInfo2.Cashbox.LastObtainedSec
 B7AE5E70,3081657968,UInt64,Player.GoodsInfo2.Cat.LastObtainedSec
-3306247D,0856040573,UInt64,Player.GoodsInfo2.<Unknown_4157B3C7>.LastObtainedSec
+3306247D,0856040573,UInt64,Player.GoodsInfo2.CDAnimeSong.LastObtainedSec
 94AF436C,2494514028,UInt64,Player.GoodsInfo2.CDClassic.LastObtainedSec
 B840A531,3091244337,UInt64,Player.GoodsInfo2.CDDance.LastObtainedSec
 4E293673,1311323763,UInt64,Player.GoodsInfo2.CDGameMusic.LastObtainedSec
@@ -5319,7 +5319,7 @@ A6172883,2786535555,Struct,Player.GoodsInfo2.Camera
 2356FC44,0592903236,Struct,Player.GoodsInfo2.Carnation
 62D6DF01,1658248961,Struct,Player.GoodsInfo2.Cashbox
 E4AE11C1,3836613057,Struct,Player.GoodsInfo2.Cat
-18D6131F,0416682783,Struct,Player.GoodsInfo2.<Unknown_4157B3C7>
+18D6131F,0416682783,Struct,Player.GoodsInfo2.CDAnimeSong
 66B1376C,1722890092,Struct,Player.GoodsInfo2.CDClassic
 0E023CCE,0235027662,Struct,Player.GoodsInfo2.CDDance
 DFA1C0E9,3751919849,Struct,Player.GoodsInfo2.CDGameMusic

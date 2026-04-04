@@ -1528,7 +1528,7 @@
           "Hash": 3169904797,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.GoodsInfo2.<Unknown_4157B3C7>.<Unknown_2940FA1C>"
+          "HashText": "Player.GoodsInfo2.CDAnimeSong.<Unknown_2940FA1C>"
         },
         {
           "DefaultValue": false,
@@ -16242,7 +16242,7 @@
             "BC5FEF7C:Obtained"
           ],
           "ValueText": "Lock",
-          "HashText": "Player.GoodsInfo2.<Unknown_4157B3C7>.State"
+          "HashText": "Player.GoodsInfo2.CDAnimeSong.State"
         },
         {
           "DefaultValue": 2952759973,
@@ -29846,7 +29846,7 @@
           "Hash": 4189566213,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.GoodsInfo2.<Unknown_4157B3C7>.OwnNum"
+          "HashText": "Player.GoodsInfo2.CDAnimeSong.OwnNum"
         },
         {
           "DefaultValue": 0,
@@ -47163,8 +47163,8 @@
             {
               "Hash": 1096266695,
               "Value": 416682783,
-              "HashText": "<Unknown_4157B3C7>",
-              "ValueText": "Player.GoodsInfo2.<Unknown_4157B3C7>"
+              "HashText": "CDAnimeSong",
+              "ValueText": "Player.GoodsInfo2.CDAnimeSong"
             },
             {
               "Hash": 2047016646,
@@ -50102,31 +50102,31 @@
               "Hash": 4107346500,
               "Value": 4189566213,
               "HashText": "OwnNum",
-              "ValueText": "Player.GoodsInfo2.<Unknown_4157B3C7>.OwnNum"
+              "ValueText": "Player.GoodsInfo2.CDAnimeSong.OwnNum"
             },
             {
               "Hash": 3610792363,
               "Value": 856040573,
               "HashText": "LastObtainedSec",
-              "ValueText": "Player.GoodsInfo2.<Unknown_4157B3C7>.LastObtainedSec"
+              "ValueText": "Player.GoodsInfo2.CDAnimeSong.LastObtainedSec"
             },
             {
               "Hash": 692124188,
               "Value": 3169904797,
               "HashText": "<Unknown_2940FA1C>",
-              "ValueText": "Player.GoodsInfo2.<Unknown_4157B3C7>.<Unknown_2940FA1C>"
+              "ValueText": "Player.GoodsInfo2.CDAnimeSong.<Unknown_2940FA1C>"
             },
             {
               "Hash": 1588172936,
               "Value": 3444748300,
               "HashText": "State",
-              "ValueText": "Player.GoodsInfo2.<Unknown_4157B3C7>.State"
+              "ValueText": "Player.GoodsInfo2.CDAnimeSong.State"
             }
           ],
           "Hash": 416682783,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
-          "HashText": "Player.GoodsInfo2.<Unknown_4157B3C7>"
+          "HashText": "Player.GoodsInfo2.CDAnimeSong"
         },
         {
           "DefaultValue": [
@@ -80645,7 +80645,7 @@
           "Hash": 856040573,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.GoodsInfo2.<Unknown_4157B3C7>.LastObtainedSec"
+          "HashText": "Player.GoodsInfo2.CDAnimeSong.LastObtainedSec"
         },
         {
           "DefaultValue": 0,

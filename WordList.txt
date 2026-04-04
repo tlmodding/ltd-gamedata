@@ -153,6 +153,7 @@ Cashbox
 CasterMii
 Cat
 CD
+CDAnimeSong
 CDClassic
 CDDance
 CDGameMusic
@@ -2596,6 +2597,10 @@ Player.GoodsInfo2.Cat
 Player.GoodsInfo2.Cat.LastObtainedSec
 Player.GoodsInfo2.Cat.OwnNum
 Player.GoodsInfo2.Cat.State
+Player.GoodsInfo2.CDAnimeSong
+Player.GoodsInfo2.CDAnimeSong.LastObtainedSec
+Player.GoodsInfo2.CDAnimeSong.OwnNum
+Player.GoodsInfo2.CDAnimeSong.State
 Player.GoodsInfo2.CDClassic
 Player.GoodsInfo2.CDClassic.LastObtainedSec
 Player.GoodsInfo2.CDClassic.OwnNum
