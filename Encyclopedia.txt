@@ -3026,7 +3026,7 @@ All
     0x14dc45ed - 34      ClothAllCupLongLatte
 Bottoms
   JPja
-    0xc666fced - 0
+    0xc666fced - 0       ClothBottomsPantsWideKneeJersey
     0x209d40fc - 1       ClothBottomsPantsLongAbc
     0x1fbefe14 - 2       ClothBottomsPantsWideOutdoor
     0xe02c489c - 3       ClothBottomsPantsWideSpace
@@ -3073,16 +3073,16 @@ Bottoms
     0x6ce3ca22 - 44      ClothBottomsPantsWideChain
     0x89830daf - 45      ClothBottomsPantsLongChino
     0xd18dfe8b - 46      ClothBottomsPantsLongDenim
-    0x56d3054a - 47
+    0x56d3054a - 47      ClothBottomsPantsWideDenimHalf
     0xfd51f935 - 48
-    0xece821b2 - 49
+    0xece821b2 - 49      ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - 50      ClothBottomsPantsWideKnit
     0x5e733b83 - 51      ClothBottomsPantsWideBaggy
     0xf55ebc07 - 52      ClothBottomsPantsWidePajama
     0x9e564246 - 53      ClothBottomsPantsWideBasketball
     0x981cab23 - 54      ClothBottomsPantsWideFlower
     0x9b3f7602 - 55      ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - 56
+    0x80954bd7 - 56      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - 57      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - 58      ClothBottomsPantsLongPatch
     0xab68b2ab - 59      ClothBottomsPantsLongShortAcceptancy
@@ -3134,7 +3134,7 @@ Bottoms
     0x17f98e37 - 105     ClothBottomsSkirtLongPatchwork
     0x637cb25b - 106     ClothBottomsSkirtLongFlower
     0x9e5f0890 - 107     ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - 108
+    0x26539088 - 108     ClothBottomsBodyBaseBikini
     0x5f08864d - 109     ClothBottomsSkirtMiniSunflower
     0x0333a87c - 110     ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - 111     ClothBottomsSkirtMiniFrill
@@ -3157,7 +3157,7 @@ Bottoms
     0xc131680d - 128     ClothBottomsSkirtBoxLong
     0x517c125f - 129     ClothBottomsSkirtBoxWrap
   USen
-    0xc666fced - 46
+    0xc666fced - 46      ClothBottomsPantsWideKneeJersey
     0x209d40fc - 0       ClothBottomsPantsLongAbc
     0x1fbefe14 - 35      ClothBottomsPantsWideOutdoor
     0xe02c489c - 70      ClothBottomsPantsWideSpace
@@ -3204,16 +3204,16 @@ Bottoms
     0x6ce3ca22 - 14      ClothBottomsPantsWideChain
     0x89830daf - 20      ClothBottomsPantsLongChino
     0xd18dfe8b - 39      ClothBottomsPantsLongDenim
-    0x56d3054a - 40
+    0x56d3054a - 40      ClothBottomsPantsWideDenimHalf
     0xfd51f935 - 29
-    0xece821b2 - 30
+    0xece821b2 - 30      ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - 42      ClothBottomsPantsWideKnit
     0x5e733b83 - 2       ClothBottomsPantsWideBaggy
     0xf55ebc07 - 52      ClothBottomsPantsWidePajama
     0x9e564246 - 5       ClothBottomsPantsWideBasketball
     0x981cab23 - 33      ClothBottomsPantsWideFlower
     0x9b3f7602 - 13      ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - 78
+    0x80954bd7 - 78      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - 21      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - 41      ClothBottomsPantsLongPatch
     0xab68b2ab - 56      ClothBottomsPantsLongShortAcceptancy
@@ -3265,7 +3265,7 @@ Bottoms
     0x17f98e37 - 112     ClothBottomsSkirtLongPatchwork
     0x637cb25b - 95      ClothBottomsSkirtLongFlower
     0x9e5f0890 - 101     ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - 82
+    0x26539088 - 82      ClothBottomsBodyBaseBikini
     0x5f08864d - 124     ClothBottomsSkirtMiniSunflower
     0x0333a87c - 97      ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - 96      ClothBottomsSkirtMiniFrill
@@ -3288,7 +3288,7 @@ Bottoms
     0xc131680d - 108     ClothBottomsSkirtBoxLong
     0x517c125f - 109     ClothBottomsSkirtBoxWrap
   USes
-    0xc666fced - 67
+    0xc666fced - 67      ClothBottomsPantsWideKneeJersey
     0x209d40fc - 7       ClothBottomsPantsLongAbc
     0x1fbefe14 - 58      ClothBottomsPantsWideOutdoor
     0xe02c489c - 69      ClothBottomsPantsWideSpace
@@ -3335,16 +3335,16 @@ Bottoms
     0x6ce3ca22 - 33      ClothBottomsPantsWideChain
     0x89830daf - 40      ClothBottomsPantsLongChino
     0xd18dfe8b - 25      ClothBottomsPantsLongDenim
-    0x56d3054a - 0
+    0x56d3054a - 0       ClothBottomsPantsWideDenimHalf
     0xfd51f935 - 72
-    0xece821b2 - 75
+    0xece821b2 - 75      ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - 53      ClothBottomsPantsWideKnit
     0x5e733b83 - 4       ClothBottomsPantsWideBaggy
     0xf55ebc07 - 46      ClothBottomsPantsWidePajama
     0x9e564246 - 60      ClothBottomsPantsWideBasketball
     0x981cab23 - 43      ClothBottomsPantsWideFlower
     0x9b3f7602 - 62      ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - 66
+    0x80954bd7 - 66      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - 73      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - 50      ClothBottomsPantsLongPatch
     0xab68b2ab - 26      ClothBottomsPantsLongShortAcceptancy
@@ -3396,7 +3396,7 @@ Bottoms
     0x17f98e37 - 97      ClothBottomsSkirtLongPatchwork
     0x637cb25b - 90      ClothBottomsSkirtLongFlower
     0x9e5f0890 - 119     ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - 80
+    0x26539088 - 80      ClothBottomsBodyBaseBikini
     0x5f08864d - 118     ClothBottomsSkirtMiniSunflower
     0x0333a87c - 99      ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - 120     ClothBottomsSkirtMiniFrill
@@ -3419,7 +3419,7 @@ Bottoms
     0xc131680d - 108     ClothBottomsSkirtBoxLong
     0x517c125f - 86      ClothBottomsSkirtBoxWrap
   USfr
-    0xc666fced - 79
+    0xc666fced - 79      ClothBottomsPantsWideKneeJersey
     0x209d40fc - 35      ClothBottomsPantsLongAbc
     0x1fbefe14 - 22      ClothBottomsPantsWideOutdoor
     0xe02c489c - 15      ClothBottomsPantsWideSpace
@@ -3466,16 +3466,16 @@ Bottoms
     0x6ce3ca22 - 43      ClothBottomsPantsWideChain
     0x89830daf - 46      ClothBottomsPantsLongChino
     0xd18dfe8b - 30      ClothBottomsPantsLongDenim
-    0x56d3054a - 4
+    0x56d3054a - 4       ClothBottomsPantsWideDenimHalf
     0xfd51f935 - 11
-    0xece821b2 - 0
+    0xece821b2 - 0       ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - 62      ClothBottomsPantsWideKnit
     0x5e733b83 - 32      ClothBottomsPantsWideBaggy
     0xf55ebc07 - 54      ClothBottomsPantsWidePajama
     0x9e564246 - 17      ClothBottomsPantsWideBasketball
     0x981cab23 - 74      ClothBottomsPantsWideFlower
     0x9b3f7602 - 2       ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - 21
+    0x80954bd7 - 21      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - 14      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - 77      ClothBottomsPantsLongPatch
     0xab68b2ab - 31      ClothBottomsPantsLongShortAcceptancy
@@ -3527,7 +3527,7 @@ Bottoms
     0x17f98e37 - 106     ClothBottomsSkirtLongPatchwork
     0x637cb25b - 97      ClothBottomsSkirtLongFlower
     0x9e5f0890 - 114     ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - 80
+    0x26539088 - 80      ClothBottomsBodyBaseBikini
     0x5f08864d - 85      ClothBottomsSkirtMiniSunflower
     0x0333a87c - 105     ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - 115     ClothBottomsSkirtMiniFrill
@@ -3550,7 +3550,7 @@ Bottoms
     0xc131680d - 90      ClothBottomsSkirtBoxLong
     0x517c125f - 112     ClothBottomsSkirtBoxWrap
   USpt
-    0xc666fced - -1
+    0xc666fced - -1      ClothBottomsPantsWideKneeJersey
     0x209d40fc - -1      ClothBottomsPantsLongAbc
     0x1fbefe14 - -1      ClothBottomsPantsWideOutdoor
     0xe02c489c - -1      ClothBottomsPantsWideSpace
@@ -3597,16 +3597,16 @@ Bottoms
     0x6ce3ca22 - -1      ClothBottomsPantsWideChain
     0x89830daf - -1      ClothBottomsPantsLongChino
     0xd18dfe8b - -1      ClothBottomsPantsLongDenim
-    0x56d3054a - -1
+    0x56d3054a - -1      ClothBottomsPantsWideDenimHalf
     0xfd51f935 - -1
-    0xece821b2 - -1
+    0xece821b2 - -1      ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - -1      ClothBottomsPantsWideKnit
     0x5e733b83 - -1      ClothBottomsPantsWideBaggy
     0xf55ebc07 - -1      ClothBottomsPantsWidePajama
     0x9e564246 - -1      ClothBottomsPantsWideBasketball
     0x981cab23 - -1      ClothBottomsPantsWideFlower
     0x9b3f7602 - -1      ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - -1
+    0x80954bd7 - -1      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - -1      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - -1      ClothBottomsPantsLongPatch
     0xab68b2ab - -1      ClothBottomsPantsLongShortAcceptancy
@@ -3658,7 +3658,7 @@ Bottoms
     0x17f98e37 - -1      ClothBottomsSkirtLongPatchwork
     0x637cb25b - -1      ClothBottomsSkirtLongFlower
     0x9e5f0890 - -1      ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - -1
+    0x26539088 - -1      ClothBottomsBodyBaseBikini
     0x5f08864d - -1      ClothBottomsSkirtMiniSunflower
     0x0333a87c - -1      ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - -1      ClothBottomsSkirtMiniFrill
@@ -3681,7 +3681,7 @@ Bottoms
     0xc131680d - -1      ClothBottomsSkirtBoxLong
     0x517c125f - -1      ClothBottomsSkirtBoxWrap
   EUen
-    0xc666fced - 50
+    0xc666fced - 50      ClothBottomsPantsWideKneeJersey
     0x209d40fc - 0       ClothBottomsPantsLongAbc
     0x1fbefe14 - 38      ClothBottomsPantsWideOutdoor
     0xe02c489c - 21      ClothBottomsPantsWideSpace
@@ -3728,16 +3728,16 @@ Bottoms
     0x6ce3ca22 - 19      ClothBottomsPantsWideChain
     0x89830daf - 14      ClothBottomsPantsLongChino
     0xd18dfe8b - 44      ClothBottomsPantsLongDenim
-    0x56d3054a - 26
+    0x56d3054a - 26      ClothBottomsPantsWideDenimHalf
     0xfd51f935 - 30
-    0xece821b2 - 31
+    0xece821b2 - 31      ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - 48      ClothBottomsPantsWideKnit
     0x5e733b83 - 1       ClothBottomsPantsWideBaggy
     0xf55ebc07 - 63      ClothBottomsPantsWidePajama
     0x9e564246 - 6       ClothBottomsPantsWideBasketball
     0x981cab23 - 34      ClothBottomsPantsWideFlower
     0x9b3f7602 - 17      ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - 78
+    0x80954bd7 - 78      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - 15      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - 47      ClothBottomsPantsLongPatch
     0xab68b2ab - 33      ClothBottomsPantsLongShortAcceptancy
@@ -3789,7 +3789,7 @@ Bottoms
     0x17f98e37 - 111     ClothBottomsSkirtLongPatchwork
     0x637cb25b - 95      ClothBottomsSkirtLongFlower
     0x9e5f0890 - 110     ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - 81
+    0x26539088 - 81      ClothBottomsBodyBaseBikini
     0x5f08864d - 124     ClothBottomsSkirtMiniSunflower
     0x0333a87c - 98      ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - 97      ClothBottomsSkirtMiniFrill
@@ -3812,7 +3812,7 @@ Bottoms
     0xc131680d - 108     ClothBottomsSkirtBoxLong
     0x517c125f - 109     ClothBottomsSkirtBoxWrap
   EUes
-    0xc666fced - 53
+    0xc666fced - 53      ClothBottomsPantsWideKneeJersey
     0x209d40fc - 13      ClothBottomsPantsLongAbc
     0x1fbefe14 - 44      ClothBottomsPantsWideOutdoor
     0xe02c489c - 39      ClothBottomsPantsWideSpace
@@ -3859,16 +3859,16 @@ Bottoms
     0x6ce3ca22 - 26      ClothBottomsPantsWideChain
     0x89830daf - 28      ClothBottomsPantsLongChino
     0xd18dfe8b - 75      ClothBottomsPantsLongDenim
-    0x56d3054a - 78
+    0x56d3054a - 78      ClothBottomsPantsWideDenimHalf
     0xfd51f935 - 4
-    0xece821b2 - 47
+    0xece821b2 - 47      ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - 64      ClothBottomsPantsWideKnit
     0x5e733b83 - 76      ClothBottomsPantsWideBaggy
     0xf55ebc07 - 62      ClothBottomsPantsWidePajama
     0x9e564246 - 40      ClothBottomsPantsWideBasketball
     0x981cab23 - 18      ClothBottomsPantsWideFlower
     0x9b3f7602 - 27      ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - 43
+    0x80954bd7 - 43      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - 7       ClothBottomsPantsLongChinoHalf
     0x2e50a051 - 34      ClothBottomsPantsLongPatch
     0xab68b2ab - 77      ClothBottomsPantsLongShortAcceptancy
@@ -3920,7 +3920,7 @@ Bottoms
     0x17f98e37 - 100     ClothBottomsSkirtLongPatchwork
     0x637cb25b - 105     ClothBottomsSkirtLongFlower
     0x9e5f0890 - 110     ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - 80
+    0x26539088 - 80      ClothBottomsBodyBaseBikini
     0x5f08864d - 115     ClothBottomsSkirtMiniSunflower
     0x0333a87c - 104     ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - 122     ClothBottomsSkirtMiniFrill
@@ -3943,7 +3943,7 @@ Bottoms
     0xc131680d - 91      ClothBottomsSkirtBoxLong
     0x517c125f - 82      ClothBottomsSkirtBoxWrap
   EUfr
-    0xc666fced - 78
+    0xc666fced - 78      ClothBottomsPantsWideKneeJersey
     0x209d40fc - 23      ClothBottomsPantsLongAbc
     0x1fbefe14 - 72      ClothBottomsPantsWideOutdoor
     0xe02c489c - 64      ClothBottomsPantsWideSpace
@@ -3990,16 +3990,16 @@ Bottoms
     0x6ce3ca22 - 29      ClothBottomsPantsWideChain
     0x89830daf - 11      ClothBottomsPantsLongChino
     0xd18dfe8b - 15      ClothBottomsPantsLongDenim
-    0x56d3054a - 6
+    0x56d3054a - 6       ClothBottomsPantsWideDenimHalf
     0xfd51f935 - 62
-    0xece821b2 - 3
+    0xece821b2 - 3       ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - 58      ClothBottomsPantsWideKnit
     0x5e733b83 - 0       ClothBottomsPantsWideBaggy
     0xf55ebc07 - 36      ClothBottomsPantsWidePajama
     0x9e564246 - 68      ClothBottomsPantsWideBasketball
     0x981cab23 - 49      ClothBottomsPantsWideFlower
     0x9b3f7602 - 5       ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - 76
+    0x80954bd7 - 76      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - 63      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - 57      ClothBottomsPantsLongPatch
     0xab68b2ab - 16      ClothBottomsPantsLongShortAcceptancy
@@ -4051,7 +4051,7 @@ Bottoms
     0x17f98e37 - 104     ClothBottomsSkirtLongPatchwork
     0x637cb25b - 94      ClothBottomsSkirtLongFlower
     0x9e5f0890 - 111     ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - 80
+    0x26539088 - 80      ClothBottomsBodyBaseBikini
     0x5f08864d - 82      ClothBottomsSkirtMiniSunflower
     0x0333a87c - 103     ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - 112     ClothBottomsSkirtMiniFrill
@@ -4074,7 +4074,7 @@ Bottoms
     0xc131680d - 88      ClothBottomsSkirtBoxLong
     0x517c125f - 109     ClothBottomsSkirtBoxWrap
   EUde
-    0xc666fced - 73
+    0xc666fced - 73      ClothBottomsPantsWideKneeJersey
     0x209d40fc - 0       ClothBottomsPantsLongAbc
     0x1fbefe14 - 75      ClothBottomsPantsWideOutdoor
     0xe02c489c - 77      ClothBottomsPantsWideSpace
@@ -4121,16 +4121,16 @@ Bottoms
     0x6ce3ca22 - 43      ClothBottomsPantsWideChain
     0x89830daf - 13      ClothBottomsPantsLongChino
     0xd18dfe8b - 34      ClothBottomsPantsLongDenim
-    0x56d3054a - 35
+    0x56d3054a - 35      ClothBottomsPantsWideDenimHalf
     0xfd51f935 - 53
-    0xece821b2 - 54
+    0xece821b2 - 54      ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - 68      ClothBottomsPantsWideKnit
     0x5e733b83 - 63      ClothBottomsPantsWideBaggy
     0xf55ebc07 - 59      ClothBottomsPantsWidePajama
     0x9e564246 - 7       ClothBottomsPantsWideBasketball
     0x981cab23 - 8       ClothBottomsPantsWideFlower
     0x9b3f7602 - 12      ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - 74
+    0x80954bd7 - 74      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - 14      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - 25      ClothBottomsPantsLongPatch
     0xab68b2ab - 18      ClothBottomsPantsLongShortAcceptancy
@@ -4182,7 +4182,7 @@ Bottoms
     0x17f98e37 - 108     ClothBottomsSkirtLongPatchwork
     0x637cb25b - 87      ClothBottomsSkirtLongFlower
     0x9e5f0890 - 95      ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - 83
+    0x26539088 - 83      ClothBottomsBodyBaseBikini
     0x5f08864d - 114     ClothBottomsSkirtMiniSunflower
     0x0333a87c - 91      ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - 113     ClothBottomsSkirtMiniFrill
@@ -4205,7 +4205,7 @@ Bottoms
     0xc131680d - 84      ClothBottomsSkirtBoxLong
     0x517c125f - 128     ClothBottomsSkirtBoxWrap
   EUit
-    0xc666fced - 10
+    0xc666fced - 10      ClothBottomsPantsWideKneeJersey
     0x209d40fc - 45      ClothBottomsPantsLongAbc
     0x1fbefe14 - 33      ClothBottomsPantsWideOutdoor
     0xe02c489c - 4       ClothBottomsPantsWideSpace
@@ -4252,16 +4252,16 @@ Bottoms
     0x6ce3ca22 - 42      ClothBottomsPantsWideChain
     0x89830daf - 60      ClothBottomsPantsLongChino
     0xd18dfe8b - 14      ClothBottomsPantsLongDenim
-    0x56d3054a - 5
+    0x56d3054a - 5       ClothBottomsPantsWideDenimHalf
     0xfd51f935 - 23
-    0xece821b2 - 0
+    0xece821b2 - 0       ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - 35      ClothBottomsPantsWideKnit
     0x5e733b83 - 16      ClothBottomsPantsWideBaggy
     0xf55ebc07 - 58      ClothBottomsPantsWidePajama
     0x9e564246 - 25      ClothBottomsPantsWideBasketball
     0x981cab23 - 69      ClothBottomsPantsWideFlower
     0x9b3f7602 - 2       ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - 30
+    0x80954bd7 - 30      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - 34      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - 50      ClothBottomsPantsLongPatch
     0xab68b2ab - 15      ClothBottomsPantsLongShortAcceptancy
@@ -4313,7 +4313,7 @@ Bottoms
     0x17f98e37 - 105     ClothBottomsSkirtLongPatchwork
     0x637cb25b - 81      ClothBottomsSkirtLongFlower
     0x9e5f0890 - 113     ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - 128
+    0x26539088 - 128     ClothBottomsBodyBaseBikini
     0x5f08864d - 114     ClothBottomsSkirtMiniSunflower
     0x0333a87c - 97      ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - 109     ClothBottomsSkirtMiniFrill
@@ -4336,7 +4336,7 @@ Bottoms
     0xc131680d - 101     ClothBottomsSkirtBoxLong
     0x517c125f - 85      ClothBottomsSkirtBoxWrap
   EUpt
-    0xc666fced - -1
+    0xc666fced - -1      ClothBottomsPantsWideKneeJersey
     0x209d40fc - -1      ClothBottomsPantsLongAbc
     0x1fbefe14 - -1      ClothBottomsPantsWideOutdoor
     0xe02c489c - -1      ClothBottomsPantsWideSpace
@@ -4383,16 +4383,16 @@ Bottoms
     0x6ce3ca22 - -1      ClothBottomsPantsWideChain
     0x89830daf - -1      ClothBottomsPantsLongChino
     0xd18dfe8b - -1      ClothBottomsPantsLongDenim
-    0x56d3054a - -1
+    0x56d3054a - -1      ClothBottomsPantsWideDenimHalf
     0xfd51f935 - -1
-    0xece821b2 - -1
+    0xece821b2 - -1      ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - -1      ClothBottomsPantsWideKnit
     0x5e733b83 - -1      ClothBottomsPantsWideBaggy
     0xf55ebc07 - -1      ClothBottomsPantsWidePajama
     0x9e564246 - -1      ClothBottomsPantsWideBasketball
     0x981cab23 - -1      ClothBottomsPantsWideFlower
     0x9b3f7602 - -1      ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - -1
+    0x80954bd7 - -1      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - -1      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - -1      ClothBottomsPantsLongPatch
     0xab68b2ab - -1      ClothBottomsPantsLongShortAcceptancy
@@ -4444,7 +4444,7 @@ Bottoms
     0x17f98e37 - -1      ClothBottomsSkirtLongPatchwork
     0x637cb25b - -1      ClothBottomsSkirtLongFlower
     0x9e5f0890 - -1      ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - -1
+    0x26539088 - -1      ClothBottomsBodyBaseBikini
     0x5f08864d - -1      ClothBottomsSkirtMiniSunflower
     0x0333a87c - -1      ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - -1      ClothBottomsSkirtMiniFrill
@@ -4467,7 +4467,7 @@ Bottoms
     0xc131680d - -1      ClothBottomsSkirtBoxLong
     0x517c125f - -1      ClothBottomsSkirtBoxWrap
   EUnl
-    0xc666fced - 42
+    0xc666fced - 42      ClothBottomsPantsWideKneeJersey
     0x209d40fc - 0       ClothBottomsPantsLongAbc
     0x1fbefe14 - 58      ClothBottomsPantsWideOutdoor
     0xe02c489c - 22      ClothBottomsPantsWideSpace
@@ -4514,16 +4514,16 @@ Bottoms
     0x6ce3ca22 - 60      ClothBottomsPantsWideChain
     0x89830daf - 40      ClothBottomsPantsLongChino
     0xd18dfe8b - 68      ClothBottomsPantsLongDenim
-    0x56d3054a - 54
+    0x56d3054a - 54      ClothBottomsPantsWideDenimHalf
     0xfd51f935 - 30
-    0xece821b2 - 29
+    0xece821b2 - 29      ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - 24      ClothBottomsPantsWideKnit
     0x5e733b83 - 77      ClothBottomsPantsWideBaggy
     0xf55ebc07 - 64      ClothBottomsPantsWidePajama
     0x9e564246 - 43      ClothBottomsPantsWideBasketball
     0x981cab23 - 74      ClothBottomsPantsWideFlower
     0x9b3f7602 - 50      ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - 55
+    0x80954bd7 - 55      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - 49      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - 8       ClothBottomsPantsLongPatch
     0xab68b2ab - 70      ClothBottomsPantsLongShortAcceptancy
@@ -4575,7 +4575,7 @@ Bottoms
     0x17f98e37 - 114     ClothBottomsSkirtLongPatchwork
     0x637cb25b - 81      ClothBottomsSkirtLongFlower
     0x9e5f0890 - 108     ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - 80
+    0x26539088 - 80      ClothBottomsBodyBaseBikini
     0x5f08864d - 112     ClothBottomsSkirtMiniSunflower
     0x0333a87c - 93      ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - 111     ClothBottomsSkirtMiniFrill
@@ -4598,7 +4598,7 @@ Bottoms
     0xc131680d - 98      ClothBottomsSkirtBoxLong
     0x517c125f - 100     ClothBottomsSkirtBoxWrap
   EUru
-    0xc666fced - -1
+    0xc666fced - -1      ClothBottomsPantsWideKneeJersey
     0x209d40fc - -1      ClothBottomsPantsLongAbc
     0x1fbefe14 - -1      ClothBottomsPantsWideOutdoor
     0xe02c489c - -1      ClothBottomsPantsWideSpace
@@ -4645,16 +4645,16 @@ Bottoms
     0x6ce3ca22 - -1      ClothBottomsPantsWideChain
     0x89830daf - -1      ClothBottomsPantsLongChino
     0xd18dfe8b - -1      ClothBottomsPantsLongDenim
-    0x56d3054a - -1
+    0x56d3054a - -1      ClothBottomsPantsWideDenimHalf
     0xfd51f935 - -1
-    0xece821b2 - -1
+    0xece821b2 - -1      ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - -1      ClothBottomsPantsWideKnit
     0x5e733b83 - -1      ClothBottomsPantsWideBaggy
     0xf55ebc07 - -1      ClothBottomsPantsWidePajama
     0x9e564246 - -1      ClothBottomsPantsWideBasketball
     0x981cab23 - -1      ClothBottomsPantsWideFlower
     0x9b3f7602 - -1      ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - -1
+    0x80954bd7 - -1      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - -1      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - -1      ClothBottomsPantsLongPatch
     0xab68b2ab - -1      ClothBottomsPantsLongShortAcceptancy
@@ -4706,7 +4706,7 @@ Bottoms
     0x17f98e37 - -1      ClothBottomsSkirtLongPatchwork
     0x637cb25b - -1      ClothBottomsSkirtLongFlower
     0x9e5f0890 - -1      ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - -1
+    0x26539088 - -1      ClothBottomsBodyBaseBikini
     0x5f08864d - -1      ClothBottomsSkirtMiniSunflower
     0x0333a87c - -1      ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - -1      ClothBottomsSkirtMiniFrill
@@ -4729,7 +4729,7 @@ Bottoms
     0xc131680d - -1      ClothBottomsSkirtBoxLong
     0x517c125f - -1      ClothBottomsSkirtBoxWrap
   KRko
-    0xc666fced - 0
+    0xc666fced - 0       ClothBottomsPantsWideKneeJersey
     0x209d40fc - 1       ClothBottomsPantsLongAbc
     0x1fbefe14 - 43      ClothBottomsPantsWideOutdoor
     0xe02c489c - 46      ClothBottomsPantsWideSpace
@@ -4776,16 +4776,16 @@ Bottoms
     0x6ce3ca22 - 55      ClothBottomsPantsWideChain
     0x89830daf - 63      ClothBottomsPantsLongChino
     0xd18dfe8b - 53      ClothBottomsPantsLongDenim
-    0x56d3054a - 54
+    0x56d3054a - 54      ClothBottomsPantsWideDenimHalf
     0xfd51f935 - 13
-    0xece821b2 - 12
+    0xece821b2 - 12      ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - 9       ClothBottomsPantsWideKnit
     0x5e733b83 - 24      ClothBottomsPantsWideBaggy
     0xf55ebc07 - 75      ClothBottomsPantsWidePajama
     0x9e564246 - 8       ClothBottomsPantsWideBasketball
     0x981cab23 - 6       ClothBottomsPantsWideFlower
     0x9b3f7602 - 65      ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - 74
+    0x80954bd7 - 74      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - 62      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - 21      ClothBottomsPantsLongPatch
     0xab68b2ab - 77      ClothBottomsPantsLongShortAcceptancy
@@ -4837,7 +4837,7 @@ Bottoms
     0x17f98e37 - 124     ClothBottomsSkirtLongPatchwork
     0x637cb25b - 86      ClothBottomsSkirtLongFlower
     0x9e5f0890 - 128     ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - 107
+    0x26539088 - 107     ClothBottomsBodyBaseBikini
     0x5f08864d - 129     ClothBottomsSkirtMiniSunflower
     0x0333a87c - 116     ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - 125     ClothBottomsSkirtMiniFrill
@@ -4860,7 +4860,7 @@ Bottoms
     0xc131680d - 80      ClothBottomsSkirtBoxLong
     0x517c125f - 94      ClothBottomsSkirtBoxWrap
   CNzh
-    0xc666fced - 42
+    0xc666fced - 42      ClothBottomsPantsWideKneeJersey
     0x209d40fc - 0       ClothBottomsPantsLongAbc
     0x1fbefe14 - 25      ClothBottomsPantsWideOutdoor
     0xe02c489c - 72      ClothBottomsPantsWideSpace
@@ -4907,16 +4907,16 @@ Bottoms
     0x6ce3ca22 - 41      ClothBottomsPantsWideChain
     0x89830daf - 65      ClothBottomsPantsLongChino
     0xd18dfe8b - 45      ClothBottomsPantsLongDenim
-    0x56d3054a - 46
+    0x56d3054a - 46      ClothBottomsPantsWideDenimHalf
     0xfd51f935 - 2
-    0xece821b2 - 3
+    0xece821b2 - 3       ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - 76      ClothBottomsPantsWideKnit
     0x5e733b83 - 39      ClothBottomsPantsWideBaggy
     0xf55ebc07 - 57      ClothBottomsPantsWidePajama
     0x9e564246 - 40      ClothBottomsPantsWideBasketball
     0x981cab23 - 26      ClothBottomsPantsWideFlower
     0x9b3f7602 - 20      ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - 75
+    0x80954bd7 - 75      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - 66      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - 63      ClothBottomsPantsLongPatch
     0xab68b2ab - 69      ClothBottomsPantsLongShortAcceptancy
@@ -4968,7 +4968,7 @@ Bottoms
     0x17f98e37 - 113     ClothBottomsSkirtLongPatchwork
     0x637cb25b - 96      ClothBottomsSkirtLongFlower
     0x9e5f0890 - 126     ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - 83
+    0x26539088 - 83      ClothBottomsBodyBaseBikini
     0x5f08864d - 123     ClothBottomsSkirtMiniSunflower
     0x0333a87c - 107     ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - 111     ClothBottomsSkirtMiniFrill
@@ -4991,7 +4991,7 @@ Bottoms
     0xc131680d - 87      ClothBottomsSkirtBoxLong
     0x517c125f - 86      ClothBottomsSkirtBoxWrap
   TWzh
-    0xc666fced - 8
+    0xc666fced - 8       ClothBottomsPantsWideKneeJersey
     0x209d40fc - 0       ClothBottomsPantsLongAbc
     0x1fbefe14 - 9       ClothBottomsPantsWideOutdoor
     0xe02c489c - 18      ClothBottomsPantsWideSpace
@@ -5038,16 +5038,16 @@ Bottoms
     0x6ce3ca22 - 74      ClothBottomsPantsWideChain
     0x89830daf - 28      ClothBottomsPantsLongChino
     0xd18dfe8b - 7       ClothBottomsPantsLongDenim
-    0x56d3054a - 6
+    0x56d3054a - 6       ClothBottomsPantsWideDenimHalf
     0xfd51f935 - 73
-    0xece821b2 - 72
+    0xece821b2 - 72      ClothBottomsPantsWideDotHalf
     0xcd3bbcc7 - 40      ClothBottomsPantsWideKnit
     0x5e733b83 - 63      ClothBottomsPantsWideBaggy
     0xf55ebc07 - 62      ClothBottomsPantsWidePajama
     0x9e564246 - 78      ClothBottomsPantsWideBasketball
     0x981cab23 - 23      ClothBottomsPantsWideFlower
     0x9b3f7602 - 49      ClothBottomsPantsWideCargoHalf
-    0x80954bd7 - 10
+    0x80954bd7 - 10      ClothBottomsPantsWideJerseyHalf
     0x4690ab4a - 50      ClothBottomsPantsLongChinoHalf
     0x2e50a051 - 64      ClothBottomsPantsLongPatch
     0xab68b2ab - 17      ClothBottomsPantsLongShortAcceptancy
@@ -5099,7 +5099,7 @@ Bottoms
     0x17f98e37 - 101     ClothBottomsSkirtLongPatchwork
     0x637cb25b - 98      ClothBottomsSkirtLongFlower
     0x9e5f0890 - 89      ClothBottomsSkirtMiniHeartBuckle
-    0x26539088 - 83
+    0x26539088 - 83      ClothBottomsBodyBaseBikini
     0x5f08864d - 96      ClothBottomsSkirtMiniSunflower
     0x0333a87c - 93      ClothBottomsSkirtLongFolklore
     0xac3ff5c2 - 124     ClothBottomsSkirtMiniFrill
@@ -23530,7 +23530,7 @@ Shoes
     0x1e66b72e - 15      ClothShoesSandalComfort
     0xbc457284 - 16      ClothShoesBootsShortSideGore
     0xdef534a7 - 17      ClothShoesSneakerSideline
-    0x7dbe51a4 - 18
+    0x7dbe51a4 - 18      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - 19      ClothShoesBootsLongSanta
     0x007347db - 20      ClothShoesSandalJelly
     0x8a7758f3 - 21      ClothShoesSandalShower
@@ -23618,7 +23618,7 @@ Shoes
     0x1e66b72e - 11      ClothShoesSandalComfort
     0xbc457284 - 49      ClothShoesBootsShortSideGore
     0xdef534a7 - 50      ClothShoesSneakerSideline
-    0x7dbe51a4 - 42
+    0x7dbe51a4 - 42      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - 44      ClothShoesBootsLongSanta
     0x007347db - 25      ClothShoesSandalJelly
     0x8a7758f3 - 48      ClothShoesSandalShower
@@ -23706,7 +23706,7 @@ Shoes
     0x1e66b72e - 32      ClothShoesSandalComfort
     0xbc457284 - 16      ClothShoesBootsShortSideGore
     0xdef534a7 - 51      ClothShoesSneakerSideline
-    0x7dbe51a4 - 66
+    0x7dbe51a4 - 66      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - 12      ClothShoesBootsLongSanta
     0x007347db - 40      ClothShoesSandalJelly
     0x8a7758f3 - 33      ClothShoesSandalShower
@@ -23794,7 +23794,7 @@ Shoes
     0x1e66b72e - 39      ClothShoesSandalComfort
     0xbc457284 - 14      ClothShoesBootsShortSideGore
     0xdef534a7 - 17      ClothShoesSneakerSideline
-    0x7dbe51a4 - 47
+    0x7dbe51a4 - 47      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - 9       ClothShoesBootsLongSanta
     0x007347db - 45      ClothShoesSandalJelly
     0x8a7758f3 - 26      ClothShoesSandalShower
@@ -23882,7 +23882,7 @@ Shoes
     0x1e66b72e - -1      ClothShoesSandalComfort
     0xbc457284 - -1      ClothShoesBootsShortSideGore
     0xdef534a7 - -1      ClothShoesSneakerSideline
-    0x7dbe51a4 - -1
+    0x7dbe51a4 - -1      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - -1      ClothShoesBootsLongSanta
     0x007347db - -1      ClothShoesSandalJelly
     0x8a7758f3 - -1      ClothShoesSandalShower
@@ -23970,7 +23970,7 @@ Shoes
     0x1e66b72e - 9       ClothShoesSandalComfort
     0xbc457284 - 1       ClothShoesBootsShortSideGore
     0xdef534a7 - 49      ClothShoesSneakerSideline
-    0x7dbe51a4 - 44
+    0x7dbe51a4 - 44      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - 46      ClothShoesBootsLongSanta
     0x007347db - 25      ClothShoesSandalJelly
     0x8a7758f3 - 48      ClothShoesSandalShower
@@ -24058,7 +24058,7 @@ Shoes
     0x1e66b72e - 38      ClothShoesSandalComfort
     0xbc457284 - 17      ClothShoesBootsShortSideGore
     0xdef534a7 - 46      ClothShoesSneakerSideline
-    0x7dbe51a4 - 66
+    0x7dbe51a4 - 66      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - 10      ClothShoesBootsLongSanta
     0x007347db - 19      ClothShoesSandalJelly
     0x8a7758f3 - 20      ClothShoesSandalShower
@@ -24146,7 +24146,7 @@ Shoes
     0x1e66b72e - 41      ClothShoesSandalComfort
     0xbc457284 - 26      ClothShoesBootsShortSideGore
     0xdef534a7 - 1       ClothShoesSneakerSideline
-    0x7dbe51a4 - 63
+    0x7dbe51a4 - 63      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - 17      ClothShoesBootsLongSanta
     0x007347db - 65      ClothShoesSandalJelly
     0x8a7758f3 - 42      ClothShoesSandalShower
@@ -24234,7 +24234,7 @@ Shoes
     0x1e66b72e - 19      ClothShoesSandalComfort
     0xbc457284 - 49      ClothShoesBootsShortSideGore
     0xdef534a7 - 61      ClothShoesSneakerSideline
-    0x7dbe51a4 - 36
+    0x7dbe51a4 - 36      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - 60      ClothShoesBootsLongSanta
     0x007347db - 11      ClothShoesSandalJelly
     0x8a7758f3 - 1       ClothShoesSandalShower
@@ -24322,7 +24322,7 @@ Shoes
     0x1e66b72e - 15      ClothShoesSandalComfort
     0xbc457284 - 53      ClothShoesBootsShortSideGore
     0xdef534a7 - 28      ClothShoesSneakerSideline
-    0x7dbe51a4 - 14
+    0x7dbe51a4 - 14      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - 61      ClothShoesBootsLongSanta
     0x007347db - 18      ClothShoesSandalJelly
     0x8a7758f3 - 2       ClothShoesSandalShower
@@ -24410,7 +24410,7 @@ Shoes
     0x1e66b72e - -1      ClothShoesSandalComfort
     0xbc457284 - -1      ClothShoesBootsShortSideGore
     0xdef534a7 - -1      ClothShoesSneakerSideline
-    0x7dbe51a4 - -1
+    0x7dbe51a4 - -1      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - -1      ClothShoesBootsLongSanta
     0x007347db - -1      ClothShoesSandalJelly
     0x8a7758f3 - -1      ClothShoesSandalShower
@@ -24498,7 +24498,7 @@ Shoes
     0x1e66b72e - 5       ClothShoesSandalComfort
     0xbc457284 - 11      ClothShoesBootsShortSideGore
     0xdef534a7 - 56      ClothShoesSneakerSideline
-    0x7dbe51a4 - 53
+    0x7dbe51a4 - 53      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - 64      ClothShoesBootsLongSanta
     0x007347db - 45      ClothShoesSandalJelly
     0x8a7758f3 - 8       ClothShoesSandalShower
@@ -24586,7 +24586,7 @@ Shoes
     0x1e66b72e - -1      ClothShoesSandalComfort
     0xbc457284 - -1      ClothShoesBootsShortSideGore
     0xdef534a7 - -1      ClothShoesSneakerSideline
-    0x7dbe51a4 - -1
+    0x7dbe51a4 - -1      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - -1      ClothShoesBootsLongSanta
     0x007347db - -1      ClothShoesSandalJelly
     0x8a7758f3 - -1      ClothShoesSandalShower
@@ -24674,7 +24674,7 @@ Shoes
     0x1e66b72e - 56      ClothShoesSandalComfort
     0xbc457284 - 29      ClothShoesBootsShortSideGore
     0xdef534a7 - 30      ClothShoesSneakerSideline
-    0x7dbe51a4 - 28
+    0x7dbe51a4 - 28      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - 31      ClothShoesBootsLongSanta
     0x007347db - 52      ClothShoesSandalJelly
     0x8a7758f3 - 38      ClothShoesSandalShower
@@ -24762,7 +24762,7 @@ Shoes
     0x1e66b72e - 51      ClothShoesSandalComfort
     0xbc457284 - 45      ClothShoesBootsShortSideGore
     0xdef534a7 - 4       ClothShoesSneakerSideline
-    0x7dbe51a4 - 35
+    0x7dbe51a4 - 35      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - 48      ClothShoesBootsLongSanta
     0x007347db - 21      ClothShoesSandalJelly
     0x8a7758f3 - 64      ClothShoesSandalShower
@@ -24850,7 +24850,7 @@ Shoes
     0x1e66b72e - 63      ClothShoesSandalComfort
     0xbc457284 - 5       ClothShoesBootsShortSideGore
     0xdef534a7 - 59      ClothShoesSneakerSideline
-    0x7dbe51a4 - 51
+    0x7dbe51a4 - 51      ClothTopsCoatLongRetroUnfaded
     0x663252a5 - 48      ClothShoesBootsLongSanta
     0x007347db - 19      ClothShoesSandalJelly
     0x8a7758f3 - 30      ClothShoesSandalShower
@@ -25754,14 +25754,14 @@ Tops
     0x2b612148 - 13      ClothTopsYshirtPuffLempard
     0x2460eecd - 14      ClothTopsTshirtLongAlphabet
     0x713e3cae - 15
-    0x904d8aae - 16
+    0x904d8aae - 16      ClothTopsYshirtLongArgyleVest
     0x180629e3 - 17
-    0x79431aa2 - 18
+    0x79431aa2 - 18      ClothTopsMantleLongVampire
     0x1877a422 - 19      ClothTopsOuterLongWindbreaker
     0x68ca24f9 - 20      ClothTopsYshirtLongWestern
     0x795550c5 - 21      ClothTopsOuterLongSpace
     0x207ef996 - 22      ClothTopsCoatLongApron
-    0xb32ff2b8 - 23
+    0xb32ff2b8 - 23      ClothTopsMantleLongTailcoat
     0x9f7e76a5 - 24      ClothTopsCoatLongKnit
     0x6489bb63 - 25
     0x5c96c992 - 26      ClothTopsCoatLongPirate
@@ -25773,7 +25773,7 @@ Tops
     0x7f6dc157 - 32      ClothTopsTshirtLongLayered
     0xef6b1067 - 33      ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - 34      ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - 35
+    0x399d497e - 35      ClothTopsOuterLongFleecePattern
     0x2762f288 - 36      ClothTopslongSalopetteRtharidu
     0x49f71c02 - 37      ClothTopsOuterLongCollege
     0x8c2afbb2 - 38      ClothTopsTshirtHalfKanji
@@ -25783,9 +25783,9 @@ Tops
     0x582e5428 - 42      ClothTopsYshirtHalfCuba
     0x22294a4b - 43      ClothTopsTshirtHalfSwitching
     0x5e453266 - 44      ClothTopsYshirtLongQuilting
-    0xf0dc9743 - 45
+    0xf0dc9743 - 45      ClothTopsYshirtLongGinghamCheck
     0x0999299e - 46      ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - 47
+    0x7c2dcb47 - 47      ClothTopsCoatHalfGladiator
     0x13e12f9d - 48      ClothTopsOuterLongGradation
     0xabc5f643 - 49      ClothTopsOuterLongHoliday
     0xc9a32fb8 - 50      ClothTopsCoatLongKurta
@@ -25824,7 +25824,7 @@ Tops
     0x431043c9 - 83      ClothTopsOuterLongSki
     0x0e31ecc6 - 84      ClothTopsOuterLongStadium
     0xc7fda841 - 85      ClothTopsTshirtHalfStar
-    0x80103bd9 - 86
+    0x80103bd9 - 86      ClothTopsMantleLongSteamPunk
     0x65b488aa - 87      ClothTopsYshirtHalfSticker
     0xf5169026 - 88      ClothTopsCoatLongSoutienCollar
     0x02652fb2 - 89      ClothTopsTshirtHalfStripe
@@ -25850,7 +25850,7 @@ Tops
     0x3686ace2 - 109     ClothTopsCoatLongCheck
     0xc1f85f39 - 110
     0x657e425a - 111     ClothTopsCroppedTee
-    0x7eda47b0 - 112
+    0x7eda47b0 - 112     ClothTopsCoatHalfTunic
     0x054f0db7 - 113     ClothTopsTshirtLongTilden
     0x05d77d6e - 114     ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - 115     ClothTopsYshirtLongDenim
@@ -25862,7 +25862,7 @@ Tops
     0x2df7881a - 121     ClothTopsYshirtHalfNurse
     0xc8a7934a - 122     ClothTopsCoatLongKnitGown
     0xff4a3b2f - 123     ClothTopsYshirtLongFlannel
-    0xbf51fd74 - 124
+    0xbf51fd74 - 124     ClothTopsOuterLongNordicSweater
     0x30870223 - 125     ClothTopsCoatLongNocollar
     0x87d5b2d6 - 126     ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - 127     ClothTopsYshirtSleevelessTurtleneckKnit
@@ -25870,7 +25870,7 @@ Tops
     0x5561d63b - 129
     0x6b924271 - 130
     0x8773807d - 131     ClothTopsYshirtLongBicolor
-    0x612e5976 - 132
+    0x612e5976 - 132     ClothTopsMantleLongViking
     0xfcebf781 - 133     ClothTopsYshirtHalfHibiscus
     0x9506a624 - 134
     0x3bd82f2f - 135     ClothTopsCoatLongDoctor
@@ -25890,19 +25890,19 @@ Tops
     0x3195f31d - 149
     0x24edc890 - 150     ClothTopsTshirtHalfBigNumber
     0x420a3d78 - 151     ClothTopsCoatLongBorder
-    0xf9f269b9 - 152
+    0xf9f269b9 - 152     ClothTopsCoatHalfLeopard
     0x5eb9c32f - 153     ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - 154     ClothTopsCoatLongPea
-    0xe989142d - 155
+    0xe989142d - 155     ClothTopsCoatHalfFire
     0x5ee888a9 - 156     ClothTopsTshirtLongFigure
     0x0f8bdd29 - 157     ClothTopsTshirtHalfFestival
     0xdf1aaa07 - 158     ClothTopsTshirtHalfPhoto
     0x41824370 - 159     ClothTopsTshirtLongFrilled
-    0x2cd1789c - 160
+    0x2cd1789c - 160     ClothTopsMantleLongPrince
     0x5060c753 - 161     ClothTopsOuterLongParka
     0x4f0402e0 - 162     ClothTopsOuterLongParkaZip
     0xec85dd61 - 163     ClothTopsTshirtHalfFruits
-    0x22171db3 - 164
+    0x22171db3 - 164     ClothTopsYshirtLongBlazerTie
     0x00700c90 - 165     ClothTopsTshirtLongPaisley
     0x84e636f4 - 166     ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - 167
@@ -25942,7 +25942,7 @@ Tops
     0x7ffa14e2 - 201     ClothTopsTshirtLongLayer
     0x84254dad - 202     ClothTopsCoatLongRain
     0xcc1528f2 - 203     ClothTopsCoatLongLeather
-    0xe44c9300 - 204
+    0xe44c9300 - 204     ClothTopsCoatHalfRestaurant
     0xff4124dc - 205     ClothTopsYshirtLongRetroCheck
     0xede30826 - 206     ClothTopsTshirtLongRetro
     0xe0f86bdc - 207
@@ -25967,7 +25967,7 @@ Tops
     0x3b62bcc4 - 226     ClothTopsBandana
     0x3cadac84 - 227
     0xd67b659c - 228     ClothTopsBodyBaseBikini
-    0xb8d00994 - 229
+    0xb8d00994 - 229     ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - 230     ClothTopsLace
   USen
     0xef7104a1 - 0       ClothTopsOuterLongAbc
@@ -25986,14 +25986,14 @@ Tops
     0x2b612148 - 7       ClothTopsYshirtPuffLempard
     0x2460eecd - 92      ClothTopsTshirtLongAlphabet
     0x713e3cae - 146
-    0x904d8aae - 8
+    0x904d8aae - 8       ClothTopsYshirtLongArgyleVest
     0x180629e3 - 96
-    0x79431aa2 - 195
+    0x79431aa2 - 195     ClothTopsMantleLongVampire
     0x1877a422 - 206     ClothTopsOuterLongWindbreaker
     0x68ca24f9 - 204     ClothTopsYshirtLongWestern
     0x795550c5 - 169     ClothTopsOuterLongSpace
     0x207ef996 - 6       ClothTopsCoatLongApron
-    0xb32ff2b8 - 179
+    0xb32ff2b8 - 179     ClothTopsMantleLongTailcoat
     0x9f7e76a5 - 108     ClothTopsCoatLongKnit
     0x6489bb63 - 105
     0x5c96c992 - 122     ClothTopsCoatLongPirate
@@ -26005,7 +26005,7 @@ Tops
     0x7f6dc157 - 89      ClothTopsTshirtLongLayered
     0xef6b1067 - 88      ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - 147     ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - 113
+    0x399d497e - 113     ClothTopsOuterLongFleecePattern
     0x2762f288 - 196     ClothTopslongSalopetteRtharidu
     0x49f71c02 - 193     ClothTopsOuterLongCollege
     0x8c2afbb2 - 83      ClothTopsTshirtHalfKanji
@@ -26015,9 +26015,9 @@ Tops
     0x582e5428 - 73      ClothTopsYshirtHalfCuba
     0x22294a4b - 37      ClothTopsTshirtHalfSwitching
     0x5e453266 - 132     ClothTopsYshirtLongQuilting
-    0xf0dc9743 - 68
+    0xf0dc9743 - 68      ClothTopsYshirtLongGinghamCheck
     0x0999299e - 70      ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - 69
+    0x7c2dcb47 - 69      ClothTopsCoatHalfGladiator
     0x13e12f9d - 71      ClothTopsOuterLongGradation
     0xabc5f643 - 192     ClothTopsOuterLongHoliday
     0xc9a32fb8 - 85      ClothTopsCoatLongKurta
@@ -26056,7 +26056,7 @@ Tops
     0x431043c9 - 156     ClothTopsOuterLongSki
     0x0e31ecc6 - 197     ClothTopsOuterLongStadium
     0xc7fda841 - 170     ClothTopsTshirtHalfStar
-    0x80103bd9 - 171
+    0x80103bd9 - 171     ClothTopsMantleLongSteamPunk
     0x65b488aa - 172     ClothTopsYshirtHalfSticker
     0xf5169026 - 13      ClothTopsCoatLongSoutienCollar
     0x02652fb2 - 199     ClothTopsTshirtHalfStripe
@@ -26082,7 +26082,7 @@ Tops
     0x3686ace2 - 124     ClothTopsCoatLongCheck
     0xc1f85f39 - 126
     0x657e425a - 43      ClothTopsCroppedTee
-    0x7eda47b0 - 189
+    0x7eda47b0 - 189     ClothTopsCoatHalfTunic
     0x054f0db7 - 183     ClothTopsTshirtLongTilden
     0x05d77d6e - 180     ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - 44      ClothTopsYshirtLongDenim
@@ -26094,7 +26094,7 @@ Tops
     0x2df7881a - 104     ClothTopsYshirtHalfNurse
     0xc8a7934a - 93      ClothTopsCoatLongKnitGown
     0xff4a3b2f - 61      ClothTopsYshirtLongFlannel
-    0xbf51fd74 - 103
+    0xbf51fd74 - 103     ClothTopsOuterLongNordicSweater
     0x30870223 - 36      ClothTopsCoatLongNocollar
     0x87d5b2d6 - 164     ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - 166     ClothTopsYshirtSleevelessTurtleneckKnit
@@ -26102,7 +26102,7 @@ Tops
     0x5561d63b - 162
     0x6b924271 - 161
     0x8773807d - 191     ClothTopsYshirtLongBicolor
-    0x612e5976 - 201
+    0x612e5976 - 201     ClothTopsMantleLongViking
     0xfcebf781 - 79      ClothTopsYshirtHalfHibiscus
     0x9506a624 - 121
     0x3bd82f2f - 86      ClothTopsCoatLongDoctor
@@ -26122,19 +26122,19 @@ Tops
     0x3195f31d - 109
     0x24edc890 - 24      ClothTopsTshirtHalfBigNumber
     0x420a3d78 - 12      ClothTopsCoatLongBorder
-    0xf9f269b9 - 91
+    0xf9f269b9 - 91      ClothTopsCoatHalfLeopard
     0x5eb9c32f - 94      ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - 118     ClothTopsCoatLongPea
-    0xe989142d - 60
+    0xe989142d - 60      ClothTopsCoatHalfFire
     0x5ee888a9 - 59      ClothTopsTshirtLongFigure
     0x0f8bdd29 - 58      ClothTopsTshirtHalfFestival
     0xdf1aaa07 - 120     ClothTopsTshirtHalfPhoto
     0x41824370 - 63      ClothTopsTshirtLongFrilled
-    0x2cd1789c - 130
+    0x2cd1789c - 130     ClothTopsMantleLongPrince
     0x5060c753 - 17      ClothTopsOuterLongParka
     0x4f0402e0 - 209     ClothTopsOuterLongParkaZip
     0xec85dd61 - 64      ClothTopsTshirtHalfFruits
-    0x22171db3 - 26
+    0x22171db3 - 26      ClothTopsYshirtLongBlazerTie
     0x00700c90 - 110     ClothTopsTshirtLongPaisley
     0x84e636f4 - 14      ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - 28
@@ -26174,7 +26174,7 @@ Tops
     0x7ffa14e2 - 151     ClothTopsTshirtLongLayer
     0x84254dad - 136     ClothTopsCoatLongRain
     0xcc1528f2 - 90      ClothTopsCoatLongLeather
-    0xe44c9300 - 137
+    0xe44c9300 - 137     ClothTopsCoatHalfRestaurant
     0xff4124dc - 125     ClothTopsYshirtLongRetroCheck
     0xede30826 - 138     ClothTopsTshirtLongRetro
     0xe0f86bdc - 140
@@ -26199,7 +26199,7 @@ Tops
     0x3b62bcc4 - 210     ClothTopsBandana
     0x3cadac84 - 219
     0xd67b659c - 212     ClothTopsBodyBaseBikini
-    0xb8d00994 - 213
+    0xb8d00994 - 213     ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - 220     ClothTopsLace
   USes
     0xef7104a1 - 174     ClothTopsOuterLongAbc
@@ -26218,14 +26218,14 @@ Tops
     0x2b612148 - 201     ClothTopsYshirtPuffLempard
     0x2460eecd - 100     ClothTopsTshirtLongAlphabet
     0x713e3cae - 123
-    0x904d8aae - 125
+    0x904d8aae - 125     ClothTopsYshirtLongArgyleVest
     0x180629e3 - 178
-    0x79431aa2 - 18
+    0x79431aa2 - 18      ClothTopsMantleLongVampire
     0x1877a422 - 132     ClothTopsOuterLongWindbreaker
     0x68ca24f9 - 67      ClothTopsYshirtLongWestern
     0x795550c5 - 180     ClothTopsOuterLongSpace
     0x207ef996 - 154     ClothTopsCoatLongApron
-    0xb32ff2b8 - 157
+    0xb32ff2b8 - 157     ClothTopsMantleLongTailcoat
     0x9f7e76a5 - 186     ClothTopsCoatLongKnit
     0x6489bb63 - 38
     0x5c96c992 - 14      ClothTopsCoatLongPirate
@@ -26237,7 +26237,7 @@ Tops
     0x7f6dc157 - 84      ClothTopsTshirtLongLayered
     0xef6b1067 - 112     ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - 10      ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - 150
+    0x399d497e - 150     ClothTopsOuterLongFleecePattern
     0x2762f288 - 118     ClothTopslongSalopetteRtharidu
     0x49f71c02 - 185     ClothTopsOuterLongCollege
     0x8c2afbb2 - 92      ClothTopsTshirtHalfKanji
@@ -26247,9 +26247,9 @@ Tops
     0x582e5428 - 159     ClothTopsYshirtHalfCuba
     0x22294a4b - 102     ClothTopsTshirtHalfSwitching
     0x5e453266 - 126     ClothTopsYshirtLongQuilting
-    0xf0dc9743 - 68
+    0xf0dc9743 - 68      ClothTopsYshirtLongGinghamCheck
     0x0999299e - 105     ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - 9
+    0x7c2dcb47 - 9       ClothTopsCoatHalfGladiator
     0x13e12f9d - 191     ClothTopsOuterLongGradation
     0xabc5f643 - 195     ClothTopsOuterLongHoliday
     0xc9a32fb8 - 161     ClothTopsCoatLongKurta
@@ -26288,7 +26288,7 @@ Tops
     0x431043c9 - 143     ClothTopsOuterLongSki
     0x0e31ecc6 - 153     ClothTopsOuterLongStadium
     0xc7fda841 - 85      ClothTopsTshirtHalfStar
-    0x80103bd9 - 17
+    0x80103bd9 - 17      ClothTopsMantleLongSteamPunk
     0x65b488aa - 49      ClothTopsYshirtHalfSticker
     0xf5169026 - 1       ClothTopsCoatLongSoutienCollar
     0x02652fb2 - 109     ClothTopsTshirtHalfStripe
@@ -26314,7 +26314,7 @@ Tops
     0x3686ace2 - 2       ClothTopsCoatLongCheck
     0xc1f85f39 - 133
     0x657e425a - 110     ClothTopsCroppedTee
-    0x7eda47b0 - 209
+    0x7eda47b0 - 209     ClothTopsCoatHalfTunic
     0x054f0db7 - 193     ClothTopsTshirtLongTilden
     0x05d77d6e - 167     ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - 135     ClothTopsYshirtLongDenim
@@ -26326,7 +26326,7 @@ Tops
     0x2df7881a - 46      ClothTopsYshirtHalfNurse
     0xc8a7934a - 197     ClothTopsCoatLongKnitGown
     0xff4a3b2f - 36      ClothTopsYshirtLongFlannel
-    0xbf51fd74 - 198
+    0xbf51fd74 - 198     ClothTopsOuterLongNordicSweater
     0x30870223 - 6       ClothTopsCoatLongNocollar
     0x87d5b2d6 - 66      ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - 40      ClothTopsYshirtSleevelessTurtleneckKnit
@@ -26334,7 +26334,7 @@ Tops
     0x5561d63b - 200
     0x6b924271 - 152
     0x8773807d - 31      ClothTopsYshirtLongBicolor
-    0x612e5976 - 20
+    0x612e5976 - 20      ClothTopsMantleLongViking
     0xfcebf781 - 52      ClothTopsYshirtHalfHibiscus
     0x9506a624 - 138
     0x3bd82f2f - 21      ClothTopsCoatLongDoctor
@@ -26354,19 +26354,19 @@ Tops
     0x3195f31d - 69
     0x24edc890 - 101     ClothTopsTshirtHalfBigNumber
     0x420a3d78 - 96      ClothTopsCoatLongBorder
-    0xf9f269b9 - 93
+    0xf9f269b9 - 93      ClothTopsCoatHalfLeopard
     0x5eb9c32f - 98      ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - 4       ClothTopsCoatLongPea
-    0xe989142d - 94
+    0xe989142d - 94      ClothTopsCoatHalfFire
     0x5ee888a9 - 27      ClothTopsTshirtLongFigure
     0x0f8bdd29 - 86      ClothTopsTshirtHalfFestival
     0xdf1aaa07 - 91      ClothTopsTshirtHalfPhoto
     0x41824370 - 26      ClothTopsTshirtLongFrilled
-    0x2cd1789c - 15
+    0x2cd1789c - 15      ClothTopsMantleLongPrince
     0x5060c753 - 177     ClothTopsOuterLongParka
     0x4f0402e0 - 179     ClothTopsOuterLongParkaZip
     0xec85dd61 - 103     ClothTopsTshirtHalfFruits
-    0x22171db3 - 170
+    0x22171db3 - 170     ClothTopsYshirtLongBlazerTie
     0x00700c90 - 168     ClothTopsTshirtLongPaisley
     0x84e636f4 - 75      ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - 149
@@ -26406,7 +26406,7 @@ Tops
     0x7ffa14e2 - 206     ClothTopsTshirtLongLayer
     0x84254dad - 160     ClothTopsCoatLongRain
     0xcc1528f2 - 3       ClothTopsCoatLongLeather
-    0xe44c9300 - 16
+    0xe44c9300 - 16      ClothTopsCoatHalfRestaurant
     0xff4124dc - 37      ClothTopsYshirtLongRetroCheck
     0xede30826 - 166     ClothTopsTshirtLongRetro
     0xe0f86bdc - 72
@@ -26431,7 +26431,7 @@ Tops
     0x3b62bcc4 - 228     ClothTopsBandana
     0x3cadac84 - 222
     0xd67b659c - 210     ClothTopsBodyBaseBikini
-    0xb8d00994 - 223
+    0xb8d00994 - 223     ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - 212     ClothTopsLace
   USfr
     0xef7104a1 - 16      ClothTopsOuterLongAbc
@@ -26450,14 +26450,14 @@ Tops
     0x2b612148 - 24      ClothTopsYshirtPuffLempard
     0x2460eecd - 25      ClothTopsTshirtLongAlphabet
     0x713e3cae - 88
-    0x904d8aae - 179
+    0x904d8aae - 179     ClothTopsYshirtLongArgyleVest
     0x180629e3 - 26
-    0x79431aa2 - 100
+    0x79431aa2 - 100     ClothTopsMantleLongVampire
     0x1877a422 - 75      ClothTopsOuterLongWindbreaker
     0x68ca24f9 - 56      ClothTopsYshirtLongWestern
     0x795550c5 - 73      ClothTopsOuterLongSpace
     0x207ef996 - 131     ClothTopsCoatLongApron
-    0xb32ff2b8 - 96
+    0xb32ff2b8 - 96      ClothTopsMantleLongTailcoat
     0x9f7e76a5 - 35      ClothTopsCoatLongKnit
     0x6489bb63 - 44
     0x5c96c992 - 114     ClothTopsCoatLongPirate
@@ -26469,7 +26469,7 @@ Tops
     0x7f6dc157 - 169     ClothTopsTshirtLongLayered
     0xef6b1067 - 140     ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - 3       ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - 202
+    0x399d497e - 202     ClothTopsOuterLongFleecePattern
     0x2762f288 - 94      ClothTopslongSalopetteRtharidu
     0x49f71c02 - 29      ClothTopsOuterLongCollege
     0x8c2afbb2 - 145     ClothTopsTshirtHalfKanji
@@ -26479,9 +26479,9 @@ Tops
     0x582e5428 - 95      ClothTopsYshirtHalfCuba
     0x22294a4b - 136     ClothTopsTshirtHalfSwitching
     0x5e453266 - 204     ClothTopsYshirtLongQuilting
-    0xf0dc9743 - 68
+    0xf0dc9743 - 68      ClothTopsYshirtLongGinghamCheck
     0x0999299e - 167     ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - 2
+    0x7c2dcb47 - 2       ClothTopsCoatHalfGladiator
     0x13e12f9d - 30      ClothTopsOuterLongGradation
     0xabc5f643 - 34      ClothTopsOuterLongHoliday
     0xc9a32fb8 - 107     ClothTopsCoatLongKurta
@@ -26520,7 +26520,7 @@ Tops
     0x431043c9 - 194     ClothTopsOuterLongSki
     0x0e31ecc6 - 207     ClothTopsOuterLongStadium
     0xc7fda841 - 33      ClothTopsTshirtHalfStar
-    0x80103bd9 - 121
+    0x80103bd9 - 121     ClothTopsMantleLongSteamPunk
     0x65b488aa - 62      ClothTopsYshirtHalfSticker
     0xf5169026 - 111     ClothTopsCoatLongSoutienCollar
     0x02652fb2 - 151     ClothTopsTshirtHalfStripe
@@ -26546,7 +26546,7 @@ Tops
     0x3686ace2 - 116     ClothTopsCoatLongCheck
     0xc1f85f39 - 197
     0x657e425a - 157     ClothTopsCroppedTee
-    0x7eda47b0 - 173
+    0x7eda47b0 - 173     ClothTopsCoatHalfTunic
     0x054f0db7 - 32      ClothTopsTshirtLongTilden
     0x05d77d6e - 205     ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - 187     ClothTopsYshirtLongDenim
@@ -26558,7 +26558,7 @@ Tops
     0x2df7881a - 183     ClothTopsYshirtHalfNurse
     0xc8a7934a - 122     ClothTopsCoatLongKnitGown
     0xff4a3b2f - 55      ClothTopsYshirtLongFlannel
-    0xbf51fd74 - 37
+    0xbf51fd74 - 37      ClothTopsOuterLongNordicSweater
     0x30870223 - 118     ClothTopsCoatLongNocollar
     0x87d5b2d6 - 65      ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - 71      ClothTopsYshirtSleevelessTurtleneckKnit
@@ -26566,7 +26566,7 @@ Tops
     0x5561d63b - 135
     0x6b924271 - 39
     0x8773807d - 52      ClothTopsYshirtLongBicolor
-    0x612e5976 - 101
+    0x612e5976 - 101     ClothTopsMantleLongViking
     0xfcebf781 - 47      ClothTopsYshirtHalfHibiscus
     0x9506a624 - 192
     0x3bd82f2f - 6       ClothTopsCoatLongDoctor
@@ -26586,19 +26586,19 @@ Tops
     0x3195f31d - 165
     0x24edc890 - 154     ClothTopsTshirtHalfBigNumber
     0x420a3d78 - 108     ClothTopsCoatLongBorder
-    0xf9f269b9 - 163
+    0xf9f269b9 - 163     ClothTopsCoatHalfLeopard
     0x5eb9c32f - 166     ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - 112     ClothTopsCoatLongPea
-    0xe989142d - 141
+    0xe989142d - 141     ClothTopsCoatHalfFire
     0x5ee888a9 - 105     ClothTopsTshirtLongFigure
     0x0f8bdd29 - 160     ClothTopsTshirtHalfFestival
     0xdf1aaa07 - 155     ClothTopsTshirtHalfPhoto
     0x41824370 - 69      ClothTopsTshirtLongFrilled
-    0x2cd1789c - 99
+    0x2cd1789c - 99      ClothTopsMantleLongPrince
     0x5060c753 - 17      ClothTopsOuterLongParka
     0x4f0402e0 - 18      ClothTopsOuterLongParkaZip
     0xec85dd61 - 143     ClothTopsTshirtHalfFruits
-    0x22171db3 - 4
+    0x22171db3 - 4       ClothTopsYshirtLongBlazerTie
     0x00700c90 - 178     ClothTopsTshirtLongPaisley
     0x84e636f4 - 54      ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - 203
@@ -26638,7 +26638,7 @@ Tops
     0x7ffa14e2 - 27      ClothTopsTshirtLongLayer
     0x84254dad - 106     ClothTopsCoatLongRain
     0xcc1528f2 - 119     ClothTopsCoatLongLeather
-    0xe44c9300 - 209
+    0xe44c9300 - 209     ClothTopsCoatHalfRestaurant
     0xff4124dc - 42      ClothTopsYshirtLongRetroCheck
     0xede30826 - 129     ClothTopsTshirtLongRetro
     0xe0f86bdc - 162
@@ -26663,7 +26663,7 @@ Tops
     0x3b62bcc4 - 225     ClothTopsBandana
     0x3cadac84 - 226
     0xd67b659c - 222     ClothTopsBodyBaseBikini
-    0xb8d00994 - 210
+    0xb8d00994 - 210     ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - 218     ClothTopsLace
   USpt
     0xef7104a1 - -1      ClothTopsOuterLongAbc
@@ -26682,14 +26682,14 @@ Tops
     0x2b612148 - -1      ClothTopsYshirtPuffLempard
     0x2460eecd - -1      ClothTopsTshirtLongAlphabet
     0x713e3cae - -1
-    0x904d8aae - -1
+    0x904d8aae - -1      ClothTopsYshirtLongArgyleVest
     0x180629e3 - -1
-    0x79431aa2 - -1
+    0x79431aa2 - -1      ClothTopsMantleLongVampire
     0x1877a422 - -1      ClothTopsOuterLongWindbreaker
     0x68ca24f9 - -1      ClothTopsYshirtLongWestern
     0x795550c5 - -1      ClothTopsOuterLongSpace
     0x207ef996 - -1      ClothTopsCoatLongApron
-    0xb32ff2b8 - -1
+    0xb32ff2b8 - -1      ClothTopsMantleLongTailcoat
     0x9f7e76a5 - -1      ClothTopsCoatLongKnit
     0x6489bb63 - -1
     0x5c96c992 - -1      ClothTopsCoatLongPirate
@@ -26701,7 +26701,7 @@ Tops
     0x7f6dc157 - -1      ClothTopsTshirtLongLayered
     0xef6b1067 - -1      ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - -1      ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - -1
+    0x399d497e - -1      ClothTopsOuterLongFleecePattern
     0x2762f288 - -1      ClothTopslongSalopetteRtharidu
     0x49f71c02 - -1      ClothTopsOuterLongCollege
     0x8c2afbb2 - -1      ClothTopsTshirtHalfKanji
@@ -26711,9 +26711,9 @@ Tops
     0x582e5428 - -1      ClothTopsYshirtHalfCuba
     0x22294a4b - -1      ClothTopsTshirtHalfSwitching
     0x5e453266 - -1      ClothTopsYshirtLongQuilting
-    0xf0dc9743 - -1
+    0xf0dc9743 - -1      ClothTopsYshirtLongGinghamCheck
     0x0999299e - -1      ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - -1
+    0x7c2dcb47 - -1      ClothTopsCoatHalfGladiator
     0x13e12f9d - -1      ClothTopsOuterLongGradation
     0xabc5f643 - -1      ClothTopsOuterLongHoliday
     0xc9a32fb8 - -1      ClothTopsCoatLongKurta
@@ -26752,7 +26752,7 @@ Tops
     0x431043c9 - -1      ClothTopsOuterLongSki
     0x0e31ecc6 - -1      ClothTopsOuterLongStadium
     0xc7fda841 - -1      ClothTopsTshirtHalfStar
-    0x80103bd9 - -1
+    0x80103bd9 - -1      ClothTopsMantleLongSteamPunk
     0x65b488aa - -1      ClothTopsYshirtHalfSticker
     0xf5169026 - -1      ClothTopsCoatLongSoutienCollar
     0x02652fb2 - -1      ClothTopsTshirtHalfStripe
@@ -26778,7 +26778,7 @@ Tops
     0x3686ace2 - -1      ClothTopsCoatLongCheck
     0xc1f85f39 - -1
     0x657e425a - -1      ClothTopsCroppedTee
-    0x7eda47b0 - -1
+    0x7eda47b0 - -1      ClothTopsCoatHalfTunic
     0x054f0db7 - -1      ClothTopsTshirtLongTilden
     0x05d77d6e - -1      ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - -1      ClothTopsYshirtLongDenim
@@ -26790,7 +26790,7 @@ Tops
     0x2df7881a - -1      ClothTopsYshirtHalfNurse
     0xc8a7934a - -1      ClothTopsCoatLongKnitGown
     0xff4a3b2f - -1      ClothTopsYshirtLongFlannel
-    0xbf51fd74 - -1
+    0xbf51fd74 - -1      ClothTopsOuterLongNordicSweater
     0x30870223 - -1      ClothTopsCoatLongNocollar
     0x87d5b2d6 - -1      ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - -1      ClothTopsYshirtSleevelessTurtleneckKnit
@@ -26798,7 +26798,7 @@ Tops
     0x5561d63b - -1
     0x6b924271 - -1
     0x8773807d - -1      ClothTopsYshirtLongBicolor
-    0x612e5976 - -1
+    0x612e5976 - -1      ClothTopsMantleLongViking
     0xfcebf781 - -1      ClothTopsYshirtHalfHibiscus
     0x9506a624 - -1
     0x3bd82f2f - -1      ClothTopsCoatLongDoctor
@@ -26818,19 +26818,19 @@ Tops
     0x3195f31d - -1
     0x24edc890 - -1      ClothTopsTshirtHalfBigNumber
     0x420a3d78 - -1      ClothTopsCoatLongBorder
-    0xf9f269b9 - -1
+    0xf9f269b9 - -1      ClothTopsCoatHalfLeopard
     0x5eb9c32f - -1      ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - -1      ClothTopsCoatLongPea
-    0xe989142d - -1
+    0xe989142d - -1      ClothTopsCoatHalfFire
     0x5ee888a9 - -1      ClothTopsTshirtLongFigure
     0x0f8bdd29 - -1      ClothTopsTshirtHalfFestival
     0xdf1aaa07 - -1      ClothTopsTshirtHalfPhoto
     0x41824370 - -1      ClothTopsTshirtLongFrilled
-    0x2cd1789c - -1
+    0x2cd1789c - -1      ClothTopsMantleLongPrince
     0x5060c753 - -1      ClothTopsOuterLongParka
     0x4f0402e0 - -1      ClothTopsOuterLongParkaZip
     0xec85dd61 - -1      ClothTopsTshirtHalfFruits
-    0x22171db3 - -1
+    0x22171db3 - -1      ClothTopsYshirtLongBlazerTie
     0x00700c90 - -1      ClothTopsTshirtLongPaisley
     0x84e636f4 - -1      ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - -1
@@ -26870,7 +26870,7 @@ Tops
     0x7ffa14e2 - -1      ClothTopsTshirtLongLayer
     0x84254dad - -1      ClothTopsCoatLongRain
     0xcc1528f2 - -1      ClothTopsCoatLongLeather
-    0xe44c9300 - -1
+    0xe44c9300 - -1      ClothTopsCoatHalfRestaurant
     0xff4124dc - -1      ClothTopsYshirtLongRetroCheck
     0xede30826 - -1      ClothTopsTshirtLongRetro
     0xe0f86bdc - -1
@@ -26895,7 +26895,7 @@ Tops
     0x3b62bcc4 - -1      ClothTopsBandana
     0x3cadac84 - -1
     0xd67b659c - -1      ClothTopsBodyBaseBikini
-    0xb8d00994 - -1
+    0xb8d00994 - -1      ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - -1      ClothTopsLace
   EUen
     0xef7104a1 - 0       ClothTopsOuterLongAbc
@@ -26914,14 +26914,14 @@ Tops
     0x2b612148 - 8       ClothTopsYshirtPuffLempard
     0x2460eecd - 75      ClothTopsTshirtLongAlphabet
     0x713e3cae - 148
-    0x904d8aae - 9
+    0x904d8aae - 9       ClothTopsYshirtLongArgyleVest
     0x180629e3 - 89
-    0x79431aa2 - 192
+    0x79431aa2 - 192     ClothTopsMantleLongVampire
     0x1877a422 - 204     ClothTopsOuterLongWindbreaker
     0x68ca24f9 - 34      ClothTopsYshirtLongWestern
     0x795550c5 - 32      ClothTopsOuterLongSpace
     0x207ef996 - 7       ClothTopsCoatLongApron
-    0xb32ff2b8 - 176
+    0xb32ff2b8 - 176     ClothTopsMantleLongTailcoat
     0x9f7e76a5 - 108     ClothTopsCoatLongKnit
     0x6489bb63 - 104
     0x5c96c992 - 49      ClothTopsCoatLongPirate
@@ -26933,7 +26933,7 @@ Tops
     0x7f6dc157 - 84      ClothTopsTshirtLongLayered
     0xef6b1067 - 83      ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - 149     ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - 112
+    0x399d497e - 112     ClothTopsOuterLongFleecePattern
     0x2762f288 - 87      ClothTopslongSalopetteRtharidu
     0x49f71c02 - 190     ClothTopsOuterLongCollege
     0x8c2afbb2 - 78      ClothTopsTshirtHalfKanji
@@ -26943,9 +26943,9 @@ Tops
     0x582e5428 - 65      ClothTopsYshirtHalfCuba
     0x22294a4b - 185     ClothTopsTshirtHalfSwitching
     0x5e453266 - 135     ClothTopsYshirtLongQuilting
-    0xf0dc9743 - 60
+    0xf0dc9743 - 60      ClothTopsYshirtLongGinghamCheck
     0x0999299e - 62      ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - 61
+    0x7c2dcb47 - 61      ClothTopsCoatHalfGladiator
     0x13e12f9d - 63      ClothTopsOuterLongGradation
     0xabc5f643 - 189     ClothTopsOuterLongHoliday
     0xc9a32fb8 - 80      ClothTopsCoatLongKurta
@@ -26984,7 +26984,7 @@ Tops
     0x431043c9 - 156     ClothTopsOuterLongSki
     0x0e31ecc6 - 88      ClothTopsOuterLongStadium
     0xc7fda841 - 165     ClothTopsTshirtHalfStar
-    0x80103bd9 - 166
+    0x80103bd9 - 166     ClothTopsMantleLongSteamPunk
     0x65b488aa - 167     ClothTopsYshirtHalfSticker
     0xf5169026 - 12      ClothTopsCoatLongSoutienCollar
     0x02652fb2 - 194     ClothTopsTshirtHalfStripe
@@ -27010,7 +27010,7 @@ Tops
     0x3686ace2 - 119     ClothTopsCoatLongCheck
     0xc1f85f39 - 121
     0x657e425a - 36      ClothTopsCroppedTee
-    0x7eda47b0 - 186
+    0x7eda47b0 - 186     ClothTopsCoatHalfTunic
     0x054f0db7 - 179     ClothTopsTshirtLongTilden
     0x05d77d6e - 177     ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - 38      ClothTopsYshirtLongDenim
@@ -27022,7 +27022,7 @@ Tops
     0x2df7881a - 102     ClothTopsYshirtHalfNurse
     0xc8a7934a - 152     ClothTopsCoatLongKnitGown
     0xff4a3b2f - 120     ClothTopsYshirtLongFlannel
-    0xbf51fd74 - 101
+    0xbf51fd74 - 101     ClothTopsOuterLongNordicSweater
     0x30870223 - 27      ClothTopsCoatLongNocollar
     0x87d5b2d6 - 164     ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - 162     ClothTopsYshirtSleevelessTurtleneckKnit
@@ -27030,7 +27030,7 @@ Tops
     0x5561d63b - 161
     0x6b924271 - 160
     0x8773807d - 187     ClothTopsYshirtLongBicolor
-    0x612e5976 - 196
+    0x612e5976 - 196     ClothTopsMantleLongViking
     0xfcebf781 - 72      ClothTopsYshirtHalfHibiscus
     0x9506a624 - 117
     0x3bd82f2f - 81      ClothTopsCoatLongDoctor
@@ -27050,19 +27050,19 @@ Tops
     0x3195f31d - 109
     0x24edc890 - 16      ClothTopsTshirtHalfBigNumber
     0x420a3d78 - 11      ClothTopsCoatLongBorder
-    0xf9f269b9 - 86
+    0xf9f269b9 - 86      ClothTopsCoatHalfLeopard
     0x5eb9c32f - 90      ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - 114     ClothTopsCoatLongPea
-    0xe989142d - 52
+    0xe989142d - 52      ClothTopsCoatHalfFire
     0x5ee888a9 - 51      ClothTopsTshirtLongFigure
     0x0f8bdd29 - 50      ClothTopsTshirtHalfFestival
     0xdf1aaa07 - 116     ClothTopsTshirtHalfPhoto
     0x41824370 - 55      ClothTopsTshirtLongFrilled
-    0x2cd1789c - 132
+    0x2cd1789c - 132     ClothTopsMantleLongPrince
     0x5060c753 - 133     ClothTopsOuterLongParka
     0x4f0402e0 - 208     ClothTopsOuterLongParkaZip
     0xec85dd61 - 56      ClothTopsTshirtHalfFruits
-    0x22171db3 - 17
+    0x22171db3 - 17      ClothTopsYshirtLongBlazerTie
     0x00700c90 - 110     ClothTopsTshirtLongPaisley
     0x84e636f4 - 13      ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - 18
@@ -27102,7 +27102,7 @@ Tops
     0x7ffa14e2 - 85      ClothTopsTshirtLongLayer
     0x84254dad - 91      ClothTopsCoatLongRain
     0xcc1528f2 - 107     ClothTopsCoatLongLeather
-    0xe44c9300 - 202
+    0xe44c9300 - 202     ClothTopsCoatHalfRestaurant
     0xff4124dc - 198     ClothTopsYshirtLongRetroCheck
     0xede30826 - 142     ClothTopsTshirtLongRetro
     0xe0f86bdc - 144
@@ -27127,7 +27127,7 @@ Tops
     0x3b62bcc4 - 210     ClothTopsBandana
     0x3cadac84 - 218
     0xd67b659c - 211     ClothTopsBodyBaseBikini
-    0xb8d00994 - 212
+    0xb8d00994 - 212     ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - 219     ClothTopsLace
   EUes
     0xef7104a1 - 181     ClothTopsOuterLongAbc
@@ -27146,14 +27146,14 @@ Tops
     0x2b612148 - 163     ClothTopsYshirtPuffLempard
     0x2460eecd - 55      ClothTopsTshirtLongAlphabet
     0x713e3cae - 110
-    0x904d8aae - 107
+    0x904d8aae - 107     ClothTopsYshirtLongArgyleVest
     0x180629e3 - 184
-    0x79431aa2 - 90
+    0x79431aa2 - 90      ClothTopsMantleLongVampire
     0x1877a422 - 149     ClothTopsOuterLongWindbreaker
     0x68ca24f9 - 43      ClothTopsYshirtLongWestern
     0x795550c5 - 185     ClothTopsOuterLongSpace
     0x207ef996 - 150     ClothTopsCoatLongApron
-    0xb32ff2b8 - 127
+    0xb32ff2b8 - 127     ClothTopsMantleLongTailcoat
     0x9f7e76a5 - 169     ClothTopsCoatLongKnit
     0x6489bb63 - 25
     0x5c96c992 - 98      ClothTopsCoatLongPirate
@@ -27165,7 +27165,7 @@ Tops
     0x7f6dc157 - 71      ClothTopsTshirtLongLayered
     0xef6b1067 - 72      ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - 5       ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - 153
+    0x399d497e - 153     ClothTopsOuterLongFleecePattern
     0x2762f288 - 95      ClothTopslongSalopetteRtharidu
     0x49f71c02 - 194     ClothTopsOuterLongCollege
     0x8c2afbb2 - 56      ClothTopsTshirtHalfKanji
@@ -27175,9 +27175,9 @@ Tops
     0x582e5428 - 156     ClothTopsYshirtHalfCuba
     0x22294a4b - 85      ClothTopsTshirtHalfSwitching
     0x5e453266 - 140     ClothTopsYshirtLongQuilting
-    0xf0dc9743 - 13
+    0xf0dc9743 - 13      ClothTopsYshirtLongGinghamCheck
     0x0999299e - 58      ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - 4
+    0x7c2dcb47 - 4       ClothTopsCoatHalfGladiator
     0x13e12f9d - 160     ClothTopsOuterLongGradation
     0xabc5f643 - 167     ClothTopsOuterLongHoliday
     0xc9a32fb8 - 171     ClothTopsCoatLongKurta
@@ -27216,7 +27216,7 @@ Tops
     0x431043c9 - 125     ClothTopsOuterLongSki
     0x0e31ecc6 - 143     ClothTopsOuterLongStadium
     0xc7fda841 - 52      ClothTopsTshirtHalfStar
-    0x80103bd9 - 147
+    0x80103bd9 - 147     ClothTopsMantleLongSteamPunk
     0x65b488aa - 31      ClothTopsYshirtHalfSticker
     0xf5169026 - 154     ClothTopsCoatLongSoutienCollar
     0x02652fb2 - 47      ClothTopsTshirtHalfStripe
@@ -27242,7 +27242,7 @@ Tops
     0x3686ace2 - 144     ClothTopsCoatLongCheck
     0xc1f85f39 - 114
     0x657e425a - 199     ClothTopsCroppedTee
-    0x7eda47b0 - 11
+    0x7eda47b0 - 11      ClothTopsCoatHalfTunic
     0x054f0db7 - 164     ClothTopsTshirtLongTilden
     0x05d77d6e - 141     ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - 103     ClothTopsYshirtLongDenim
@@ -27254,7 +27254,7 @@ Tops
     0x2df7881a - 38      ClothTopsYshirtHalfNurse
     0xc8a7934a - 93      ClothTopsCoatLongKnitGown
     0xff4a3b2f - 27      ClothTopsYshirtLongFlannel
-    0xbf51fd74 - 170
+    0xbf51fd74 - 170     ClothTopsOuterLongNordicSweater
     0x30870223 - 146     ClothTopsCoatLongNocollar
     0x87d5b2d6 - 42      ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - 202     ClothTopsYshirtSleevelessTurtleneckKnit
@@ -27262,7 +27262,7 @@ Tops
     0x5561d63b - 204
     0x6b924271 - 142
     0x8773807d - 19      ClothTopsYshirtLongBicolor
-    0x612e5976 - 100
+    0x612e5976 - 100     ClothTopsMantleLongViking
     0xfcebf781 - 28      ClothTopsYshirtHalfHibiscus
     0x9506a624 - 130
     0x3bd82f2f - 6       ClothTopsCoatLongDoctor
@@ -27282,19 +27282,19 @@ Tops
     0x3195f31d - 86
     0x24edc890 - 57      ClothTopsTshirtHalfBigNumber
     0x420a3d78 - 87      ClothTopsCoatLongBorder
-    0xf9f269b9 - 74
+    0xf9f269b9 - 74      ClothTopsCoatHalfLeopard
     0x5eb9c32f - 79      ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - 145     ClothTopsCoatLongPea
-    0xe989142d - 88
+    0xe989142d - 88      ClothTopsCoatHalfFire
     0x5ee888a9 - 66      ClothTopsTshirtLongFigure
     0x0f8bdd29 - 75      ClothTopsTshirtHalfFestival
     0xdf1aaa07 - 73      ClothTopsTshirtHalfPhoto
     0x41824370 - 9       ClothTopsTshirtLongFrilled
-    0x2cd1789c - 99
+    0x2cd1789c - 99      ClothTopsMantleLongPrince
     0x5060c753 - 182     ClothTopsOuterLongParka
     0x4f0402e0 - 183     ClothTopsOuterLongParkaZip
     0xec85dd61 - 76      ClothTopsTshirtHalfFruits
-    0x22171db3 - 118
+    0x22171db3 - 118     ClothTopsYshirtLongBlazerTie
     0x00700c90 - 138     ClothTopsTshirtLongPaisley
     0x84e636f4 - 24      ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - 126
@@ -27334,7 +27334,7 @@ Tops
     0x7ffa14e2 - 198     ClothTopsTshirtLongLayer
     0x84254dad - 157     ClothTopsCoatLongRain
     0xcc1528f2 - 1       ClothTopsCoatLongLeather
-    0xe44c9300 - 209
+    0xe44c9300 - 209     ClothTopsCoatHalfRestaurant
     0xff4124dc - 33      ClothTopsYshirtLongRetroCheck
     0xede30826 - 179     ClothTopsTshirtLongRetro
     0xe0f86bdc - 61
@@ -27359,7 +27359,7 @@ Tops
     0x3b62bcc4 - 224     ClothTopsBandana
     0x3cadac84 - 222
     0xd67b659c - 223     ClothTopsBodyBaseBikini
-    0xb8d00994 - 217
+    0xb8d00994 - 217     ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - 228     ClothTopsLace
   EUfr
     0xef7104a1 - 126     ClothTopsOuterLongAbc
@@ -27378,14 +27378,14 @@ Tops
     0x2b612148 - 108     ClothTopsYshirtPuffLempard
     0x2460eecd - 158     ClothTopsTshirtLongAlphabet
     0x713e3cae - 64
-    0x904d8aae - 59
+    0x904d8aae - 59      ClothTopsYshirtLongArgyleVest
     0x180629e3 - 107
-    0x79431aa2 - 72
+    0x79431aa2 - 72      ClothTopsMantleLongVampire
     0x1877a422 - 47      ClothTopsOuterLongWindbreaker
     0x68ca24f9 - 24      ClothTopsYshirtLongWestern
     0x795550c5 - 134     ClothTopsOuterLongSpace
     0x207ef996 - 136     ClothTopsCoatLongApron
-    0xb32ff2b8 - 121
+    0xb32ff2b8 - 121     ClothTopsMantleLongTailcoat
     0x9f7e76a5 - 112     ClothTopsCoatLongKnit
     0x6489bb63 - 32
     0x5c96c992 - 89      ClothTopsCoatLongPirate
@@ -27397,7 +27397,7 @@ Tops
     0x7f6dc157 - 176     ClothTopsTshirtLongLayered
     0xef6b1067 - 145     ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - 4       ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - 204
+    0x399d497e - 204     ClothTopsOuterLongFleecePattern
     0x2762f288 - 61      ClothTopslongSalopetteRtharidu
     0x49f71c02 - 132     ClothTopsOuterLongCollege
     0x8c2afbb2 - 151     ClothTopsTshirtHalfKanji
@@ -27407,9 +27407,9 @@ Tops
     0x582e5428 - 68      ClothTopsYshirtHalfCuba
     0x22294a4b - 141     ClothTopsTshirtHalfSwitching
     0x5e453266 - 202     ClothTopsYshirtLongQuilting
-    0xf0dc9743 - 42
+    0xf0dc9743 - 42      ClothTopsYshirtLongGinghamCheck
     0x0999299e - 175     ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - 3
+    0x7c2dcb47 - 3       ClothTopsCoatHalfGladiator
     0x13e12f9d - 110     ClothTopsOuterLongGradation
     0xabc5f643 - 113     ClothTopsOuterLongHoliday
     0xc9a32fb8 - 78      ClothTopsCoatLongKurta
@@ -27448,7 +27448,7 @@ Tops
     0x431043c9 - 195     ClothTopsOuterLongSki
     0x0e31ecc6 - 208     ClothTopsOuterLongStadium
     0xc7fda841 - 146     ClothTopsTshirtHalfStar
-    0x80103bd9 - 93
+    0x80103bd9 - 93      ClothTopsMantleLongSteamPunk
     0x65b488aa - 39      ClothTopsYshirtHalfSticker
     0xf5169026 - 87      ClothTopsCoatLongSoutienCollar
     0x02652fb2 - 157     ClothTopsTshirtHalfStripe
@@ -27474,7 +27474,7 @@ Tops
     0x3686ace2 - 90      ClothTopsCoatLongCheck
     0xc1f85f39 - 199
     0x657e425a - 165     ClothTopsCroppedTee
-    0x7eda47b0 - 180
+    0x7eda47b0 - 180     ClothTopsCoatHalfTunic
     0x054f0db7 - 111     ClothTopsTshirtLongTilden
     0x05d77d6e - 206     ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - 200     ClothTopsYshirtLongDenim
@@ -27486,7 +27486,7 @@ Tops
     0x2df7881a - 186     ClothTopsYshirtHalfNurse
     0xc8a7934a - 94      ClothTopsCoatLongKnitGown
     0xff4a3b2f - 25      ClothTopsYshirtLongFlannel
-    0xbf51fd74 - 116
+    0xbf51fd74 - 116     ClothTopsOuterLongNordicSweater
     0x30870223 - 91      ClothTopsCoatLongNocollar
     0x87d5b2d6 - 30      ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - 46      ClothTopsYshirtSleevelessTurtleneckKnit
@@ -27494,7 +27494,7 @@ Tops
     0x5561d63b - 140
     0x6b924271 - 133
     0x8773807d - 22      ClothTopsYshirtLongBicolor
-    0x612e5976 - 73
+    0x612e5976 - 73      ClothTopsMantleLongViking
     0xfcebf781 - 35      ClothTopsYshirtHalfHibiscus
     0x9506a624 - 193
     0x3bd82f2f - 6       ClothTopsCoatLongDoctor
@@ -27514,19 +27514,19 @@ Tops
     0x3195f31d - 172
     0x24edc890 - 161     ClothTopsTshirtHalfBigNumber
     0x420a3d78 - 79      ClothTopsCoatLongBorder
-    0xf9f269b9 - 170
+    0xf9f269b9 - 170     ClothTopsCoatHalfLeopard
     0x5eb9c32f - 174     ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - 12      ClothTopsCoatLongPea
-    0xe989142d - 147
+    0xe989142d - 147     ClothTopsCoatHalfFire
     0x5ee888a9 - 76      ClothTopsTshirtLongFigure
     0x0f8bdd29 - 166     ClothTopsTshirtHalfFestival
     0xdf1aaa07 - 162     ClothTopsTshirtHalfPhoto
     0x41824370 - 43      ClothTopsTshirtLongFrilled
-    0x2cd1789c - 71
+    0x2cd1789c - 71      ClothTopsMantleLongPrince
     0x5060c753 - 127     ClothTopsOuterLongParka
     0x4f0402e0 - 128     ClothTopsOuterLongParkaZip
     0xec85dd61 - 149     ClothTopsTshirtHalfFruits
-    0x22171db3 - 5
+    0x22171db3 - 5       ClothTopsYshirtLongBlazerTie
     0x00700c90 - 183     ClothTopsTshirtLongPaisley
     0x84e636f4 - 81      ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - 205
@@ -27566,7 +27566,7 @@ Tops
     0x7ffa14e2 - 119     ClothTopsTshirtLongLayer
     0x84254dad - 45      ClothTopsCoatLongRain
     0xcc1528f2 - 92      ClothTopsCoatLongLeather
-    0xe44c9300 - 209
+    0xe44c9300 - 209     ClothTopsCoatHalfRestaurant
     0xff4124dc - 14      ClothTopsYshirtLongRetroCheck
     0xede30826 - 101     ClothTopsTshirtLongRetro
     0xe0f86bdc - 169
@@ -27591,7 +27591,7 @@ Tops
     0x3b62bcc4 - 227     ClothTopsBandana
     0x3cadac84 - 228
     0xd67b659c - 224     ClothTopsBodyBaseBikini
-    0xb8d00994 - 210
+    0xb8d00994 - 210     ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - 216     ClothTopsLace
   EUde
     0xef7104a1 - 1       ClothTopsOuterLongAbc
@@ -27610,14 +27610,14 @@ Tops
     0x2b612148 - 4       ClothTopsYshirtPuffLempard
     0x2460eecd - 165     ClothTopsTshirtLongAlphabet
     0x713e3cae - 197
-    0x904d8aae - 7
+    0x904d8aae - 7       ClothTopsYshirtLongArgyleVest
     0x180629e3 - 106
-    0x79431aa2 - 193
+    0x79431aa2 - 193     ClothTopsMantleLongVampire
     0x1877a422 - 203     ClothTopsOuterLongWindbreaker
     0x68ca24f9 - 200     ClothTopsYshirtLongWestern
     0x795550c5 - 199     ClothTopsOuterLongSpace
     0x207ef996 - 161     ClothTopsCoatLongApron
-    0xb32ff2b8 - 62
+    0xb32ff2b8 - 62      ClothTopsMantleLongTailcoat
     0x9f7e76a5 - 191     ClothTopsCoatLongKnit
     0x6489bb63 - 142
     0x5c96c992 - 131     ClothTopsCoatLongPirate
@@ -27629,7 +27629,7 @@ Tops
     0x7f6dc157 - 101     ClothTopsTshirtLongLayered
     0xef6b1067 - 99      ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - 153     ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - 119
+    0x399d497e - 119     ClothTopsOuterLongFleecePattern
     0x2762f288 - 40      ClothTopslongSalopetteRtharidu
     0x49f71c02 - 192     ClothTopsOuterLongCollege
     0x8c2afbb2 - 83      ClothTopsTshirtHalfKanji
@@ -27639,9 +27639,9 @@ Tops
     0x582e5428 - 67      ClothTopsYshirtHalfCuba
     0x22294a4b - 48      ClothTopsTshirtHalfSwitching
     0x5e453266 - 171     ClothTopsYshirtLongQuilting
-    0xf0dc9743 - 194
+    0xf0dc9743 - 194     ClothTopsYshirtLongGinghamCheck
     0x0999299e - 66      ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - 65
+    0x7c2dcb47 - 65      ClothTopsCoatHalfGladiator
     0x13e12f9d - 57      ClothTopsOuterLongGradation
     0xabc5f643 - 89      ClothTopsOuterLongHoliday
     0xc9a32fb8 - 95      ClothTopsCoatLongKurta
@@ -27680,7 +27680,7 @@ Tops
     0x431043c9 - 163     ClothTopsOuterLongSki
     0x0e31ecc6 - 41      ClothTopsOuterLongStadium
     0xc7fda841 - 173     ClothTopsTshirtHalfStar
-    0x80103bd9 - 169
+    0x80103bd9 - 169     ClothTopsMantleLongSteamPunk
     0x65b488aa - 174     ClothTopsYshirtHalfSticker
     0xf5169026 - 17      ClothTopsCoatLongSoutienCollar
     0x02652fb2 - 178     ClothTopsTshirtHalfStripe
@@ -27706,7 +27706,7 @@ Tops
     0x3686ace2 - 85      ClothTopsCoatLongCheck
     0xc1f85f39 - 84
     0x657e425a - 31      ClothTopsCroppedTee
-    0x7eda47b0 - 187
+    0x7eda47b0 - 187     ClothTopsCoatHalfTunic
     0x054f0db7 - 44      ClothTopsTshirtLongTilden
     0x05d77d6e - 176     ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - 81      ClothTopsYshirtLongDenim
@@ -27718,7 +27718,7 @@ Tops
     0x2df7881a - 92      ClothTopsYshirtHalfNurse
     0xc8a7934a - 155     ClothTopsCoatLongKnitGown
     0xff4a3b2f - 78      ClothTopsYshirtLongFlannel
-    0xbf51fd74 - 123
+    0xbf51fd74 - 123     ClothTopsOuterLongNordicSweater
     0x30870223 - 108     ClothTopsCoatLongNocollar
     0x87d5b2d6 - 10      ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - 14      ClothTopsYshirtSleevelessTurtleneckKnit
@@ -27726,7 +27726,7 @@ Tops
     0x5561d63b - 12
     0x6b924271 - 13
     0x8773807d - 209     ClothTopsYshirtLongBicolor
-    0x612e5976 - 202
+    0x612e5976 - 202     ClothTopsMantleLongViking
     0xfcebf781 - 77      ClothTopsYshirtHalfHibiscus
     0x9506a624 - 130
     0x3bd82f2f - 15      ClothTopsCoatLongDoctor
@@ -27746,19 +27746,19 @@ Tops
     0x3195f31d - 205
     0x24edc890 - 168     ClothTopsTshirtHalfBigNumber
     0x420a3d78 - 56      ClothTopsCoatLongBorder
-    0xf9f269b9 - 105
+    0xf9f269b9 - 105     ClothTopsCoatHalfLeopard
     0x5eb9c32f - 136     ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - 109     ClothTopsCoatLongPea
-    0xe989142d - 60
+    0xe989142d - 60      ClothTopsCoatHalfFire
     0x5ee888a9 - 51      ClothTopsTshirtLongFigure
     0x0f8bdd29 - 58      ClothTopsTshirtHalfFestival
     0xdf1aaa07 - 61      ClothTopsTshirtHalfPhoto
     0x41824370 - 152     ClothTopsTshirtLongFrilled
-    0x2cd1789c - 148
+    0x2cd1789c - 148     ClothTopsMantleLongPrince
     0x5060c753 - 79      ClothTopsOuterLongParka
     0x4f0402e0 - 208     ClothTopsOuterLongParkaZip
     0xec85dd61 - 124     ClothTopsTshirtHalfFruits
-    0x22171db3 - 158
+    0x22171db3 - 158     ClothTopsYshirtLongBlazerTie
     0x00700c90 - 127     ClothTopsTshirtLongPaisley
     0x84e636f4 - 19      ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - 204
@@ -27798,7 +27798,7 @@ Tops
     0x7ffa14e2 - 180     ClothTopsTshirtLongLayer
     0x84254dad - 137     ClothTopsCoatLongRain
     0xcc1528f2 - 94      ClothTopsCoatLongLeather
-    0xe44c9300 - 87
+    0xe44c9300 - 87      ClothTopsCoatHalfRestaurant
     0xff4124dc - 140     ClothTopsYshirtLongRetroCheck
     0xede30826 - 141     ClothTopsTshirtLongRetro
     0xe0f86bdc - 149
@@ -27823,7 +27823,7 @@ Tops
     0x3b62bcc4 - 210     ClothTopsBandana
     0x3cadac84 - 216
     0xd67b659c - 213     ClothTopsBodyBaseBikini
-    0xb8d00994 - 223
+    0xb8d00994 - 223     ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - 227     ClothTopsLace
   EUit
     0xef7104a1 - 127     ClothTopsOuterLongAbc
@@ -27842,14 +27842,14 @@ Tops
     0x2b612148 - 153     ClothTopsYshirtPuffLempard
     0x2460eecd - 66      ClothTopsTshirtLongAlphabet
     0x713e3cae - 104
-    0x904d8aae - 157
+    0x904d8aae - 157     ClothTopsYshirtLongArgyleVest
     0x180629e3 - 128
-    0x79431aa2 - 56
+    0x79431aa2 - 56      ClothTopsMantleLongVampire
     0x1877a422 - 70      ClothTopsOuterLongWindbreaker
     0x68ca24f9 - 45      ClothTopsYshirtLongWestern
     0x795550c5 - 152     ClothTopsOuterLongSpace
     0x207ef996 - 113     ClothTopsCoatLongApron
-    0xb32ff2b8 - 68
+    0xb32ff2b8 - 68      ClothTopsMantleLongTailcoat
     0x9f7e76a5 - 154     ClothTopsCoatLongKnit
     0x6489bb63 - 13
     0x5c96c992 - 83      ClothTopsCoatLongPirate
@@ -27861,7 +27861,7 @@ Tops
     0x7f6dc157 - 175     ClothTopsTshirtLongLayered
     0xef6b1067 - 176     ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - 3       ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - 138
+    0x399d497e - 138     ClothTopsOuterLongFleecePattern
     0x2762f288 - 52      ClothTopslongSalopetteRtharidu
     0x49f71c02 - 135     ClothTopsOuterLongCollege
     0x8c2afbb2 - 186     ClothTopsTshirtHalfKanji
@@ -27871,9 +27871,9 @@ Tops
     0x582e5428 - 115     ClothTopsYshirtHalfCuba
     0x22294a4b - 199     ClothTopsTshirtHalfSwitching
     0x5e453266 - 103     ClothTopsYshirtLongQuilting
-    0xf0dc9743 - 39
+    0xf0dc9743 - 39      ClothTopsYshirtLongGinghamCheck
     0x0999299e - 192     ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - 2
+    0x7c2dcb47 - 2       ClothTopsCoatHalfGladiator
     0x13e12f9d - 145     ClothTopsOuterLongGradation
     0xabc5f643 - 133     ClothTopsOuterLongHoliday
     0xc9a32fb8 - 117     ClothTopsCoatLongKurta
@@ -27912,7 +27912,7 @@ Tops
     0x431043c9 - 84      ClothTopsOuterLongSki
     0x0e31ecc6 - 77      ClothTopsOuterLongStadium
     0xc7fda841 - 207     ClothTopsTshirtHalfStar
-    0x80103bd9 - 162
+    0x80103bd9 - 162     ClothTopsMantleLongSteamPunk
     0x65b488aa - 31      ClothTopsYshirtHalfSticker
     0xf5169026 - 159     ClothTopsCoatLongSoutienCollar
     0x02652fb2 - 193     ClothTopsTshirtHalfStripe
@@ -27938,7 +27938,7 @@ Tops
     0x3686ace2 - 160     ClothTopsCoatLongCheck
     0xc1f85f39 - 94
     0x657e425a - 196     ClothTopsCroppedTee
-    0x7eda47b0 - 46
+    0x7eda47b0 - 46      ClothTopsCoatHalfTunic
     0x054f0db7 - 132     ClothTopsTshirtLongTilden
     0x05d77d6e - 102     ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - 87      ClothTopsYshirtLongDenim
@@ -27950,7 +27950,7 @@ Tops
     0x2df7881a - 174     ClothTopsYshirtHalfNurse
     0xc8a7934a - 51      ClothTopsCoatLongKnitGown
     0xff4a3b2f - 35      ClothTopsYshirtLongFlannel
-    0xbf51fd74 - 155
+    0xbf51fd74 - 155     ClothTopsOuterLongNordicSweater
     0x30870223 - 161     ClothTopsCoatLongNocollar
     0x87d5b2d6 - 16      ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - 61      ClothTopsYshirtSleevelessTurtleneckKnit
@@ -27958,7 +27958,7 @@ Tops
     0x5561d63b - 164
     0x6b924271 - 67
     0x8773807d - 22      ClothTopsYshirtLongBicolor
-    0x612e5976 - 57
+    0x612e5976 - 57      ClothTopsMantleLongViking
     0xfcebf781 - 15      ClothTopsYshirtHalfHibiscus
     0x9506a624 - 82
     0x3bd82f2f - 11      ClothTopsCoatLongDoctor
@@ -27978,19 +27978,19 @@ Tops
     0x3195f31d - 201
     0x24edc890 - 190     ClothTopsTshirtHalfBigNumber
     0x420a3d78 - 123     ClothTopsCoatLongBorder
-    0xf9f269b9 - 187
+    0xf9f269b9 - 187     ClothTopsCoatHalfLeopard
     0x5eb9c32f - 202     ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - 90      ClothTopsCoatLongPea
-    0xe989142d - 181
+    0xe989142d - 181     ClothTopsCoatHalfFire
     0x5ee888a9 - 81      ClothTopsTshirtLongFigure
     0x0f8bdd29 - 197     ClothTopsTshirtHalfFestival
     0xdf1aaa07 - 182     ClothTopsTshirtHalfPhoto
     0x41824370 - 8       ClothTopsTshirtLongFrilled
-    0x2cd1789c - 209
+    0x2cd1789c - 209     ClothTopsMantleLongPrince
     0x5060c753 - 96      ClothTopsOuterLongParka
     0x4f0402e0 - 63      ClothTopsOuterLongParkaZip
     0xec85dd61 - 184     ClothTopsTshirtHalfFruits
-    0x22171db3 - 4
+    0x22171db3 - 4       ClothTopsYshirtLongBlazerTie
     0x00700c90 - 95      ClothTopsTshirtLongPaisley
     0x84e636f4 - 119     ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - 88
@@ -28030,7 +28030,7 @@ Tops
     0x7ffa14e2 - 166     ClothTopsTshirtLongLayer
     0x84254dad - 116     ClothTopsCoatLongRain
     0xcc1528f2 - 158     ClothTopsCoatLongLeather
-    0xe44c9300 - 29
+    0xe44c9300 - 29      ClothTopsCoatHalfRestaurant
     0xff4124dc - 36      ClothTopsYshirtLongRetroCheck
     0xede30826 - 142     ClothTopsTshirtLongRetro
     0xe0f86bdc - 198
@@ -28055,7 +28055,7 @@ Tops
     0x3b62bcc4 - 228     ClothTopsBandana
     0x3cadac84 - 222
     0xd67b659c - 224     ClothTopsBodyBaseBikini
-    0xb8d00994 - 210
+    0xb8d00994 - 210     ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - 227     ClothTopsLace
   EUpt
     0xef7104a1 - -1      ClothTopsOuterLongAbc
@@ -28074,14 +28074,14 @@ Tops
     0x2b612148 - -1      ClothTopsYshirtPuffLempard
     0x2460eecd - -1      ClothTopsTshirtLongAlphabet
     0x713e3cae - -1
-    0x904d8aae - -1
+    0x904d8aae - -1      ClothTopsYshirtLongArgyleVest
     0x180629e3 - -1
-    0x79431aa2 - -1
+    0x79431aa2 - -1      ClothTopsMantleLongVampire
     0x1877a422 - -1      ClothTopsOuterLongWindbreaker
     0x68ca24f9 - -1      ClothTopsYshirtLongWestern
     0x795550c5 - -1      ClothTopsOuterLongSpace
     0x207ef996 - -1      ClothTopsCoatLongApron
-    0xb32ff2b8 - -1
+    0xb32ff2b8 - -1      ClothTopsMantleLongTailcoat
     0x9f7e76a5 - -1      ClothTopsCoatLongKnit
     0x6489bb63 - -1
     0x5c96c992 - -1      ClothTopsCoatLongPirate
@@ -28093,7 +28093,7 @@ Tops
     0x7f6dc157 - -1      ClothTopsTshirtLongLayered
     0xef6b1067 - -1      ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - -1      ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - -1
+    0x399d497e - -1      ClothTopsOuterLongFleecePattern
     0x2762f288 - -1      ClothTopslongSalopetteRtharidu
     0x49f71c02 - -1      ClothTopsOuterLongCollege
     0x8c2afbb2 - -1      ClothTopsTshirtHalfKanji
@@ -28103,9 +28103,9 @@ Tops
     0x582e5428 - -1      ClothTopsYshirtHalfCuba
     0x22294a4b - -1      ClothTopsTshirtHalfSwitching
     0x5e453266 - -1      ClothTopsYshirtLongQuilting
-    0xf0dc9743 - -1
+    0xf0dc9743 - -1      ClothTopsYshirtLongGinghamCheck
     0x0999299e - -1      ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - -1
+    0x7c2dcb47 - -1      ClothTopsCoatHalfGladiator
     0x13e12f9d - -1      ClothTopsOuterLongGradation
     0xabc5f643 - -1      ClothTopsOuterLongHoliday
     0xc9a32fb8 - -1      ClothTopsCoatLongKurta
@@ -28144,7 +28144,7 @@ Tops
     0x431043c9 - -1      ClothTopsOuterLongSki
     0x0e31ecc6 - -1      ClothTopsOuterLongStadium
     0xc7fda841 - -1      ClothTopsTshirtHalfStar
-    0x80103bd9 - -1
+    0x80103bd9 - -1      ClothTopsMantleLongSteamPunk
     0x65b488aa - -1      ClothTopsYshirtHalfSticker
     0xf5169026 - -1      ClothTopsCoatLongSoutienCollar
     0x02652fb2 - -1      ClothTopsTshirtHalfStripe
@@ -28170,7 +28170,7 @@ Tops
     0x3686ace2 - -1      ClothTopsCoatLongCheck
     0xc1f85f39 - -1
     0x657e425a - -1      ClothTopsCroppedTee
-    0x7eda47b0 - -1
+    0x7eda47b0 - -1      ClothTopsCoatHalfTunic
     0x054f0db7 - -1      ClothTopsTshirtLongTilden
     0x05d77d6e - -1      ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - -1      ClothTopsYshirtLongDenim
@@ -28182,7 +28182,7 @@ Tops
     0x2df7881a - -1      ClothTopsYshirtHalfNurse
     0xc8a7934a - -1      ClothTopsCoatLongKnitGown
     0xff4a3b2f - -1      ClothTopsYshirtLongFlannel
-    0xbf51fd74 - -1
+    0xbf51fd74 - -1      ClothTopsOuterLongNordicSweater
     0x30870223 - -1      ClothTopsCoatLongNocollar
     0x87d5b2d6 - -1      ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - -1      ClothTopsYshirtSleevelessTurtleneckKnit
@@ -28190,7 +28190,7 @@ Tops
     0x5561d63b - -1
     0x6b924271 - -1
     0x8773807d - -1      ClothTopsYshirtLongBicolor
-    0x612e5976 - -1
+    0x612e5976 - -1      ClothTopsMantleLongViking
     0xfcebf781 - -1      ClothTopsYshirtHalfHibiscus
     0x9506a624 - -1
     0x3bd82f2f - -1      ClothTopsCoatLongDoctor
@@ -28210,19 +28210,19 @@ Tops
     0x3195f31d - -1
     0x24edc890 - -1      ClothTopsTshirtHalfBigNumber
     0x420a3d78 - -1      ClothTopsCoatLongBorder
-    0xf9f269b9 - -1
+    0xf9f269b9 - -1      ClothTopsCoatHalfLeopard
     0x5eb9c32f - -1      ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - -1      ClothTopsCoatLongPea
-    0xe989142d - -1
+    0xe989142d - -1      ClothTopsCoatHalfFire
     0x5ee888a9 - -1      ClothTopsTshirtLongFigure
     0x0f8bdd29 - -1      ClothTopsTshirtHalfFestival
     0xdf1aaa07 - -1      ClothTopsTshirtHalfPhoto
     0x41824370 - -1      ClothTopsTshirtLongFrilled
-    0x2cd1789c - -1
+    0x2cd1789c - -1      ClothTopsMantleLongPrince
     0x5060c753 - -1      ClothTopsOuterLongParka
     0x4f0402e0 - -1      ClothTopsOuterLongParkaZip
     0xec85dd61 - -1      ClothTopsTshirtHalfFruits
-    0x22171db3 - -1
+    0x22171db3 - -1      ClothTopsYshirtLongBlazerTie
     0x00700c90 - -1      ClothTopsTshirtLongPaisley
     0x84e636f4 - -1      ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - -1
@@ -28262,7 +28262,7 @@ Tops
     0x7ffa14e2 - -1      ClothTopsTshirtLongLayer
     0x84254dad - -1      ClothTopsCoatLongRain
     0xcc1528f2 - -1      ClothTopsCoatLongLeather
-    0xe44c9300 - -1
+    0xe44c9300 - -1      ClothTopsCoatHalfRestaurant
     0xff4124dc - -1      ClothTopsYshirtLongRetroCheck
     0xede30826 - -1      ClothTopsTshirtLongRetro
     0xe0f86bdc - -1
@@ -28287,7 +28287,7 @@ Tops
     0x3b62bcc4 - -1      ClothTopsBandana
     0x3cadac84 - -1
     0xd67b659c - -1      ClothTopsBodyBaseBikini
-    0xb8d00994 - -1
+    0xb8d00994 - -1      ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - -1      ClothTopsLace
   EUnl
     0xef7104a1 - 0       ClothTopsOuterLongAbc
@@ -28306,14 +28306,14 @@ Tops
     0x2b612148 - 61      ClothTopsYshirtPuffLempard
     0x2460eecd - 177     ClothTopsTshirtLongAlphabet
     0x713e3cae - 182
-    0x904d8aae - 40
+    0x904d8aae - 40      ClothTopsYshirtLongArgyleVest
     0x180629e3 - 154
-    0x79431aa2 - 107
+    0x79431aa2 - 107     ClothTopsMantleLongVampire
     0x1877a422 - 202     ClothTopsOuterLongWindbreaker
     0x68ca24f9 - 17      ClothTopsYshirtLongWestern
     0x795550c5 - 34      ClothTopsOuterLongSpace
     0x207ef996 - 140     ClothTopsCoatLongApron
-    0xb32ff2b8 - 63
+    0xb32ff2b8 - 63      ClothTopsMantleLongTailcoat
     0x9f7e76a5 - 135     ClothTopsCoatLongKnit
     0x6489bb63 - 197
     0x5c96c992 - 122     ClothTopsCoatLongPirate
@@ -28325,7 +28325,7 @@ Tops
     0x7f6dc157 - 20      ClothTopsTshirtLongLayered
     0xef6b1067 - 21      ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - 137     ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - 31
+    0x399d497e - 31      ClothTopsOuterLongFleecePattern
     0x2762f288 - 184     ClothTopslongSalopetteRtharidu
     0x49f71c02 - 181     ClothTopsOuterLongCollege
     0x8c2afbb2 - 170     ClothTopsTshirtHalfKanji
@@ -28335,9 +28335,9 @@ Tops
     0x582e5428 - 85      ClothTopsYshirtHalfCuba
     0x22294a4b - 164     ClothTopsTshirtHalfSwitching
     0x5e453266 - 46      ClothTopsYshirtLongQuilting
-    0xf0dc9743 - 136
+    0xf0dc9743 - 136     ClothTopsYshirtLongGinghamCheck
     0x0999299e - 167     ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - 50
+    0x7c2dcb47 - 50      ClothTopsCoatHalfGladiator
     0x13e12f9d - 153     ClothTopsOuterLongGradation
     0xabc5f643 - 84      ClothTopsOuterLongHoliday
     0xc9a32fb8 - 82      ClothTopsCoatLongKurta
@@ -28376,7 +28376,7 @@ Tops
     0x431043c9 - 141     ClothTopsOuterLongSki
     0x0e31ecc6 - 183     ClothTopsOuterLongStadium
     0xc7fda841 - 176     ClothTopsTshirtHalfStar
-    0x80103bd9 - 146
+    0x80103bd9 - 146     ClothTopsMantleLongSteamPunk
     0x65b488aa - 147     ClothTopsYshirtHalfSticker
     0xf5169026 - 203     ClothTopsCoatLongSoutienCollar
     0x02652fb2 - 186     ClothTopsTshirtHalfStripe
@@ -28402,7 +28402,7 @@ Tops
     0x3686ace2 - 39      ClothTopsCoatLongCheck
     0xc1f85f39 - 41
     0x657e425a - 100     ClothTopsCroppedTee
-    0x7eda47b0 - 158
+    0x7eda47b0 - 158     ClothTopsCoatHalfTunic
     0x054f0db7 - 205     ClothTopsTshirtLongTilden
     0x05d77d6e - 102     ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - 143     ClothTopsYshirtLongDenim
@@ -28414,7 +28414,7 @@ Tops
     0x2df7881a - 209     ClothTopsYshirtHalfNurse
     0xc8a7934a - 189     ClothTopsCoatLongKnitGown
     0xff4a3b2f - 30      ClothTopsYshirtLongFlannel
-    0xbf51fd74 - 103
+    0xbf51fd74 - 103     ClothTopsOuterLongNordicSweater
     0x30870223 - 196     ClothTopsCoatLongNocollar
     0x87d5b2d6 - 94      ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - 97      ClothTopsYshirtSleevelessTurtleneckKnit
@@ -28422,7 +28422,7 @@ Tops
     0x5561d63b - 98
     0x6b924271 - 96
     0x8773807d - 159     ClothTopsYshirtLongBicolor
-    0x612e5976 - 192
+    0x612e5976 - 192     ClothTopsMantleLongViking
     0xfcebf781 - 33      ClothTopsYshirtHalfHibiscus
     0x9506a624 - 121
     0x3bd82f2f - 83      ClothTopsCoatLongDoctor
@@ -28442,19 +28442,19 @@ Tops
     0x3195f31d - 119
     0x24edc890 - 175     ClothTopsTshirtHalfBigNumber
     0x420a3d78 - 201     ClothTopsCoatLongBorder
-    0xf9f269b9 - 172
+    0xf9f269b9 - 172     ClothTopsCoatHalfLeopard
     0x5eb9c32f - 149     ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - 86      ClothTopsCoatLongPea
-    0xe989142d - 179
+    0xe989142d - 179     ClothTopsCoatHalfFire
     0x5ee888a9 - 81      ClothTopsTshirtLongFigure
     0x0f8bdd29 - 29      ClothTopsTshirtHalfFestival
     0xdf1aaa07 - 165     ClothTopsTshirtHalfPhoto
     0x41824370 - 5       ClothTopsTshirtLongFrilled
-    0x2cd1789c - 126
+    0x2cd1789c - 126     ClothTopsMantleLongPrince
     0x5060c753 - 58      ClothTopsOuterLongParka
     0x4f0402e0 - 187     ClothTopsOuterLongParkaZip
     0xec85dd61 - 166     ClothTopsTshirtHalfFruits
-    0x22171db3 - 4
+    0x22171db3 - 4       ClothTopsYshirtLongBlazerTie
     0x00700c90 - 66      ClothTopsTshirtLongPaisley
     0x84e636f4 - 57      ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - 207
@@ -28494,7 +28494,7 @@ Tops
     0x7ffa14e2 - 152     ClothTopsTshirtLongLayer
     0x84254dad - 128     ClothTopsCoatLongRain
     0xcc1528f2 - 118     ClothTopsCoatLongLeather
-    0xe44c9300 - 79
+    0xe44c9300 - 79      ClothTopsCoatHalfRestaurant
     0xff4124dc - 45      ClothTopsYshirtLongRetroCheck
     0xede30826 - 125     ClothTopsTshirtLongRetro
     0xe0f86bdc - 132
@@ -28519,7 +28519,7 @@ Tops
     0x3b62bcc4 - 210     ClothTopsBandana
     0x3cadac84 - 226
     0xd67b659c - 211     ClothTopsBodyBaseBikini
-    0xb8d00994 - 212
+    0xb8d00994 - 212     ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - 220     ClothTopsLace
   EUru
     0xef7104a1 - -1      ClothTopsOuterLongAbc
@@ -28538,14 +28538,14 @@ Tops
     0x2b612148 - -1      ClothTopsYshirtPuffLempard
     0x2460eecd - -1      ClothTopsTshirtLongAlphabet
     0x713e3cae - -1
-    0x904d8aae - -1
+    0x904d8aae - -1      ClothTopsYshirtLongArgyleVest
     0x180629e3 - -1
-    0x79431aa2 - -1
+    0x79431aa2 - -1      ClothTopsMantleLongVampire
     0x1877a422 - -1      ClothTopsOuterLongWindbreaker
     0x68ca24f9 - -1      ClothTopsYshirtLongWestern
     0x795550c5 - -1      ClothTopsOuterLongSpace
     0x207ef996 - -1      ClothTopsCoatLongApron
-    0xb32ff2b8 - -1
+    0xb32ff2b8 - -1      ClothTopsMantleLongTailcoat
     0x9f7e76a5 - -1      ClothTopsCoatLongKnit
     0x6489bb63 - -1
     0x5c96c992 - -1      ClothTopsCoatLongPirate
@@ -28557,7 +28557,7 @@ Tops
     0x7f6dc157 - -1      ClothTopsTshirtLongLayered
     0xef6b1067 - -1      ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - -1      ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - -1
+    0x399d497e - -1      ClothTopsOuterLongFleecePattern
     0x2762f288 - -1      ClothTopslongSalopetteRtharidu
     0x49f71c02 - -1      ClothTopsOuterLongCollege
     0x8c2afbb2 - -1      ClothTopsTshirtHalfKanji
@@ -28567,9 +28567,9 @@ Tops
     0x582e5428 - -1      ClothTopsYshirtHalfCuba
     0x22294a4b - -1      ClothTopsTshirtHalfSwitching
     0x5e453266 - -1      ClothTopsYshirtLongQuilting
-    0xf0dc9743 - -1
+    0xf0dc9743 - -1      ClothTopsYshirtLongGinghamCheck
     0x0999299e - -1      ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - -1
+    0x7c2dcb47 - -1      ClothTopsCoatHalfGladiator
     0x13e12f9d - -1      ClothTopsOuterLongGradation
     0xabc5f643 - -1      ClothTopsOuterLongHoliday
     0xc9a32fb8 - -1      ClothTopsCoatLongKurta
@@ -28608,7 +28608,7 @@ Tops
     0x431043c9 - -1      ClothTopsOuterLongSki
     0x0e31ecc6 - -1      ClothTopsOuterLongStadium
     0xc7fda841 - -1      ClothTopsTshirtHalfStar
-    0x80103bd9 - -1
+    0x80103bd9 - -1      ClothTopsMantleLongSteamPunk
     0x65b488aa - -1      ClothTopsYshirtHalfSticker
     0xf5169026 - -1      ClothTopsCoatLongSoutienCollar
     0x02652fb2 - -1      ClothTopsTshirtHalfStripe
@@ -28634,7 +28634,7 @@ Tops
     0x3686ace2 - -1      ClothTopsCoatLongCheck
     0xc1f85f39 - -1
     0x657e425a - -1      ClothTopsCroppedTee
-    0x7eda47b0 - -1
+    0x7eda47b0 - -1      ClothTopsCoatHalfTunic
     0x054f0db7 - -1      ClothTopsTshirtLongTilden
     0x05d77d6e - -1      ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - -1      ClothTopsYshirtLongDenim
@@ -28646,7 +28646,7 @@ Tops
     0x2df7881a - -1      ClothTopsYshirtHalfNurse
     0xc8a7934a - -1      ClothTopsCoatLongKnitGown
     0xff4a3b2f - -1      ClothTopsYshirtLongFlannel
-    0xbf51fd74 - -1
+    0xbf51fd74 - -1      ClothTopsOuterLongNordicSweater
     0x30870223 - -1      ClothTopsCoatLongNocollar
     0x87d5b2d6 - -1      ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - -1      ClothTopsYshirtSleevelessTurtleneckKnit
@@ -28654,7 +28654,7 @@ Tops
     0x5561d63b - -1
     0x6b924271 - -1
     0x8773807d - -1      ClothTopsYshirtLongBicolor
-    0x612e5976 - -1
+    0x612e5976 - -1      ClothTopsMantleLongViking
     0xfcebf781 - -1      ClothTopsYshirtHalfHibiscus
     0x9506a624 - -1
     0x3bd82f2f - -1      ClothTopsCoatLongDoctor
@@ -28674,19 +28674,19 @@ Tops
     0x3195f31d - -1
     0x24edc890 - -1      ClothTopsTshirtHalfBigNumber
     0x420a3d78 - -1      ClothTopsCoatLongBorder
-    0xf9f269b9 - -1
+    0xf9f269b9 - -1      ClothTopsCoatHalfLeopard
     0x5eb9c32f - -1      ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - -1      ClothTopsCoatLongPea
-    0xe989142d - -1
+    0xe989142d - -1      ClothTopsCoatHalfFire
     0x5ee888a9 - -1      ClothTopsTshirtLongFigure
     0x0f8bdd29 - -1      ClothTopsTshirtHalfFestival
     0xdf1aaa07 - -1      ClothTopsTshirtHalfPhoto
     0x41824370 - -1      ClothTopsTshirtLongFrilled
-    0x2cd1789c - -1
+    0x2cd1789c - -1      ClothTopsMantleLongPrince
     0x5060c753 - -1      ClothTopsOuterLongParka
     0x4f0402e0 - -1      ClothTopsOuterLongParkaZip
     0xec85dd61 - -1      ClothTopsTshirtHalfFruits
-    0x22171db3 - -1
+    0x22171db3 - -1      ClothTopsYshirtLongBlazerTie
     0x00700c90 - -1      ClothTopsTshirtLongPaisley
     0x84e636f4 - -1      ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - -1
@@ -28726,7 +28726,7 @@ Tops
     0x7ffa14e2 - -1      ClothTopsTshirtLongLayer
     0x84254dad - -1      ClothTopsCoatLongRain
     0xcc1528f2 - -1      ClothTopsCoatLongLeather
-    0xe44c9300 - -1
+    0xe44c9300 - -1      ClothTopsCoatHalfRestaurant
     0xff4124dc - -1      ClothTopsYshirtLongRetroCheck
     0xede30826 - -1      ClothTopsTshirtLongRetro
     0xe0f86bdc - -1
@@ -28751,7 +28751,7 @@ Tops
     0x3b62bcc4 - -1      ClothTopsBandana
     0x3cadac84 - -1
     0xd67b659c - -1      ClothTopsBodyBaseBikini
-    0xb8d00994 - -1
+    0xb8d00994 - -1      ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - -1      ClothTopsLace
   KRko
     0xef7104a1 - 0       ClothTopsOuterLongAbc
@@ -28770,14 +28770,14 @@ Tops
     0x2b612148 - 109     ClothTopsYshirtPuffLempard
     0x2460eecd - 113     ClothTopsTshirtLongAlphabet
     0x713e3cae - 112
-    0x904d8aae - 107
+    0x904d8aae - 107     ClothTopsYshirtLongArgyleVest
     0x180629e3 - 114
-    0x79431aa2 - 76
+    0x79431aa2 - 76      ClothTopsMantleLongVampire
     0x1877a422 - 132     ClothTopsOuterLongWindbreaker
     0x68ca24f9 - 131     ClothTopsYshirtLongWestern
     0x795550c5 - 130     ClothTopsOuterLongSpace
     0x207ef996 - 119     ClothTopsCoatLongApron
-    0xb32ff2b8 - 121
+    0xb32ff2b8 - 121     ClothTopsMantleLongTailcoat
     0x9f7e76a5 - 122     ClothTopsCoatLongKnit
     0x6489bb63 - 123
     0x5c96c992 - 205     ClothTopsCoatLongPirate
@@ -28789,7 +28789,7 @@ Tops
     0x7f6dc157 - 44      ClothTopsTshirtLongLayered
     0xef6b1067 - 45      ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - 62      ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - 187
+    0x399d497e - 187     ClothTopsOuterLongFleecePattern
     0x2762f288 - 156     ClothTopslongSalopetteRtharidu
     0x49f71c02 - 155     ClothTopsOuterLongCollege
     0x8c2afbb2 - 203     ClothTopsTshirtHalfKanji
@@ -28799,9 +28799,9 @@ Tops
     0x582e5428 - 162     ClothTopsYshirtHalfCuba
     0x22294a4b - 157     ClothTopsTshirtHalfSwitching
     0x5e453266 - 164     ClothTopsYshirtLongQuilting
-    0xf0dc9743 - 15
+    0xf0dc9743 - 15      ClothTopsYshirtLongGinghamCheck
     0x0999299e - 10      ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - 9
+    0x7c2dcb47 - 9       ClothTopsCoatHalfGladiator
     0x13e12f9d - 8       ClothTopsOuterLongGradation
     0xabc5f643 - 168     ClothTopsOuterLongHoliday
     0xc9a32fb8 - 161     ClothTopsCoatLongKurta
@@ -28840,7 +28840,7 @@ Tops
     0x431043c9 - 91      ClothTopsOuterLongSki
     0x0e31ecc6 - 117     ClothTopsOuterLongStadium
     0xc7fda841 - 93      ClothTopsTshirtHalfStar
-    0x80103bd9 - 99
+    0x80103bd9 - 99      ClothTopsMantleLongSteamPunk
     0x65b488aa - 98      ClothTopsYshirtHalfSticker
     0xf5169026 - 74      ClothTopsCoatLongSoutienCollar
     0x02652fb2 - 96      ClothTopsTshirtHalfStripe
@@ -28866,7 +28866,7 @@ Tops
     0x3686ace2 - 151     ClothTopsCoatLongCheck
     0xc1f85f39 - 150
     0x657e425a - 167     ClothTopsCroppedTee
-    0x7eda47b0 - 175
+    0x7eda47b0 - 175     ClothTopsCoatHalfTunic
     0x054f0db7 - 172     ClothTopsTshirtLongTilden
     0x05d77d6e - 173     ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - 27      ClothTopsYshirtLongDenim
@@ -28878,7 +28878,7 @@ Tops
     0x2df7881a - 3       ClothTopsYshirtHalfNurse
     0xc8a7934a - 21      ClothTopsCoatLongKnitGown
     0xff4a3b2f - 195     ClothTopsYshirtLongFlannel
-    0xbf51fd74 - 18
+    0xbf51fd74 - 18      ClothTopsOuterLongNordicSweater
     0x30870223 - 19      ClothTopsCoatLongNocollar
     0x87d5b2d6 - 65      ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - 66      ClothTopsYshirtSleevelessTurtleneckKnit
@@ -28886,7 +28886,7 @@ Tops
     0x5561d63b - 63
     0x6b924271 - 67
     0x8773807d - 174     ClothTopsYshirtLongBicolor
-    0x612e5976 - 70
+    0x612e5976 - 70      ClothTopsMantleLongViking
     0xfcebf781 - 209     ClothTopsYshirtHalfHibiscus
     0x9506a624 - 181
     0x3bd82f2f - 135     ClothTopsCoatLongDoctor
@@ -28906,19 +28906,19 @@ Tops
     0x3195f31d - 84
     0x24edc890 - 82      ClothTopsTshirtHalfBigNumber
     0x420a3d78 - 83      ClothTopsCoatLongBorder
-    0xf9f269b9 - 192
+    0xf9f269b9 - 192     ClothTopsCoatHalfLeopard
     0x5eb9c32f - 118     ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - 197     ClothTopsCoatLongPea
-    0xe989142d - 180
+    0xe989142d - 180     ClothTopsCoatHalfFire
     0x5ee888a9 - 196     ClothTopsTshirtLongFigure
     0x0f8bdd29 - 188     ClothTopsTshirtHalfFestival
     0xdf1aaa07 - 190     ClothTopsTshirtHalfPhoto
     0x41824370 - 194     ClothTopsTshirtLongFrilled
-    0x2cd1789c - 127
+    0x2cd1789c - 127     ClothTopsMantleLongPrince
     0x5060c753 - 208     ClothTopsOuterLongParka
     0x4f0402e0 - 207     ClothTopsOuterLongParkaZip
     0xec85dd61 - 5       ClothTopsTshirtHalfFruits
-    0x22171db3 - 80
+    0x22171db3 - 80      ClothTopsYshirtLongBlazerTie
     0x00700c90 - 189     ClothTopsTshirtLongPaisley
     0x84e636f4 - 116     ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - 77
@@ -28958,7 +28958,7 @@ Tops
     0x7ffa14e2 - 42      ClothTopsTshirtLongLayer
     0x84254dad - 46      ClothTopsCoatLongRain
     0xcc1528f2 - 40      ClothTopsCoatLongLeather
-    0xe44c9300 - 41
+    0xe44c9300 - 41      ClothTopsCoatHalfRestaurant
     0xff4124dc - 49      ClothTopsYshirtLongRetroCheck
     0xede30826 - 50      ClothTopsTshirtLongRetro
     0xe0f86bdc - 51
@@ -28983,7 +28983,7 @@ Tops
     0x3b62bcc4 - 213     ClothTopsBandana
     0x3cadac84 - 230
     0xd67b659c - 215     ClothTopsBodyBaseBikini
-    0xb8d00994 - 214
+    0xb8d00994 - 214     ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - 212     ClothTopsLace
   CNzh
     0xef7104a1 - 0       ClothTopsOuterLongAbc
@@ -29002,14 +29002,14 @@ Tops
     0x2b612148 - 149     ClothTopsYshirtPuffLempard
     0x2460eecd - 208     ClothTopsTshirtLongAlphabet
     0x713e3cae - 12
-    0x904d8aae - 122
+    0x904d8aae - 122     ClothTopsYshirtLongArgyleVest
     0x180629e3 - 181
-    0x79431aa2 - 172
+    0x79431aa2 - 172     ClothTopsMantleLongVampire
     0x1877a422 - 51      ClothTopsOuterLongWindbreaker
     0x68ca24f9 - 173     ClothTopsYshirtLongWestern
     0x795550c5 - 196     ClothTopsOuterLongSpace
     0x207ef996 - 163     ClothTopsCoatLongApron
-    0xb32ff2b8 - 188
+    0xb32ff2b8 - 188     ClothTopsMantleLongTailcoat
     0x9f7e76a5 - 5       ClothTopsCoatLongKnit
     0x6489bb63 - 107
     0x5c96c992 - 71      ClothTopsCoatLongPirate
@@ -29021,7 +29021,7 @@ Tops
     0x7f6dc157 - 117     ClothTopsTshirtLongLayered
     0xef6b1067 - 118     ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - 112     ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - 160
+    0x399d497e - 160     ClothTopsOuterLongFleecePattern
     0x2762f288 - 185     ClothTopslongSalopetteRtharidu
     0x49f71c02 - 184     ClothTopsOuterLongCollege
     0x8c2afbb2 - 73      ClothTopsTshirtHalfKanji
@@ -29031,9 +29031,9 @@ Tops
     0x582e5428 - 67      ClothTopsYshirtHalfCuba
     0x22294a4b - 139     ClothTopsTshirtHalfSwitching
     0x5e453266 - 121     ClothTopsYshirtLongQuilting
-    0xf0dc9743 - 91
+    0xf0dc9743 - 91      ClothTopsYshirtLongGinghamCheck
     0x0999299e - 102     ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - 105
+    0x7c2dcb47 - 105     ClothTopsCoatHalfGladiator
     0x13e12f9d - 98      ClothTopsOuterLongGradation
     0xabc5f643 - 148     ClothTopsOuterLongHoliday
     0xc9a32fb8 - 194     ClothTopsCoatLongKurta
@@ -29072,7 +29072,7 @@ Tops
     0x431043c9 - 84      ClothTopsOuterLongSki
     0x0e31ecc6 - 15      ClothTopsOuterLongStadium
     0xc7fda841 - 179     ClothTopsTshirtHalfStar
-    0x80103bd9 - 205
+    0x80103bd9 - 205     ClothTopsMantleLongSteamPunk
     0x65b488aa - 159     ClothTopsYshirtHalfSticker
     0xf5169026 - 116     ClothTopsCoatLongSoutienCollar
     0x02652fb2 - 156     ClothTopsTshirtHalfStripe
@@ -29098,7 +29098,7 @@ Tops
     0x3686ace2 - 62      ClothTopsCoatLongCheck
     0xc1f85f39 - 63
     0x657e425a - 43      ClothTopsCroppedTee
-    0x7eda47b0 - 28
+    0x7eda47b0 - 28      ClothTopsCoatHalfTunic
     0x054f0db7 - 162     ClothTopsTshirtLongTilden
     0x05d77d6e - 180     ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - 135     ClothTopsYshirtLongDenim
@@ -29110,7 +29110,7 @@ Tops
     0x2df7881a - 80      ClothTopsYshirtHalfNurse
     0xc8a7934a - 204     ClothTopsCoatLongKnitGown
     0xff4a3b2f - 49      ClothTopsYshirtLongFlannel
-    0xbf51fd74 - 17
+    0xbf51fd74 - 17      ClothTopsOuterLongNordicSweater
     0x30870223 - 165     ClothTopsCoatLongNocollar
     0x87d5b2d6 - 166     ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - 167     ClothTopsYshirtSleevelessTurtleneckKnit
@@ -29118,7 +29118,7 @@ Tops
     0x5561d63b - 171
     0x6b924271 - 168
     0x8773807d - 150     ClothTopsYshirtLongBicolor
-    0x612e5976 - 164
+    0x612e5976 - 164     ClothTopsMantleLongViking
     0xfcebf781 - 56      ClothTopsYshirtHalfHibiscus
     0x9506a624 - 53
     0x3bd82f2f - 193     ClothTopsCoatLongDoctor
@@ -29138,19 +29138,19 @@ Tops
     0x3195f31d - 4
     0x24edc890 - 104     ClothTopsTshirtHalfBigNumber
     0x420a3d78 - 37      ClothTopsCoatLongBorder
-    0xf9f269b9 - 16
+    0xf9f269b9 - 16      ClothTopsCoatHalfLeopard
     0x5eb9c32f - 176     ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - 72      ClothTopsCoatLongPea
-    0xe989142d - 88
+    0xe989142d - 88      ClothTopsCoatHalfFire
     0x5ee888a9 - 83      ClothTopsTshirtLongFigure
     0x0f8bdd29 - 101     ClothTopsTshirtHalfFestival
     0xdf1aaa07 - 203     ClothTopsTshirtHalfPhoto
     0x41824370 - 75      ClothTopsTshirtLongFrilled
-    0x2cd1789c - 161
+    0x2cd1789c - 161     ClothTopsMantleLongPrince
     0x5060c753 - 50      ClothTopsOuterLongParka
     0x4f0402e0 - 113     ClothTopsOuterLongParkaZip
     0xec85dd61 - 151     ClothTopsTshirtHalfFruits
-    0x22171db3 - 206
+    0x22171db3 - 206     ClothTopsYshirtLongBlazerTie
     0x00700c90 - 19      ClothTopsTshirtLongPaisley
     0x84e636f4 - 14      ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - 192
@@ -29190,7 +29190,7 @@ Tops
     0x7ffa14e2 - 120     ClothTopsTshirtLongLayer
     0x84254dad - 199     ClothTopsCoatLongRain
     0xcc1528f2 - 138     ClothTopsCoatLongLeather
-    0xe44c9300 - 24
+    0xe44c9300 - 24      ClothTopsCoatHalfRestaurant
     0xff4124dc - 58      ClothTopsYshirtLongRetroCheck
     0xede30826 - 57      ClothTopsTshirtLongRetro
     0xe0f86bdc - 191
@@ -29215,7 +29215,7 @@ Tops
     0x3b62bcc4 - 223     ClothTopsBandana
     0x3cadac84 - 210
     0xd67b659c - 213     ClothTopsBodyBaseBikini
-    0xb8d00994 - 230
+    0xb8d00994 - 230     ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - 220     ClothTopsLace
   TWzh
     0xef7104a1 - 0       ClothTopsOuterLongAbc
@@ -29234,14 +29234,14 @@ Tops
     0x2b612148 - 39      ClothTopsYshirtPuffLempard
     0x2460eecd - 38      ClothTopsTshirtLongAlphabet
     0x713e3cae - 40
-    0x904d8aae - 133
+    0x904d8aae - 133     ClothTopsYshirtLongArgyleVest
     0x180629e3 - 111
-    0x79431aa2 - 50
+    0x79431aa2 - 50      ClothTopsMantleLongVampire
     0x1877a422 - 45      ClothTopsOuterLongWindbreaker
     0x68ca24f9 - 34      ClothTopsYshirtLongWestern
     0x795550c5 - 42      ClothTopsOuterLongSpace
     0x207ef996 - 141     ClothTopsCoatLongApron
-    0xb32ff2b8 - 190
+    0xb32ff2b8 - 190     ClothTopsMantleLongTailcoat
     0x9f7e76a5 - 4       ClothTopsCoatLongKnit
     0x6489bb63 - 136
     0x5c96c992 - 92      ClothTopsCoatLongPirate
@@ -29253,7 +29253,7 @@ Tops
     0x7f6dc157 - 55      ClothTopsTshirtLongLayered
     0xef6b1067 - 57      ClothTopsTshirtLongLayeredHeart
     0x53a0aacb - 105     ClothTopsTshirtLongSimpleGessillene
-    0x399d497e - 160
+    0x399d497e - 160     ClothTopsOuterLongFleecePattern
     0x2762f288 - 187     ClothTopslongSalopetteRtharidu
     0x49f71c02 - 188     ClothTopsOuterLongCollege
     0x8c2afbb2 - 163     ClothTopsTshirtHalfKanji
@@ -29263,9 +29263,9 @@ Tops
     0x582e5428 - 26      ClothTopsYshirtHalfCuba
     0x22294a4b - 71      ClothTopsTshirtHalfSwitching
     0x5e453266 - 134     ClothTopsYshirtLongQuilting
-    0xf0dc9743 - 164
+    0xf0dc9743 - 164     ClothTopsYshirtLongGinghamCheck
     0x0999299e - 62      ClothTopsTshirtHalfGoldfish
-    0x7c2dcb47 - 174
+    0x7c2dcb47 - 174     ClothTopsCoatHalfGladiator
     0x13e12f9d - 165     ClothTopsOuterLongGradation
     0xabc5f643 - 148     ClothTopsOuterLongHoliday
     0xc9a32fb8 - 41      ClothTopsCoatLongKurta
@@ -29304,7 +29304,7 @@ Tops
     0x431043c9 - 144     ClothTopsOuterLongSki
     0x0e31ecc6 - 114     ClothTopsOuterLongStadium
     0xc7fda841 - 79      ClothTopsTshirtHalfStar
-    0x80103bd9 - 166
+    0x80103bd9 - 166     ClothTopsMantleLongSteamPunk
     0x65b488aa - 132     ClothTopsYshirtHalfSticker
     0xf5169026 - 23      ClothTopsCoatLongSoutienCollar
     0x02652fb2 - 98      ClothTopsTshirtHalfStripe
@@ -29330,7 +29330,7 @@ Tops
     0x3686ace2 - 87      ClothTopsCoatLongCheck
     0xc1f85f39 - 88
     0x657e425a - 128     ClothTopsCroppedTee
-    0x7eda47b0 - 64
+    0x7eda47b0 - 64      ClothTopsCoatHalfTunic
     0x054f0db7 - 143     ClothTopsTshirtLongTilden
     0x05d77d6e - 36      ClothTopsTshirtLongTailoredJacket
     0x4bb320a6 - 13      ClothTopsYshirtLongDenim
@@ -29342,7 +29342,7 @@ Tops
     0x2df7881a - 204     ClothTopsYshirtHalfNurse
     0xc8a7934a - 95      ClothTopsCoatLongKnitGown
     0xff4a3b2f - 53      ClothTopsYshirtLongFlannel
-    0xbf51fd74 - 19
+    0xbf51fd74 - 19      ClothTopsOuterLongNordicSweater
     0x30870223 - 123     ClothTopsCoatLongNocollar
     0x87d5b2d6 - 122     ClothTopsYshirtSleevelessSimple
     0xbb6625d4 - 119     ClothTopsYshirtSleevelessTurtleneckKnit
@@ -29350,7 +29350,7 @@ Tops
     0x5561d63b - 120
     0x6b924271 - 121
     0x8773807d - 200     ClothTopsYshirtLongBicolor
-    0x612e5976 - 168
+    0x612e5976 - 168     ClothTopsMantleLongViking
     0xfcebf781 - 47      ClothTopsYshirtHalfHibiscus
     0x9506a624 - 73
     0x3bd82f2f - 201     ClothTopsCoatLongDoctor
@@ -29370,19 +29370,19 @@ Tops
     0x3195f31d - 5
     0x24edc890 - 28      ClothTopsTshirtHalfBigNumber
     0x420a3d78 - 173     ClothTopsCoatLongBorder
-    0xf9f269b9 - 80
+    0xf9f269b9 - 80      ClothTopsCoatHalfLeopard
     0x5eb9c32f - 110     ClothTopsYshirtLongShirtNopooky
     0xc4e6912b - 91      ClothTopsCoatLongPea
-    0xe989142d - 15
+    0xe989142d - 15      ClothTopsCoatHalfFire
     0x5ee888a9 - 61      ClothTopsTshirtLongFigure
     0x0f8bdd29 - 145     ClothTopsTshirtHalfFestival
     0xdf1aaa07 - 146     ClothTopsTshirtHalfPhoto
     0x41824370 - 107     ClothTopsTshirtLongFrilled
-    0x2cd1789c - 18
+    0x2cd1789c - 18      ClothTopsMantleLongPrince
     0x5060c753 - 46      ClothTopsOuterLongParka
     0x4f0402e0 - 101     ClothTopsOuterLongParkaZip
     0xec85dd61 - 17      ClothTopsTshirtHalfFruits
-    0x22171db3 - 63
+    0x22171db3 - 63      ClothTopsYshirtLongBlazerTie
     0x00700c90 - 209     ClothTopsTshirtLongPaisley
     0x84e636f4 - 115     ClothTopsTshirtHalfBaseball
     0xf2bc9cbd - 51
@@ -29422,7 +29422,7 @@ Tops
     0x7ffa14e2 - 56      ClothTopsTshirtLongLayer
     0x84254dad - 67      ClothTopsCoatLongRain
     0xcc1528f2 - 22      ClothTopsCoatLongLeather
-    0xe44c9300 - 189
+    0xe44c9300 - 189     ClothTopsCoatHalfRestaurant
     0xff4124dc - 126     ClothTopsYshirtLongRetroCheck
     0xede30826 - 125     ClothTopsTshirtLongRetro
     0xe0f86bdc - 152
@@ -29447,15 +29447,15 @@ Tops
     0x3b62bcc4 - 221     ClothTopsBandana
     0x3cadac84 - 222
     0xd67b659c - 210     ClothTopsBodyBaseBikini
-    0xb8d00994 - 213
+    0xb8d00994 - 213     ClothTopsYshirtLongBlazerRibbon
     0xd13601a0 - 228     ClothTopsLace
 Topslong
   JPja
     0x80de0dfa - 0
-    0xb12ef9f2 - 1
+    0xb12ef9f2 - 1       ClothTopslongKimonoLongLinen
     0x10241ec6 - 2
     0x93530114 - 3       ClothTopslongOverallLongWetSuit
-    0x23717240 - 4
+    0x23717240 - 4       ClothTopslongOverallHalfWader
     0x522a2c6b - 5
     0x2b246a86 - 6       ClothTopslongSalopetteLongSplashed
     0x29b494ed - 7       ClothTopslongAlongLongKing
@@ -29464,11 +29464,11 @@ Topslong
     0x31c0aaa1 - 10
     0xe8cdcba8 - 11      ClothTopslongSalopetteLongCasual
     0xbf700b13 - 12
-    0xa90c0dae - 13
+    0xa90c0dae - 13      ClothTopslongKimonoLongKinagashi
     0x710c57ab - 14      ClothTopslongOverallLongCatcher
     0x03d76b7a - 15      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - 16      ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - 17
+    0x896ae1ae - 17      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - 18      ClothTopslongOverallLongSuspenders
     0xa89a9217 - 19
     0x3736c009 - 20      ClothTopslongSalopetteLongFirefighter
@@ -29493,19 +29493,19 @@ Topslong
     0x35559c42 - 39      ClothTopslongOverallLongBaseball
     0x53a5b12c - 40      ClothTopslongBoxDressLongRagged
     0xd9aced61 - 41
-    0x0e6d62a6 - 42
+    0x0e6d62a6 - 42      ClothTopslongKimonoLongMagician
     0x47fa8697 - 43      ClothTopslongOverallLongMariachi
     0x08c4df61 - 44
     0xbaed2064 - 45      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - 46
-    0xf60ba37b - 47
+    0xf60ba37b - 47      ClothTopslongKimonoLongRobe
     0x3f5a72f9 - 48      ClothTopslongBoxDressHalfTshirt
     0x5013d40e - 49      ClothTopslongDressHalfIdol
     0x2b5b1f3d - 50      ClothTopslongBoxDressLongAodai
     0x9faa6e2d - 51
     0xbc31c6e0 - 52      ClothTopslongDressSleevelessWedding
     0xaa21aef8 - 53      ClothTopslongBoxDressLongGown
-    0xcfdacb44 - 54
+    0xcfdacb44 - 54      ClothTopslongAlongHalfCachecoeur
     0xa43472cd - 55      ClothTopslongDressHalfKatrina
     0x1bca753b - 56      ClothTopslongDressSleevelessColor
     0x896f8c67 - 57      ClothTopslongDressLongNoble
@@ -29519,22 +29519,22 @@ Topslong
     0x2c4ce331 - 65      ClothTopslongBoxDressLongGothic
     0xea0e4d34 - 66
     0x3dc107be - 67      ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - 68
+    0x0f1f5942 - 68      ClothTopslongAlongHalfSaree
     0x1966a881 - 69      ClothTopslongAlineLongSanta
     0x7ea840ec - 70
     0x87b7f27b - 71      ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - 72
+    0xb9d853e9 - 72      ClothTopsYshirtLongComedianTows
     0xe99b39c1 - 73      ClothTopslongBoxDressLongJumper
     0xc3f2e545 - 74      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - 75      ClothTopslongDressHalfSimple
     0xf1fe69b3 - 76      ClothTopslongDressHalfStar
-    0xd1a5bd85 - 77
+    0xd1a5bd85 - 77      ClothTopslongDressLongSteamPunk
     0x0773e0b5 - 78      ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - 79      ClothTopslongAlineHalfSailor
     0x38549627 - 80      ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - 81      ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - 82      ClothTopslongAlongLongCheck
-    0xaa79be87 - 83
+    0xaa79be87 - 83      ClothTopslongAlongHalfCheck
     0x36da9dd6 - 84      ClothTopslongBoxDressLongChidori
     0x8078c4f9 - 85
     0x20ebac2f - 86
@@ -29548,7 +29548,7 @@ Topslong
     0x44ed60f0 - 94      ClothTopslongAlongLongNatural
     0xef5ec647 - 95      ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - 96      ClothTopslongBoxDressLongKnit
-    0x1c73c247 - 97
+    0x1c73c247 - 97      ClothTopslongAlongHalfNegligee
     0x42577667 - 98      ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - 99      ClothTopslongDressLongStrap
     0x13414e3b - 100     ClothTopslongAlongLongFlower
@@ -29566,8 +29566,8 @@ Topslong
     0xae2e84bb - 112     ClothTopslongAlineSleevelessFlower
     0x2c047a38 - 113     ClothTopslongAlongLongFrilled
     0x07d34c4d - 114     ClothTopslongDressHalfPrincess
-    0x48b98574 - 115
-    0x6d06f633 - 116
+    0x48b98574 - 115     ClothTopslongKimonoLongKimono
+    0x6d06f633 - 116     ClothTopslongDressHalfPolkaDot
     0x75c1983d - 117
     0x2fc91862 - 118     ClothTopslongBoxDressLongPolo
     0x62205fe2 - 119     ClothTopslongAlineLongPompon
@@ -29576,24 +29576,24 @@ Topslong
     0x3eac2d06 - 122     ClothTopslongAlineSleevelessMarine
     0x68746e02 - 123     ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - 124     ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - 125
+    0x4acf2d61 - 125     ClothTopslongKimonoLongMiko
     0x4c6e87e4 - 126     ClothTopslongDressHalfMaid
     0xef781813 - 127     ClothTopslongBoxDressLongMoga
     0x591768f5 - 128     ClothTopslongAlineSleevelessMonogram
     0x75d9132f - 129     ClothTopslongDressSleevelessFairy
     0x04845c6c - 130     ClothTopslongAlineHalfLinen
-    0x146aef65 - 131
+    0x146aef65 - 131     ClothTopslongAlongHalfRumba
     0x27a3a31b - 132     ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - 133
+    0x1b5f93dc - 133     ClothTopslongAlongHalfLace
     0xc3b60309 - 134     ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - 135     ClothTopslongDressLongLolita
     0xb0a70a2f - 136
   USen
     0x80de0dfa - 23
-    0xb12ef9f2 - 22
+    0xb12ef9f2 - 22      ClothTopslongKimonoLongLinen
     0x10241ec6 - 19
     0x93530114 - 45      ClothTopslongOverallLongWetSuit
-    0x23717240 - 43
+    0x23717240 - 43      ClothTopslongOverallHalfWader
     0x522a2c6b - 0
     0x2b246a86 - 31      ClothTopslongSalopetteLongSplashed
     0x29b494ed - 37      ClothTopslongAlongLongKing
@@ -29602,11 +29602,11 @@ Topslong
     0x31c0aaa1 - 35
     0xe8cdcba8 - 6       ClothTopslongSalopetteLongCasual
     0xbf700b13 - 26
-    0xa90c0dae - 7
+    0xa90c0dae - 7       ClothTopslongKimonoLongKinagashi
     0x710c57ab - 8       ClothTopslongOverallLongCatcher
     0x03d76b7a - 9       ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - 12      ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - 14
+    0x896ae1ae - 14      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - 40      ClothTopslongOverallLongSuspenders
     0xa89a9217 - 39
     0x3736c009 - 18      ClothTopslongSalopetteLongFirefighter
@@ -29631,19 +29631,19 @@ Topslong
     0x35559c42 - 2       ClothTopslongOverallLongBaseball
     0x53a5b12c - 34      ClothTopslongBoxDressLongRagged
     0xd9aced61 - 28
-    0x0e6d62a6 - 46
+    0x0e6d62a6 - 46      ClothTopslongKimonoLongMagician
     0x47fa8697 - 10      ClothTopslongOverallLongMariachi
     0x08c4df61 - 5
     0xbaed2064 - 38      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - 33
-    0xf60ba37b - 36
+    0xf60ba37b - 36      ClothTopslongKimonoLongRobe
     0x3f5a72f9 - 121     ClothTopslongBoxDressHalfTshirt
     0x5013d40e - 106     ClothTopslongDressHalfIdol
     0x2b5b1f3d - 48      ClothTopslongBoxDressLongAodai
     0x9faa6e2d - 91
     0xbc31c6e0 - 134     ClothTopslongDressSleevelessWedding
     0xaa21aef8 - 86      ClothTopslongBoxDressLongGown
-    0xcfdacb44 - 136
+    0xcfdacb44 - 136     ClothTopslongAlongHalfCachecoeur
     0xa43472cd - 55      ClothTopslongDressHalfKatrina
     0x1bca753b - 62      ClothTopslongDressSleevelessColor
     0x896f8c67 - 49      ClothTopslongDressLongNoble
@@ -29657,22 +29657,22 @@ Topslong
     0x2c4ce331 - 77      ClothTopslongBoxDressLongGothic
     0xea0e4d34 - 61
     0x3dc107be - 116     ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - 115
+    0x0f1f5942 - 115     ClothTopslongAlongHalfSaree
     0x1966a881 - 114     ClothTopslongAlineLongSanta
     0x7ea840ec - 67
     0x87b7f27b - 118     ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - 63
+    0xb9d853e9 - 63      ClothTopsYshirtLongComedianTows
     0xe99b39c1 - 101     ClothTopslongBoxDressLongJumper
     0xc3f2e545 - 73      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - 66      ClothTopslongDressHalfSimple
     0xf1fe69b3 - 126     ClothTopslongDressHalfStar
-    0xd1a5bd85 - 127
+    0xd1a5bd85 - 127     ClothTopslongDressLongSteamPunk
     0x0773e0b5 - 123     ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - 113     ClothTopslongAlineHalfSailor
     0x38549627 - 130     ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - 56      ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - 102     ClothTopslongAlongLongCheck
-    0xaa79be87 - 53
+    0xaa79be87 - 53      ClothTopslongAlongHalfCheck
     0x36da9dd6 - 81      ClothTopslongBoxDressLongChidori
     0x8078c4f9 - 58
     0x20ebac2f - 57
@@ -29686,7 +29686,7 @@ Topslong
     0x44ed60f0 - 93      ClothTopslongAlongLongNatural
     0xef5ec647 - 95      ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - 82      ClothTopslongBoxDressLongKnit
-    0x1c73c247 - 94
+    0x1c73c247 - 94      ClothTopslongAlongHalfNegligee
     0x42577667 - 122     ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - 78      ClothTopslongDressLongStrap
     0x13414e3b - 72      ClothTopslongAlongLongFlower
@@ -29704,8 +29704,8 @@ Topslong
     0xae2e84bb - 110     ClothTopslongAlineSleevelessFlower
     0x2c047a38 - 75      ClothTopslongAlongLongFrilled
     0x07d34c4d - 107     ClothTopslongDressHalfPrincess
-    0x48b98574 - 117
-    0x6d06f633 - 103
+    0x48b98574 - 117     ClothTopslongKimonoLongKimono
+    0x6d06f633 - 103     ClothTopslongDressHalfPolkaDot
     0x75c1983d - 120
     0x2fc91862 - 104     ClothTopslongBoxDressLongPolo
     0x62205fe2 - 105     ClothTopslongAlineLongPompon
@@ -29714,24 +29714,24 @@ Topslong
     0x3eac2d06 - 96      ClothTopslongAlineSleevelessMarine
     0x68746e02 - 92      ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - 89      ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - 119
+    0x4acf2d61 - 119     ClothTopslongKimonoLongMiko
     0x4c6e87e4 - 88      ClothTopslongDressHalfMaid
     0xef781813 - 133     ClothTopslongBoxDressLongMoga
     0x591768f5 - 90      ClothTopslongAlineSleevelessMonogram
     0x75d9132f - 68      ClothTopslongDressSleevelessFairy
     0x04845c6c - 51      ClothTopslongAlineHalfLinen
-    0x146aef65 - 112
+    0x146aef65 - 112     ClothTopslongAlongHalfRumba
     0x27a3a31b - 109     ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - 83
+    0x1b5f93dc - 83      ClothTopslongAlongHalfLace
     0xc3b60309 - 125     ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - 98      ClothTopslongDressLongLolita
     0xb0a70a2f - 85
   USes
     0x80de0dfa - 45
-    0xb12ef9f2 - 47
+    0xb12ef9f2 - 47      ClothTopslongKimonoLongLinen
     0x10241ec6 - 44
     0x93530114 - 36      ClothTopslongOverallLongWetSuit
-    0x23717240 - 20
+    0x23717240 - 20      ClothTopslongOverallHalfWader
     0x522a2c6b - 16
     0x2b246a86 - 22      ClothTopslongSalopetteLongSplashed
     0x29b494ed - 8       ClothTopslongAlongLongKing
@@ -29740,11 +29740,11 @@ Topslong
     0x31c0aaa1 - 28
     0xe8cdcba8 - 21      ClothTopslongSalopetteLongCasual
     0xbf700b13 - 14
-    0xa90c0dae - 15
+    0xa90c0dae - 15      ClothTopslongKimonoLongKinagashi
     0x710c57ab - 33      ClothTopslongOverallLongCatcher
     0x03d76b7a - 0       ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - 26      ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - 27
+    0x896ae1ae - 27      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - 1       ClothTopslongOverallLongSuspenders
     0xa89a9217 - 35
     0x3736c009 - 43      ClothTopslongSalopetteLongFirefighter
@@ -29769,19 +29769,19 @@ Topslong
     0x35559c42 - 42      ClothTopslongOverallLongBaseball
     0x53a5b12c - 46      ClothTopslongBoxDressLongRagged
     0xd9aced61 - 39
-    0x0e6d62a6 - 40
+    0x0e6d62a6 - 40      ClothTopslongKimonoLongMagician
     0x47fa8697 - 29      ClothTopslongOverallLongMariachi
     0x08c4df61 - 4
     0xbaed2064 - 34      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - 2
-    0xf60ba37b - 12
+    0xf60ba37b - 12      ClothTopslongKimonoLongRobe
     0x3f5a72f9 - 126     ClothTopslongBoxDressHalfTshirt
     0x5013d40e - 101     ClothTopslongDressHalfIdol
     0x2b5b1f3d - 48      ClothTopslongBoxDressLongAodai
     0x9faa6e2d - 136
     0xbc31c6e0 - 85      ClothTopslongDressSleevelessWedding
     0xaa21aef8 - 60      ClothTopslongBoxDressLongGown
-    0xcfdacb44 - 77
+    0xcfdacb44 - 77      ClothTopslongAlongHalfCachecoeur
     0xa43472cd - 93      ClothTopslongDressHalfKatrina
     0x1bca753b - 89      ClothTopslongDressSleevelessColor
     0x896f8c67 - 68      ClothTopslongDressLongNoble
@@ -29795,22 +29795,22 @@ Topslong
     0x2c4ce331 - 107     ClothTopslongBoxDressLongGothic
     0xea0e4d34 - 82
     0x3dc107be - 125     ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - 61
+    0x0f1f5942 - 61      ClothTopslongAlongHalfSaree
     0x1966a881 - 116     ClothTopslongAlineLongSanta
     0x7ea840ec - 69
     0x87b7f27b - 71      ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - 91
+    0xb9d853e9 - 91      ClothTopsYshirtLongComedianTows
     0xe99b39c1 - 65      ClothTopslongBoxDressLongJumper
     0xc3f2e545 - 58      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - 100     ClothTopslongDressHalfSimple
     0xf1fe69b3 - 123     ClothTopslongDressHalfStar
-    0xd1a5bd85 - 128
+    0xd1a5bd85 - 128     ClothTopslongDressLongSteamPunk
     0x0773e0b5 - 108     ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - 111     ClothTopslongAlineHalfSailor
     0x38549627 - 131     ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - 64      ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - 80      ClothTopslongAlongLongCheck
-    0xaa79be87 - 79
+    0xaa79be87 - 79      ClothTopslongAlongHalfCheck
     0x36da9dd6 - 117     ClothTopslongBoxDressLongChidori
     0x8078c4f9 - 73
     0x20ebac2f - 53
@@ -29824,7 +29824,7 @@ Topslong
     0x44ed60f0 - 114     ClothTopslongAlongLongNatural
     0xef5ec647 - 63      ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - 130     ClothTopslongBoxDressLongKnit
-    0x1c73c247 - 51
+    0x1c73c247 - 51      ClothTopslongAlongHalfNegligee
     0x42577667 - 127     ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - 55      ClothTopslongDressLongStrap
     0x13414e3b - 103     ClothTopslongAlongLongFlower
@@ -29842,8 +29842,8 @@ Topslong
     0xae2e84bb - 104     ClothTopslongAlineSleevelessFlower
     0x2c047a38 - 94      ClothTopslongAlongLongFrilled
     0x07d34c4d - 121     ClothTopslongDressHalfPrincess
-    0x48b98574 - 57
-    0x6d06f633 - 110
+    0x48b98574 - 57      ClothTopslongKimonoLongKimono
+    0x6d06f633 - 110     ClothTopslongDressHalfPolkaDot
     0x75c1983d - 97
     0x2fc91862 - 119     ClothTopslongBoxDressLongPolo
     0x62205fe2 - 76      ClothTopslongAlineLongPompon
@@ -29852,24 +29852,24 @@ Topslong
     0x3eac2d06 - 112     ClothTopslongAlineSleevelessMarine
     0x68746e02 - 122     ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - 98      ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - 81
+    0x4acf2d61 - 81      ClothTopslongKimonoLongMiko
     0x4c6e87e4 - 49      ClothTopslongDressHalfMaid
     0xef781813 - 135     ClothTopslongBoxDressLongMoga
     0x591768f5 - 113     ClothTopslongAlineSleevelessMonogram
     0x75d9132f - 90      ClothTopslongDressSleevelessFairy
     0x04845c6c - 95      ClothTopslongAlineHalfLinen
-    0x146aef65 - 96
+    0x146aef65 - 96      ClothTopslongAlongHalfRumba
     0x27a3a31b - 124     ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - 87
+    0x1b5f93dc - 87      ClothTopslongAlongHalfLace
     0xc3b60309 - 109     ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - 134     ClothTopslongDressLongLolita
     0xb0a70a2f - 115
   USfr
     0x80de0dfa - 42
-    0xb12ef9f2 - 47
+    0xb12ef9f2 - 47      ClothTopslongKimonoLongLinen
     0x10241ec6 - 41
     0x93530114 - 6       ClothTopslongOverallLongWetSuit
-    0x23717240 - 29
+    0x23717240 - 29      ClothTopslongOverallHalfWader
     0x522a2c6b - 2
     0x2b246a86 - 17      ClothTopslongSalopetteLongSplashed
     0x29b494ed - 21      ClothTopslongAlongLongKing
@@ -29878,11 +29878,11 @@ Topslong
     0x31c0aaa1 - 11
     0xe8cdcba8 - 3       ClothTopslongSalopetteLongCasual
     0xbf700b13 - 18
-    0xa90c0dae - 25
+    0xa90c0dae - 25      ClothTopslongKimonoLongKinagashi
     0x710c57ab - 45      ClothTopslongOverallLongCatcher
     0x03d76b7a - 23      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - 39      ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - 20
+    0x896ae1ae - 20      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - 15      ClothTopslongOverallLongSuspenders
     0xa89a9217 - 22
     0x3736c009 - 44      ClothTopslongSalopetteLongFirefighter
@@ -29907,19 +29907,19 @@ Topslong
     0x35559c42 - 46      ClothTopslongOverallLongBaseball
     0x53a5b12c - 33      ClothTopslongBoxDressLongRagged
     0xd9aced61 - 14
-    0x0e6d62a6 - 31
+    0x0e6d62a6 - 31      ClothTopslongKimonoLongMagician
     0x47fa8697 - 12      ClothTopslongOverallLongMariachi
     0x08c4df61 - 4
     0xbaed2064 - 13      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - 43
-    0xf60ba37b - 32
+    0xf60ba37b - 32      ClothTopslongKimonoLongRobe
     0x3f5a72f9 - 124     ClothTopslongBoxDressHalfTshirt
     0x5013d40e - 101     ClothTopslongDressHalfIdol
     0x2b5b1f3d - 48      ClothTopslongBoxDressLongAodai
     0x9faa6e2d - 136
     0xbc31c6e0 - 88      ClothTopslongDressSleevelessWedding
     0xaa21aef8 - 112     ClothTopslongBoxDressLongGown
-    0xcfdacb44 - 76
+    0xcfdacb44 - 76      ClothTopslongAlongHalfCachecoeur
     0xa43472cd - 78      ClothTopslongDressHalfKatrina
     0x1bca753b - 84      ClothTopslongDressSleevelessColor
     0x896f8c67 - 83      ClothTopslongDressLongNoble
@@ -29933,22 +29933,22 @@ Topslong
     0x2c4ce331 - 109     ClothTopslongBoxDressLongGothic
     0xea0e4d34 - 111
     0x3dc107be - 104     ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - 129
+    0x0f1f5942 - 129     ClothTopslongAlongHalfSaree
     0x1966a881 - 89      ClothTopslongAlineLongSanta
     0x7ea840ec - 75
     0x87b7f27b - 80      ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - 118
+    0xb9d853e9 - 118     ClothTopsYshirtLongComedianTows
     0xe99b39c1 - 132     ClothTopslongBoxDressLongJumper
     0xc3f2e545 - 50      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - 127     ClothTopslongDressHalfSimple
     0xf1fe69b3 - 97      ClothTopslongDressHalfStar
-    0xd1a5bd85 - 120
+    0xd1a5bd85 - 120     ClothTopslongDressLongSteamPunk
     0x0773e0b5 - 114     ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - 121     ClothTopslongAlineHalfSailor
     0x38549627 - 122     ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - 134     ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - 63      ClothTopslongAlongLongCheck
-    0xaa79be87 - 77
+    0xaa79be87 - 77      ClothTopslongAlongHalfCheck
     0x36da9dd6 - 115     ClothTopslongBoxDressLongChidori
     0x8078c4f9 - 49
     0x20ebac2f - 51
@@ -29962,7 +29962,7 @@ Topslong
     0x44ed60f0 - 113     ClothTopslongAlongLongNatural
     0xef5ec647 - 133     ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - 105     ClothTopslongBoxDressLongKnit
-    0x1c73c247 - 52
+    0x1c73c247 - 52      ClothTopslongAlongHalfNegligee
     0x42577667 - 81      ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - 55      ClothTopslongDressLongStrap
     0x13414e3b - 67      ClothTopslongAlongLongFlower
@@ -29980,8 +29980,8 @@ Topslong
     0xae2e84bb - 64      ClothTopslongAlineSleevelessFlower
     0x2c047a38 - 65      ClothTopslongAlongLongFrilled
     0x07d34c4d - 92      ClothTopslongDressHalfPrincess
-    0x48b98574 - 56
-    0x6d06f633 - 71
+    0x48b98574 - 56      ClothTopslongKimonoLongKimono
+    0x6d06f633 - 71      ClothTopslongDressHalfPolkaDot
     0x75c1983d - 99
     0x2fc91862 - 116     ClothTopslongBoxDressLongPolo
     0x62205fe2 - 72      ClothTopslongAlineLongPompon
@@ -29990,24 +29990,24 @@ Topslong
     0x3eac2d06 - 68      ClothTopslongAlineSleevelessMarine
     0x68746e02 - 117     ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - 98      ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - 57
+    0x4acf2d61 - 57      ClothTopslongKimonoLongMiko
     0x4c6e87e4 - 85      ClothTopslongDressHalfMaid
     0xef781813 - 108     ClothTopslongBoxDressLongMoga
     0x591768f5 - 66      ClothTopslongAlineSleevelessMonogram
     0x75d9132f - 86      ClothTopslongDressSleevelessFairy
     0x04845c6c - 103     ClothTopslongAlineHalfLinen
-    0x146aef65 - 95
+    0x146aef65 - 95      ClothTopslongAlongHalfRumba
     0x27a3a31b - 59      ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - 102
+    0x1b5f93dc - 102     ClothTopslongAlongHalfLace
     0xc3b60309 - 125     ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - 73      ClothTopslongDressLongLolita
     0xb0a70a2f - 119
   USpt
     0x80de0dfa - -1
-    0xb12ef9f2 - -1
+    0xb12ef9f2 - -1      ClothTopslongKimonoLongLinen
     0x10241ec6 - -1
     0x93530114 - -1      ClothTopslongOverallLongWetSuit
-    0x23717240 - -1
+    0x23717240 - -1      ClothTopslongOverallHalfWader
     0x522a2c6b - -1
     0x2b246a86 - -1      ClothTopslongSalopetteLongSplashed
     0x29b494ed - -1      ClothTopslongAlongLongKing
@@ -30016,11 +30016,11 @@ Topslong
     0x31c0aaa1 - -1
     0xe8cdcba8 - -1      ClothTopslongSalopetteLongCasual
     0xbf700b13 - -1
-    0xa90c0dae - -1
+    0xa90c0dae - -1      ClothTopslongKimonoLongKinagashi
     0x710c57ab - -1      ClothTopslongOverallLongCatcher
     0x03d76b7a - -1      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - -1      ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - -1
+    0x896ae1ae - -1      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - -1      ClothTopslongOverallLongSuspenders
     0xa89a9217 - -1
     0x3736c009 - -1      ClothTopslongSalopetteLongFirefighter
@@ -30045,19 +30045,19 @@ Topslong
     0x35559c42 - -1      ClothTopslongOverallLongBaseball
     0x53a5b12c - -1      ClothTopslongBoxDressLongRagged
     0xd9aced61 - -1
-    0x0e6d62a6 - -1
+    0x0e6d62a6 - -1      ClothTopslongKimonoLongMagician
     0x47fa8697 - -1      ClothTopslongOverallLongMariachi
     0x08c4df61 - -1
     0xbaed2064 - -1      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - -1
-    0xf60ba37b - -1
+    0xf60ba37b - -1      ClothTopslongKimonoLongRobe
     0x3f5a72f9 - -1      ClothTopslongBoxDressHalfTshirt
     0x5013d40e - -1      ClothTopslongDressHalfIdol
     0x2b5b1f3d - -1      ClothTopslongBoxDressLongAodai
     0x9faa6e2d - -1
     0xbc31c6e0 - -1      ClothTopslongDressSleevelessWedding
     0xaa21aef8 - -1      ClothTopslongBoxDressLongGown
-    0xcfdacb44 - -1
+    0xcfdacb44 - -1      ClothTopslongAlongHalfCachecoeur
     0xa43472cd - -1      ClothTopslongDressHalfKatrina
     0x1bca753b - -1      ClothTopslongDressSleevelessColor
     0x896f8c67 - -1      ClothTopslongDressLongNoble
@@ -30071,22 +30071,22 @@ Topslong
     0x2c4ce331 - -1      ClothTopslongBoxDressLongGothic
     0xea0e4d34 - -1
     0x3dc107be - -1      ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - -1
+    0x0f1f5942 - -1      ClothTopslongAlongHalfSaree
     0x1966a881 - -1      ClothTopslongAlineLongSanta
     0x7ea840ec - -1
     0x87b7f27b - -1      ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - -1
+    0xb9d853e9 - -1      ClothTopsYshirtLongComedianTows
     0xe99b39c1 - -1      ClothTopslongBoxDressLongJumper
     0xc3f2e545 - -1      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - -1      ClothTopslongDressHalfSimple
     0xf1fe69b3 - -1      ClothTopslongDressHalfStar
-    0xd1a5bd85 - -1
+    0xd1a5bd85 - -1      ClothTopslongDressLongSteamPunk
     0x0773e0b5 - -1      ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - -1      ClothTopslongAlineHalfSailor
     0x38549627 - -1      ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - -1      ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - -1      ClothTopslongAlongLongCheck
-    0xaa79be87 - -1
+    0xaa79be87 - -1      ClothTopslongAlongHalfCheck
     0x36da9dd6 - -1      ClothTopslongBoxDressLongChidori
     0x8078c4f9 - -1
     0x20ebac2f - -1
@@ -30100,7 +30100,7 @@ Topslong
     0x44ed60f0 - -1      ClothTopslongAlongLongNatural
     0xef5ec647 - -1      ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - -1      ClothTopslongBoxDressLongKnit
-    0x1c73c247 - -1
+    0x1c73c247 - -1      ClothTopslongAlongHalfNegligee
     0x42577667 - -1      ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - -1      ClothTopslongDressLongStrap
     0x13414e3b - -1      ClothTopslongAlongLongFlower
@@ -30118,8 +30118,8 @@ Topslong
     0xae2e84bb - -1      ClothTopslongAlineSleevelessFlower
     0x2c047a38 - -1      ClothTopslongAlongLongFrilled
     0x07d34c4d - -1      ClothTopslongDressHalfPrincess
-    0x48b98574 - -1
-    0x6d06f633 - -1
+    0x48b98574 - -1      ClothTopslongKimonoLongKimono
+    0x6d06f633 - -1      ClothTopslongDressHalfPolkaDot
     0x75c1983d - -1
     0x2fc91862 - -1      ClothTopslongBoxDressLongPolo
     0x62205fe2 - -1      ClothTopslongAlineLongPompon
@@ -30128,24 +30128,24 @@ Topslong
     0x3eac2d06 - -1      ClothTopslongAlineSleevelessMarine
     0x68746e02 - -1      ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - -1      ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - -1
+    0x4acf2d61 - -1      ClothTopslongKimonoLongMiko
     0x4c6e87e4 - -1      ClothTopslongDressHalfMaid
     0xef781813 - -1      ClothTopslongBoxDressLongMoga
     0x591768f5 - -1      ClothTopslongAlineSleevelessMonogram
     0x75d9132f - -1      ClothTopslongDressSleevelessFairy
     0x04845c6c - -1      ClothTopslongAlineHalfLinen
-    0x146aef65 - -1
+    0x146aef65 - -1      ClothTopslongAlongHalfRumba
     0x27a3a31b - -1      ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - -1
+    0x1b5f93dc - -1      ClothTopslongAlongHalfLace
     0xc3b60309 - -1      ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - -1      ClothTopslongDressLongLolita
     0xb0a70a2f - -1
   EUen
     0x80de0dfa - 22
-    0xb12ef9f2 - 21
+    0xb12ef9f2 - 21      ClothTopslongKimonoLongLinen
     0x10241ec6 - 1
     0x93530114 - 45      ClothTopslongOverallLongWetSuit
-    0x23717240 - 43
+    0x23717240 - 43      ClothTopslongOverallHalfWader
     0x522a2c6b - 0
     0x2b246a86 - 34      ClothTopslongSalopetteLongSplashed
     0x29b494ed - 39      ClothTopslongAlongLongKing
@@ -30154,11 +30154,11 @@ Topslong
     0x31c0aaa1 - 29
     0xe8cdcba8 - 10      ClothTopslongSalopetteLongCasual
     0xbf700b13 - 25
-    0xa90c0dae - 5
+    0xa90c0dae - 5       ClothTopslongKimonoLongKinagashi
     0x710c57ab - 3       ClothTopslongOverallLongCatcher
     0x03d76b7a - 11      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - 38      ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - 13
+    0x896ae1ae - 13      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - 9       ClothTopslongOverallLongSuspenders
     0xa89a9217 - 41
     0x3736c009 - 17      ClothTopslongSalopetteLongFirefighter
@@ -30183,19 +30183,19 @@ Topslong
     0x35559c42 - 4       ClothTopslongOverallLongBaseball
     0x53a5b12c - 37      ClothTopslongBoxDressLongRagged
     0xd9aced61 - 32
-    0x0e6d62a6 - 46
+    0x0e6d62a6 - 46      ClothTopslongKimonoLongMagician
     0x47fa8697 - 28      ClothTopslongOverallLongMariachi
     0x08c4df61 - 31
     0xbaed2064 - 40      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - 36
-    0xf60ba37b - 30
+    0xf60ba37b - 30      ClothTopslongKimonoLongRobe
     0x3f5a72f9 - 129     ClothTopslongBoxDressHalfTshirt
     0x5013d40e - 107     ClothTopslongDressHalfIdol
     0x2b5b1f3d - 48      ClothTopslongBoxDressLongAodai
     0x9faa6e2d - 92
     0xbc31c6e0 - 134     ClothTopslongDressSleevelessWedding
     0xaa21aef8 - 77      ClothTopslongBoxDressLongGown
-    0xcfdacb44 - 136
+    0xcfdacb44 - 136     ClothTopslongAlongHalfCachecoeur
     0xa43472cd - 82      ClothTopslongDressHalfKatrina
     0x1bca753b - 59      ClothTopslongDressSleevelessColor
     0x896f8c67 - 131     ClothTopslongDressLongNoble
@@ -30209,22 +30209,22 @@ Topslong
     0x2c4ce331 - 76      ClothTopslongBoxDressLongGothic
     0xea0e4d34 - 57
     0x3dc107be - 114     ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - 113
+    0x0f1f5942 - 113     ClothTopslongAlongHalfSaree
     0x1966a881 - 93      ClothTopslongAlineLongSanta
     0x7ea840ec - 65
     0x87b7f27b - 115     ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - 64
+    0xb9d853e9 - 64      ClothTopsYshirtLongComedianTows
     0xe99b39c1 - 102     ClothTopslongBoxDressLongJumper
     0xc3f2e545 - 71      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - 104     ClothTopslongDressHalfSimple
     0xf1fe69b3 - 120     ClothTopslongDressHalfStar
-    0xd1a5bd85 - 121
+    0xd1a5bd85 - 121     ClothTopslongDressLongSteamPunk
     0x0773e0b5 - 118     ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - 112     ClothTopslongAlineHalfSailor
     0x38549627 - 124     ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - 51      ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - 103     ClothTopslongAlongLongCheck
-    0xaa79be87 - 49
+    0xaa79be87 - 49      ClothTopslongAlongHalfCheck
     0x36da9dd6 - 81      ClothTopslongBoxDressLongChidori
     0x8078c4f9 - 53
     0x20ebac2f - 52
@@ -30238,7 +30238,7 @@ Topslong
     0x44ed60f0 - 96      ClothTopslongAlongLongNatural
     0xef5ec647 - 98      ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - 84      ClothTopslongBoxDressLongKnit
-    0x1c73c247 - 97
+    0x1c73c247 - 97      ClothTopslongAlongHalfNegligee
     0x42577667 - 117     ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - 79      ClothTopslongDressLongStrap
     0x13414e3b - 70      ClothTopslongAlongLongFlower
@@ -30256,8 +30256,8 @@ Topslong
     0xae2e84bb - 72      ClothTopslongAlineSleevelessFlower
     0x2c047a38 - 74      ClothTopslongAlongLongFrilled
     0x07d34c4d - 108     ClothTopslongDressHalfPrincess
-    0x48b98574 - 83
-    0x6d06f633 - 61
+    0x48b98574 - 83      ClothTopslongKimonoLongKimono
+    0x6d06f633 - 61      ClothTopslongDressHalfPolkaDot
     0x75c1983d - 78
     0x2fc91862 - 105     ClothTopslongBoxDressLongPolo
     0x62205fe2 - 106     ClothTopslongAlineLongPompon
@@ -30266,24 +30266,24 @@ Topslong
     0x3eac2d06 - 99      ClothTopslongAlineSleevelessMarine
     0x68746e02 - 94      ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - 90      ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - 116
+    0x4acf2d61 - 116     ClothTopslongKimonoLongMiko
     0x4c6e87e4 - 60      ClothTopslongDressHalfMaid
     0xef781813 - 132     ClothTopslongBoxDressLongMoga
     0x591768f5 - 91      ClothTopslongAlineSleevelessMonogram
     0x75d9132f - 66      ClothTopslongDressSleevelessFairy
     0x04845c6c - 86      ClothTopslongAlineHalfLinen
-    0x146aef65 - 111
+    0x146aef65 - 111     ClothTopslongAlongHalfRumba
     0x27a3a31b - 110     ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - 85
+    0x1b5f93dc - 85      ClothTopslongAlongHalfLace
     0xc3b60309 - 130     ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - 100     ClothTopslongDressLongLolita
     0xb0a70a2f - 88
   EUes
     0x80de0dfa - 29
-    0xb12ef9f2 - 47
+    0xb12ef9f2 - 47      ClothTopslongKimonoLongLinen
     0x10241ec6 - 45
     0x93530114 - 34      ClothTopslongOverallLongWetSuit
-    0x23717240 - 35
+    0x23717240 - 35      ClothTopslongOverallHalfWader
     0x522a2c6b - 3
     0x2b246a86 - 14      ClothTopslongSalopetteLongSplashed
     0x29b494ed - 39      ClothTopslongAlongLongKing
@@ -30292,11 +30292,11 @@ Topslong
     0x31c0aaa1 - 23
     0xe8cdcba8 - 16      ClothTopslongSalopetteLongCasual
     0xbf700b13 - 7
-    0xa90c0dae - 9
+    0xa90c0dae - 9       ClothTopslongKimonoLongKinagashi
     0x710c57ab - 25      ClothTopslongOverallLongCatcher
     0x03d76b7a - 41      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - 20      ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - 10
+    0x896ae1ae - 10      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - 21      ClothTopslongOverallLongSuspenders
     0xa89a9217 - 33
     0x3736c009 - 44      ClothTopslongSalopetteLongFirefighter
@@ -30321,19 +30321,19 @@ Topslong
     0x35559c42 - 24      ClothTopslongOverallLongBaseball
     0x53a5b12c - 46      ClothTopslongBoxDressLongRagged
     0xd9aced61 - 38
-    0x0e6d62a6 - 43
+    0x0e6d62a6 - 43      ClothTopslongKimonoLongMagician
     0x47fa8697 - 30      ClothTopslongOverallLongMariachi
     0x08c4df61 - 37
     0xbaed2064 - 32      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - 26
-    0xf60ba37b - 5
+    0xf60ba37b - 5       ClothTopslongKimonoLongRobe
     0x3f5a72f9 - 50      ClothTopslongBoxDressHalfTshirt
     0x5013d40e - 84      ClothTopslongDressHalfIdol
     0x2b5b1f3d - 49      ClothTopslongBoxDressLongAodai
     0x9faa6e2d - 136
     0xbc31c6e0 - 123     ClothTopslongDressSleevelessWedding
     0xaa21aef8 - 48      ClothTopslongBoxDressLongGown
-    0xcfdacb44 - 81
+    0xcfdacb44 - 81      ClothTopslongAlongHalfCachecoeur
     0xa43472cd - 96      ClothTopslongDressHalfKatrina
     0x1bca753b - 92      ClothTopslongDressSleevelessColor
     0x896f8c67 - 100     ClothTopslongDressLongNoble
@@ -30347,22 +30347,22 @@ Topslong
     0x2c4ce331 - 118     ClothTopslongBoxDressLongGothic
     0xea0e4d34 - 135
     0x3dc107be - 107     ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - 61
+    0x0f1f5942 - 61      ClothTopslongAlongHalfSaree
     0x1966a881 - 114     ClothTopslongAlineLongSanta
     0x7ea840ec - 72
     0x87b7f27b - 73      ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - 124
+    0xb9d853e9 - 124     ClothTopsYshirtLongComedianTows
     0xe99b39c1 - 68      ClothTopslongBoxDressLongJumper
     0xc3f2e545 - 59      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - 112     ClothTopslongDressHalfSimple
     0xf1fe69b3 - 77      ClothTopslongDressHalfStar
-    0xd1a5bd85 - 132
+    0xd1a5bd85 - 132     ClothTopslongDressLongSteamPunk
     0x0773e0b5 - 120     ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - 121     ClothTopslongAlineHalfSailor
     0x38549627 - 127     ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - 82      ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - 109     ClothTopslongAlongLongCheck
-    0xaa79be87 - 70
+    0xaa79be87 - 70      ClothTopslongAlongHalfCheck
     0x36da9dd6 - 101     ClothTopslongBoxDressLongChidori
     0x8078c4f9 - 86
     0x20ebac2f - 56
@@ -30376,7 +30376,7 @@ Topslong
     0x44ed60f0 - 130     ClothTopslongAlongLongNatural
     0xef5ec647 - 67      ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - 105     ClothTopslongBoxDressLongKnit
-    0x1c73c247 - 52
+    0x1c73c247 - 52      ClothTopslongAlongHalfNegligee
     0x42577667 - 131     ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - 54      ClothTopslongDressLongStrap
     0x13414e3b - 115     ClothTopslongAlongLongFlower
@@ -30394,8 +30394,8 @@ Topslong
     0xae2e84bb - 116     ClothTopslongAlineSleevelessFlower
     0x2c047a38 - 111     ClothTopslongAlongLongFrilled
     0x07d34c4d - 104     ClothTopslongDressHalfPrincess
-    0x48b98574 - 57
-    0x6d06f633 - 110
+    0x48b98574 - 57      ClothTopslongKimonoLongKimono
+    0x6d06f633 - 110     ClothTopslongDressHalfPolkaDot
     0x75c1983d - 87
     0x2fc91862 - 103     ClothTopslongBoxDressLongPolo
     0x62205fe2 - 78      ClothTopslongAlineLongPompon
@@ -30404,24 +30404,24 @@ Topslong
     0x3eac2d06 - 122     ClothTopslongAlineSleevelessMarine
     0x68746e02 - 71      ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - 108     ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - 58
+    0x4acf2d61 - 58      ClothTopslongKimonoLongMiko
     0x4c6e87e4 - 66      ClothTopslongDressHalfMaid
     0xef781813 - 134     ClothTopslongBoxDressLongMoga
     0x591768f5 - 113     ClothTopslongAlineSleevelessMonogram
     0x75d9132f - 94      ClothTopslongDressSleevelessFairy
     0x04845c6c - 97      ClothTopslongAlineHalfLinen
-    0x146aef65 - 106
+    0x146aef65 - 106     ClothTopslongAlongHalfRumba
     0x27a3a31b - 129     ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - 88
+    0x1b5f93dc - 88      ClothTopslongAlongHalfLace
     0xc3b60309 - 51      ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - 128     ClothTopslongDressLongLolita
     0xb0a70a2f - 125
   EUfr
     0x80de0dfa - 43
-    0xb12ef9f2 - 47
+    0xb12ef9f2 - 47      ClothTopslongKimonoLongLinen
     0x10241ec6 - 42
     0x93530114 - 11      ClothTopslongOverallLongWetSuit
-    0x23717240 - 33
+    0x23717240 - 33      ClothTopslongOverallHalfWader
     0x522a2c6b - 28
     0x2b246a86 - 1       ClothTopslongSalopetteLongSplashed
     0x29b494ed - 24      ClothTopslongAlongLongKing
@@ -30430,11 +30430,11 @@ Topslong
     0x31c0aaa1 - 31
     0xe8cdcba8 - 5       ClothTopslongSalopetteLongCasual
     0xbf700b13 - 22
-    0xa90c0dae - 29
+    0xa90c0dae - 29      ClothTopslongKimonoLongKinagashi
     0x710c57ab - 44      ClothTopslongOverallLongCatcher
     0x03d76b7a - 23      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - 4       ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - 6
+    0x896ae1ae - 6       ClothTopslongOverallHalfBicycle
     0x8e1ad662 - 20      ClothTopslongOverallLongSuspenders
     0xa89a9217 - 25
     0x3736c009 - 12      ClothTopslongSalopetteLongFirefighter
@@ -30459,19 +30459,19 @@ Topslong
     0x35559c42 - 46      ClothTopslongOverallLongBaseball
     0x53a5b12c - 37      ClothTopslongBoxDressLongRagged
     0xd9aced61 - 18
-    0x0e6d62a6 - 35
+    0x0e6d62a6 - 35      ClothTopslongKimonoLongMagician
     0x47fa8697 - 17      ClothTopslongOverallLongMariachi
     0x08c4df61 - 7
     0xbaed2064 - 14      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - 10
-    0xf60ba37b - 36
+    0xf60ba37b - 36      ClothTopslongKimonoLongRobe
     0x3f5a72f9 - 123     ClothTopslongBoxDressHalfTshirt
     0x5013d40e - 96      ClothTopslongDressHalfIdol
     0x2b5b1f3d - 48      ClothTopslongBoxDressLongAodai
     0x9faa6e2d - 136
     0xbc31c6e0 - 87      ClothTopslongDressSleevelessWedding
     0xaa21aef8 - 107     ClothTopslongBoxDressLongGown
-    0xcfdacb44 - 113
+    0xcfdacb44 - 113     ClothTopslongAlongHalfCachecoeur
     0xa43472cd - 81      ClothTopslongDressHalfKatrina
     0x1bca753b - 80      ClothTopslongDressSleevelessColor
     0x896f8c67 - 78      ClothTopslongDressLongNoble
@@ -30485,22 +30485,22 @@ Topslong
     0x2c4ce331 - 105     ClothTopslongBoxDressLongGothic
     0xea0e4d34 - 106
     0x3dc107be - 101     ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - 130
+    0x0f1f5942 - 130     ClothTopslongAlongHalfSaree
     0x1966a881 - 88      ClothTopslongAlineLongSanta
     0x7ea840ec - 74
     0x87b7f27b - 76      ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - 115
+    0xb9d853e9 - 115     ClothTopsYshirtLongComedianTows
     0xe99b39c1 - 133     ClothTopslongBoxDressLongJumper
     0xc3f2e545 - 54      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - 126     ClothTopslongDressHalfSimple
     0xf1fe69b3 - 82      ClothTopslongDressHalfStar
-    0xd1a5bd85 - 119
+    0xd1a5bd85 - 119     ClothTopslongDressLongSteamPunk
     0x0773e0b5 - 109     ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - 120     ClothTopslongAlineHalfSailor
     0x38549627 - 121     ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - 135     ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - 64      ClothTopslongAlongLongCheck
-    0xaa79be87 - 128
+    0xaa79be87 - 128     ClothTopslongAlongHalfCheck
     0x36da9dd6 - 111     ClothTopslongBoxDressLongChidori
     0x8078c4f9 - 53
     0x20ebac2f - 52
@@ -30514,7 +30514,7 @@ Topslong
     0x44ed60f0 - 108     ClothTopslongAlongLongNatural
     0xef5ec647 - 49      ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - 102     ClothTopslongBoxDressLongKnit
-    0x1c73c247 - 50
+    0x1c73c247 - 50      ClothTopslongAlongHalfNegligee
     0x42577667 - 117     ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - 56      ClothTopslongDressLongStrap
     0x13414e3b - 68      ClothTopslongAlongLongFlower
@@ -30532,8 +30532,8 @@ Topslong
     0xae2e84bb - 65      ClothTopslongAlineSleevelessFlower
     0x2c047a38 - 66      ClothTopslongAlongLongFrilled
     0x07d34c4d - 91      ClothTopslongDressHalfPrincess
-    0x48b98574 - 57
-    0x6d06f633 - 71
+    0x48b98574 - 57      ClothTopslongKimonoLongKimono
+    0x6d06f633 - 71      ClothTopslongDressHalfPolkaDot
     0x75c1983d - 97
     0x2fc91862 - 112     ClothTopslongBoxDressLongPolo
     0x62205fe2 - 79      ClothTopslongAlineLongPompon
@@ -30542,24 +30542,24 @@ Topslong
     0x3eac2d06 - 69      ClothTopslongAlineSleevelessMarine
     0x68746e02 - 114     ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - 94      ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - 58
+    0x4acf2d61 - 58      ClothTopslongKimonoLongMiko
     0x4c6e87e4 - 83      ClothTopslongDressHalfMaid
     0xef781813 - 129     ClothTopslongBoxDressLongMoga
     0x591768f5 - 67      ClothTopslongAlineSleevelessMonogram
     0x75d9132f - 84      ClothTopslongDressSleevelessFairy
     0x04845c6c - 100     ClothTopslongAlineHalfLinen
-    0x146aef65 - 93
+    0x146aef65 - 93      ClothTopslongAlongHalfRumba
     0x27a3a31b - 60      ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - 98
+    0x1b5f93dc - 98      ClothTopslongAlongHalfLace
     0xc3b60309 - 124     ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - 72      ClothTopslongDressLongLolita
     0xb0a70a2f - 116
   EUde
     0x80de0dfa - 10
-    0xb12ef9f2 - 20
+    0xb12ef9f2 - 20      ClothTopslongKimonoLongLinen
     0x10241ec6 - 14
     0x93530114 - 42      ClothTopslongOverallLongWetSuit
-    0x23717240 - 45
+    0x23717240 - 45      ClothTopslongOverallHalfWader
     0x522a2c6b - 0
     0x2b246a86 - 29      ClothTopslongSalopetteLongSplashed
     0x29b494ed - 26      ClothTopslongAlongLongKing
@@ -30568,11 +30568,11 @@ Topslong
     0x31c0aaa1 - 38
     0xe8cdcba8 - 16      ClothTopslongSalopetteLongCasual
     0xbf700b13 - 25
-    0xa90c0dae - 19
+    0xa90c0dae - 19      ClothTopslongKimonoLongKinagashi
     0x710c57ab - 5       ClothTopslongOverallLongCatcher
     0x03d76b7a - 21      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - 1       ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - 36
+    0x896ae1ae - 36      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - 22      ClothTopslongOverallLongSuspenders
     0xa89a9217 - 40
     0x3736c009 - 13      ClothTopslongSalopetteLongFirefighter
@@ -30597,19 +30597,19 @@ Topslong
     0x35559c42 - 6       ClothTopslongOverallLongBaseball
     0x53a5b12c - 12      ClothTopslongBoxDressLongRagged
     0xd9aced61 - 32
-    0x0e6d62a6 - 47
+    0x0e6d62a6 - 47      ClothTopslongKimonoLongMagician
     0x47fa8697 - 30      ClothTopslongOverallLongMariachi
     0x08c4df61 - 31
     0xbaed2064 - 39      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - 37
-    0xf60ba37b - 28
+    0xf60ba37b - 28      ClothTopslongKimonoLongRobe
     0x3f5a72f9 - 124     ClothTopslongBoxDressHalfTshirt
     0x5013d40e - 101     ClothTopslongDressHalfIdol
     0x2b5b1f3d - 51      ClothTopslongBoxDressLongAodai
     0x9faa6e2d - 132
     0xbc31c6e0 - 77      ClothTopslongDressSleevelessWedding
     0xaa21aef8 - 50      ClothTopslongBoxDressLongGown
-    0xcfdacb44 - 130
+    0xcfdacb44 - 130     ClothTopslongAlongHalfCachecoeur
     0xa43472cd - 59      ClothTopslongDressHalfKatrina
     0x1bca753b - 69      ClothTopslongDressSleevelessColor
     0x896f8c67 - 53      ClothTopslongDressLongNoble
@@ -30623,22 +30623,22 @@ Topslong
     0x2c4ce331 - 72      ClothTopslongBoxDressLongGothic
     0xea0e4d34 - 88
     0x3dc107be - 109     ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - 108
+    0x0f1f5942 - 108     ClothTopslongAlongHalfSaree
     0x1966a881 - 129     ClothTopslongAlineLongSanta
     0x7ea840ec - 58
     0x87b7f27b - 75      ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - 84
+    0xb9d853e9 - 84      ClothTopsYshirtLongComedianTows
     0xe99b39c1 - 110     ClothTopslongBoxDressLongJumper
     0xc3f2e545 - 55      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - 49      ClothTopslongDressHalfSimple
     0xf1fe69b3 - 115     ClothTopslongDressHalfStar
-    0xd1a5bd85 - 116
+    0xd1a5bd85 - 116     ClothTopslongDressLongSteamPunk
     0x0773e0b5 - 125     ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - 89      ClothTopslongAlineHalfSailor
     0x38549627 - 54      ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - 61      ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - 80      ClothTopslongAlongLongCheck
-    0xaa79be87 - 126
+    0xaa79be87 - 126     ClothTopslongAlongHalfCheck
     0x36da9dd6 - 73      ClothTopslongBoxDressLongChidori
     0x8078c4f9 - 62
     0x20ebac2f - 64
@@ -30652,7 +30652,7 @@ Topslong
     0x44ed60f0 - 98      ClothTopslongAlongLongNatural
     0xef5ec647 - 83      ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - 117     ClothTopslongBoxDressLongKnit
-    0x1c73c247 - 96
+    0x1c73c247 - 96      ClothTopslongAlongHalfNegligee
     0x42577667 - 52      ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - 120     ClothTopslongDressLongStrap
     0x13414e3b - 57      ClothTopslongAlongLongFlower
@@ -30670,8 +30670,8 @@ Topslong
     0xae2e84bb - 56      ClothTopslongAlineSleevelessFlower
     0x2c047a38 - 107     ClothTopslongAlongLongFrilled
     0x07d34c4d - 103     ClothTopslongDressHalfPrincess
-    0x48b98574 - 65
-    0x6d06f633 - 122
+    0x48b98574 - 65      ClothTopslongKimonoLongKimono
+    0x6d06f633 - 122     ClothTopslongDressHalfPolkaDot
     0x75c1983d - 97
     0x2fc91862 - 100     ClothTopslongBoxDressLongPolo
     0x62205fe2 - 133     ClothTopslongAlineLongPompon
@@ -30680,24 +30680,24 @@ Topslong
     0x3eac2d06 - 90      ClothTopslongAlineSleevelessMarine
     0x68746e02 - 92      ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - 91      ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - 94
+    0x4acf2d61 - 94      ClothTopslongKimonoLongMiko
     0x4c6e87e4 - 66      ClothTopslongDressHalfMaid
     0xef781813 - 48      ClothTopslongBoxDressLongMoga
     0x591768f5 - 95      ClothTopslongAlineSleevelessMonogram
     0x75d9132f - 70      ClothTopslongDressSleevelessFairy
     0x04845c6c - 86      ClothTopslongAlineHalfLinen
-    0x146aef65 - 106
+    0x146aef65 - 106     ClothTopslongAlongHalfRumba
     0x27a3a31b - 105     ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - 114
+    0x1b5f93dc - 114     ClothTopslongAlongHalfLace
     0xc3b60309 - 87      ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - 136     ClothTopslongDressLongLolita
     0xb0a70a2f - 85
   EUit
     0x80de0dfa - 31
-    0xb12ef9f2 - 47
+    0xb12ef9f2 - 47      ClothTopslongKimonoLongLinen
     0x10241ec6 - 30
     0x93530114 - 23      ClothTopslongOverallLongWetSuit
-    0x23717240 - 26
+    0x23717240 - 26      ClothTopslongOverallHalfWader
     0x522a2c6b - 9
     0x2b246a86 - 43      ClothTopslongSalopetteLongSplashed
     0x29b494ed - 3       ClothTopslongAlongLongKing
@@ -30706,11 +30706,11 @@ Topslong
     0x31c0aaa1 - 16
     0xe8cdcba8 - 40      ClothTopslongSalopetteLongCasual
     0xbf700b13 - 19
-    0xa90c0dae - 22
+    0xa90c0dae - 22      ClothTopslongKimonoLongKinagashi
     0x710c57ab - 44      ClothTopslongOverallLongCatcher
     0x03d76b7a - 36      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - 37      ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - 28
+    0x896ae1ae - 28      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - 0       ClothTopslongOverallLongSuspenders
     0xa89a9217 - 18
     0x3736c009 - 33      ClothTopslongSalopetteLongFirefighter
@@ -30735,19 +30735,19 @@ Topslong
     0x35559c42 - 38      ClothTopslongOverallLongBaseball
     0x53a5b12c - 4       ClothTopslongBoxDressLongRagged
     0xd9aced61 - 17
-    0x0e6d62a6 - 46
+    0x0e6d62a6 - 46      ClothTopslongKimonoLongMagician
     0x47fa8697 - 14      ClothTopslongOverallLongMariachi
     0x08c4df61 - 41
     0xbaed2064 - 15      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - 42
-    0xf60ba37b - 24
+    0xf60ba37b - 24      ClothTopslongKimonoLongRobe
     0x3f5a72f9 - 57      ClothTopslongBoxDressHalfTshirt
     0x5013d40e - 80      ClothTopslongDressHalfIdol
     0x2b5b1f3d - 117     ClothTopslongBoxDressLongAodai
     0x9faa6e2d - 136
     0xbc31c6e0 - 85      ClothTopslongDressSleevelessWedding
     0xaa21aef8 - 129     ClothTopslongBoxDressLongGown
-    0xcfdacb44 - 59
+    0xcfdacb44 - 59      ClothTopslongAlongHalfCachecoeur
     0xa43472cd - 76      ClothTopslongDressHalfKatrina
     0x1bca753b - 50      ClothTopslongDressSleevelessColor
     0x896f8c67 - 116     ClothTopslongDressLongNoble
@@ -30761,22 +30761,22 @@ Topslong
     0x2c4ce331 - 96      ClothTopslongBoxDressLongGothic
     0xea0e4d34 - 49
     0x3dc107be - 90      ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - 128
+    0x0f1f5942 - 128     ClothTopslongAlongHalfSaree
     0x1966a881 - 101     ClothTopslongAlineLongSanta
     0x7ea840ec - 104
     0x87b7f27b - 61      ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - 123
+    0xb9d853e9 - 123     ClothTopsYshirtLongComedianTows
     0xe99b39c1 - 135     ClothTopslongBoxDressLongJumper
     0xc3f2e545 - 105     ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - 108     ClothTopslongDressHalfSimple
     0xf1fe69b3 - 91      ClothTopslongDressHalfStar
-    0xd1a5bd85 - 111
+    0xd1a5bd85 - 111     ClothTopslongDressLongSteamPunk
     0x0773e0b5 - 110     ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - 52      ClothTopslongAlineHalfSailor
     0x38549627 - 113     ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - 133     ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - 98      ClothTopslongAlongLongCheck
-    0xaa79be87 - 94
+    0xaa79be87 - 94      ClothTopslongAlongHalfCheck
     0x36da9dd6 - 102     ClothTopslongBoxDressLongChidori
     0x8078c4f9 - 63
     0x20ebac2f - 120
@@ -30790,7 +30790,7 @@ Topslong
     0x44ed60f0 - 97      ClothTopslongAlongLongNatural
     0xef5ec647 - 118     ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - 53      ClothTopslongBoxDressLongKnit
-    0x1c73c247 - 119
+    0x1c73c247 - 119     ClothTopslongAlongHalfNegligee
     0x42577667 - 109     ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - 106     ClothTopslongDressLongStrap
     0x13414e3b - 62      ClothTopslongAlongLongFlower
@@ -30808,8 +30808,8 @@ Topslong
     0xae2e84bb - 51      ClothTopslongAlineSleevelessFlower
     0x2c047a38 - 48      ClothTopslongAlongLongFrilled
     0x07d34c4d - 82      ClothTopslongDressHalfPrincess
-    0x48b98574 - 125
-    0x6d06f633 - 55
+    0x48b98574 - 125     ClothTopslongKimonoLongKimono
+    0x6d06f633 - 55      ClothTopslongDressHalfPolkaDot
     0x75c1983d - 107
     0x2fc91862 - 103     ClothTopslongBoxDressLongPolo
     0x62205fe2 - 67      ClothTopslongAlineLongPompon
@@ -30818,24 +30818,24 @@ Topslong
     0x3eac2d06 - 72      ClothTopslongAlineSleevelessMarine
     0x68746e02 - 56      ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - 84      ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - 121
+    0x4acf2d61 - 121     ClothTopslongKimonoLongMiko
     0x4c6e87e4 - 100     ClothTopslongDressHalfMaid
     0xef781813 - 115     ClothTopslongBoxDressLongMoga
     0x591768f5 - 71      ClothTopslongAlineSleevelessMonogram
     0x75d9132f - 78      ClothTopslongDressSleevelessFairy
     0x04845c6c - 88      ClothTopslongAlineHalfLinen
-    0x146aef65 - 83
+    0x146aef65 - 83      ClothTopslongAlongHalfRumba
     0x27a3a31b - 126     ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - 87
+    0x1b5f93dc - 87      ClothTopslongAlongHalfLace
     0xc3b60309 - 58      ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - 60      ClothTopslongDressLongLolita
     0xb0a70a2f - 124
   EUpt
     0x80de0dfa - -1
-    0xb12ef9f2 - -1
+    0xb12ef9f2 - -1      ClothTopslongKimonoLongLinen
     0x10241ec6 - -1
     0x93530114 - -1      ClothTopslongOverallLongWetSuit
-    0x23717240 - -1
+    0x23717240 - -1      ClothTopslongOverallHalfWader
     0x522a2c6b - -1
     0x2b246a86 - -1      ClothTopslongSalopetteLongSplashed
     0x29b494ed - -1      ClothTopslongAlongLongKing
@@ -30844,11 +30844,11 @@ Topslong
     0x31c0aaa1 - -1
     0xe8cdcba8 - -1      ClothTopslongSalopetteLongCasual
     0xbf700b13 - -1
-    0xa90c0dae - -1
+    0xa90c0dae - -1      ClothTopslongKimonoLongKinagashi
     0x710c57ab - -1      ClothTopslongOverallLongCatcher
     0x03d76b7a - -1      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - -1      ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - -1
+    0x896ae1ae - -1      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - -1      ClothTopslongOverallLongSuspenders
     0xa89a9217 - -1
     0x3736c009 - -1      ClothTopslongSalopetteLongFirefighter
@@ -30873,19 +30873,19 @@ Topslong
     0x35559c42 - -1      ClothTopslongOverallLongBaseball
     0x53a5b12c - -1      ClothTopslongBoxDressLongRagged
     0xd9aced61 - -1
-    0x0e6d62a6 - -1
+    0x0e6d62a6 - -1      ClothTopslongKimonoLongMagician
     0x47fa8697 - -1      ClothTopslongOverallLongMariachi
     0x08c4df61 - -1
     0xbaed2064 - -1      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - -1
-    0xf60ba37b - -1
+    0xf60ba37b - -1      ClothTopslongKimonoLongRobe
     0x3f5a72f9 - -1      ClothTopslongBoxDressHalfTshirt
     0x5013d40e - -1      ClothTopslongDressHalfIdol
     0x2b5b1f3d - -1      ClothTopslongBoxDressLongAodai
     0x9faa6e2d - -1
     0xbc31c6e0 - -1      ClothTopslongDressSleevelessWedding
     0xaa21aef8 - -1      ClothTopslongBoxDressLongGown
-    0xcfdacb44 - -1
+    0xcfdacb44 - -1      ClothTopslongAlongHalfCachecoeur
     0xa43472cd - -1      ClothTopslongDressHalfKatrina
     0x1bca753b - -1      ClothTopslongDressSleevelessColor
     0x896f8c67 - -1      ClothTopslongDressLongNoble
@@ -30899,22 +30899,22 @@ Topslong
     0x2c4ce331 - -1      ClothTopslongBoxDressLongGothic
     0xea0e4d34 - -1
     0x3dc107be - -1      ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - -1
+    0x0f1f5942 - -1      ClothTopslongAlongHalfSaree
     0x1966a881 - -1      ClothTopslongAlineLongSanta
     0x7ea840ec - -1
     0x87b7f27b - -1      ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - -1
+    0xb9d853e9 - -1      ClothTopsYshirtLongComedianTows
     0xe99b39c1 - -1      ClothTopslongBoxDressLongJumper
     0xc3f2e545 - -1      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - -1      ClothTopslongDressHalfSimple
     0xf1fe69b3 - -1      ClothTopslongDressHalfStar
-    0xd1a5bd85 - -1
+    0xd1a5bd85 - -1      ClothTopslongDressLongSteamPunk
     0x0773e0b5 - -1      ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - -1      ClothTopslongAlineHalfSailor
     0x38549627 - -1      ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - -1      ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - -1      ClothTopslongAlongLongCheck
-    0xaa79be87 - -1
+    0xaa79be87 - -1      ClothTopslongAlongHalfCheck
     0x36da9dd6 - -1      ClothTopslongBoxDressLongChidori
     0x8078c4f9 - -1
     0x20ebac2f - -1
@@ -30928,7 +30928,7 @@ Topslong
     0x44ed60f0 - -1      ClothTopslongAlongLongNatural
     0xef5ec647 - -1      ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - -1      ClothTopslongBoxDressLongKnit
-    0x1c73c247 - -1
+    0x1c73c247 - -1      ClothTopslongAlongHalfNegligee
     0x42577667 - -1      ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - -1      ClothTopslongDressLongStrap
     0x13414e3b - -1      ClothTopslongAlongLongFlower
@@ -30946,8 +30946,8 @@ Topslong
     0xae2e84bb - -1      ClothTopslongAlineSleevelessFlower
     0x2c047a38 - -1      ClothTopslongAlongLongFrilled
     0x07d34c4d - -1      ClothTopslongDressHalfPrincess
-    0x48b98574 - -1
-    0x6d06f633 - -1
+    0x48b98574 - -1      ClothTopslongKimonoLongKimono
+    0x6d06f633 - -1      ClothTopslongDressHalfPolkaDot
     0x75c1983d - -1
     0x2fc91862 - -1      ClothTopslongBoxDressLongPolo
     0x62205fe2 - -1      ClothTopslongAlineLongPompon
@@ -30956,24 +30956,24 @@ Topslong
     0x3eac2d06 - -1      ClothTopslongAlineSleevelessMarine
     0x68746e02 - -1      ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - -1      ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - -1
+    0x4acf2d61 - -1      ClothTopslongKimonoLongMiko
     0x4c6e87e4 - -1      ClothTopslongDressHalfMaid
     0xef781813 - -1      ClothTopslongBoxDressLongMoga
     0x591768f5 - -1      ClothTopslongAlineSleevelessMonogram
     0x75d9132f - -1      ClothTopslongDressSleevelessFairy
     0x04845c6c - -1      ClothTopslongAlineHalfLinen
-    0x146aef65 - -1
+    0x146aef65 - -1      ClothTopslongAlongHalfRumba
     0x27a3a31b - -1      ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - -1
+    0x1b5f93dc - -1      ClothTopslongAlongHalfLace
     0xc3b60309 - -1      ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - -1      ClothTopslongDressLongLolita
     0xb0a70a2f - -1
   EUnl
     0x80de0dfa - 14
-    0xb12ef9f2 - 47
+    0xb12ef9f2 - 47      ClothTopslongKimonoLongLinen
     0x10241ec6 - 1
     0x93530114 - 44      ClothTopslongOverallLongWetSuit
-    0x23717240 - 43
+    0x23717240 - 43      ClothTopslongOverallHalfWader
     0x522a2c6b - 0
     0x2b246a86 - 32      ClothTopslongSalopetteLongSplashed
     0x29b494ed - 19      ClothTopslongAlongLongKing
@@ -30982,11 +30982,11 @@ Topslong
     0x31c0aaa1 - 42
     0xe8cdcba8 - 34      ClothTopslongSalopetteLongCasual
     0xbf700b13 - 16
-    0xa90c0dae - 18
+    0xa90c0dae - 18      ClothTopslongKimonoLongKinagashi
     0x710c57ab - 13      ClothTopslongOverallLongCatcher
     0x03d76b7a - 11      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - 29      ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - 45
+    0x896ae1ae - 45      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - 27      ClothTopslongOverallLongSuspenders
     0xa89a9217 - 31
     0x3736c009 - 5       ClothTopslongSalopetteLongFirefighter
@@ -31011,19 +31011,19 @@ Topslong
     0x35559c42 - 12      ClothTopslongOverallLongBaseball
     0x53a5b12c - 17      ClothTopslongBoxDressLongRagged
     0xd9aced61 - 33
-    0x0e6d62a6 - 38
+    0x0e6d62a6 - 38      ClothTopslongKimonoLongMagician
     0x47fa8697 - 22      ClothTopslongOverallLongMariachi
     0x08c4df61 - 24
     0xbaed2064 - 30      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - 7
-    0xf60ba37b - 23
+    0xf60ba37b - 23      ClothTopslongKimonoLongRobe
     0x3f5a72f9 - 127     ClothTopslongBoxDressHalfTshirt
     0x5013d40e - 107     ClothTopslongDressHalfIdol
     0x2b5b1f3d - 124     ClothTopslongBoxDressLongAodai
     0x9faa6e2d - 134
     0xbc31c6e0 - 126     ClothTopslongDressSleevelessWedding
     0xaa21aef8 - 48      ClothTopslongBoxDressLongGown
-    0xcfdacb44 - 132
+    0xcfdacb44 - 132     ClothTopslongAlongHalfCachecoeur
     0xa43472cd - 92      ClothTopslongDressHalfKatrina
     0x1bca753b - 49      ClothTopslongDressSleevelessColor
     0x896f8c67 - 129     ClothTopslongDressLongNoble
@@ -31037,22 +31037,22 @@ Topslong
     0x2c4ce331 - 65      ClothTopslongBoxDressLongGothic
     0xea0e4d34 - 59
     0x3dc107be - 117     ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - 116
+    0x0f1f5942 - 116     ClothTopslongAlongHalfSaree
     0x1966a881 - 82      ClothTopslongAlineLongSanta
     0x7ea840ec - 78
     0x87b7f27b - 103     ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - 120
+    0xb9d853e9 - 120     ClothTopsYshirtLongComedianTows
     0xe99b39c1 - 118     ClothTopslongBoxDressLongJumper
     0xc3f2e545 - 71      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - 60      ClothTopslongDressHalfSimple
     0xf1fe69b3 - 104     ClothTopslongDressHalfStar
-    0xd1a5bd85 - 122
+    0xd1a5bd85 - 122     ClothTopslongDressLongSteamPunk
     0x0773e0b5 - 98      ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - 91      ClothTopslongAlineHalfSailor
     0x38549627 - 80      ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - 54      ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - 62      ClothTopslongAlongLongCheck
-    0xaa79be87 - 114
+    0xaa79be87 - 114     ClothTopslongAlongHalfCheck
     0x36da9dd6 - 73      ClothTopslongBoxDressLongChidori
     0x8078c4f9 - 56
     0x20ebac2f - 55
@@ -31066,7 +31066,7 @@ Topslong
     0x44ed60f0 - 96      ClothTopslongAlongLongNatural
     0xef5ec647 - 128     ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - 133     ClothTopslongBoxDressLongKnit
-    0x1c73c247 - 95
+    0x1c73c247 - 95      ClothTopslongAlongHalfNegligee
     0x42577667 - 94      ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - 112     ClothTopslongDressLongStrap
     0x13414e3b - 52      ClothTopslongAlongLongFlower
@@ -31084,8 +31084,8 @@ Topslong
     0xae2e84bb - 53      ClothTopslongAlineSleevelessFlower
     0x2c047a38 - 87      ClothTopslongAlongLongFrilled
     0x07d34c4d - 108     ClothTopslongDressHalfPrincess
-    0x48b98574 - 83
-    0x6d06f633 - 63
+    0x48b98574 - 83      ClothTopslongKimonoLongKimono
+    0x6d06f633 - 63      ClothTopslongDressHalfPolkaDot
     0x75c1983d - 66
     0x2fc91862 - 105     ClothTopslongBoxDressLongPolo
     0x62205fe2 - 131     ClothTopslongAlineLongPompon
@@ -31094,24 +31094,24 @@ Topslong
     0x3eac2d06 - 76      ClothTopslongAlineSleevelessMarine
     0x68746e02 - 79      ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - 135     ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - 93
+    0x4acf2d61 - 93      ClothTopslongKimonoLongMiko
     0x4c6e87e4 - 58      ClothTopslongDressHalfMaid
     0xef781813 - 130     ClothTopslongBoxDressLongMoga
     0x591768f5 - 75      ClothTopslongAlineSleevelessMonogram
     0x75d9132f - 61      ClothTopslongDressSleevelessFairy
     0x04845c6c - 88      ClothTopslongAlineHalfLinen
-    0x146aef65 - 115
+    0x146aef65 - 115     ClothTopslongAlongHalfRumba
     0x27a3a31b - 110     ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - 74
+    0x1b5f93dc - 74      ClothTopslongAlongHalfLace
     0xc3b60309 - 89      ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - 99      ClothTopslongDressLongLolita
     0xb0a70a2f - 119
   EUru
     0x80de0dfa - -1
-    0xb12ef9f2 - -1
+    0xb12ef9f2 - -1      ClothTopslongKimonoLongLinen
     0x10241ec6 - -1
     0x93530114 - -1      ClothTopslongOverallLongWetSuit
-    0x23717240 - -1
+    0x23717240 - -1      ClothTopslongOverallHalfWader
     0x522a2c6b - -1
     0x2b246a86 - -1      ClothTopslongSalopetteLongSplashed
     0x29b494ed - -1      ClothTopslongAlongLongKing
@@ -31120,11 +31120,11 @@ Topslong
     0x31c0aaa1 - -1
     0xe8cdcba8 - -1      ClothTopslongSalopetteLongCasual
     0xbf700b13 - -1
-    0xa90c0dae - -1
+    0xa90c0dae - -1      ClothTopslongKimonoLongKinagashi
     0x710c57ab - -1      ClothTopslongOverallLongCatcher
     0x03d76b7a - -1      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - -1      ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - -1
+    0x896ae1ae - -1      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - -1      ClothTopslongOverallLongSuspenders
     0xa89a9217 - -1
     0x3736c009 - -1      ClothTopslongSalopetteLongFirefighter
@@ -31149,19 +31149,19 @@ Topslong
     0x35559c42 - -1      ClothTopslongOverallLongBaseball
     0x53a5b12c - -1      ClothTopslongBoxDressLongRagged
     0xd9aced61 - -1
-    0x0e6d62a6 - -1
+    0x0e6d62a6 - -1      ClothTopslongKimonoLongMagician
     0x47fa8697 - -1      ClothTopslongOverallLongMariachi
     0x08c4df61 - -1
     0xbaed2064 - -1      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - -1
-    0xf60ba37b - -1
+    0xf60ba37b - -1      ClothTopslongKimonoLongRobe
     0x3f5a72f9 - -1      ClothTopslongBoxDressHalfTshirt
     0x5013d40e - -1      ClothTopslongDressHalfIdol
     0x2b5b1f3d - -1      ClothTopslongBoxDressLongAodai
     0x9faa6e2d - -1
     0xbc31c6e0 - -1      ClothTopslongDressSleevelessWedding
     0xaa21aef8 - -1      ClothTopslongBoxDressLongGown
-    0xcfdacb44 - -1
+    0xcfdacb44 - -1      ClothTopslongAlongHalfCachecoeur
     0xa43472cd - -1      ClothTopslongDressHalfKatrina
     0x1bca753b - -1      ClothTopslongDressSleevelessColor
     0x896f8c67 - -1      ClothTopslongDressLongNoble
@@ -31175,22 +31175,22 @@ Topslong
     0x2c4ce331 - -1      ClothTopslongBoxDressLongGothic
     0xea0e4d34 - -1
     0x3dc107be - -1      ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - -1
+    0x0f1f5942 - -1      ClothTopslongAlongHalfSaree
     0x1966a881 - -1      ClothTopslongAlineLongSanta
     0x7ea840ec - -1
     0x87b7f27b - -1      ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - -1
+    0xb9d853e9 - -1      ClothTopsYshirtLongComedianTows
     0xe99b39c1 - -1      ClothTopslongBoxDressLongJumper
     0xc3f2e545 - -1      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - -1      ClothTopslongDressHalfSimple
     0xf1fe69b3 - -1      ClothTopslongDressHalfStar
-    0xd1a5bd85 - -1
+    0xd1a5bd85 - -1      ClothTopslongDressLongSteamPunk
     0x0773e0b5 - -1      ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - -1      ClothTopslongAlineHalfSailor
     0x38549627 - -1      ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - -1      ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - -1      ClothTopslongAlongLongCheck
-    0xaa79be87 - -1
+    0xaa79be87 - -1      ClothTopslongAlongHalfCheck
     0x36da9dd6 - -1      ClothTopslongBoxDressLongChidori
     0x8078c4f9 - -1
     0x20ebac2f - -1
@@ -31204,7 +31204,7 @@ Topslong
     0x44ed60f0 - -1      ClothTopslongAlongLongNatural
     0xef5ec647 - -1      ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - -1      ClothTopslongBoxDressLongKnit
-    0x1c73c247 - -1
+    0x1c73c247 - -1      ClothTopslongAlongHalfNegligee
     0x42577667 - -1      ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - -1      ClothTopslongDressLongStrap
     0x13414e3b - -1      ClothTopslongAlongLongFlower
@@ -31222,8 +31222,8 @@ Topslong
     0xae2e84bb - -1      ClothTopslongAlineSleevelessFlower
     0x2c047a38 - -1      ClothTopslongAlongLongFrilled
     0x07d34c4d - -1      ClothTopslongDressHalfPrincess
-    0x48b98574 - -1
-    0x6d06f633 - -1
+    0x48b98574 - -1      ClothTopslongKimonoLongKimono
+    0x6d06f633 - -1      ClothTopslongDressHalfPolkaDot
     0x75c1983d - -1
     0x2fc91862 - -1      ClothTopslongBoxDressLongPolo
     0x62205fe2 - -1      ClothTopslongAlineLongPompon
@@ -31232,24 +31232,24 @@ Topslong
     0x3eac2d06 - -1      ClothTopslongAlineSleevelessMarine
     0x68746e02 - -1      ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - -1      ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - -1
+    0x4acf2d61 - -1      ClothTopslongKimonoLongMiko
     0x4c6e87e4 - -1      ClothTopslongDressHalfMaid
     0xef781813 - -1      ClothTopslongBoxDressLongMoga
     0x591768f5 - -1      ClothTopslongAlineSleevelessMonogram
     0x75d9132f - -1      ClothTopslongDressSleevelessFairy
     0x04845c6c - -1      ClothTopslongAlineHalfLinen
-    0x146aef65 - -1
+    0x146aef65 - -1      ClothTopslongAlongHalfRumba
     0x27a3a31b - -1      ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - -1
+    0x1b5f93dc - -1      ClothTopslongAlongHalfLace
     0xc3b60309 - -1      ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - -1      ClothTopslongDressLongLolita
     0xb0a70a2f - -1
   KRko
     0x80de0dfa - 24
-    0xb12ef9f2 - 20
+    0xb12ef9f2 - 20      ClothTopslongKimonoLongLinen
     0x10241ec6 - 16
     0x93530114 - 33      ClothTopslongOverallLongWetSuit
-    0x23717240 - 32
+    0x23717240 - 32      ClothTopslongOverallHalfWader
     0x522a2c6b - 27
     0x2b246a86 - 15      ClothTopslongSalopetteLongSplashed
     0x29b494ed - 34      ClothTopslongAlongLongKing
@@ -31258,11 +31258,11 @@ Topslong
     0x31c0aaa1 - 30
     0xe8cdcba8 - 40      ClothTopslongSalopetteLongCasual
     0xbf700b13 - 39
-    0xa90c0dae - 26
+    0xa90c0dae - 26      ClothTopslongKimonoLongKinagashi
     0x710c57ab - 47      ClothTopslongOverallLongCatcher
     0x03d76b7a - 31      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - 0       ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - 35
+    0x896ae1ae - 35      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - 13      ClothTopslongOverallLongSuspenders
     0xa89a9217 - 19
     0x3736c009 - 21      ClothTopslongSalopetteLongFirefighter
@@ -31287,19 +31287,19 @@ Topslong
     0x35559c42 - 25      ClothTopslongOverallLongBaseball
     0x53a5b12c - 2       ClothTopslongBoxDressLongRagged
     0xd9aced61 - 1
-    0x0e6d62a6 - 12
+    0x0e6d62a6 - 12      ClothTopslongKimonoLongMagician
     0x47fa8697 - 11      ClothTopslongOverallLongMariachi
     0x08c4df61 - 6
     0xbaed2064 - 10      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - 8
-    0xf60ba37b - 9
+    0xf60ba37b - 9       ClothTopslongKimonoLongRobe
     0x3f5a72f9 - 122     ClothTopslongBoxDressHalfTshirt
     0x5013d40e - 98      ClothTopslongDressHalfIdol
     0x2b5b1f3d - 97      ClothTopslongBoxDressLongAodai
     0x9faa6e2d - 57
     0xbc31c6e0 - 100     ClothTopslongDressSleevelessWedding
     0xaa21aef8 - 48      ClothTopslongBoxDressLongGown
-    0xcfdacb44 - 110
+    0xcfdacb44 - 110     ClothTopslongAlongHalfCachecoeur
     0xa43472cd - 111     ClothTopslongDressHalfKatrina
     0x1bca753b - 113     ClothTopslongDressSleevelessColor
     0x896f8c67 - 52      ClothTopslongDressLongNoble
@@ -31313,22 +31313,22 @@ Topslong
     0x2c4ce331 - 50      ClothTopslongBoxDressLongGothic
     0xea0e4d34 - 114
     0x3dc107be - 89      ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - 87
+    0x0f1f5942 - 87      ClothTopslongAlongHalfSaree
     0x1966a881 - 88      ClothTopslongAlineLongSanta
     0x7ea840ec - 101
     0x87b7f27b - 91      ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - 102
+    0xb9d853e9 - 102     ClothTopsYshirtLongComedianTows
     0xe99b39c1 - 103     ClothTopslongBoxDressLongJumper
     0xc3f2e545 - 55      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - 96      ClothTopslongDressHalfSimple
     0xf1fe69b3 - 92      ClothTopslongDressHalfStar
-    0xd1a5bd85 - 93
+    0xd1a5bd85 - 93      ClothTopslongDressLongSteamPunk
     0x0773e0b5 - 94      ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - 90      ClothTopslongAlineHalfSailor
     0x38549627 - 119     ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - 108     ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - 104     ClothTopslongAlongLongCheck
-    0xaa79be87 - 105
+    0xaa79be87 - 105     ClothTopslongAlongHalfCheck
     0x36da9dd6 - 133     ClothTopslongBoxDressLongChidori
     0x8078c4f9 - 106
     0x20ebac2f - 107
@@ -31342,7 +31342,7 @@ Topslong
     0x44ed60f0 - 58      ClothTopslongAlongLongNatural
     0xef5ec647 - 49      ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - 60      ClothTopslongBoxDressLongKnit
-    0x1c73c247 - 59
+    0x1c73c247 - 59      ClothTopslongAlongHalfNegligee
     0x42577667 - 81      ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - 134     ClothTopslongDressLongStrap
     0x13414e3b - 54      ClothTopslongAlongLongFlower
@@ -31360,8 +31360,8 @@ Topslong
     0xae2e84bb - 130     ClothTopslongAlineSleevelessFlower
     0x2c047a38 - 129     ClothTopslongAlongLongFrilled
     0x07d34c4d - 51      ClothTopslongDressHalfPrincess
-    0x48b98574 - 56
-    0x6d06f633 - 128
+    0x48b98574 - 56      ClothTopslongKimonoLongKimono
+    0x6d06f633 - 128     ClothTopslongDressHalfPolkaDot
     0x75c1983d - 95
     0x2fc91862 - 127     ClothTopslongBoxDressLongPolo
     0x62205fe2 - 84      ClothTopslongAlineLongPompon
@@ -31370,24 +31370,24 @@ Topslong
     0x3eac2d06 - 72      ClothTopslongAlineSleevelessMarine
     0x68746e02 - 75      ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - 74      ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - 80
+    0x4acf2d61 - 80      ClothTopslongKimonoLongMiko
     0x4c6e87e4 - 76      ClothTopslongDressHalfMaid
     0xef781813 - 79      ClothTopslongBoxDressLongMoga
     0x591768f5 - 78      ClothTopslongAlineSleevelessMonogram
     0x75d9132f - 99      ClothTopslongDressSleevelessFairy
     0x04845c6c - 70      ClothTopslongAlineHalfLinen
-    0x146aef65 - 69
+    0x146aef65 - 69      ClothTopslongAlongHalfRumba
     0x27a3a31b - 85      ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - 64
+    0x1b5f93dc - 64      ClothTopslongAlongHalfLace
     0xc3b60309 - 66      ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - 67      ClothTopslongDressLongLolita
     0xb0a70a2f - 68
   CNzh
     0x80de0dfa - 2
-    0xb12ef9f2 - 21
+    0xb12ef9f2 - 21      ClothTopslongKimonoLongLinen
     0x10241ec6 - 22
     0x93530114 - 27      ClothTopslongOverallLongWetSuit
-    0x23717240 - 36
+    0x23717240 - 36      ClothTopslongOverallHalfWader
     0x522a2c6b - 39
     0x2b246a86 - 43      ClothTopslongSalopetteLongSplashed
     0x29b494ed - 10      ClothTopslongAlongLongKing
@@ -31396,11 +31396,11 @@ Topslong
     0x31c0aaa1 - 17
     0xe8cdcba8 - 28      ClothTopslongSalopetteLongCasual
     0xbf700b13 - 46
-    0xa90c0dae - 12
+    0xa90c0dae - 12      ClothTopslongKimonoLongKinagashi
     0x710c57ab - 3       ClothTopslongOverallLongCatcher
     0x03d76b7a - 42      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - 9       ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - 47
+    0x896ae1ae - 47      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - 32      ClothTopslongOverallLongSuspenders
     0xa89a9217 - 31
     0x3736c009 - 37      ClothTopslongSalopetteLongFirefighter
@@ -31425,19 +31425,19 @@ Topslong
     0x35559c42 - 0       ClothTopslongOverallLongBaseball
     0x53a5b12c - 26      ClothTopslongBoxDressLongRagged
     0xd9aced61 - 13
-    0x0e6d62a6 - 25
+    0x0e6d62a6 - 25      ClothTopslongKimonoLongMagician
     0x47fa8697 - 18      ClothTopslongOverallLongMariachi
     0x08c4df61 - 24
     0xbaed2064 - 19      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - 30
-    0xf60ba37b - 4
+    0xf60ba37b - 4       ClothTopslongKimonoLongRobe
     0x3f5a72f9 - 94      ClothTopslongBoxDressHalfTshirt
     0x5013d40e - 107     ClothTopslongDressHalfIdol
     0x2b5b1f3d - 129     ClothTopslongBoxDressLongAodai
     0x9faa6e2d - 111
     0xbc31c6e0 - 89      ClothTopslongDressSleevelessWedding
     0xaa21aef8 - 58      ClothTopslongBoxDressLongGown
-    0xcfdacb44 - 50
+    0xcfdacb44 - 50      ClothTopslongAlongHalfCachecoeur
     0xa43472cd - 90      ClothTopslongDressHalfKatrina
     0x1bca753b - 57      ClothTopslongDressSleevelessColor
     0x896f8c67 - 78      ClothTopslongDressLongNoble
@@ -31451,22 +31451,22 @@ Topslong
     0x2c4ce331 - 70      ClothTopslongBoxDressLongGothic
     0xea0e4d34 - 62
     0x3dc107be - 63      ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - 128
+    0x0f1f5942 - 128     ClothTopslongAlongHalfSaree
     0x1966a881 - 115     ClothTopslongAlineLongSanta
     0x7ea840ec - 61
     0x87b7f27b - 60      ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - 54
+    0xb9d853e9 - 54      ClothTopsYshirtLongComedianTows
     0xe99b39c1 - 55      ClothTopslongBoxDressLongJumper
     0xc3f2e545 - 95      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - 88      ClothTopslongDressHalfSimple
     0xf1fe69b3 - 125     ClothTopslongDressHalfStar
-    0xd1a5bd85 - 132
+    0xd1a5bd85 - 132     ClothTopslongDressLongSteamPunk
     0x0773e0b5 - 119     ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - 117     ClothTopslongAlineHalfSailor
     0x38549627 - 130     ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - 91      ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - 65      ClothTopslongAlongLongCheck
-    0xaa79be87 - 71
+    0xaa79be87 - 71      ClothTopslongAlongHalfCheck
     0x36da9dd6 - 110     ClothTopslongBoxDressLongChidori
     0x8078c4f9 - 104
     0x20ebac2f - 80
@@ -31480,7 +31480,7 @@ Topslong
     0x44ed60f0 - 136     ClothTopslongAlongLongNatural
     0xef5ec647 - 82      ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - 131     ClothTopslongBoxDressLongKnit
-    0x1c73c247 - 118
+    0x1c73c247 - 118     ClothTopslongAlongHalfNegligee
     0x42577667 - 122     ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - 69      ClothTopslongDressLongStrap
     0x13414e3b - 84      ClothTopslongAlongLongFlower
@@ -31498,8 +31498,8 @@ Topslong
     0xae2e84bb - 83      ClothTopslongAlineSleevelessFlower
     0x2c047a38 - 81      ClothTopslongAlongLongFrilled
     0x07d34c4d - 72      ClothTopslongDressHalfPrincess
-    0x48b98574 - 134
-    0x6d06f633 - 56
+    0x48b98574 - 134     ClothTopslongKimonoLongKimono
+    0x6d06f633 - 56      ClothTopslongDressHalfPolkaDot
     0x75c1983d - 77
     0x2fc91862 - 49      ClothTopslongBoxDressLongPolo
     0x62205fe2 - 98      ClothTopslongAlineLongPompon
@@ -31508,24 +31508,24 @@ Topslong
     0x3eac2d06 - 79      ClothTopslongAlineSleevelessMarine
     0x68746e02 - 64      ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - 99      ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - 121
+    0x4acf2d61 - 121     ClothTopslongKimonoLongMiko
     0x4c6e87e4 - 106     ClothTopslongDressHalfMaid
     0xef781813 - 102     ClothTopslongBoxDressLongMoga
     0x591768f5 - 135     ClothTopslongAlineSleevelessMonogram
     0x75d9132f - 127     ClothTopslongDressSleevelessFairy
     0x04845c6c - 101     ClothTopslongAlineHalfLinen
-    0x146aef65 - 96
+    0x146aef65 - 96      ClothTopslongAlongHalfRumba
     0x27a3a31b - 67      ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - 92
+    0x1b5f93dc - 92      ClothTopslongAlongHalfLace
     0xc3b60309 - 48      ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - 97      ClothTopslongDressLongLolita
     0xb0a70a2f - 53
   TWzh
     0x80de0dfa - 3
-    0xb12ef9f2 - 27
+    0xb12ef9f2 - 27      ClothTopslongKimonoLongLinen
     0x10241ec6 - 16
     0x93530114 - 42      ClothTopslongOverallLongWetSuit
-    0x23717240 - 0
+    0x23717240 - 0       ClothTopslongOverallHalfWader
     0x522a2c6b - 7
     0x2b246a86 - 12      ClothTopslongSalopetteLongSplashed
     0x29b494ed - 32      ClothTopslongAlongLongKing
@@ -31534,11 +31534,11 @@ Topslong
     0x31c0aaa1 - 30
     0xe8cdcba8 - 39      ClothTopslongSalopetteLongCasual
     0xbf700b13 - 1
-    0xa90c0dae - 11
+    0xa90c0dae - 11      ClothTopslongKimonoLongKinagashi
     0x710c57ab - 19      ClothTopslongOverallLongCatcher
     0x03d76b7a - 26      ClothTopslongBoxDressSleevelessCaveman
     0xd5964a56 - 2       ClothTopslongBoxDressSleevelessAncient
-    0x896ae1ae - 34
+    0x896ae1ae - 34      ClothTopslongOverallHalfBicycle
     0x8e1ad662 - 41      ClothTopslongOverallLongSuspenders
     0xa89a9217 - 37
     0x3736c009 - 22      ClothTopslongSalopetteLongFirefighter
@@ -31563,19 +31563,19 @@ Topslong
     0x35559c42 - 33      ClothTopslongOverallLongBaseball
     0x53a5b12c - 20      ClothTopslongBoxDressLongRagged
     0xd9aced61 - 6
-    0x0e6d62a6 - 47
+    0x0e6d62a6 - 47      ClothTopslongKimonoLongMagician
     0x47fa8697 - 18      ClothTopslongOverallLongMariachi
     0x08c4df61 - 40
     0xbaed2064 - 21      ClothTopslongSalopetteLongMambo
     0x9ecd4537 - 44
-    0xf60ba37b - 14
+    0xf60ba37b - 14      ClothTopslongKimonoLongRobe
     0x3f5a72f9 - 95      ClothTopslongBoxDressHalfTshirt
     0x5013d40e - 104     ClothTopslongDressHalfIdol
     0x2b5b1f3d - 114     ClothTopslongBoxDressLongAodai
     0x9faa6e2d - 100
     0xbc31c6e0 - 111     ClothTopslongDressSleevelessWedding
     0xaa21aef8 - 129     ClothTopslongBoxDressLongGown
-    0xcfdacb44 - 50
+    0xcfdacb44 - 50      ClothTopslongAlongHalfCachecoeur
     0xa43472cd - 62      ClothTopslongDressHalfKatrina
     0x1bca753b - 103     ClothTopslongDressSleevelessColor
     0x896f8c67 - 110     ClothTopslongDressLongNoble
@@ -31589,22 +31589,22 @@ Topslong
     0x2c4ce331 - 87      ClothTopslongBoxDressLongGothic
     0xea0e4d34 - 51
     0x3dc107be - 125     ClothTopslongDressSleevelessSatin
-    0x0f1f5942 - 69
+    0x0f1f5942 - 69      ClothTopslongAlongHalfSaree
     0x1966a881 - 116     ClothTopslongAlineLongSanta
     0x7ea840ec - 78
     0x87b7f27b - 135     ClothTopslongBoxDressLongShirt
-    0xb9d853e9 - 81
+    0xb9d853e9 - 81      ClothTopsYshirtLongComedianTows
     0xe99b39c1 - 79      ClothTopslongBoxDressLongJumper
     0xc3f2e545 - 96      ClothTopslongSalopetteHalfJumpSuit
     0xe282c36a - 131     ClothTopslongDressHalfSimple
     0xf1fe69b3 - 84      ClothTopslongDressHalfStar
-    0xd1a5bd85 - 121
+    0xd1a5bd85 - 121     ClothTopslongDressLongSteamPunk
     0x0773e0b5 - 113     ClothTopslongBoxDressSleevelessSlip
     0x8e2dc4ef - 57      ClothTopslongAlineHalfSailor
     0x38549627 - 102     ClothTopslongAlongSleevelessTiedye
     0x873dcba2 - 94      ClothTopslongAlineSleevelessCheer
     0x1afcfbc9 - 54      ClothTopslongAlongLongCheck
-    0xaa79be87 - 88
+    0xaa79be87 - 88      ClothTopslongAlongHalfCheck
     0x36da9dd6 - 53      ClothTopslongBoxDressLongChidori
     0x8078c4f9 - 124
     0x20ebac2f - 128
@@ -31618,7 +31618,7 @@ Topslong
     0x44ed60f0 - 68      ClothTopslongAlongLongNatural
     0xef5ec647 - 134     ClothTopslongBoxDressHalfNurse
     0x2c5563f3 - 91      ClothTopslongBoxDressLongKnit
-    0x1c73c247 - 122
+    0x1c73c247 - 122     ClothTopslongAlongHalfNegligee
     0x42577667 - 105     ClothTopslongAlineSleevelessShirtDress
     0x4bed630b - 89      ClothTopslongDressLongStrap
     0x13414e3b - 76      ClothTopslongAlongLongFlower
@@ -31636,8 +31636,8 @@ Topslong
     0xae2e84bb - 74      ClothTopslongAlineSleevelessFlower
     0x2c047a38 - 99      ClothTopslongAlongLongFrilled
     0x07d34c4d - 56      ClothTopslongDressHalfPrincess
-    0x48b98574 - 115
-    0x6d06f633 - 73
+    0x48b98574 - 115     ClothTopslongKimonoLongKimono
+    0x6d06f633 - 73      ClothTopslongDressHalfPolkaDot
     0x75c1983d - 98
     0x2fc91862 - 49      ClothTopslongBoxDressLongPolo
     0x62205fe2 - 112     ClothTopslongAlineLongPompon
@@ -31646,15 +31646,15 @@ Topslong
     0x3eac2d06 - 90      ClothTopslongAlineSleevelessMarine
     0x68746e02 - 65      ClothTopslongAlongSleevelessMultiStripe
     0x70832d81 - 83      ClothTopslongAlongSleevelessMermaid
-    0x4acf2d61 - 71
+    0x4acf2d61 - 71      ClothTopslongKimonoLongMiko
     0x4c6e87e4 - 52      ClothTopslongDressHalfMaid
     0xef781813 - 123     ClothTopslongBoxDressLongMoga
     0x591768f5 - 67      ClothTopslongAlineSleevelessMonogram
     0x75d9132f - 70      ClothTopslongDressSleevelessFairy
     0x04845c6c - 106     ClothTopslongAlineHalfLinen
-    0x146aef65 - 86
+    0x146aef65 - 86      ClothTopslongAlongHalfRumba
     0x27a3a31b - 108     ClothTopslongAlineSleevelessRetro
-    0x1b5f93dc - 127
+    0x1b5f93dc - 127     ClothTopslongAlongHalfLace
     0xc3b60309 - 48      ClothTopslongBoxDressLongLogo
     0x2a0d97d0 - 136     ClothTopslongDressLongLolita
     0xb0a70a2f - 80
