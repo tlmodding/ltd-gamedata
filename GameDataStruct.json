@@ -1511,7 +1511,7 @@
       }
     },
     "GoodsInfo2": {
-      "<Unknown_7AFACE8D>": {
+      "9VDryBattery": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -1533,7 +1533,7 @@
           "Hash": 3187478366
         }
       },
-      "<Unknown_0F9A1B74>": {
+      "Alebrijes": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -1885,7 +1885,7 @@
           "Hash": 1277871751
         }
       },
-      "<Unknown_F6267665>": {
+      "BaoshanDecoration": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -2083,7 +2083,7 @@
           "Hash": 3107502358
         }
       },
-      "<Unknown_1A063DBA>": {
+      "BlackTipReefShark": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -2149,7 +2149,7 @@
           "Hash": 3563789566
         }
       },
-      "<Unknown_0B99BAD3>": {
+      "BookhHistorical": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -2303,7 +2303,7 @@
           "Hash": 1381025326
         }
       },
-      "<Unknown_E5BC11F9>": {
+      "BookSelfDevelopment": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -2325,7 +2325,7 @@
           "Hash": 1764965340
         }
       },
-      "<Unknown_CF0A8C9C>": {
+      "BookSomeonesNote": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -2985,7 +2985,7 @@
           "Hash": 1422017460
         }
       },
-      "<Unknown_645F3E3A>": {
+      "CircleOfWisdom": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -3205,7 +3205,7 @@
           "Hash": 980240867
         }
       },
-      "<Unknown_DEAE00AD>": {
+      "Crover": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -3337,7 +3337,7 @@
           "Hash": 1739525044
         }
       },
-      "<Unknown_97AED3DD>": {
+      "DarumaDrop": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -3711,7 +3711,7 @@
           "Hash": 3810185953
         }
       },
-      "<Unknown_236A45CE>": {
+      "DVDWideShow": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -3777,7 +3777,7 @@
           "Hash": 2422425154
         }
       },
-      "<Unknown_6CA95E93>": {
+      "ElectronicSubstrate": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -3821,7 +3821,7 @@
           "Hash": 2272835409
         }
       },
-      "<Unknown_D78DDF53>": {
+      "EmbroideryWallHanging": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -3909,7 +3909,7 @@
           "Hash": 1187673087
         }
       },
-      "<Unknown_E59E7D3E>": {
+      "FamousMountainCalendar": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -4283,7 +4283,7 @@
           "Hash": 1760753309
         }
       },
-      "<Unknown_81AC4CA4>": {
+      "GlassZaiku": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -4503,7 +4503,7 @@
           "Hash": 175057440
         }
       },
-      "<Unknown_E2FEA342>": {
+      "HawaiiKeyChain": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -4745,7 +4745,7 @@
           "Hash": 35034713
         }
       },
-      "<Unknown_76842D06>": {
+      "KeseranPasaran": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -4833,7 +4833,7 @@
           "Hash": 3360676269
         }
       },
-      "<Unknown_4BF1B9A3>": {
+      "KoalaStuffedToy": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -4855,7 +4855,7 @@
           "Hash": 31318951
         }
       },
-      "<Unknown_60E8645D>": {
+      "KokeshiDoll": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -5053,7 +5053,7 @@
           "Hash": 2958815628
         }
       },
-      "<Unknown_501E760F>": {
+      "MapleSyrupSamplingPort": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -5361,7 +5361,7 @@
           "Hash": 3787494521
         }
       },
-      "<Unknown_9D42387C>": {
+      "Nekojarashi": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -5405,7 +5405,7 @@
           "Hash": 1692171500
         }
       },
-      "<Unknown_E9985CD7>": {
+      "Octahydrone": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -5449,7 +5449,7 @@
           "Hash": 1415658269
         }
       },
-      "<Unknown_10FA748D>": {
+      "Ohsho": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -5493,7 +5493,7 @@
           "Hash": 124903655
         }
       },
-      "<Unknown_E57F530A>": {
+      "OneEarphoneIsMisissing": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -5669,7 +5669,7 @@
           "Hash": 2359555889
         }
       },
-      "<Unknown_B3066513>": {
+      "PigPiggyBank": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -5757,7 +5757,7 @@
           "Hash": 3272106303
         }
       },
-      "<Unknown_80E0BA69>": {
+      "PlasticModelParts": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -5867,7 +5867,7 @@
           "Hash": 2881698250
         }
       },
-      "<Unknown_A420EBF7>": {
+      "RadenAccessoryCase": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -6087,7 +6087,7 @@
           "Hash": 2353229499
         }
       },
-      "<Unknown_59860149>": {
+      "SatueOfLiberty": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -6153,7 +6153,7 @@
           "Hash": 127204906
         }
       },
-      "<Unknown_779A7EB3>": {
+      "SeaUrchinBone": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -6219,7 +6219,7 @@
           "Hash": 1593100413
         }
       },
-      "<Unknown_C3B79312>": {
+      "ShigarakiWare": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -6307,7 +6307,7 @@
           "Hash": 515657749
         }
       },
-      "<Unknown_CEB7E02A>": {
+      "SonohenNoIshikoro": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -6329,7 +6329,7 @@
           "Hash": 2759861004
         }
       },
-      "<Unknown_A5FF3685>": {
+      "SpeechBubbleBronze": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -6351,7 +6351,7 @@
           "Hash": 3341369
         }
       },
-      "<Unknown_05C2524F>": {
+      "SpeechBubbleGold": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -6373,7 +6373,7 @@
           "Hash": 151518421
         }
       },
-      "<Unknown_CEEB569D>": {
+      "SpeechBubblePlatinum": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -6395,7 +6395,7 @@
           "Hash": 4245790501
         }
       },
-      "<Unknown_F4B4173A>": {
+      "SpeechBubbleSilver": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -6505,7 +6505,7 @@
           "Hash": 3808491952
         }
       },
-      "<Unknown_380EDBEE>": {
+      "StuffedToyBear": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -6747,7 +6747,7 @@
           "Hash": 602360253
         }
       },
-      "<Unknown_E70196C3>": {
+      "TomodachiCollection": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -6791,7 +6791,7 @@
           "Hash": 176745036
         }
       },
-      "<Unknown_FDC777DA>": {
+      "TraditionalSpanishWaterBottle": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -7121,7 +7121,7 @@
           "Hash": 219767742
         }
       },
-      "<Unknown_54DA8E55>": {
+      "Vihta": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -7187,7 +7187,7 @@
           "Hash": 1329311663
         }
       },
-      "<Unknown_B6215EA8>": {
+      "WindUpTeeth": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -7209,7 +7209,7 @@
           "Hash": 1102782239
         }
       },
-      "<Unknown_BA7CB722>": {
+      "WoodenCarvingBear": {
         "<Unknown_2940FA1C>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -9010,7 +9010,7 @@
           "Hash": 3860742736
         }
       },
-      "<Unknown_F15CBA0D>": {
+      "Asianresort00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -9047,7 +9047,7 @@
           "Hash": 26757987
         }
       },
-      "<Unknown_1F81E19D>": {
+      "Asianresort01": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -11415,7 +11415,7 @@
           "Hash": 3126359314
         }
       },
-      "<Unknown_9C584483>": {
+      "Factry00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -13006,7 +13006,7 @@
           "Hash": 1004404576
         }
       },
-      "<Unknown_6E7EDBC4>": {
+      "HoneycombTile00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -13043,7 +13043,7 @@
           "Hash": 677878744
         }
       },
-      "<Unknown_C0B7954B>": {
+      "HoneycombTile01": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -13080,7 +13080,7 @@
           "Hash": 3654190675
         }
       },
-      "<Unknown_BFA5346F>": {
+      "HoneycombTile02": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -13117,7 +13117,7 @@
           "Hash": 1943745442
         }
       },
-      "<Unknown_FEBD330B>": {
+      "HoneycombTile03": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -13154,7 +13154,7 @@
           "Hash": 324117555
         }
       },
-      "<Unknown_499314F3>": {
+      "HoneycombTile04": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14227,7 +14227,7 @@
           "Hash": 1284574145
         }
       },
-      "<Unknown_758AA963>": {
+      "LockerRoom00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14264,7 +14264,7 @@
           "Hash": 650294335
         }
       },
-      "<Unknown_861F8310>": {
+      "LockerRoom01": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14301,7 +14301,7 @@
           "Hash": 3043064735
         }
       },
-      "<Unknown_A3ABEC88>": {
+      "LockerRoom02": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14486,7 +14486,7 @@
           "Hash": 3296453134
         }
       },
-      "<Unknown_BF3E31A9>": {
+      "Midcentury00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14523,7 +14523,7 @@
           "Hash": 3354433481
         }
       },
-      "<Unknown_E53DD26B>": {
+      "Midcentury01": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14560,7 +14560,7 @@
           "Hash": 4032808745
         }
       },
-      "<Unknown_9F8197CE>": {
+      "Minimul00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14597,7 +14597,7 @@
           "Hash": 3997002532
         }
       },
-      "<Unknown_C5A5A463>": {
+      "Minimul01": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14634,7 +14634,7 @@
           "Hash": 641969211
         }
       },
-      "<Unknown_D88A2ED6>": {
+      "Minimul02": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14671,7 +14671,7 @@
           "Hash": 1166659640
         }
       },
-      "<Unknown_2A8D899E>": {
+      "Minimul03": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14708,7 +14708,7 @@
           "Hash": 1984743262
         }
       },
-      "<Unknown_8900CE41>": {
+      "Minimul04": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14745,7 +14745,7 @@
           "Hash": 4084259930
         }
       },
-      "<Unknown_EDB9FD5D>": {
+      "Minimul05": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14782,7 +14782,7 @@
           "Hash": 814349559
         }
       },
-      "<Unknown_EE4F01E5>": {
+      "Minimul06": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -14819,7 +14819,7 @@
           "Hash": 1852313839
         }
       },
-      "<Unknown_388FBB5F>": {
+      "Minimul07": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -15226,7 +15226,7 @@
           "Hash": 2211206532
         }
       },
-      "<Unknown_FBE1380F>": {
+      "NeonSign00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -17150,7 +17150,7 @@
           "Hash": 2812737977
         }
       },
-      "<Unknown_104165BC>": {
+      "StainedGlass00": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -17187,7 +17187,7 @@
           "Hash": 727397281
         }
       },
-      "<Unknown_395CB6EE>": {
+      "StainedGlass01": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -17224,7 +17224,7 @@
           "Hash": 937398681
         }
       },
-      "<Unknown_9ADDD1E8>": {
+      "StainedGlass02": {
         "<Unknown_73ADC433>": {
           "DefaultValue": false,
           "Type": "Bool",
@@ -23361,13 +23361,13 @@
             "Size": 70,
             "Hash": 2206970116
           },
-          "<Unknown_F15CBA0D>": {
+          "Asianresort00": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 456158679
           },
-          "<Unknown_1F81E19D>": {
+          "Asianresort01": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
@@ -23751,7 +23751,7 @@
             "Size": 70,
             "Hash": 3249209247
           },
-          "<Unknown_9C584483>": {
+          "Factry00": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
@@ -24009,31 +24009,31 @@
             "Size": 70,
             "Hash": 883341301
           },
-          "<Unknown_6E7EDBC4>": {
+          "HoneycombTile00": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 729294231
           },
-          "<Unknown_C0B7954B>": {
+          "HoneycombTile01": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 3152415016
           },
-          "<Unknown_BFA5346F>": {
+          "HoneycombTile02": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 536980004
           },
-          "<Unknown_FEBD330B>": {
+          "HoneycombTile03": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 3389596760
           },
-          "<Unknown_499314F3>": {
+          "HoneycombTile04": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
@@ -24207,19 +24207,19 @@
             "Size": 70,
             "Hash": 1459873608
           },
-          "<Unknown_758AA963>": {
+          "LockerRoom00": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 2187719276
           },
-          "<Unknown_861F8310>": {
+          "LockerRoom01": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 3882565876
           },
-          "<Unknown_A3ABEC88>": {
+          "LockerRoom02": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
@@ -24249,61 +24249,61 @@
             "Size": 70,
             "Hash": 2291886226
           },
-          "<Unknown_BF3E31A9>": {
+          "Midcentury00": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 3387065755
           },
-          "<Unknown_E53DD26B>": {
+          "Midcentury01": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 4237725221
           },
-          "<Unknown_9F8197CE>": {
+          "Minimul00": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 1235877402
           },
-          "<Unknown_C5A5A463>": {
+          "Minimul01": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 2781531120
           },
-          "<Unknown_D88A2ED6>": {
+          "Minimul02": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 2104602709
           },
-          "<Unknown_2A8D899E>": {
+          "Minimul03": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 2319249545
           },
-          "<Unknown_8900CE41>": {
+          "Minimul04": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 3058423826
           },
-          "<Unknown_EDB9FD5D>": {
+          "Minimul05": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 3032551621
           },
-          "<Unknown_EE4F01E5>": {
+          "Minimul06": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 88879182
           },
-          "<Unknown_388FBB5F>": {
+          "Minimul07": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
@@ -24369,7 +24369,7 @@
             "Size": 70,
             "Hash": 2982994510
           },
-          "<Unknown_FBE1380F>": {
+          "NeonSign00": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
@@ -24681,19 +24681,19 @@
             "Size": 70,
             "Hash": 3261345229
           },
-          "<Unknown_104165BC>": {
+          "StainedGlass00": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 742200726
           },
-          "<Unknown_395CB6EE>": {
+          "StainedGlass01": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
             "Hash": 2839710532
           },
-          "<Unknown_9ADDD1E8>": {
+          "StainedGlass02": {
             "DefaultValue": null,
             "Type": "BoolArray",
             "Size": 70,
@@ -25595,13 +25595,13 @@
           "Size": 70,
           "Hash": 979973788
         },
-        "<Unknown_F15CBA0D>": {
+        "Asianresort00": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 929927201
         },
-        "<Unknown_1F81E19D>": {
+        "Asianresort01": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
@@ -25985,7 +25985,7 @@
           "Size": 70,
           "Hash": 1886464019
         },
-        "<Unknown_9C584483>": {
+        "Factry00": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
@@ -26243,31 +26243,31 @@
           "Size": 70,
           "Hash": 1108658663
         },
-        "<Unknown_6E7EDBC4>": {
+        "HoneycombTile00": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 2865465774
         },
-        "<Unknown_C0B7954B>": {
+        "HoneycombTile01": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 844011822
         },
-        "<Unknown_BFA5346F>": {
+        "HoneycombTile02": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 3455355445
         },
-        "<Unknown_FEBD330B>": {
+        "HoneycombTile03": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 3954482124
         },
-        "<Unknown_499314F3>": {
+        "HoneycombTile04": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
@@ -26441,19 +26441,19 @@
           "Size": 70,
           "Hash": 3858885241
         },
-        "<Unknown_758AA963>": {
+        "LockerRoom00": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 1147897065
         },
-        "<Unknown_861F8310>": {
+        "LockerRoom01": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 754796342
         },
-        "<Unknown_A3ABEC88>": {
+        "LockerRoom02": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
@@ -26483,61 +26483,61 @@
           "Size": 70,
           "Hash": 1774066636
         },
-        "<Unknown_BF3E31A9>": {
+        "Midcentury00": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 910493032
         },
-        "<Unknown_E53DD26B>": {
+        "Midcentury01": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 3469210883
         },
-        "<Unknown_9F8197CE>": {
+        "Minimul00": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 532209561
         },
-        "<Unknown_C5A5A463>": {
+        "Minimul01": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 1081531454
         },
-        "<Unknown_D88A2ED6>": {
+        "Minimul02": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 3531656623
         },
-        "<Unknown_2A8D899E>": {
+        "Minimul03": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 3217842905
         },
-        "<Unknown_8900CE41>": {
+        "Minimul04": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 3189407157
         },
-        "<Unknown_EDB9FD5D>": {
+        "Minimul05": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 1274292218
         },
-        "<Unknown_EE4F01E5>": {
+        "Minimul06": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 1680664407
         },
-        "<Unknown_388FBB5F>": {
+        "Minimul07": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
@@ -26603,7 +26603,7 @@
           "Size": 70,
           "Hash": 4209906610
         },
-        "<Unknown_FBE1380F>": {
+        "NeonSign00": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
@@ -26915,19 +26915,19 @@
           "Size": 70,
           "Hash": 316329938
         },
-        "<Unknown_104165BC>": {
+        "StainedGlass00": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 3812038039
         },
-        "<Unknown_395CB6EE>": {
+        "StainedGlass01": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
           "Hash": 83691137
         },
-        "<Unknown_9ADDD1E8>": {
+        "StainedGlass02": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
