@@ -1512,7 +1512,7 @@
     },
     "GoodsInfo2": {
       "9VDryBattery": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3766656803
@@ -1534,7 +1534,7 @@
         }
       },
       "Alebrijes": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2527737596
@@ -1556,7 +1556,7 @@
         }
       },
       "Alien": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 34409272
@@ -1578,7 +1578,7 @@
         }
       },
       "Alien1": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 227450764
@@ -1600,7 +1600,7 @@
         }
       },
       "Alien2": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3067345731
@@ -1622,7 +1622,7 @@
         }
       },
       "Alpaca": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4001099407
@@ -1644,7 +1644,7 @@
         }
       },
       "Amber": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2208970816
@@ -1666,7 +1666,7 @@
         }
       },
       "AmethystDome": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1712992909
@@ -1688,7 +1688,7 @@
         }
       },
       "Ammonite": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2036840587
@@ -1710,7 +1710,7 @@
         }
       },
       "Amulet": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1926106850
@@ -1732,7 +1732,7 @@
         }
       },
       "AnimalFlowerpot": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 624517225
@@ -1754,7 +1754,7 @@
         }
       },
       "Antenna": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 913251020
@@ -1776,7 +1776,7 @@
         }
       },
       "AromaCandle": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4156505047
@@ -1798,7 +1798,7 @@
         }
       },
       "Autograph": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 696152499
@@ -1820,7 +1820,7 @@
         }
       },
       "Axolotl": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1591121595
@@ -1842,7 +1842,7 @@
         }
       },
       "BalletSet": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2258680282
@@ -1864,7 +1864,7 @@
         }
       },
       "BalloonArt": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3753803285
@@ -1886,7 +1886,7 @@
         }
       },
       "BaoshanDecoration": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2565785398
@@ -1908,7 +1908,7 @@
         }
       },
       "BaseBall": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 326218664
@@ -1930,7 +1930,7 @@
         }
       },
       "BeardedDragon": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2687396683
@@ -1952,7 +1952,7 @@
         }
       },
       "Beetle": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2728853188
@@ -1974,7 +1974,7 @@
         }
       },
       "BentSpoon": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4255022307
@@ -1996,7 +1996,7 @@
         }
       },
       "BigPot": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3368192324
@@ -2018,7 +2018,7 @@
         }
       },
       "Bill": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3535522616
@@ -2040,7 +2040,7 @@
         }
       },
       "Binoculars": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1092483295
@@ -2062,7 +2062,7 @@
         }
       },
       "BirdFeathers": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 404390128
@@ -2084,7 +2084,7 @@
         }
       },
       "BlackTipReefShark": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3145828379
@@ -2106,7 +2106,7 @@
         }
       },
       "Bonsai": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2989437288
@@ -2128,7 +2128,7 @@
         }
       },
       "BookCover": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3030893607
@@ -2150,7 +2150,7 @@
         }
       },
       "BookhHistorical": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3630216961
@@ -2172,7 +2172,7 @@
         }
       },
       "BookHorror": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1302702434
@@ -2194,7 +2194,7 @@
         }
       },
       "BookLove": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2710629172
@@ -2216,7 +2216,7 @@
         }
       },
       "BookManga": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1461753720
@@ -2238,7 +2238,7 @@
         }
       },
       "BookPicture": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2524339877
@@ -2260,7 +2260,7 @@
         }
       },
       "BookPlant": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2307835509
@@ -2282,7 +2282,7 @@
         }
       },
       "BookRiddle": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3132293749
@@ -2304,7 +2304,7 @@
         }
       },
       "BookSelfDevelopment": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3169342008
@@ -2326,7 +2326,7 @@
         }
       },
       "BookSomeonesNote": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2352226517
@@ -2348,7 +2348,7 @@
         }
       },
       "BottleShip": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 560112149
@@ -2370,7 +2370,7 @@
         }
       },
       "Bouquet": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1409154204
@@ -2392,7 +2392,7 @@
         }
       },
       "BrushBronze": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1488061308
@@ -2414,7 +2414,7 @@
         }
       },
       "BrushGold": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1272441400
@@ -2436,7 +2436,7 @@
         }
       },
       "BrushPlatinum": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2822549328
@@ -2458,7 +2458,7 @@
         }
       },
       "BrushSilver": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2904855268
@@ -2480,7 +2480,7 @@
         }
       },
       "BubblesSet": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2402160737
@@ -2502,7 +2502,7 @@
         }
       },
       "Butterfly": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 182745989
@@ -2524,7 +2524,7 @@
         }
       },
       "CallBell": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1086135992
@@ -2546,7 +2546,7 @@
         }
       },
       "Camera": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1620134207
@@ -2568,7 +2568,7 @@
         }
       },
       "Capybara": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3736390178
@@ -2590,7 +2590,7 @@
         }
       },
       "Carnation": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4252447944
@@ -2612,7 +2612,7 @@
         }
       },
       "Cashbox": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4216227721
@@ -2634,7 +2634,7 @@
         }
       },
       "Cat": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4059672390
@@ -2656,7 +2656,7 @@
         }
       },
       "CDAnimeSong": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3169904797
@@ -2678,7 +2678,7 @@
         }
       },
       "CDClassic": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3237027295
@@ -2700,7 +2700,7 @@
         }
       },
       "CDDance": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3665648922
@@ -2722,7 +2722,7 @@
         }
       },
       "CDGameMusic": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 279353528
@@ -2744,7 +2744,7 @@
         }
       },
       "CDIdol": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3950859177
@@ -2766,7 +2766,7 @@
         }
       },
       "CDJazz": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3159047001
@@ -2788,7 +2788,7 @@
         }
       },
       "CDNurseryRhyme": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2382674929
@@ -2810,7 +2810,7 @@
         }
       },
       "CDPopMusic": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4265201072
@@ -2832,7 +2832,7 @@
         }
       },
       "CDReggae": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 52567757
@@ -2854,7 +2854,7 @@
         }
       },
       "CDRock": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2628152113
@@ -2876,7 +2876,7 @@
         }
       },
       "CeladonTeapot": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3986397430
@@ -2898,7 +2898,7 @@
         }
       },
       "ChessPieces": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1141031806
@@ -2920,7 +2920,7 @@
         }
       },
       "Chick": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2200581207
@@ -2942,7 +2942,7 @@
         }
       },
       "Chipmunk": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4136826135
@@ -2964,7 +2964,7 @@
         }
       },
       "CicadaShell": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 102752261
@@ -2986,7 +2986,7 @@
         }
       },
       "CircleOfWisdom": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 336715192
@@ -3008,7 +3008,7 @@
         }
       },
       "ClayFigure": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4259580235
@@ -3030,7 +3030,7 @@
         }
       },
       "Clione": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3902387784
@@ -3052,7 +3052,7 @@
         }
       },
       "Clownfish": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2343719240
@@ -3074,7 +3074,7 @@
         }
       },
       "CoconutBowl": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3864020235
@@ -3096,7 +3096,7 @@
         }
       },
       "CoinGold": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2961080122
@@ -3118,7 +3118,7 @@
         }
       },
       "CoinSilver": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1380362470
@@ -3140,7 +3140,7 @@
         }
       },
       "ColorfulBasket": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1488621950
@@ -3162,7 +3162,7 @@
         }
       },
       "Compass": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3496955100
@@ -3184,7 +3184,7 @@
         }
       },
       "Coral": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 423958231
@@ -3206,7 +3206,7 @@
         }
       },
       "Crover": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 991205167
@@ -3228,7 +3228,7 @@
         }
       },
       "CrownCap": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2766704519
@@ -3250,7 +3250,7 @@
         }
       },
       "Crystal": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3335231173
@@ -3272,7 +3272,7 @@
         }
       },
       "CrystalBall": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 303271468
@@ -3294,7 +3294,7 @@
         }
       },
       "Daphnia": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1215323362
@@ -3316,7 +3316,7 @@
         }
       },
       "Daruma": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3989983256
@@ -3338,7 +3338,7 @@
         }
       },
       "DarumaDrop": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3510705186
@@ -3360,7 +3360,7 @@
         }
       },
       "Diamond": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 712527510
@@ -3382,7 +3382,7 @@
         }
       },
       "Dice": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1018758779
@@ -3404,7 +3404,7 @@
         }
       },
       "DirtySocks": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 958914912
@@ -3426,7 +3426,7 @@
         }
       },
       "Document": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 138556686
@@ -3448,7 +3448,7 @@
         }
       },
       "Dog": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1812742243
@@ -3470,7 +3470,7 @@
         }
       },
       "DucksToy": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 558001866
@@ -3492,7 +3492,7 @@
         }
       },
       "DuraluminCase": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 417085937
@@ -3514,7 +3514,7 @@
         }
       },
       "DVDAction": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2686538958
@@ -3536,7 +3536,7 @@
         }
       },
       "DVDAnimation": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3100343772
@@ -3558,7 +3558,7 @@
         }
       },
       "DVDCooking": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 691387442
@@ -3580,7 +3580,7 @@
         }
       },
       "DVDHorror": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1454499290
@@ -3602,7 +3602,7 @@
         }
       },
       "DVDLive": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3990577682
@@ -3624,7 +3624,7 @@
         }
       },
       "DVDLove": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2736134610
@@ -3646,7 +3646,7 @@
         }
       },
       "DVDSF": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2049245751
@@ -3668,7 +3668,7 @@
         }
       },
       "DVDShopping": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1210442742
@@ -3690,7 +3690,7 @@
         }
       },
       "DVDSports": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1700826984
@@ -3712,7 +3712,7 @@
         }
       },
       "DVDWideShow": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2252697225
@@ -3734,7 +3734,7 @@
         }
       },
       "Easel": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2436391842
@@ -3756,7 +3756,7 @@
         }
       },
       "Egg": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3967505000
@@ -3778,7 +3778,7 @@
         }
       },
       "ElectronicSubstrate": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3183555257
@@ -3800,7 +3800,7 @@
         }
       },
       "EmbroideredHandkerchief": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2572794337
@@ -3822,7 +3822,7 @@
         }
       },
       "EmbroideryWallHanging": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 869349155
@@ -3844,7 +3844,7 @@
         }
       },
       "EngagementRing": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 71664497
@@ -3866,7 +3866,7 @@
         }
       },
       "ExpensivePot": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3114649326
@@ -3888,7 +3888,7 @@
         }
       },
       "FallenLeaves": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1726827136
@@ -3910,7 +3910,7 @@
         }
       },
       "FamousMountainCalendar": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1239733535
@@ -3932,7 +3932,7 @@
         }
       },
       "Faucet": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3525191977
@@ -3954,7 +3954,7 @@
         }
       },
       "Flamingo": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2708658803
@@ -3976,7 +3976,7 @@
         }
       },
       "Floppy": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3759133293
@@ -3998,7 +3998,7 @@
         }
       },
       "FlySwatter": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1261781877
@@ -4020,7 +4020,7 @@
         }
       },
       "Frog": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3893556681
@@ -4042,7 +4042,7 @@
         }
       },
       "GameAction": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3000178613
@@ -4064,7 +4064,7 @@
         }
       },
       "GameAdventure": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3064904903
@@ -4086,7 +4086,7 @@
         }
       },
       "GameDance": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2679280573
@@ -4108,7 +4108,7 @@
         }
       },
       "GameEducation": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1527411219
@@ -4130,7 +4130,7 @@
         }
       },
       "GameHorror": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3235793068
@@ -4152,7 +4152,7 @@
         }
       },
       "GameLoveSimulation": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 724087524
@@ -4174,7 +4174,7 @@
         }
       },
       "GamePuzzle": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3871986690
@@ -4196,7 +4196,7 @@
         }
       },
       "GameRacing": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2157953857
@@ -4218,7 +4218,7 @@
         }
       },
       "GameRoleplaying": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 995837752
@@ -4240,7 +4240,7 @@
         }
       },
       "GearParts": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1554485664
@@ -4262,7 +4262,7 @@
         }
       },
       "Ghost": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1975324836
@@ -4284,7 +4284,7 @@
         }
       },
       "GlassZaiku": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1762740783
@@ -4306,7 +4306,7 @@
         }
       },
       "GlitterBeads": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1193260403
@@ -4328,7 +4328,7 @@
         }
       },
       "GoldBar": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1156008203
@@ -4350,7 +4350,7 @@
         }
       },
       "GoldCup": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4253159658
@@ -4372,7 +4372,7 @@
         }
       },
       "Goldfish": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1001144198
@@ -4394,7 +4394,7 @@
         }
       },
       "GrandsonsHand": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1723563366
@@ -4416,7 +4416,7 @@
         }
       },
       "Guitar": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1602006439
@@ -4438,7 +4438,7 @@
         }
       },
       "Hamster": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4283629954
@@ -4460,7 +4460,7 @@
         }
       },
       "HandMirror": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4188847521
@@ -4482,7 +4482,7 @@
         }
       },
       "Haniwa": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2873099254
@@ -4504,7 +4504,7 @@
         }
       },
       "HawaiiKeyChain": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2127212481
@@ -4526,7 +4526,7 @@
         }
       },
       "Hedgehog": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3075967118
@@ -4548,7 +4548,7 @@
         }
       },
       "Horse": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 564200382
@@ -4570,7 +4570,7 @@
         }
       },
       "IncenseBurner": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3308554390
@@ -4592,7 +4592,7 @@
         }
       },
       "InsectSpecimen": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2151818810
@@ -4614,7 +4614,7 @@
         }
       },
       "Jellyfish": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3099284675
@@ -4636,7 +4636,7 @@
         }
       },
       "JewelleryBox": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4057176231
@@ -4658,7 +4658,7 @@
         }
       },
       "JoggingSet": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 806077184
@@ -4680,7 +4680,7 @@
         }
       },
       "JomonPottery": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 364899974
@@ -4702,7 +4702,7 @@
         }
       },
       "Kangaroo": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2062037389
@@ -4724,7 +4724,7 @@
         }
       },
       "KarateSet": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1264336457
@@ -4746,7 +4746,7 @@
         }
       },
       "KeseranPasaran": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 910416704
@@ -4768,7 +4768,7 @@
         }
       },
       "Kettle": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 304730294
@@ -4790,7 +4790,7 @@
         }
       },
       "KnittingSet": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2820144596
@@ -4812,7 +4812,7 @@
         }
       },
       "Knob": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2761346482
@@ -4834,7 +4834,7 @@
         }
       },
       "KoalaStuffedToy": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1518424188
@@ -4856,7 +4856,7 @@
         }
       },
       "KokeshiDoll": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1838134774
@@ -4878,7 +4878,7 @@
         }
       },
       "LightBulb": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1238669379
@@ -4900,7 +4900,7 @@
         }
       },
       "Lion": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3462051614
@@ -4922,7 +4922,7 @@
         }
       },
       "Loofah": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2839508794
@@ -4944,7 +4944,7 @@
         }
       },
       "LuckyCat": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 56611720
@@ -4966,7 +4966,7 @@
         }
       },
       "Lure": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4180984222
@@ -4988,7 +4988,7 @@
         }
       },
       "MagnifyingGlass": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4283665690
@@ -5010,7 +5010,7 @@
         }
       },
       "MahjongTile": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 299482879
@@ -5032,7 +5032,7 @@
         }
       },
       "MakeupBox": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2376421811
@@ -5054,7 +5054,7 @@
         }
       },
       "MapleSyrupSamplingPort": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3930853047
@@ -5076,7 +5076,7 @@
         }
       },
       "Maracas": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1833153991
@@ -5098,7 +5098,7 @@
         }
       },
       "Marble": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2288760915
@@ -5120,7 +5120,7 @@
         }
       },
       "Marionette": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3325040660
@@ -5142,7 +5142,7 @@
         }
       },
       "MartianStone": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 522728321
@@ -5164,7 +5164,7 @@
         }
       },
       "MessageBottle": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 38954756
@@ -5186,7 +5186,7 @@
         }
       },
       "MiniCar": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3716220386
@@ -5208,7 +5208,7 @@
         }
       },
       "MiniTerrarium": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2364841698
@@ -5230,7 +5230,7 @@
         }
       },
       "MirrorBall": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3733478138
@@ -5252,7 +5252,7 @@
         }
       },
       "MoodLight": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1069984130
@@ -5274,7 +5274,7 @@
         }
       },
       "MosquitoCoil": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 778000301
@@ -5296,7 +5296,7 @@
         }
       },
       "MysteriousLiquid": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1921625124
@@ -5318,7 +5318,7 @@
         }
       },
       "NailPolish": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4034889557
@@ -5340,7 +5340,7 @@
         }
       },
       "NatureDVD": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1798966572
@@ -5362,7 +5362,7 @@
         }
       },
       "Nekojarashi": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2326864447
@@ -5384,7 +5384,7 @@
         }
       },
       "NotePc": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3399603933
@@ -5406,7 +5406,7 @@
         }
       },
       "Octahydrone": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3352602708
@@ -5428,7 +5428,7 @@
         }
       },
       "Octopus": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1276982003
@@ -5450,7 +5450,7 @@
         }
       },
       "Ohsho": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1871762796
@@ -5472,7 +5472,7 @@
         }
       },
       "OliveSoap": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3395947591
@@ -5494,7 +5494,7 @@
         }
       },
       "OneEarphoneIsMisissing": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 758252686
@@ -5516,7 +5516,7 @@
         }
       },
       "PaperCrane": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2919427769
@@ -5538,7 +5538,7 @@
         }
       },
       "Parakeet": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3696514565
@@ -5560,7 +5560,7 @@
         }
       },
       "Parrot": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 259356291
@@ -5582,7 +5582,7 @@
         }
       },
       "Pearl": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2646914298
@@ -5604,7 +5604,7 @@
         }
       },
       "Penguin": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4294585967
@@ -5626,7 +5626,7 @@
         }
       },
       "Perfume": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3018666429
@@ -5648,7 +5648,7 @@
         }
       },
       "Pig": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 354692429
@@ -5670,7 +5670,7 @@
         }
       },
       "PigPiggyBank": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3235750299
@@ -5692,7 +5692,7 @@
         }
       },
       "Pinata": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3438628138
@@ -5714,7 +5714,7 @@
         }
       },
       "Pinecone": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2071397548
@@ -5736,7 +5736,7 @@
         }
       },
       "PlasterFigure": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 801622813
@@ -5758,7 +5758,7 @@
         }
       },
       "PlasticModelParts": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4104463615
@@ -5780,7 +5780,7 @@
         }
       },
       "PocketWatch": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3902301202
@@ -5802,7 +5802,7 @@
         }
       },
       "PostcardSet": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2908977943
@@ -5824,7 +5824,7 @@
         }
       },
       "Quoll": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 686571204
@@ -5846,7 +5846,7 @@
         }
       },
       "Rabbit": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2984906748
@@ -5868,7 +5868,7 @@
         }
       },
       "RadenAccessoryCase": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 883964588
@@ -5890,7 +5890,7 @@
         }
       },
       "RandomKey": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3477172404
@@ -5912,7 +5912,7 @@
         }
       },
       "Receipt": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2408437685
@@ -5934,7 +5934,7 @@
         }
       },
       "ReplicaSword": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3030715559
@@ -5956,7 +5956,7 @@
         }
       },
       "RestaurantMenu": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1845328056
@@ -5978,7 +5978,7 @@
         }
       },
       "Robot": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2220909503
@@ -6000,7 +6000,7 @@
         }
       },
       "Rose": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2511260018
@@ -6022,7 +6022,7 @@
         }
       },
       "RubberString": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2675941842
@@ -6044,7 +6044,7 @@
         }
       },
       "Ruby": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3914174811
@@ -6066,7 +6066,7 @@
         }
       },
       "Sandglass": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2504521184
@@ -6088,7 +6088,7 @@
         }
       },
       "SatueOfLiberty": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2079499440
@@ -6110,7 +6110,7 @@
         }
       },
       "Screw": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3435187776
@@ -6132,7 +6132,7 @@
         }
       },
       "ScrubbingBrush": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3618536196
@@ -6154,7 +6154,7 @@
         }
       },
       "SeaUrchinBone": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3226344608
@@ -6176,7 +6176,7 @@
         }
       },
       "SecurityCamera": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3337497953
@@ -6198,7 +6198,7 @@
         }
       },
       "Shell": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4238171574
@@ -6220,7 +6220,7 @@
         }
       },
       "ShigarakiWare": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2479521581
@@ -6242,7 +6242,7 @@
         }
       },
       "Slime": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3649774914
@@ -6264,7 +6264,7 @@
         }
       },
       "SoccerBall": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2555856157
@@ -6286,7 +6286,7 @@
         }
       },
       "SolarPanel": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3150547934
@@ -6308,7 +6308,7 @@
         }
       },
       "SonohenNoIshikoro": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1362947888
@@ -6330,7 +6330,7 @@
         }
       },
       "SpeechBubbleBronze": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 645474457
@@ -6352,7 +6352,7 @@
         }
       },
       "SpeechBubbleGold": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2701462302
@@ -6374,7 +6374,7 @@
         }
       },
       "SpeechBubblePlatinum": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3053758784
@@ -6396,7 +6396,7 @@
         }
       },
       "SpeechBubbleSilver": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3723471229
@@ -6418,7 +6418,7 @@
         }
       },
       "Spirit": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 296339643
@@ -6440,7 +6440,7 @@
         }
       },
       "StoneSpecimen": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2836908087
@@ -6462,7 +6462,7 @@
         }
       },
       "Stopwatch": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1413697018
@@ -6484,7 +6484,7 @@
         }
       },
       "StreetDanceSet": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4241360436
@@ -6506,7 +6506,7 @@
         }
       },
       "StuffedToyBear": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 850108993
@@ -6528,7 +6528,7 @@
         }
       },
       "SugarGlider": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2353237449
@@ -6550,7 +6550,7 @@
         }
       },
       "Superscope": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1215516683
@@ -6572,7 +6572,7 @@
         }
       },
       "SuspiciousSwitch": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2736316466
@@ -6594,7 +6594,7 @@
         }
       },
       "SwallowsNest": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1474036967
@@ -6616,7 +6616,7 @@
         }
       },
       "TerrestrialGlobe": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4143900744
@@ -6638,7 +6638,7 @@
         }
       },
       "Ticket": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 729474801
@@ -6660,7 +6660,7 @@
         }
       },
       "Tile": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1322878429
@@ -6682,7 +6682,7 @@
         }
       },
       "TinToy": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3767307409
@@ -6704,7 +6704,7 @@
         }
       },
       "Tissue": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2258257686
@@ -6726,7 +6726,7 @@
         }
       },
       "ToiletPaper": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2285019975
@@ -6748,7 +6748,7 @@
         }
       },
       "TomodachiCollection": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2697005681
@@ -6770,7 +6770,7 @@
         }
       },
       "Top": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3963136249
@@ -6792,7 +6792,7 @@
         }
       },
       "TraditionalSpanishWaterBottle": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2973727962
@@ -6814,7 +6814,7 @@
         }
       },
       "TrainModel": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4151549352
@@ -6836,7 +6836,7 @@
         }
       },
       "TreasureMap": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1287725103
@@ -6858,7 +6858,7 @@
         }
       },
       "TreeBranch": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3589798459
@@ -6880,7 +6880,7 @@
         }
       },
       "TrophyBronze": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1369648091
@@ -6902,7 +6902,7 @@
         }
       },
       "TrophyGold": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4015254881
@@ -6924,7 +6924,7 @@
         }
       },
       "TrophyPlatinum": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1522281934
@@ -6946,7 +6946,7 @@
         }
       },
       "TrophySilver": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2402271259
@@ -6968,7 +6968,7 @@
         }
       },
       "Tuna": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 751557982
@@ -6990,7 +6990,7 @@
         }
       },
       "Turtle": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 356325803
@@ -7012,7 +7012,7 @@
         }
       },
       "Tyrannosaurus": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2265273545
@@ -7034,7 +7034,7 @@
         }
       },
       "Ufo": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3104014340
@@ -7056,7 +7056,7 @@
         }
       },
       "Unicorn": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1549531939
@@ -7078,7 +7078,7 @@
         }
       },
       "VacuumTube": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2442924378
@@ -7100,7 +7100,7 @@
         }
       },
       "VenetianGlass": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 733167784
@@ -7122,7 +7122,7 @@
         }
       },
       "Vihta": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1479387506
@@ -7144,7 +7144,7 @@
         }
       },
       "VirtualBoy": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1586496215
@@ -7166,7 +7166,7 @@
         }
       },
       "WickerBasket": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 575732528
@@ -7188,7 +7188,7 @@
         }
       },
       "WindUpTeeth": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3765061
@@ -7210,7 +7210,7 @@
         }
       },
       "WoodenCarvingBear": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1632862395
@@ -7232,7 +7232,7 @@
         }
       },
       "WoolFelt": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1231897087
@@ -7254,7 +7254,7 @@
         }
       },
       "WorkoutSet": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4254547152
@@ -7276,7 +7276,7 @@
         }
       },
       "YogaSet": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1782989122
@@ -7307,7 +7307,7 @@
     },
     "HabitInfo2": {
       "BlinkLot": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 743127640
@@ -7329,7 +7329,7 @@
         }
       },
       "BreakGas": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1167612836
@@ -7351,7 +7351,7 @@
         }
       },
       "ChangeCloth": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1109010005
@@ -7373,7 +7373,7 @@
         }
       },
       "Chicken": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 810703376
@@ -7395,7 +7395,7 @@
         }
       },
       "EatCarefully": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2422523809
@@ -7417,7 +7417,7 @@
         }
       },
       "EatCrisp": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1233783240
@@ -7439,7 +7439,7 @@
         }
       },
       "EatCute": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2801146114
@@ -7461,7 +7461,7 @@
         }
       },
       "EatElegantly": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4079816053
@@ -7483,7 +7483,7 @@
         }
       },
       "EatMouthful": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3821046828
@@ -7505,7 +7505,7 @@
         }
       },
       "EatSecretly": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 778597352
@@ -7527,7 +7527,7 @@
         }
       },
       "EatSmell": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1412879925
@@ -7549,7 +7549,7 @@
         }
       },
       "EatWild": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1816901215
@@ -7571,7 +7571,7 @@
         }
       },
       "ExpressionLess": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2580097096
@@ -7593,7 +7593,7 @@
         }
       },
       "FaceBliss": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2355967469
@@ -7615,7 +7615,7 @@
         }
       },
       "FaceCloseEyes": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3729220261
@@ -7637,7 +7637,7 @@
         }
       },
       "FaceLousy": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 733535843
@@ -7659,7 +7659,7 @@
         }
       },
       "FaceOpenEyes": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4250627062
@@ -7681,7 +7681,7 @@
         }
       },
       "FaceRaiseEyebrows": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2146517045
@@ -7703,7 +7703,7 @@
         }
       },
       "FaceSmile": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4053486306
@@ -7725,7 +7725,7 @@
         }
       },
       "FaceSmug": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2829759597
@@ -7747,7 +7747,7 @@
         }
       },
       "FaceWink": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 579550477
@@ -7769,7 +7769,7 @@
         }
       },
       "GetAngryTypeBrightly": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4212891424
@@ -7791,7 +7791,7 @@
         }
       },
       "GetAngryTypeHard": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1246059550
@@ -7813,7 +7813,7 @@
         }
       },
       "GetAngryTypeRegretfulTears": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3531272545
@@ -7835,7 +7835,7 @@
         }
       },
       "GreetingAnnoying": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2026976996
@@ -7857,7 +7857,7 @@
         }
       },
       "GreetingBow": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 600708584
@@ -7879,7 +7879,7 @@
         }
       },
       "GreetingCurtsy": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1044257504
@@ -7901,7 +7901,7 @@
         }
       },
       "GreetingHeadOnly": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3561675438
@@ -7923,7 +7923,7 @@
         }
       },
       "GreetingLazy": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1195758033
@@ -7945,7 +7945,7 @@
         }
       },
       "GreetingMacho": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2631757827
@@ -7967,7 +7967,7 @@
         }
       },
       "GreetingNoble": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1689916580
@@ -7989,7 +7989,7 @@
         }
       },
       "GreetingOsu": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4273930825
@@ -8011,7 +8011,7 @@
         }
       },
       "GreetingShy": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1353180951
@@ -8033,7 +8033,7 @@
         }
       },
       "GreetingTypeBig": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3493623206
@@ -8055,7 +8055,7 @@
         }
       },
       "GreetingTypeCackle": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 197180116
@@ -8077,7 +8077,7 @@
         }
       },
       "GreetingTypeNoting": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 232943386
@@ -8099,7 +8099,7 @@
         }
       },
       "GreetingTypeShallow": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 930952053
@@ -8121,7 +8121,7 @@
         }
       },
       "GreetingVitality": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1962369538
@@ -8143,7 +8143,7 @@
         }
       },
       "LifeTimeNightOwl": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1572276527
@@ -8165,7 +8165,7 @@
         }
       },
       "OftenCrossArms": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3554417858
@@ -8187,7 +8187,7 @@
         }
       },
       "SnoreLoudly": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3305093228
@@ -8209,7 +8209,7 @@
         }
       },
       "StandAffected": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 254190740
@@ -8231,7 +8231,7 @@
         }
       },
       "StandCute": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3694189821
@@ -8253,7 +8253,7 @@
         }
       },
       "StandHandsFront": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1267325977
@@ -8275,7 +8275,7 @@
         }
       },
       "StandLeanForward": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3843084406
@@ -8297,7 +8297,7 @@
         }
       },
       "StandProudly": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 86075131
@@ -8319,7 +8319,7 @@
         }
       },
       "StandPutsGlasses": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1370389307
@@ -8341,7 +8341,7 @@
         }
       },
       "StandRestless": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 56183997
@@ -8363,7 +8363,7 @@
         }
       },
       "StandRhythm": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1570912275
@@ -8385,7 +8385,7 @@
         }
       },
       "StandShakeHip": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 680365416
@@ -8407,7 +8407,7 @@
         }
       },
       "StandShy": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 262470561
@@ -8429,7 +8429,7 @@
         }
       },
       "StandStraight": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3925963725
@@ -8451,7 +8451,7 @@
         }
       },
       "StandSweatLot": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2644076625
@@ -8473,7 +8473,7 @@
         }
       },
       "StandToeOut": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3243862024
@@ -8495,7 +8495,7 @@
         }
       },
       "StomachBig": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3545856288
@@ -8517,7 +8517,7 @@
         }
       },
       "StomachSmall": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2605965686
@@ -8539,7 +8539,7 @@
         }
       },
       "TakeItOutOnObject": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2757706942
@@ -8561,7 +8561,7 @@
         }
       },
       "UntidySleeper": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1011690697
@@ -8583,7 +8583,7 @@
         }
       },
       "VoiceGloomy": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 825167240
@@ -8605,7 +8605,7 @@
         }
       },
       "VoiceLoud": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3240150862
@@ -8627,7 +8627,7 @@
         }
       },
       "VoiceShiny": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1662254904
@@ -8649,7 +8649,7 @@
         }
       },
       "VoiceSmall": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 519057109
@@ -8671,7 +8671,7 @@
         }
       },
       "WalkFloat": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4233263545
@@ -8693,7 +8693,7 @@
         }
       },
       "WalkLikeModel": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1464800362
@@ -8715,7 +8715,7 @@
         }
       },
       "WalkLikeRobot": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 160971350
@@ -8737,7 +8737,7 @@
         }
       },
       "WalkNoSwinging": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3480752226
@@ -8759,7 +8759,7 @@
         }
       },
       "WalkRhythm": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1381430567
@@ -8781,7 +8781,7 @@
         }
       },
       "WalkScurry": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4063352390
@@ -8803,7 +8803,7 @@
         }
       },
       "WalkStoop": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2166128505
@@ -8825,7 +8825,7 @@
         }
       },
       "WalkSwagger": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 111173698
@@ -8847,7 +8847,7 @@
         }
       },
       "WalkToeIn": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 867505131
@@ -8869,7 +8869,7 @@
         }
       },
       "WalkToeOut": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2157485410
@@ -8891,7 +8891,7 @@
         }
       },
       "WalkUneasily": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 656893706
@@ -8913,7 +8913,7 @@
         }
       },
       "WalkUnsteady": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1203129507
@@ -8942,7 +8942,7 @@
           "Type": "Bool",
           "Hash": 2905232037
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2745337630
@@ -8979,7 +8979,7 @@
           "Type": "Bool",
           "Hash": 2459932324
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3903848514
@@ -9016,7 +9016,7 @@
           "Type": "Bool",
           "Hash": 2934510867
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 765232096
@@ -9053,7 +9053,7 @@
           "Type": "Bool",
           "Hash": 3501760801
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 367464325
@@ -9090,7 +9090,7 @@
           "Type": "Bool",
           "Hash": 3058031018
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3246986938
@@ -9127,7 +9127,7 @@
           "Type": "Bool",
           "Hash": 1456188064
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1532785771
@@ -9164,7 +9164,7 @@
           "Type": "Bool",
           "Hash": 2916480727
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 245945218
@@ -9201,7 +9201,7 @@
           "Type": "Bool",
           "Hash": 2281735653
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2994876241
@@ -9238,7 +9238,7 @@
           "Type": "Bool",
           "Hash": 3101075917
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 196742004
@@ -9275,7 +9275,7 @@
           "Type": "Bool",
           "Hash": 1567722758
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1392720176
@@ -9312,7 +9312,7 @@
           "Type": "Bool",
           "Hash": 3587530570
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2677349349
@@ -9349,7 +9349,7 @@
           "Type": "Bool",
           "Hash": 4045577723
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1138685283
@@ -9386,7 +9386,7 @@
           "Type": "Bool",
           "Hash": 2505625227
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2506109228
@@ -9423,7 +9423,7 @@
           "Type": "Bool",
           "Hash": 1742431479
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 17627891
@@ -9460,7 +9460,7 @@
           "Type": "Bool",
           "Hash": 2675958588
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1152738845
@@ -9497,7 +9497,7 @@
           "Type": "Bool",
           "Hash": 4178489819
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3686730706
@@ -9534,7 +9534,7 @@
           "Type": "Bool",
           "Hash": 98657476
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 266474133
@@ -9571,7 +9571,7 @@
           "Type": "Bool",
           "Hash": 3098953831
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1932060110
@@ -9608,7 +9608,7 @@
           "Type": "Bool",
           "Hash": 684848451
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1661825976
@@ -9645,7 +9645,7 @@
           "Type": "Bool",
           "Hash": 4154187866
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 483881015
@@ -9682,7 +9682,7 @@
           "Type": "Bool",
           "Hash": 4219535217
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1059051066
@@ -9719,7 +9719,7 @@
           "Type": "Bool",
           "Hash": 341503812
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4166162504
@@ -9756,7 +9756,7 @@
           "Type": "Bool",
           "Hash": 4193830388
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1857626057
@@ -9793,7 +9793,7 @@
           "Type": "Bool",
           "Hash": 2279944896
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3618622736
@@ -9830,7 +9830,7 @@
           "Type": "Bool",
           "Hash": 628850974
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3747205529
@@ -9867,7 +9867,7 @@
           "Type": "Bool",
           "Hash": 1489280000
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2548675153
@@ -9904,7 +9904,7 @@
           "Type": "Bool",
           "Hash": 1238906726
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3032449801
@@ -9941,7 +9941,7 @@
           "Type": "Bool",
           "Hash": 2983099943
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3705617727
@@ -9978,7 +9978,7 @@
           "Type": "Bool",
           "Hash": 2217963403
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1682843229
@@ -10015,7 +10015,7 @@
           "Type": "Bool",
           "Hash": 77434269
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3093115162
@@ -10052,7 +10052,7 @@
           "Type": "Bool",
           "Hash": 851497977
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1866797542
@@ -10089,7 +10089,7 @@
           "Type": "Bool",
           "Hash": 1592096793
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2696834059
@@ -10126,7 +10126,7 @@
           "Type": "Bool",
           "Hash": 1196966726
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 590623783
@@ -10163,7 +10163,7 @@
           "Type": "Bool",
           "Hash": 4062011049
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 254218567
@@ -10200,7 +10200,7 @@
           "Type": "Bool",
           "Hash": 1013580518
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 382004132
@@ -10237,7 +10237,7 @@
           "Type": "Bool",
           "Hash": 2399287533
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 986368825
@@ -10274,7 +10274,7 @@
           "Type": "Bool",
           "Hash": 1739925944
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1227572748
@@ -10311,7 +10311,7 @@
           "Type": "Bool",
           "Hash": 1496623194
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1235524314
@@ -10348,7 +10348,7 @@
           "Type": "Bool",
           "Hash": 3322221840
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2252801581
@@ -10385,7 +10385,7 @@
           "Type": "Bool",
           "Hash": 3420126459
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1933000795
@@ -10422,7 +10422,7 @@
           "Type": "Bool",
           "Hash": 2524640140
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2457419274
@@ -10459,7 +10459,7 @@
           "Type": "Bool",
           "Hash": 2841461984
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4187236327
@@ -10496,7 +10496,7 @@
           "Type": "Bool",
           "Hash": 3837029204
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2498206259
@@ -10533,7 +10533,7 @@
           "Type": "Bool",
           "Hash": 1547366815
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2810443317
@@ -10570,7 +10570,7 @@
           "Type": "Bool",
           "Hash": 107111873
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2207868576
@@ -10607,7 +10607,7 @@
           "Type": "Bool",
           "Hash": 1678480773
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3917288056
@@ -10644,7 +10644,7 @@
           "Type": "Bool",
           "Hash": 4195995135
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3257219867
@@ -10681,7 +10681,7 @@
           "Type": "Bool",
           "Hash": 3957099091
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3764417362
@@ -10718,7 +10718,7 @@
           "Type": "Bool",
           "Hash": 842387936
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1981791676
@@ -10755,7 +10755,7 @@
           "Type": "Bool",
           "Hash": 817639311
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2002600024
@@ -10792,7 +10792,7 @@
           "Type": "Bool",
           "Hash": 3376254020
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1431763947
@@ -10829,7 +10829,7 @@
           "Type": "Bool",
           "Hash": 2028537265
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1640136651
@@ -10866,7 +10866,7 @@
           "Type": "Bool",
           "Hash": 1685211233
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3617602799
@@ -10903,7 +10903,7 @@
           "Type": "Bool",
           "Hash": 2078389798
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 417374353
@@ -10940,7 +10940,7 @@
           "Type": "Bool",
           "Hash": 4045988989
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4116219979
@@ -10977,7 +10977,7 @@
           "Type": "Bool",
           "Hash": 626498530
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3074143451
@@ -11014,7 +11014,7 @@
           "Type": "Bool",
           "Hash": 3760803224
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1417049462
@@ -11051,7 +11051,7 @@
           "Type": "Bool",
           "Hash": 4155487196
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3993378974
@@ -11088,7 +11088,7 @@
           "Type": "Bool",
           "Hash": 814736843
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 608277461
@@ -11125,7 +11125,7 @@
           "Type": "Bool",
           "Hash": 2286443734
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2726733803
@@ -11162,7 +11162,7 @@
           "Type": "Bool",
           "Hash": 1239471480
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 987537948
@@ -11199,7 +11199,7 @@
           "Type": "Bool",
           "Hash": 1154588484
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3507549317
@@ -11236,7 +11236,7 @@
           "Type": "Bool",
           "Hash": 3368668628
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1182331454
@@ -11273,7 +11273,7 @@
           "Type": "Bool",
           "Hash": 2035031400
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 537813082
@@ -11310,7 +11310,7 @@
           "Type": "Bool",
           "Hash": 3873244374
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2145981846
@@ -11347,7 +11347,7 @@
           "Type": "Bool",
           "Hash": 2419087933
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4077919630
@@ -11384,7 +11384,7 @@
           "Type": "Bool",
           "Hash": 3149449206
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4263952377
@@ -11421,7 +11421,7 @@
           "Type": "Bool",
           "Hash": 3992518902
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3028186028
@@ -11458,7 +11458,7 @@
           "Type": "Bool",
           "Hash": 3940337548
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1800228363
@@ -11495,7 +11495,7 @@
           "Type": "Bool",
           "Hash": 1853338652
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 389809738
@@ -11532,7 +11532,7 @@
           "Type": "Bool",
           "Hash": 3232910524
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2564489905
@@ -11569,7 +11569,7 @@
           "Type": "Bool",
           "Hash": 3553378686
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2255018782
@@ -11606,7 +11606,7 @@
           "Type": "Bool",
           "Hash": 452104277
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1711681176
@@ -11643,7 +11643,7 @@
           "Type": "Bool",
           "Hash": 1816793618
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2041244310
@@ -11680,7 +11680,7 @@
           "Type": "Bool",
           "Hash": 2121590270
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1589563827
@@ -11717,7 +11717,7 @@
           "Type": "Bool",
           "Hash": 4070321819
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1449190127
@@ -11754,7 +11754,7 @@
           "Type": "Bool",
           "Hash": 3882114743
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3699748454
@@ -11791,7 +11791,7 @@
           "Type": "Bool",
           "Hash": 3132718123
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1949076668
@@ -11828,7 +11828,7 @@
           "Type": "Bool",
           "Hash": 1055154058
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3815265545
@@ -11865,7 +11865,7 @@
           "Type": "Bool",
           "Hash": 703591639
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3254586933
@@ -11902,7 +11902,7 @@
           "Type": "Bool",
           "Hash": 220623284
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2275893641
@@ -11939,7 +11939,7 @@
           "Type": "Bool",
           "Hash": 1769053032
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1633628749
@@ -11976,7 +11976,7 @@
           "Type": "Bool",
           "Hash": 2448408392
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3435370560
@@ -12013,7 +12013,7 @@
           "Type": "Bool",
           "Hash": 3392225568
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2219715779
@@ -12050,7 +12050,7 @@
           "Type": "Bool",
           "Hash": 3421373420
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2694594105
@@ -12087,7 +12087,7 @@
           "Type": "Bool",
           "Hash": 3207453392
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3275419895
@@ -12124,7 +12124,7 @@
           "Type": "Bool",
           "Hash": 2653217264
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 381923282
@@ -12161,7 +12161,7 @@
           "Type": "Bool",
           "Hash": 1012457906
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2506051140
@@ -12198,7 +12198,7 @@
           "Type": "Bool",
           "Hash": 1902412585
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3736810045
@@ -12235,7 +12235,7 @@
           "Type": "Bool",
           "Hash": 340312943
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3824414837
@@ -12272,7 +12272,7 @@
           "Type": "Bool",
           "Hash": 4200010845
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2596271427
@@ -12309,7 +12309,7 @@
           "Type": "Bool",
           "Hash": 1839037544
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3386511778
@@ -12346,7 +12346,7 @@
           "Type": "Bool",
           "Hash": 3513058419
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 821871069
@@ -12383,7 +12383,7 @@
           "Type": "Bool",
           "Hash": 875032073
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1676898006
@@ -12420,7 +12420,7 @@
           "Type": "Bool",
           "Hash": 954715122
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2868255626
@@ -12457,7 +12457,7 @@
           "Type": "Bool",
           "Hash": 661003883
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1303669969
@@ -12494,7 +12494,7 @@
           "Type": "Bool",
           "Hash": 2783456003
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3082876489
@@ -12531,7 +12531,7 @@
           "Type": "Bool",
           "Hash": 3180296142
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3818045220
@@ -12568,7 +12568,7 @@
           "Type": "Bool",
           "Hash": 1661379634
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 712909595
@@ -12605,7 +12605,7 @@
           "Type": "Bool",
           "Hash": 1940378837
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 478256976
@@ -12642,7 +12642,7 @@
           "Type": "Bool",
           "Hash": 2866998524
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3811574790
@@ -12679,7 +12679,7 @@
           "Type": "Bool",
           "Hash": 2319567181
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1527440868
@@ -12716,7 +12716,7 @@
           "Type": "Bool",
           "Hash": 1926086489
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 211148125
@@ -12753,7 +12753,7 @@
           "Type": "Bool",
           "Hash": 2685894741
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3989283588
@@ -12790,7 +12790,7 @@
           "Type": "Bool",
           "Hash": 246571673
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3215277688
@@ -12827,7 +12827,7 @@
           "Type": "Bool",
           "Hash": 2459116683
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1222924280
@@ -12864,7 +12864,7 @@
           "Type": "Bool",
           "Hash": 143006002
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1197775171
@@ -12901,7 +12901,7 @@
           "Type": "Bool",
           "Hash": 3213323069
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1001112845
@@ -12938,7 +12938,7 @@
           "Type": "Bool",
           "Hash": 3933671999
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3003588195
@@ -12975,7 +12975,7 @@
           "Type": "Bool",
           "Hash": 3092920845
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3089964699
@@ -13012,7 +13012,7 @@
           "Type": "Bool",
           "Hash": 1787143619
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2323955937
@@ -13049,7 +13049,7 @@
           "Type": "Bool",
           "Hash": 3216510911
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 714355205
@@ -13086,7 +13086,7 @@
           "Type": "Bool",
           "Hash": 3385036540
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3396004463
@@ -13123,7 +13123,7 @@
           "Type": "Bool",
           "Hash": 466391770
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2537011266
@@ -13160,7 +13160,7 @@
           "Type": "Bool",
           "Hash": 2356764877
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 268698560
@@ -13197,7 +13197,7 @@
           "Type": "Bool",
           "Hash": 1937298053
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 254584517
@@ -13234,7 +13234,7 @@
           "Type": "Bool",
           "Hash": 2264207296
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2600959110
@@ -13271,7 +13271,7 @@
           "Type": "Bool",
           "Hash": 2593022976
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3527663932
@@ -13308,7 +13308,7 @@
           "Type": "Bool",
           "Hash": 4164693585
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1418831897
@@ -13345,7 +13345,7 @@
           "Type": "Bool",
           "Hash": 4068211475
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4119073334
@@ -13382,7 +13382,7 @@
           "Type": "Bool",
           "Hash": 3684648784
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 114748162
@@ -13419,7 +13419,7 @@
           "Type": "Bool",
           "Hash": 737925283
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2171732118
@@ -13456,7 +13456,7 @@
           "Type": "Bool",
           "Hash": 3275369270
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1812114314
@@ -13493,7 +13493,7 @@
           "Type": "Bool",
           "Hash": 4058253694
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 937895413
@@ -13530,7 +13530,7 @@
           "Type": "Bool",
           "Hash": 1121411175
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 515933630
@@ -13567,7 +13567,7 @@
           "Type": "Bool",
           "Hash": 1387246799
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 657178036
@@ -13604,7 +13604,7 @@
           "Type": "Bool",
           "Hash": 1714943767
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1540354855
@@ -13641,7 +13641,7 @@
           "Type": "Bool",
           "Hash": 3423182891
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 984265857
@@ -13678,7 +13678,7 @@
           "Type": "Bool",
           "Hash": 3739376217
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3557811252
@@ -13715,7 +13715,7 @@
           "Type": "Bool",
           "Hash": 1746952516
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4246801479
@@ -13752,7 +13752,7 @@
           "Type": "Bool",
           "Hash": 2417895331
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2582313124
@@ -13789,7 +13789,7 @@
           "Type": "Bool",
           "Hash": 2800779001
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 871832048
@@ -13826,7 +13826,7 @@
           "Type": "Bool",
           "Hash": 666229085
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4162878928
@@ -13863,7 +13863,7 @@
           "Type": "Bool",
           "Hash": 1464049568
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1485553499
@@ -13900,7 +13900,7 @@
           "Type": "Bool",
           "Hash": 2675907665
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1334682202
@@ -13937,7 +13937,7 @@
           "Type": "Bool",
           "Hash": 1106543433
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1890101199
@@ -13974,7 +13974,7 @@
           "Type": "Bool",
           "Hash": 2514319552
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2628726053
@@ -14011,7 +14011,7 @@
           "Type": "Bool",
           "Hash": 4009652996
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3689559467
@@ -14048,7 +14048,7 @@
           "Type": "Bool",
           "Hash": 2200685359
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 629421478
@@ -14085,7 +14085,7 @@
           "Type": "Bool",
           "Hash": 3921439498
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 906351229
@@ -14122,7 +14122,7 @@
           "Type": "Bool",
           "Hash": 2392010743
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4005602852
@@ -14159,7 +14159,7 @@
           "Type": "Bool",
           "Hash": 3237340171
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1638965991
@@ -14196,7 +14196,7 @@
           "Type": "Bool",
           "Hash": 2469741725
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3806911643
@@ -14233,7 +14233,7 @@
           "Type": "Bool",
           "Hash": 2077589199
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 690351103
@@ -14270,7 +14270,7 @@
           "Type": "Bool",
           "Hash": 2177639330
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2359331400
@@ -14307,7 +14307,7 @@
           "Type": "Bool",
           "Hash": 2032411564
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1041659110
@@ -14344,7 +14344,7 @@
           "Type": "Bool",
           "Hash": 1195826709
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3904862088
@@ -14381,7 +14381,7 @@
           "Type": "Bool",
           "Hash": 4104604561
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3064960020
@@ -14418,7 +14418,7 @@
           "Type": "Bool",
           "Hash": 2679133756
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3829675033
@@ -14455,7 +14455,7 @@
           "Type": "Bool",
           "Hash": 396378459
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1882216876
@@ -14492,7 +14492,7 @@
           "Type": "Bool",
           "Hash": 3806003167
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3665880169
@@ -14529,7 +14529,7 @@
           "Type": "Bool",
           "Hash": 1553021264
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1621041697
@@ -14566,7 +14566,7 @@
           "Type": "Bool",
           "Hash": 2664072114
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 888101769
@@ -14603,7 +14603,7 @@
           "Type": "Bool",
           "Hash": 4154929355
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1699593801
@@ -14640,7 +14640,7 @@
           "Type": "Bool",
           "Hash": 2883750218
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1065206696
@@ -14677,7 +14677,7 @@
           "Type": "Bool",
           "Hash": 3468654701
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3034428433
@@ -14714,7 +14714,7 @@
           "Type": "Bool",
           "Hash": 59390337
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1030592348
@@ -14751,7 +14751,7 @@
           "Type": "Bool",
           "Hash": 386171298
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1088100545
@@ -14788,7 +14788,7 @@
           "Type": "Bool",
           "Hash": 2444050741
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 373901742
@@ -14825,7 +14825,7 @@
           "Type": "Bool",
           "Hash": 3013349317
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3447900126
@@ -14862,7 +14862,7 @@
           "Type": "Bool",
           "Hash": 952064117
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3143614259
@@ -14899,7 +14899,7 @@
           "Type": "Bool",
           "Hash": 4125808757
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1905827577
@@ -14936,7 +14936,7 @@
           "Type": "Bool",
           "Hash": 2868302955
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2358312748
@@ -14973,7 +14973,7 @@
           "Type": "Bool",
           "Hash": 859381532
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 148545856
@@ -15010,7 +15010,7 @@
           "Type": "Bool",
           "Hash": 1370669524
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3400632359
@@ -15047,7 +15047,7 @@
           "Type": "Bool",
           "Hash": 1907174574
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3199340650
@@ -15084,7 +15084,7 @@
           "Type": "Bool",
           "Hash": 255887525
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3839504627
@@ -15121,7 +15121,7 @@
           "Type": "Bool",
           "Hash": 3041675840
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3235513717
@@ -15158,7 +15158,7 @@
           "Type": "Bool",
           "Hash": 1072712717
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3202290182
@@ -15195,7 +15195,7 @@
           "Type": "Bool",
           "Hash": 3416205412
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1160656999
@@ -15232,7 +15232,7 @@
           "Type": "Bool",
           "Hash": 347770224
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1470355940
@@ -15269,7 +15269,7 @@
           "Type": "Bool",
           "Hash": 3717717122
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 18351833
@@ -15306,7 +15306,7 @@
           "Type": "Bool",
           "Hash": 1657752668
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 173460140
@@ -15343,7 +15343,7 @@
           "Type": "Bool",
           "Hash": 1514006650
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 38326398
@@ -15380,7 +15380,7 @@
           "Type": "Bool",
           "Hash": 4089477159
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3826294172
@@ -15417,7 +15417,7 @@
           "Type": "Bool",
           "Hash": 1277108271
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3048271055
@@ -15454,7 +15454,7 @@
           "Type": "Bool",
           "Hash": 1064225511
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2794056651
@@ -15491,7 +15491,7 @@
           "Type": "Bool",
           "Hash": 822318976
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1869011895
@@ -15528,7 +15528,7 @@
           "Type": "Bool",
           "Hash": 603144810
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3310143702
@@ -15565,7 +15565,7 @@
           "Type": "Bool",
           "Hash": 3442282590
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3526417343
@@ -15602,7 +15602,7 @@
           "Type": "Bool",
           "Hash": 4053531186
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3328519355
@@ -15639,7 +15639,7 @@
           "Type": "Bool",
           "Hash": 1795160057
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 940099945
@@ -15676,7 +15676,7 @@
           "Type": "Bool",
           "Hash": 568391769
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3450128195
@@ -15713,7 +15713,7 @@
           "Type": "Bool",
           "Hash": 1754380814
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2037241599
@@ -15750,7 +15750,7 @@
           "Type": "Bool",
           "Hash": 932707335
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4168873962
@@ -15787,7 +15787,7 @@
           "Type": "Bool",
           "Hash": 2342158879
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1755814234
@@ -15824,7 +15824,7 @@
           "Type": "Bool",
           "Hash": 152956463
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2627584926
@@ -15861,7 +15861,7 @@
           "Type": "Bool",
           "Hash": 1369418911
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3388984805
@@ -15898,7 +15898,7 @@
           "Type": "Bool",
           "Hash": 881839621
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2170026078
@@ -15935,7 +15935,7 @@
           "Type": "Bool",
           "Hash": 2339510139
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 659040714
@@ -15972,7 +15972,7 @@
           "Type": "Bool",
           "Hash": 111680296
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4118692819
@@ -16009,7 +16009,7 @@
           "Type": "Bool",
           "Hash": 4276744997
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 645650759
@@ -16046,7 +16046,7 @@
           "Type": "Bool",
           "Hash": 1569885242
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1616911337
@@ -16083,7 +16083,7 @@
           "Type": "Bool",
           "Hash": 2752922856
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4171819018
@@ -16120,7 +16120,7 @@
           "Type": "Bool",
           "Hash": 274960665
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 410004902
@@ -16157,7 +16157,7 @@
           "Type": "Bool",
           "Hash": 4147006786
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2170861963
@@ -16194,7 +16194,7 @@
           "Type": "Bool",
           "Hash": 812150183
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2627059217
@@ -16231,7 +16231,7 @@
           "Type": "Bool",
           "Hash": 1975872180
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2735212667
@@ -16268,7 +16268,7 @@
           "Type": "Bool",
           "Hash": 4033377626
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2506723585
@@ -16305,7 +16305,7 @@
           "Type": "Bool",
           "Hash": 1214714424
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2792459402
@@ -16342,7 +16342,7 @@
           "Type": "Bool",
           "Hash": 589856626
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3090290558
@@ -16379,7 +16379,7 @@
           "Type": "Bool",
           "Hash": 3693248732
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2770166376
@@ -16416,7 +16416,7 @@
           "Type": "Bool",
           "Hash": 193140992
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3401528546
@@ -16453,7 +16453,7 @@
           "Type": "Bool",
           "Hash": 657091227
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2929508551
@@ -16490,7 +16490,7 @@
           "Type": "Bool",
           "Hash": 3479371677
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3750871855
@@ -16527,7 +16527,7 @@
           "Type": "Bool",
           "Hash": 4222806110
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2375307114
@@ -16564,7 +16564,7 @@
           "Type": "Bool",
           "Hash": 230192847
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2750183534
@@ -16601,7 +16601,7 @@
           "Type": "Bool",
           "Hash": 3069237727
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2884409584
@@ -16638,7 +16638,7 @@
           "Type": "Bool",
           "Hash": 664819
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3137617018
@@ -16675,7 +16675,7 @@
           "Type": "Bool",
           "Hash": 2803701688
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 870675539
@@ -16712,7 +16712,7 @@
           "Type": "Bool",
           "Hash": 3552045616
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3512383429
@@ -16749,7 +16749,7 @@
           "Type": "Bool",
           "Hash": 809704509
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3914531131
@@ -16786,7 +16786,7 @@
           "Type": "Bool",
           "Hash": 2254280326
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2740063665
@@ -16823,7 +16823,7 @@
           "Type": "Bool",
           "Hash": 1378600450
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2442107312
@@ -16860,7 +16860,7 @@
           "Type": "Bool",
           "Hash": 3805311636
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3248110585
@@ -16897,7 +16897,7 @@
           "Type": "Bool",
           "Hash": 2239987247
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 245130020
@@ -16934,7 +16934,7 @@
           "Type": "Bool",
           "Hash": 2475947762
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1879531513
@@ -16971,7 +16971,7 @@
           "Type": "Bool",
           "Hash": 3998987415
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 810258217
@@ -17008,7 +17008,7 @@
           "Type": "Bool",
           "Hash": 4217423722
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3365714202
@@ -17045,7 +17045,7 @@
           "Type": "Bool",
           "Hash": 3546532936
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1967569160
@@ -17082,7 +17082,7 @@
           "Type": "Bool",
           "Hash": 80904532
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3009888110
@@ -17119,7 +17119,7 @@
           "Type": "Bool",
           "Hash": 533812645
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3226028589
@@ -17156,7 +17156,7 @@
           "Type": "Bool",
           "Hash": 2997488536
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1133295790
@@ -17193,7 +17193,7 @@
           "Type": "Bool",
           "Hash": 2761876429
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 980052872
@@ -17230,7 +17230,7 @@
           "Type": "Bool",
           "Hash": 3141835550
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2639244189
@@ -17267,7 +17267,7 @@
           "Type": "Bool",
           "Hash": 3901232748
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1210981925
@@ -17304,7 +17304,7 @@
           "Type": "Bool",
           "Hash": 3738700478
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1836512049
@@ -17341,7 +17341,7 @@
           "Type": "Bool",
           "Hash": 445214317
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2573105420
@@ -17378,7 +17378,7 @@
           "Type": "Bool",
           "Hash": 4237674130
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2012479016
@@ -17415,7 +17415,7 @@
           "Type": "Bool",
           "Hash": 2420407363
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3815260509
@@ -17452,7 +17452,7 @@
           "Type": "Bool",
           "Hash": 3908789609
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3390871054
@@ -17489,7 +17489,7 @@
           "Type": "Bool",
           "Hash": 3973170432
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2238887946
@@ -17526,7 +17526,7 @@
           "Type": "Bool",
           "Hash": 3449188180
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1251682609
@@ -17563,7 +17563,7 @@
           "Type": "Bool",
           "Hash": 700186108
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1409111940
@@ -17600,7 +17600,7 @@
           "Type": "Bool",
           "Hash": 3386161343
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2612643696
@@ -17637,7 +17637,7 @@
           "Type": "Bool",
           "Hash": 2793823248
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4084656110
@@ -17674,7 +17674,7 @@
           "Type": "Bool",
           "Hash": 4284814914
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3178045959
@@ -17711,7 +17711,7 @@
           "Type": "Bool",
           "Hash": 3289814816
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2289139262
@@ -17748,7 +17748,7 @@
           "Type": "Bool",
           "Hash": 2601890663
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4257093952
@@ -17785,7 +17785,7 @@
           "Type": "Bool",
           "Hash": 1962444706
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3138348410
@@ -17822,7 +17822,7 @@
           "Type": "Bool",
           "Hash": 789987292
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1241738755
@@ -17859,7 +17859,7 @@
           "Type": "Bool",
           "Hash": 3327909960
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2937864270
@@ -17896,7 +17896,7 @@
           "Type": "Bool",
           "Hash": 462350195
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 880005210
@@ -17933,7 +17933,7 @@
           "Type": "Bool",
           "Hash": 2721916175
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3957334219
@@ -17970,7 +17970,7 @@
           "Type": "Bool",
           "Hash": 2982160812
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3133695637
@@ -18007,7 +18007,7 @@
           "Type": "Bool",
           "Hash": 3244244170
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3287351643
@@ -18044,7 +18044,7 @@
           "Type": "Bool",
           "Hash": 1352457461
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 215025908
@@ -18081,7 +18081,7 @@
           "Type": "Bool",
           "Hash": 1375755609
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2934171820
@@ -18118,7 +18118,7 @@
           "Type": "Bool",
           "Hash": 1887041285
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3033221902
@@ -18155,7 +18155,7 @@
           "Type": "Bool",
           "Hash": 2039570690
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1051875127
@@ -18192,7 +18192,7 @@
           "Type": "Bool",
           "Hash": 2446463042
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3957057625
@@ -18229,7 +18229,7 @@
           "Type": "Bool",
           "Hash": 3391160114
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2322861089
@@ -18266,7 +18266,7 @@
           "Type": "Bool",
           "Hash": 3483790997
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1399370368
@@ -18303,7 +18303,7 @@
           "Type": "Bool",
           "Hash": 1414825048
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1210229675
@@ -18340,7 +18340,7 @@
           "Type": "Bool",
           "Hash": 1268554855
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3244691489
@@ -18377,7 +18377,7 @@
           "Type": "Bool",
           "Hash": 2672295105
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2202856641
@@ -18414,7 +18414,7 @@
           "Type": "Bool",
           "Hash": 1334933954
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1874707055
@@ -18451,7 +18451,7 @@
           "Type": "Bool",
           "Hash": 597462043
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2622161302
@@ -18488,7 +18488,7 @@
           "Type": "Bool",
           "Hash": 3173310359
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3722323241
@@ -18525,7 +18525,7 @@
           "Type": "Bool",
           "Hash": 504425396
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3521645238
@@ -18562,7 +18562,7 @@
           "Type": "Bool",
           "Hash": 3744819058
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4079434234
@@ -18599,7 +18599,7 @@
           "Type": "Bool",
           "Hash": 4099521403
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3571121687
@@ -18636,7 +18636,7 @@
           "Type": "Bool",
           "Hash": 4282021884
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1661433507
@@ -18673,7 +18673,7 @@
           "Type": "Bool",
           "Hash": 159207292
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2376698950
@@ -18710,7 +18710,7 @@
           "Type": "Bool",
           "Hash": 3109771554
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1619968280
@@ -18747,7 +18747,7 @@
           "Type": "Bool",
           "Hash": 476712594
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1847681110
@@ -18784,7 +18784,7 @@
           "Type": "Bool",
           "Hash": 1399749543
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1584053095
@@ -18821,7 +18821,7 @@
           "Type": "Bool",
           "Hash": 2018088433
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4257500195
@@ -18858,7 +18858,7 @@
           "Type": "Bool",
           "Hash": 2302234931
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4287169292
@@ -18895,7 +18895,7 @@
           "Type": "Bool",
           "Hash": 182601843
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2634680467
@@ -18932,7 +18932,7 @@
           "Type": "Bool",
           "Hash": 3877160173
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1273874687
@@ -18969,7 +18969,7 @@
           "Type": "Bool",
           "Hash": 1539937310
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2217601322
@@ -19006,7 +19006,7 @@
           "Type": "Bool",
           "Hash": 1086402284
         },
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4083026035
@@ -19048,7 +19048,7 @@
       "Type": "Bool",
       "Hash": 2970389528
     },
-    "<Unknown_A4005FD1>": {
+    "IsLocalNetworkExplained": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 2510718600
@@ -19092,7 +19092,7 @@
         "Size": 512,
         "Hash": 2445269006
       },
-      "<Unknown_2940FA1C>": {
+      "IsNewlyOwned": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 512,
@@ -19131,7 +19131,7 @@
     },
     "ClothInfo": {
       "OwnInfoArray": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 19200,
@@ -19165,7 +19165,7 @@
     },
     "CoordinateInfo": {
       "OwnInfoArray": {
-        "<Unknown_2940FA1C>": {
+        "IsNewlyOwned": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 6400,
@@ -19204,7 +19204,7 @@
         "Size": 50,
         "Hash": 3639796723
       },
-      "<Unknown_2940FA1C>": {
+      "IsNewlyOwned": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 50,
@@ -19236,7 +19236,7 @@
       }
     },
     "FoodInfo": {
-      "<Unknown_2940FA1C>": {
+      "IsNewlyOwned": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 512,
@@ -19303,12 +19303,12 @@
       "Hash": 989930829
     },
     "BondInfo": {
-      "<Unknown_F3A6D2BB>": {
+      "LotteryForBad": {
         "DefaultValue": 1,
         "Type": "Int",
         "Hash": 1810421546
       },
-      "<Unknown_88BD3A13>": {
+      "LotteryForGood": {
         "DefaultValue": 1,
         "Type": "Int",
         "Hash": 379371542
@@ -19537,7 +19537,7 @@
       "Type": "UInt64",
       "Hash": 3562692024
     },
-    "<Unknown_A85C7685>": {
+    "NextGeneratableTroubleIslandEditTime": {
       "DefaultValue": 0,
       "Type": "UInt64",
       "Hash": 3510531355
@@ -19552,7 +19552,7 @@
       "Type": "UInt64",
       "Hash": 3196991916
     },
-    "<Unknown_2E3A2AC6>": {
+    "PhotoStudioUnlockNewFlag": {
       "DefaultValue": 0,
       "Type": "UInt64",
       "Hash": 4167829878
@@ -19636,7 +19636,7 @@
     },
     "Editor": {
       "Setting": {
-        "<Unknown_7D73AF37>": {
+        "IsSnapGrid": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 612547068
@@ -19837,7 +19837,7 @@
         "Size": 300,
         "Hash": 1902255256
       },
-      "<Unknown_2940FA1C>": {
+      "IsNewlyOwned": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 300,
@@ -20013,7 +20013,7 @@
         "Size": 100,
         "Hash": 2542165355
       },
-      "<Unknown_2940FA1C>": {
+      "IsNewlyOwned": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 100,
@@ -20204,7 +20204,7 @@
         "Size": 72,
         "Hash": 3164921323
       },
-      "<Unknown_2940FA1C>": {
+      "IsNewlyOwned": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 72,
@@ -20338,7 +20338,7 @@
         "Size": 100,
         "Hash": 1665663150
       },
-      "<Unknown_2940FA1C>": {
+      "IsNewlyOwned": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 100,
@@ -20508,7 +20508,7 @@
         "Size": 100,
         "Hash": 2660732766
       },
-      "<Unknown_2940FA1C>": {
+      "IsNewlyOwned": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 100,
@@ -20744,7 +20744,7 @@
         "Size": 100,
         "Hash": 1714214919
       },
-      "<Unknown_2940FA1C>": {
+      "IsNewlyOwned": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 100,
@@ -20902,7 +20902,7 @@
         "Size": 100,
         "Hash": 1625456891
       },
-      "<Unknown_2940FA1C>": {
+      "IsNewlyOwned": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 100,
@@ -21060,7 +21060,7 @@
         "Size": 100,
         "Hash": 2553816651
       },
-      "<Unknown_2940FA1C>": {
+      "IsNewlyOwned": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 100,
@@ -25564,12 +25564,12 @@
       "Type": "Bool",
       "Hash": 4042795718
     },
-    "<Unknown_B4464FD7>": {
+    "IsSuccessImportTrialSaveData": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 1827415918
     },
-    "<Unknown_CEC4056F>": {
+    "IsViewedSequenceImportTrialSaveData": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 1657008628
@@ -27334,37 +27334,37 @@
   },
   "Liberation": {
     "SeasonInfo": {
-      "<Unknown_1AFD4BB4>": {
+      "IsBuildingLifted": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 32,
         "Hash": 310492005
       },
-      "<Unknown_6BBF5EF2>": {
+      "IsLayingLifted": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 32,
         "Hash": 2880478875
       },
-      "<Unknown_4CA942C1>": {
+      "IsRenovationLifted": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 32,
         "Hash": 197920426
       },
-      "<Unknown_040530F8>": {
+      "OrderBuildingLifted": {
         "DefaultValue": 0,
         "Type": "IntArray",
         "Size": 32,
         "Hash": 2337009963
       },
-      "<Unknown_50044263>": {
+      "OrderLayingLifted": {
         "DefaultValue": 0,
         "Type": "IntArray",
         "Size": 32,
         "Hash": 2324051177
       },
-      "<Unknown_CCE4E893>": {
+      "OrderRenovationLifted": {
         "DefaultValue": 0,
         "Type": "IntArray",
         "Size": 32,
@@ -27917,13 +27917,13 @@
       "Type": "UInt64",
       "Hash": 2188671544
     },
-    "<Unknown_CF5D290E>": {
+    "NoInputPlayTimeCameraDistanceLevel": {
       "DefaultValue": null,
       "Type": "UInt64Array",
       "Size": 3,
       "Hash": 2828507866
     },
-    "<Unknown_A09C7F34>": {
+    "PlayTimeCameraDistanceLevel": {
       "DefaultValue": null,
       "Type": "UInt64Array",
       "Size": 3,
