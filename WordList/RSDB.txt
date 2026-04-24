@@ -304,6 +304,7 @@ Cat01
 Cat02
 Cat03
 CatchBall
+CatchBallAloneAgainstUGCObj.pp__Confluence__PageInfo
 CatchBallTogether
 CatchBallTriangle
 CD
@@ -2062,6 +2063,7 @@ EightBit
 Eighth
 EighthTriplet
 EmbroideredHandkerchief
+Emm
 EmotionBall
 EmotionTelopChaDarkSitOnTheFerrisWheelEntrance
 EmotionTelopChatDark
@@ -2128,7 +2130,6 @@ EmotionTelopChatDateWalkingRelaxSitOnTheBench
 EmotionTelopChatDateWalkingRelaxSitOnTheGround
 EmotionTelopChatDateWalkingRelaxSitOnTheHouseDeck
 EmotionTelopChatDateWalkingSitOnDiningTable
-EmotionTelopChatDateWalkingSitOnFountain
 EmotionTelopChatDateWalkingSitOnSofa
 EmotionTelopChatDateWalkingSitOnTableBench
 EmotionTelopChatDateWalkingSitOnTerraceBench
@@ -2821,6 +2822,9 @@ Freckles
 Free
 FreeSpace
 Friend
+Friend_BestFriend_NotOnesideLove
+Friend_BestFriend_NotOnesideLove_NotFight
+Friend_BestFriend_RelativeEnableLove_OnsideLove
 Friend_FamilyExceptPartner_NotFight
 Friend_Lover_Family_CanExecuteLoveryDemoBoth
 Friend_NotFight
@@ -3374,6 +3378,7 @@ ItemMicrophone
 ItemMug
 ItemMug_01
 ItemMug_02
+ItemMug_03
 ItemNobility00_Chair_Demo
 ItemOffice00_Copy_Demo
 ItemPaintbrush
@@ -3610,6 +3615,7 @@ Lover
 Lover_CanExecuteLoveryDemo
 Lover_Couple_50Over
 Lover_Partner
+Lover_Partner_CanExecuteLoveryDemo
 Lover_Partner_CanExecuteLoveryDemoBoth
 Lover_Partner_NotFight
 Lover_Partner_Over100
@@ -3625,6 +3631,10 @@ LoverSuitable
 LoveWantedBad
 Low
 Lower
+LowerBoth
+LowerCenter
+LowerLeft
+LowerRight
 LowLand
 LvUPGoods_ALL_House_DiningTable_raw
 LvUPGoods_ALL_House_LDKCarpet_raw
@@ -3775,6 +3785,10 @@ Mid
 Midcentury00
 Midcentury01
 Middle
+MiddleBoth
+MiddleCenter
+MiddleLeft
+MiddleRight
 Mii
 Mii00
 Mii01
@@ -5165,6 +5179,7 @@ PetVoice
 PetVoiceEffectType
 PetVoiceType
 PetWater
+Phase0
 Phase1
 Phase2
 Phase3
@@ -5284,6 +5299,7 @@ PlaySeesaw2
 Plus1
 Plus2
 PlusMinus0
+Plx_Alb
 PoseBattle
 Position_02
 PostAddMii
@@ -6797,6 +6813,10 @@ UntidySleeper
 UnUse
 UpMiiAndSurprisedAIBoost
 Upper
+UpperBoth
+UpperCenter
+UpperLeft
+UpperRight
 UseFacePaint
 UseItem
 UserYesNo
