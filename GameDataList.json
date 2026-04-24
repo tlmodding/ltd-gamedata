@@ -14044,7 +14044,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 8,
-          "HashText": "Relation.<Unknown_A5E95175>"
+          "HashText": "Relation.BoostEndFlag"
         },
         {
           "DefaultValue": null,
@@ -38119,8 +38119,8 @@
             {
               "Hash": 4140711953,
               "Value": 1209163839,
-              "HashText": "<Unknown_F6CE4011>",
-              "ValueText": "House.RoomSettings.<Unknown_F6CE4011>"
+              "HashText": "OverrideWallStyleId",
+              "ValueText": "House.RoomSettings.OverrideWallStyleId"
             },
             {
               "Hash": 2779037067,
@@ -45281,8 +45281,8 @@
             {
               "Hash": 2287023143,
               "Value": 1655351826,
-              "HashText": "<Unknown_88513427>",
-              "ValueText": "Mii.MiiMisc.UgcInfo.<Unknown_88513427>"
+              "HashText": "NetworkDeliverCount",
+              "ValueText": "Mii.MiiMisc.UgcInfo.NetworkDeliverCount"
             },
             {
               "Hash": 971648366,
@@ -75134,8 +75134,8 @@
             {
               "Hash": 2783531381,
               "Value": 1043373927,
-              "HashText": "<Unknown_A5E95175>",
-              "ValueText": "Relation.<Unknown_A5E95175>"
+              "HashText": "BoostEndFlag",
+              "ValueText": "Relation.BoostEndFlag"
             }
           ],
           "Hash": 3701469657,
@@ -75532,8 +75532,8 @@
             {
               "Hash": 2287023143,
               "Value": 3904141303,
-              "HashText": "<Unknown_88513427>",
-              "ValueText": "UGC.Cloth.<Unknown_88513427>"
+              "HashText": "NetworkDeliverCount",
+              "ValueText": "UGC.Cloth.NetworkDeliverCount"
             },
             {
               "Hash": 2363921063,
@@ -75805,8 +75805,8 @@
             {
               "Hash": 2287023143,
               "Value": 4205847413,
-              "HashText": "<Unknown_88513427>",
-              "ValueText": "UGC.Exterior.<Unknown_88513427>"
+              "HashText": "NetworkDeliverCount",
+              "ValueText": "UGC.Exterior.NetworkDeliverCount"
             },
             {
               "Hash": 1928981415,
@@ -75982,8 +75982,8 @@
             {
               "Hash": 2287023143,
               "Value": 1144494207,
-              "HashText": "<Unknown_88513427>",
-              "ValueText": "UGC.FacePaint.<Unknown_88513427>"
+              "HashText": "NetworkDeliverCount",
+              "ValueText": "UGC.FacePaint.NetworkDeliverCount"
             },
             {
               "Hash": 2702048169,
@@ -76141,8 +76141,8 @@
             {
               "Hash": 2287023143,
               "Value": 1648961497,
-              "HashText": "<Unknown_88513427>",
-              "ValueText": "UGC.Food.<Unknown_88513427>"
+              "HashText": "NetworkDeliverCount",
+              "ValueText": "UGC.Food.NetworkDeliverCount"
             },
             {
               "Hash": 2301773614,
@@ -76318,8 +76318,8 @@
             {
               "Hash": 2287023143,
               "Value": 2822137174,
-              "HashText": "<Unknown_88513427>",
-              "ValueText": "UGC.Goods.<Unknown_88513427>"
+              "HashText": "NetworkDeliverCount",
+              "ValueText": "UGC.Goods.NetworkDeliverCount"
             },
             {
               "Hash": 692760452,
@@ -76561,8 +76561,8 @@
             {
               "Hash": 2287023143,
               "Value": 2097567512,
-              "HashText": "<Unknown_88513427>",
-              "ValueText": "UGC.Interior.<Unknown_88513427>"
+              "HashText": "NetworkDeliverCount",
+              "ValueText": "UGC.Interior.NetworkDeliverCount"
             },
             {
               "Hash": 2226443538,
@@ -76726,8 +76726,8 @@
             {
               "Hash": 2287023143,
               "Value": 647179088,
-              "HashText": "<Unknown_88513427>",
-              "ValueText": "UGC.MapFloor.<Unknown_88513427>"
+              "HashText": "NetworkDeliverCount",
+              "ValueText": "UGC.MapFloor.NetworkDeliverCount"
             },
             {
               "Hash": 345672398,
@@ -76891,8 +76891,8 @@
             {
               "Hash": 2287023143,
               "Value": 1739960892,
-              "HashText": "<Unknown_88513427>",
-              "ValueText": "UGC.MapObject.<Unknown_88513427>"
+              "HashText": "NetworkDeliverCount",
+              "ValueText": "UGC.MapObject.NetworkDeliverCount"
             },
             {
               "Hash": 1928981415,
@@ -87172,7 +87172,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 630,
-          "HashText": "House.RoomSettings.<Unknown_F6CE4011>"
+          "HashText": "House.RoomSettings.OverrideWallStyleId"
         },
         {
           "DefaultValue": null,
@@ -87424,7 +87424,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.MiiMisc.UgcInfo.<Unknown_88513427>"
+          "HashText": "Mii.MiiMisc.UgcInfo.NetworkDeliverCount"
         },
         {
           "DefaultValue": null,
@@ -87658,7 +87658,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
           "TotalSize": 300,
-          "HashText": "UGC.Cloth.<Unknown_88513427>"
+          "HashText": "UGC.Cloth.NetworkDeliverCount"
         },
         {
           "DefaultValue": null,
@@ -87676,7 +87676,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
           "TotalSize": 100,
-          "HashText": "UGC.Exterior.<Unknown_88513427>"
+          "HashText": "UGC.Exterior.NetworkDeliverCount"
         },
         {
           "DefaultValue": null,
@@ -87694,7 +87694,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
           "TotalSize": 72,
-          "HashText": "UGC.FacePaint.<Unknown_88513427>"
+          "HashText": "UGC.FacePaint.NetworkDeliverCount"
         },
         {
           "DefaultValue": null,
@@ -87721,7 +87721,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
           "TotalSize": 100,
-          "HashText": "UGC.Food.<Unknown_88513427>"
+          "HashText": "UGC.Food.NetworkDeliverCount"
         },
         {
           "DefaultValue": null,
@@ -87739,7 +87739,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
           "TotalSize": 100,
-          "HashText": "UGC.Goods.<Unknown_88513427>"
+          "HashText": "UGC.Goods.NetworkDeliverCount"
         },
         {
           "DefaultValue": null,
@@ -87757,7 +87757,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
           "TotalSize": 100,
-          "HashText": "UGC.Interior.<Unknown_88513427>"
+          "HashText": "UGC.Interior.NetworkDeliverCount"
         },
         {
           "DefaultValue": null,
@@ -87775,7 +87775,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
           "TotalSize": 100,
-          "HashText": "UGC.MapFloor.<Unknown_88513427>"
+          "HashText": "UGC.MapFloor.NetworkDeliverCount"
         },
         {
           "DefaultValue": null,
@@ -87793,7 +87793,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
           "TotalSize": 100,
-          "HashText": "UGC.MapObject.<Unknown_88513427>"
+          "HashText": "UGC.MapObject.NetworkDeliverCount"
         }
       ],
       "Vector2": [

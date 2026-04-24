@@ -19957,7 +19957,7 @@
         "Size": 300,
         "Hash": 2314362028
       },
-      "<Unknown_88513427>": {
+      "NetworkDeliverCount": {
         "DefaultValue": null,
         "Type": "UIntArray",
         "Size": 300,
@@ -20139,7 +20139,7 @@
         "Size": 100,
         "Hash": 953624469
       },
-      "<Unknown_88513427>": {
+      "NetworkDeliverCount": {
         "DefaultValue": null,
         "Type": "UIntArray",
         "Size": 100,
@@ -20282,7 +20282,7 @@
         "Size": 72,
         "Hash": 2775466732
       },
-      "<Unknown_88513427>": {
+      "NetworkDeliverCount": {
         "DefaultValue": null,
         "Type": "UIntArray",
         "Size": 72,
@@ -20458,7 +20458,7 @@
         "Size": 100,
         "Hash": 1833498850
       },
-      "<Unknown_88513427>": {
+      "NetworkDeliverCount": {
         "DefaultValue": null,
         "Type": "UIntArray",
         "Size": 100,
@@ -20676,7 +20676,7 @@
         "Size": 100,
         "Hash": 1444946176
       },
-      "<Unknown_88513427>": {
+      "NetworkDeliverCount": {
         "DefaultValue": null,
         "Type": "UIntArray",
         "Size": 100,
@@ -20852,7 +20852,7 @@
         "Size": 100,
         "Hash": 2146402173
       },
-      "<Unknown_88513427>": {
+      "NetworkDeliverCount": {
         "DefaultValue": null,
         "Type": "UIntArray",
         "Size": 100,
@@ -21010,7 +21010,7 @@
         "Size": 100,
         "Hash": 2171424931
       },
-      "<Unknown_88513427>": {
+      "NetworkDeliverCount": {
         "DefaultValue": null,
         "Type": "UIntArray",
         "Size": 100,
@@ -21198,7 +21198,7 @@
         "Size": 100,
         "Hash": 455651696
       },
-      "<Unknown_88513427>": {
+      "NetworkDeliverCount": {
         "DefaultValue": null,
         "Type": "UIntArray",
         "Size": 100,
@@ -21724,7 +21724,7 @@
           "Size": 70,
           "Hash": 3693479945
         },
-        "<Unknown_88513427>": {
+        "NetworkDeliverCount": {
           "DefaultValue": null,
           "Type": "UIntArray",
           "Size": 70,
@@ -25456,7 +25456,7 @@
         "Hash": 445197904
       }
     },
-    "<Unknown_A5E95175>": {
+    "BoostEndFlag": {
       "DefaultValue": null,
       "Type": "BoolArray",
       "Size": 8,
@@ -27306,7 +27306,7 @@
         "Size": 630,
         "Hash": 3170405920
       },
-      "<Unknown_F6CE4011>": {
+      "OverrideWallStyleId": {
         "DefaultValue": null,
         "Type": "UIntArray",
         "Size": 630,

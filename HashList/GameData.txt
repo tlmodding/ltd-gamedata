@@ -112,6 +112,7 @@
 0xE5BC11F9,BookSelfDevelopment
 0xCF0A8C9C,BookSomeonesNote
 0x779D348A,BookType
+0xA5E95175,BoostEndFlag
 0x2D8A7ACC,BootNum
 0x3B409D6F,Botanical00
 0xA9021713,Both
@@ -1000,6 +1001,7 @@
 0x6BF56A61,House.RoomSettings
 0xE3F33431,House.RoomSettings.BaseStyleId
 0x08BD24C3,House.RoomSettings.OverrideFloorStyleId
+0x4812603F,House.RoomSettings.OverrideWallStyleId
 0xB989CD8F,House.RoomStyleInfo
 0x17100753,House.RoomStyleInfo.Flag
 0x936E2028,House.RoomStyleInfo.Flag.Abduction00
@@ -2223,6 +2225,7 @@
 0xD8D889E2,Mii.MiiMisc.UgcInfo.IslandName
 0xC903C025,Mii.MiiMisc.UgcInfo.IslandNameRegionLanguageID
 0x4613C6A7,Mii.MiiMisc.UgcInfo.IsNeedPutHouseLocalNetwork
+0x62AAAA12,Mii.MiiMisc.UgcInfo.NetworkDeliverCount
 0xDC260809,Mii.MiiMisc.UgcInfo.NetworkUuid
 0x570F552E,Mii.MiiMisc.UgcInfo.PlayerName
 0xAC9950ED,Mii.MiiMisc.UgcInfo.PlayerNameRegionLanguageID
@@ -2338,6 +2341,7 @@
 0x6DF8EE99,Negative
 0x9D42387C,Nekojarashi
 0xFBE1380F,NeonSign00
+0x88513427,NetworkDeliverCount
 0x81CC0D6D,NetworkUuid
 0xCBC0D1F5,Neutral
 0x8830F3B9,NeverOwned
@@ -2421,6 +2425,7 @@
 0x30D1B2E5,OuterHouseChangeCount
 0x34568605,OuterHouseDeco
 0x1B34AC5F,OverrideFloorStyleId
+0xF6CE4011,OverrideWallStyleId
 0x957C23D6,Own
 0xB94D3A0B,OwnInfoArray
 0xF4D12244,OwnNum
@@ -6250,6 +6255,7 @@
 0x66F831B7,RegionLanguageID
 0x6EA6EC31,RejectHairChangeGameTime
 0xDC9FF1D9,Relation
+0x3E309F67,Relation.BoostEndFlag
 0xE3BFE72E,Relation.Info
 0xC82BEE59,Relation.Info.DirectionalInfo
 0x8B41897E,Relation.Info.DirectionalInfo.BaseRelationType
@@ -6573,6 +6579,7 @@
 0x2A292967,UGC.Cloth.IsNewlyOwned
 0x70C91608,UGC.Cloth.LastObtainedSec
 0x40710642,UGC.Cloth.Name
+0xE8B477F7,UGC.Cloth.NetworkDeliverCount
 0xCEFD8402,UGC.Cloth.NetworkUuid
 0x6EA67FB6,UGC.Cloth.OwnNum
 0x706ABB01,UGC.Cloth.PlayerName
@@ -6610,6 +6617,7 @@
 0x87102D3B,UGC.Exterior.LastObtainedSec
 0xB9D21B4F,UGC.Exterior.MaterialTexScale
 0x27C875D6,UGC.Exterior.Name
+0xFAB02375,UGC.Exterior.NetworkDeliverCount
 0xC0FF8746,UGC.Exterior.NetworkUuid
 0x492A5C2A,UGC.Exterior.OwnNum
 0xAA541B3A,UGC.Exterior.PlayerName
@@ -6640,6 +6648,7 @@
 0xA755251D,UGC.FacePaint.IsNewlyOwned
 0xBF1600E6,UGC.FacePaint.LastObtainedSec
 0x86161F4F,UGC.FacePaint.Name
+0x4437987F,UGC.FacePaint.NetworkDeliverCount
 0x6D886027,UGC.FacePaint.NetworkUuid
 0x7B45691D,UGC.FacePaint.OwnNum
 0x5B4E1C21,UGC.FacePaint.PlayerName
@@ -6664,6 +6673,7 @@
 0xB127A07E,UGC.Food.IsNewlyOwned
 0x94402C08,UGC.Food.LastObtainedSec
 0x408494F5,UGC.Food.Name
+0x624927D9,UGC.Food.NetworkDeliverCount
 0x9DB226C4,UGC.Food.NetworkUuid
 0x70CCB86D,UGC.Food.OwnNum
 0x3D066A65,UGC.Food.PlayerName
@@ -6697,6 +6707,7 @@
 0xDB508BC6,UGC.Goods.IsNewlyOwned
 0x80D77E90,UGC.Goods.LastObtainedSec
 0x2F793EB1,UGC.Goods.Name
+0xA8366556,UGC.Goods.NetworkDeliverCount
 0x66C921A5,UGC.Goods.NetworkUuid
 0x7ECC8A60,UGC.Goods.OtherEffect
 0x13261748,UGC.Goods.OwnNum
@@ -6728,6 +6739,7 @@
 0xFD897175,UGC.Interior.IsNewlyOwned
 0x8670910E,UGC.Interior.LastObtainedSec
 0x3DE2C5DD,UGC.Interior.Name
+0x7D065718,UGC.Interior.NetworkDeliverCount
 0x015533D9,UGC.Interior.NetworkUuid
 0xC4D526B4,UGC.Interior.OwnNum
 0x3383E724,UGC.Interior.PlayerName
@@ -6754,6 +6766,7 @@
 0x31B4A62F,UGC.MapFloor.IsNewlyOwned
 0xBD4F6469,UGC.MapFloor.LastObtainedSec
 0x918875A9,UGC.MapFloor.Name
+0x26932B50,UGC.MapFloor.NetworkDeliverCount
 0xB8BF425C,UGC.MapFloor.NetworkUuid
 0x49101430,UGC.MapFloor.OwnNum
 0x6AD0781F,UGC.MapFloor.PlayerName
@@ -6784,6 +6797,7 @@
 0x53FA156B,UGC.MapObject.LastObtainedSec
 0x2F96203B,UGC.MapObject.MaterialTexScale
 0x56F99338,UGC.MapObject.Name
+0x67B5B23C,UGC.MapObject.NetworkDeliverCount
 0x33C6595E,UGC.MapObject.NetworkUuid
 0x332AF481,UGC.MapObject.OwnNum
 0x84C5AE18,UGC.MapObject.PlayerName

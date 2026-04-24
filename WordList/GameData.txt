@@ -112,6 +112,7 @@ BookRiddle
 BookSelfDevelopment
 BookSomeonesNote
 BookType
+BoostEndFlag
 BootNum
 Botanical00
 Both
@@ -1000,6 +1001,7 @@ House.RoommateGroupName
 House.RoomSettings
 House.RoomSettings.BaseStyleId
 House.RoomSettings.OverrideFloorStyleId
+House.RoomSettings.OverrideWallStyleId
 House.RoomStyleInfo
 House.RoomStyleInfo.Flag
 House.RoomStyleInfo.Flag.Abduction00
@@ -2223,6 +2225,7 @@ Mii.MiiMisc.UgcInfo.IsEdit
 Mii.MiiMisc.UgcInfo.IslandName
 Mii.MiiMisc.UgcInfo.IslandNameRegionLanguageID
 Mii.MiiMisc.UgcInfo.IsNeedPutHouseLocalNetwork
+Mii.MiiMisc.UgcInfo.NetworkDeliverCount
 Mii.MiiMisc.UgcInfo.NetworkUuid
 Mii.MiiMisc.UgcInfo.PlayerName
 Mii.MiiMisc.UgcInfo.PlayerNameRegionLanguageID
@@ -2338,6 +2341,7 @@ NatureDVD
 Negative
 Nekojarashi
 NeonSign00
+NetworkDeliverCount
 NetworkUuid
 Neutral
 NeverOwned
@@ -2421,6 +2425,7 @@ OuterHouse
 OuterHouseChangeCount
 OuterHouseDeco
 OverrideFloorStyleId
+OverrideWallStyleId
 Own
 OwnInfoArray
 OwnNum
@@ -6250,6 +6255,7 @@ RegionCode
 RegionLanguageID
 RejectHairChangeGameTime
 Relation
+Relation.BoostEndFlag
 Relation.Info
 Relation.Info.DirectionalInfo
 Relation.Info.DirectionalInfo.BaseRelationType
@@ -6573,6 +6579,7 @@ UGC.Cloth.IslandNameRegionLanguageID
 UGC.Cloth.IsNewlyOwned
 UGC.Cloth.LastObtainedSec
 UGC.Cloth.Name
+UGC.Cloth.NetworkDeliverCount
 UGC.Cloth.NetworkUuid
 UGC.Cloth.OwnNum
 UGC.Cloth.PlayerName
@@ -6610,6 +6617,7 @@ UGC.Exterior.IsNewlyOwned
 UGC.Exterior.LastObtainedSec
 UGC.Exterior.MaterialTexScale
 UGC.Exterior.Name
+UGC.Exterior.NetworkDeliverCount
 UGC.Exterior.NetworkUuid
 UGC.Exterior.OwnNum
 UGC.Exterior.PlayerName
@@ -6640,6 +6648,7 @@ UGC.FacePaint.IslandNameRegionLanguageID
 UGC.FacePaint.IsNewlyOwned
 UGC.FacePaint.LastObtainedSec
 UGC.FacePaint.Name
+UGC.FacePaint.NetworkDeliverCount
 UGC.FacePaint.NetworkUuid
 UGC.FacePaint.OwnNum
 UGC.FacePaint.PlayerName
@@ -6664,6 +6673,7 @@ UGC.Food.IslandNameRegionLanguageID
 UGC.Food.IsNewlyOwned
 UGC.Food.LastObtainedSec
 UGC.Food.Name
+UGC.Food.NetworkDeliverCount
 UGC.Food.NetworkUuid
 UGC.Food.OwnNum
 UGC.Food.PlayerName
@@ -6697,6 +6707,7 @@ UGC.Goods.IslandNameRegionLanguageID
 UGC.Goods.IsNewlyOwned
 UGC.Goods.LastObtainedSec
 UGC.Goods.Name
+UGC.Goods.NetworkDeliverCount
 UGC.Goods.NetworkUuid
 UGC.Goods.OtherEffect
 UGC.Goods.OwnNum
@@ -6728,6 +6739,7 @@ UGC.Interior.IslandNameRegionLanguageID
 UGC.Interior.IsNewlyOwned
 UGC.Interior.LastObtainedSec
 UGC.Interior.Name
+UGC.Interior.NetworkDeliverCount
 UGC.Interior.NetworkUuid
 UGC.Interior.OwnNum
 UGC.Interior.PlayerName
@@ -6754,6 +6766,7 @@ UGC.MapFloor.IslandNameRegionLanguageID
 UGC.MapFloor.IsNewlyOwned
 UGC.MapFloor.LastObtainedSec
 UGC.MapFloor.Name
+UGC.MapFloor.NetworkDeliverCount
 UGC.MapFloor.NetworkUuid
 UGC.MapFloor.OwnNum
 UGC.MapFloor.PlayerName
@@ -6784,6 +6797,7 @@ UGC.MapObject.IsNewlyOwned
 UGC.MapObject.LastObtainedSec
 UGC.MapObject.MaterialTexScale
 UGC.MapObject.Name
+UGC.MapObject.NetworkDeliverCount
 UGC.MapObject.NetworkUuid
 UGC.MapObject.OwnNum
 UGC.MapObject.PlayerName
