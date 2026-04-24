@@ -1783,7 +1783,7 @@ DFC82223,3754435107,BoolArray,Mii.MiiMisc.FaceInfo.IsLoveGender
 75BD7C16,1975352342,BoolArray,Mii.MiiMisc.SleepInfo.HasDream
 DBDB59FA,3688585722,BoolArray,Mii.MiiMisc.UgcInfo.IsCopy
 7F9B5D34,2140888372,BoolArray,Mii.MiiMisc.UgcInfo.IsEdit
-4613C6A7,1175701159,BoolArray,Mii.MiiMisc.UgcInfo.<Unknown_39EA2D6E>
+4613C6A7,1175701159,BoolArray,Mii.MiiMisc.UgcInfo.IsNeedPutHouseLocalNetwork
 032BFB74,0053214068,BoolArray,Mii.Trouble.Info.IsFirstDemoDone
 75AC7B64,1974238052,BoolArray,News.IsLock
 91BFD80E,2445269006,BoolArray,Player.BuildingInfo2.<Unknown_73ADC433>
@@ -3434,7 +3434,7 @@ C0529E53,3226639955,IntArray,Mii.MiiMisc.ClothInfo.Shoes.ColorIndex
 E3802EB9,3816828601,IntArray,Mii.MiiMisc.ClothInfo.TopsUGCIndex
 EF25B456,4012225622,IntArray,Mii.MiiMisc.EatInfo.EatFullness
 A08ABD36,2693446966,IntArray,Mii.MiiMisc.EatInfo.LastEatId.UgcIndex
-957930C4,2507747524,IntArray,Mii.MiiMisc.EatInfo.<Unknown_1A319457>.UgcIndex
+957930C4,2507747524,IntArray,Mii.MiiMisc.EatInfo.RankedFoodId.UgcIndex
 B69B048C,3063612556,IntArray,Mii.MiiMisc.EatInfo.TasteType
 F4DB66F3,4108019443,IntArray,Mii.MiiMisc.EntryInfo.BloodMiiIndex
 9CCF22B7,2630820535,IntArray,Mii.MiiMisc.EntryInfo.SortIndex
@@ -3929,7 +3929,7 @@ E81EE9C4,3894340036,UIntArray,Mii.MiiMisc.ClothInfo.Tops.KeyHash
 35256740,0891643712,UIntArray,Mii.MiiMisc.ClothInfo.Topslong.KeyHash
 5409455D,1409893725,UIntArray,Mii.MiiMisc.EatInfo.BestId
 36DCEF14,0920448788,UIntArray,Mii.MiiMisc.EatInfo.LastEatId.Id
-FBD391D9,4224946649,UIntArray,Mii.MiiMisc.EatInfo.<Unknown_1A319457>.Id
+FBD391D9,4224946649,UIntArray,Mii.MiiMisc.EatInfo.RankedFoodId.Id
 21EEA734,0569288500,UIntArray,Mii.MiiMisc.EatInfo.UltraBestId
 5C7CD87A,1551685754,UIntArray,Mii.MiiMisc.EatInfo.UltraWorstId
 400E8774,1074694004,UIntArray,Mii.MiiMisc.EatInfo.WorstId
@@ -5223,7 +5223,7 @@ E5E88106,3857219846,Struct,Mii.MiiMisc.ClothInfo.Shoes
 A1DD3D0D,2715630861,Struct,Mii.MiiMisc.ClothInfo.Topslong
 E6683205,3865588229,Struct,Mii.MiiMisc.EatInfo
 A509833F,2768864063,Struct,Mii.MiiMisc.EatInfo.LastEatId
-0F80782C,0260077612,Struct,Mii.MiiMisc.EatInfo.<Unknown_1A319457>
+0F80782C,0260077612,Struct,Mii.MiiMisc.EatInfo.RankedFoodId
 8578AF0C,2239278860,Struct,Mii.MiiMisc.EntryInfo
 B5E38D2D,3051588909,Struct,Mii.MiiMisc.FaceInfo
 E7386B29,3879234345,Struct,Mii.MiiMisc.PatInfo

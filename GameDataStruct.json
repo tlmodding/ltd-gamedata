@@ -21332,7 +21332,7 @@
             "Hash": 920448788
           }
         },
-        "<Unknown_1A319457>": {
+        "RankedFoodId": {
           "UgcIndex": {
             "DefaultValue": -1,
             "Type": "IntArray",
@@ -21700,7 +21700,7 @@
           "Size": 70,
           "Hash": 2140888372
         },
-        "<Unknown_39EA2D6E>": {
+        "IsNeedPutHouseLocalNetwork": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,

@@ -1349,6 +1349,7 @@ IsLiberated
 IsLocalNetworkExplained
 IsLock
 IsLoveGender
+IsNeedPutHouseLocalNetwork
 IsNeedShowNew
 IsNew
 IsNewlyOwned
@@ -2183,6 +2184,9 @@ Mii.MiiMisc.EatInfo.LastEatId
 Mii.MiiMisc.EatInfo.LastEatId.Id
 Mii.MiiMisc.EatInfo.LastEatId.UgcIndex
 Mii.MiiMisc.EatInfo.LastFoodGiveTime
+Mii.MiiMisc.EatInfo.RankedFoodId
+Mii.MiiMisc.EatInfo.RankedFoodId.Id
+Mii.MiiMisc.EatInfo.RankedFoodId.UgcIndex
 Mii.MiiMisc.EatInfo.TasteType
 Mii.MiiMisc.EatInfo.UltraBestId
 Mii.MiiMisc.EatInfo.UltraWorstId
@@ -2218,6 +2222,7 @@ Mii.MiiMisc.UgcInfo.IsCopy
 Mii.MiiMisc.UgcInfo.IsEdit
 Mii.MiiMisc.UgcInfo.IslandName
 Mii.MiiMisc.UgcInfo.IslandNameRegionLanguageID
+Mii.MiiMisc.UgcInfo.IsNeedPutHouseLocalNetwork
 Mii.MiiMisc.UgcInfo.NetworkUuid
 Mii.MiiMisc.UgcInfo.PlayerName
 Mii.MiiMisc.UgcInfo.PlayerNameRegionLanguageID
@@ -6236,6 +6241,7 @@ Rabbit
 RadenAccessoryCase
 Rain00
 RandomKey
+RankedFoodId
 Rare
 ReadyHairChangeGameTime
 Receipt

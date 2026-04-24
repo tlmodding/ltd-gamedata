@@ -13954,7 +13954,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.MiiMisc.UgcInfo.<Unknown_39EA2D6E>"
+          "HashText": "Mii.MiiMisc.UgcInfo.IsNeedPutHouseLocalNetwork"
         },
         {
           "DefaultValue": null,
@@ -34249,7 +34249,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 210,
-          "HashText": "Mii.MiiMisc.EatInfo.<Unknown_1A319457>.UgcIndex"
+          "HashText": "Mii.MiiMisc.EatInfo.RankedFoodId.UgcIndex"
         },
         {
           "DefaultValue": 0,
@@ -45024,8 +45024,8 @@
             {
               "Hash": 439456855,
               "Value": 260077612,
-              "HashText": "<Unknown_1A319457>",
-              "ValueText": "Mii.MiiMisc.EatInfo.<Unknown_1A319457>"
+              "HashText": "RankedFoodId",
+              "ValueText": "Mii.MiiMisc.EatInfo.RankedFoodId"
             },
             {
               "Hash": 3239570624,
@@ -45065,20 +45065,20 @@
               "Hash": 3282759214,
               "Value": 4224946649,
               "HashText": "Id",
-              "ValueText": "Mii.MiiMisc.EatInfo.<Unknown_1A319457>.Id"
+              "ValueText": "Mii.MiiMisc.EatInfo.RankedFoodId.Id"
             },
             {
               "Hash": 676246370,
               "Value": 2507747524,
               "HashText": "UgcIndex",
-              "ValueText": "Mii.MiiMisc.EatInfo.<Unknown_1A319457>.UgcIndex"
+              "ValueText": "Mii.MiiMisc.EatInfo.RankedFoodId.UgcIndex"
             }
           ],
           "Hash": 260077612,
           "ResetTypeValue": 0,
           "SaveFileIndex": -1,
           "Size": 3,
-          "HashText": "Mii.MiiMisc.EatInfo.<Unknown_1A319457>"
+          "HashText": "Mii.MiiMisc.EatInfo.RankedFoodId"
         },
         {
           "DefaultValue": [
@@ -45287,8 +45287,8 @@
             {
               "Hash": 971648366,
               "Value": 1175701159,
-              "HashText": "<Unknown_39EA2D6E>",
-              "ValueText": "Mii.MiiMisc.UgcInfo.<Unknown_39EA2D6E>"
+              "HashText": "IsNeedPutHouseLocalNetwork",
+              "ValueText": "Mii.MiiMisc.UgcInfo.IsNeedPutHouseLocalNetwork"
             },
             {
               "Hash": 2702048169,
@@ -87388,7 +87388,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 210,
-          "HashText": "Mii.MiiMisc.EatInfo.<Unknown_1A319457>.Id"
+          "HashText": "Mii.MiiMisc.EatInfo.RankedFoodId.Id"
         },
         {
           "DefaultValue": null,
