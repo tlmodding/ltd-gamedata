@@ -33752,7 +33752,7 @@
           "Hash": 3143348424,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_886BCB8B>"
+          "HashText": "Player.LastTipsIndex"
         },
         {
           "DefaultValue": 0,
@@ -46042,8 +46042,8 @@
             {
               "Hash": 2288765835,
               "Value": 3143348424,
-              "HashText": "<Unknown_886BCB8B>",
-              "ValueText": "Player.<Unknown_886BCB8B>"
+              "HashText": "LastTipsIndex",
+              "ValueText": "Player.LastTipsIndex"
             },
             {
               "Hash": 2883317772,
@@ -46428,20 +46428,20 @@
             {
               "Hash": 3466699296,
               "Value": 295265833,
-              "HashText": "<Unknown_CEA1A220>",
-              "ValueText": "Player.BirthDay.<Unknown_CEA1A220>"
+              "HashText": "BirthDay_Year",
+              "ValueText": "Player.BirthDay.BirthDay_Year"
             },
             {
               "Hash": 3759101396,
               "Value": 3344219891,
-              "HashText": "<Unknown_E00F55D4>",
-              "ValueText": "Player.BirthDay.<Unknown_E00F55D4>"
+              "HashText": "BirthDay_Month",
+              "ValueText": "Player.BirthDay.BirthDay_Month"
             },
             {
               "Hash": 447683523,
               "Value": 3682043579,
-              "HashText": "<Unknown_1AAF1BC3>",
-              "ValueText": "Player.BirthDay.<Unknown_1AAF1BC3>"
+              "HashText": "BirthDay_Day",
+              "ValueText": "Player.BirthDay.BirthDay_Day"
             }
           ],
           "Hash": 16879112,
@@ -77843,21 +77843,21 @@
           "Hash": 3682043579,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.BirthDay.<Unknown_1AAF1BC3>"
+          "HashText": "Player.BirthDay.BirthDay_Day"
         },
         {
           "DefaultValue": 0,
           "Hash": 3344219891,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.BirthDay.<Unknown_E00F55D4>"
+          "HashText": "Player.BirthDay.BirthDay_Month"
         },
         {
           "DefaultValue": 0,
           "Hash": 295265833,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.BirthDay.<Unknown_CEA1A220>"
+          "HashText": "Player.BirthDay.BirthDay_Year"
         },
         {
           "DefaultValue": 0,

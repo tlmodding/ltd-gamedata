@@ -19314,7 +19314,7 @@
         "Hash": 379371542
       }
     },
-    "<Unknown_886BCB8B>": {
+    "LastTipsIndex": {
       "DefaultValue": -1,
       "Type": "Int",
       "Hash": 3143348424
@@ -19424,17 +19424,17 @@
       "Hash": 3918184253
     },
     "BirthDay": {
-      "<Unknown_1AAF1BC3>": {
+      "BirthDay_Day": {
         "DefaultValue": 0,
         "Type": "UInt",
         "Hash": 3682043579
       },
-      "<Unknown_E00F55D4>": {
+      "BirthDay_Month": {
         "DefaultValue": 0,
         "Type": "UInt",
         "Hash": 3344219891
       },
-      "<Unknown_CEA1A220>": {
+      "BirthDay_Year": {
         "DefaultValue": 0,
         "Type": "UInt",
         "Hash": 295265833

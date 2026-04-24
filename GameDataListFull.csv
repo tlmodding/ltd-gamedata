@@ -3381,7 +3381,7 @@ A8C3FB53,2831416147,Int,Player.InteriorRoomStyleInfo.WoodBoard05.OwnNum
 4E192F65,1310273381,Int,Player.InteriorRoomStyleInfo.WoodBoard06.OwnNum
 7BE243AF,2078426031,Int,Player.InteriorRoomStyleInfo.WoodBoard07.OwnNum
 B697B9EB,3063396843,Int,Player.InteriorRoomStyleInfo.Wrestling00.OwnNum
-BB5BB0C8,3143348424,Int,Player.<Unknown_886BCB8B>
+BB5BB0C8,3143348424,Int,Player.LastTipsIndex
 220D6E3A,0571305530,Int,Player.MarketUpdateInfo.MarketCoordinateInfo.Variation
 58712043,1483808835,Int,Player.MiiBirthdayNews.WatchedCount
 E37121E2,3815842274,Int,Player.ProposalFailureCount
@@ -3566,9 +3566,9 @@ A58F70D5,2777641173,UInt,Liberation.ComeTrueCount
 A4E65F79,2766561145,UInt,Liberation.FountainLevel
 A32F7E47,2737798727,UInt,Liberation.<Unknown_55D4C49B>
 E98ABF3D,3918184253,UInt,Player.BGMVolume
-DB7786BB,3682043579,UInt,Player.BirthDay.<Unknown_1AAF1BC3>
-C754BEF3,3344219891,UInt,Player.BirthDay.<Unknown_E00F55D4>
-11996629,0295265833,UInt,Player.BirthDay.<Unknown_CEA1A220>
+DB7786BB,3682043579,UInt,Player.BirthDay.BirthDay_Day
+C754BEF3,3344219891,UInt,Player.BirthDay.BirthDay_Month
+11996629,0295265833,UInt,Player.BirthDay.BirthDay_Year
 2F19F777,0790230903,UInt,Player.BootNum
 B7B42DF5,3082038773,UInt,Player.CommonDailyItem.<Unknown_7809691D>
 65F482A4,1710523044,UInt,Player.EmotionBall

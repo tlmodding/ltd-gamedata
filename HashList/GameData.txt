@@ -86,6 +86,9 @@
 0x9255FCDB,BirdFeathers
 0x97DD9059,BirthChildCount
 0xDE5F3B5F,BirthDay
+0x1AAF1BC3,BirthDay_Day
+0xE00F55D4,BirthDay_Month
+0xCEA1A220,BirthDay_Year
 0xBC6CEF0D,BirthdayInfo
 0x1C14F4F9,BirthTime
 0x599B2C0C,BitFlag
@@ -1421,6 +1424,7 @@
 0xCA86114F,LastTalkHistoryId
 0x3BD8B0FC,LastTimeMii
 0x24134987,LastTimeObject
+0x886BCB8B,LastTipsIndex
 0x3A1F77FF,LastUpdateTime
 0xD5311674,LastWatchedTime
 0xE308ED72,LectureIdValue
@@ -2497,6 +2501,9 @@
 0x08B37691,Player
 0xE98ABF3D,Player.BGMVolume
 0x01018E08,Player.BirthDay
+0xDB7786BB,Player.BirthDay.BirthDay_Day
+0xC754BEF3,Player.BirthDay.BirthDay_Month
+0x11996629,Player.BirthDay.BirthDay_Year
 0xDF6F6B82,Player.BondInfo
 0x6BE8D72A,Player.BondInfo.LotteryForBad
 0x169CC016,Player.BondInfo.LotteryForGood
@@ -6172,6 +6179,7 @@
 0x71E3BA15,Player.LastPenaltyTime
 0xD45A5DB8,Player.LastPlayerBirthdayTime
 0x33186A3E,Player.LastRegionLanguageID
+0xBB5BB0C8,Player.LastTipsIndex
 0x9600E0C4,Player.MarketUpdateInfo
 0x7F2A2AA3,Player.MarketUpdateInfo.LastEnterTime
 0x148B92D3,Player.MarketUpdateInfo.LastUpdateTime

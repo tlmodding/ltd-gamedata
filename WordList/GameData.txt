@@ -86,6 +86,9 @@ Binoculars
 BirdFeathers
 BirthChildCount
 BirthDay
+BirthDay_Day
+BirthDay_Month
+BirthDay_Year
 BirthdayInfo
 BirthTime
 BitFlag
@@ -1421,6 +1424,7 @@ LastTalkGameTime
 LastTalkHistoryId
 LastTimeMii
 LastTimeObject
+LastTipsIndex
 LastUpdateTime
 LastWatchedTime
 LectureIdValue
@@ -2497,6 +2501,9 @@ Plate
 Player
 Player.BGMVolume
 Player.BirthDay
+Player.BirthDay.BirthDay_Day
+Player.BirthDay.BirthDay_Month
+Player.BirthDay.BirthDay_Year
 Player.BondInfo
 Player.BondInfo.LotteryForBad
 Player.BondInfo.LotteryForGood
@@ -6172,6 +6179,7 @@ Player.LastNewsWatchedTime
 Player.LastPenaltyTime
 Player.LastPlayerBirthdayTime
 Player.LastRegionLanguageID
+Player.LastTipsIndex
 Player.MarketUpdateInfo
 Player.MarketUpdateInfo.LastEnterTime
 Player.MarketUpdateInfo.LastUpdateTime
