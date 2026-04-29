@@ -36,6 +36,7 @@ AIPrivateExecutableForFriend
 AISprinkler
 AIType
 AITypeList
+Alb
 Alder
 Alebrijes
 Alien
@@ -4000,6 +4001,7 @@ Misc_Stretch_Outdoor
 Misc_WatchingTV
 MisoSoup
 Mithai
+Mix
 Mojimoji
 Mole
 Monitor
@@ -4018,6 +4020,7 @@ MouthImpassive
 MouthSmile
 MovingBox00
 MovingBox01
+Msk
 Muddy
 Multi
 MultiDot00
@@ -4265,6 +4268,7 @@ NotPartner
 NotRoommate
 NotTrouble
 Nowhere
+Nrm
 Nudle
 ObjAbduction00_Cattle
 ObjAerogenerator

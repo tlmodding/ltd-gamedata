@@ -3386,7 +3386,7 @@ BB5BB0C8,3143348424,Int,Player.LastTipsIndex
 58712043,1483808835,Int,Player.MiiBirthdayNews.WatchedCount
 E37121E2,3815842274,Int,Player.ProposalFailureCount
 39CDF730,0969799472,Int,Player.SaveDataVersion
-870A807C,2265612412,Int,Player.<Unknown_B988C5AE>
+870A807C,2265612412,Int,Player.UnlockMapLevel
 D9276E3A,3643239994,Int,Player.<Unknown_C6DCE61A>
 4743F115,1195634965,Int,Trial.PresentCoordinateColor
 05FE2411,0100541457,Int,UGC.Editor.Setting.<Unknown_027D7033>

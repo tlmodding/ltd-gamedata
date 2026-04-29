@@ -19376,7 +19376,7 @@
       "Type": "Int",
       "Hash": 969799472
     },
-    "<Unknown_B988C5AE>": {
+    "UnlockMapLevel": {
       "DefaultValue": 1,
       "Type": "Int",
       "Hash": 2265612412

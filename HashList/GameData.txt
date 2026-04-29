@@ -6218,6 +6218,7 @@
 0xBC85AC23,Player.TroubleInfo.KeyHash
 0x2521B144,Player.TroubleInfo.LastGenerateTime
 0x6CCBA6D7,Player.TroubleInfo.ResolveSuccessCount
+0x870A807C,Player.UnlockMapLevel
 0x38468A2A,Player.VoiceVolume
 0xA10DFBA9,PlayerName
 0x9285431C,PlayerNameRegionLanguageID
@@ -6941,6 +6942,7 @@
 0xBCF7A670,Unlock.ShopPaidMoneyBuildingFacility
 0xA79DA064,Unlock.ShopPaidMoneyBuildingMapObje
 0xB5BC1DFD,Unlock.ShopPaidMoneyBuildingUgcObje
+0xB988C5AE,UnlockMapLevel
 0x3E7FF19E,Unown
 0x30B2E387,Unset
 0x207ACEEF,UntidySleeper

@@ -36,6 +36,7 @@
 0x226AA786,AISprinkler
 0x318E391C,AIType
 0x57E7C743,AITypeList
+0x637CE68C,Alb
 0xE21460DD,Alder
 0x0F9A1B74,Alebrijes
 0x9D2A3F49,Alien
@@ -304,6 +305,7 @@
 0xB36DDA3D,Cat02
 0x34F88B81,Cat03
 0x79B8A082,CatchBall
+0x100CA0AF,CatchBallAloneAgainstUGCObj.pp__Confluence__PageInfo
 0x7BA031E9,CatchBallTogether
 0xECC8BAE5,CatchBallTriangle
 0x72EB3C50,CD
@@ -2062,6 +2064,7 @@
 0xCD3BD0B3,Eighth
 0xDFF11FC2,EighthTriplet
 0x0B724879,EmbroideredHandkerchief
+0xF60BC2A5,Emm
 0x9C5C04DE,EmotionBall
 0xF1841A13,EmotionTelopChaDarkSitOnTheFerrisWheelEntrance
 0xE57805BA,EmotionTelopChatDark
@@ -2128,7 +2131,6 @@
 0x53AF23B6,EmotionTelopChatDateWalkingRelaxSitOnTheGround
 0xA633B0DF,EmotionTelopChatDateWalkingRelaxSitOnTheHouseDeck
 0xB9081AD5,EmotionTelopChatDateWalkingSitOnDiningTable
-0x100CA0AF,EmotionTelopChatDateWalkingSitOnFountain
 0x2FAAF537,EmotionTelopChatDateWalkingSitOnSofa
 0x8A0C4196,EmotionTelopChatDateWalkingSitOnTableBench
 0x88CC6674,EmotionTelopChatDateWalkingSitOnTerraceBench
@@ -2821,6 +2823,9 @@
 0x926F1C5C,Free
 0x4782C42D,FreeSpace
 0xBA939A42,Friend
+0x07C0ACBC,Friend_BestFriend_NotOnesideLove
+0x8A9E8CFE,Friend_BestFriend_NotOnesideLove_NotFight
+0xCC877032,Friend_BestFriend_RelativeEnableLove_OnsideLove
 0xFC97A1D7,Friend_FamilyExceptPartner_NotFight
 0x5BCC823A,Friend_Lover_Family_CanExecuteLoveryDemoBoth
 0x1BA83C9B,Friend_NotFight
@@ -3374,6 +3379,7 @@
 0x32B612FD,ItemMug
 0x95B81DB9,ItemMug_01
 0xA54C0C49,ItemMug_02
+0x4DC5872F,ItemMug_03
 0xE0943533,ItemNobility00_Chair_Demo
 0x9286AFED,ItemOffice00_Copy_Demo
 0x15A459CC,ItemPaintbrush
@@ -3610,6 +3616,7 @@
 0x34874CA0,Lover_CanExecuteLoveryDemo
 0x064FD4AC,Lover_Couple_50Over
 0x9E5FA4B1,Lover_Partner
+0x765E1818,Lover_Partner_CanExecuteLoveryDemo
 0x7BF3806A,Lover_Partner_CanExecuteLoveryDemoBoth
 0xBCF86E65,Lover_Partner_NotFight
 0x7CF1BBAB,Lover_Partner_Over100
@@ -3625,6 +3632,10 @@
 0x7121F439,LoveWantedBad
 0xD9E40095,Low
 0xCE4FB6D2,Lower
+0xB3ED42AB,LowerBoth
+0x0D91960A,LowerCenter
+0x3E2E5102,LowerLeft
+0x549ACBDC,LowerRight
 0x2F990B46,LowLand
 0x7EBD87EF,LvUPGoods_ALL_House_DiningTable_raw
 0xF907AC8B,LvUPGoods_ALL_House_LDKCarpet_raw
@@ -3775,6 +3786,10 @@
 0xBF3E31A9,Midcentury00
 0xE53DD26B,Midcentury01
 0xB6A1CCDF,Middle
+0x444FFF10,MiddleBoth
+0xA5C801E3,MiddleCenter
+0x1E4CE47D,MiddleLeft
+0x2BE4A44D,MiddleRight
 0x5917A80C,Mii
 0xC0105AD8,Mii00
 0x9334C87B,Mii01
@@ -3986,6 +4001,7 @@
 0x27073417,Misc_WatchingTV
 0xE543695B,MisoSoup
 0x37CEF1D6,Mithai
+0xEFFAA646,Mix
 0x5B489685,Mojimoji
 0xFCC12157,Mole
 0x1544AA12,Monitor
@@ -4004,6 +4020,7 @@
 0x6F3B86F9,MouthSmile
 0x4BBE6324,MovingBox00
 0x8EDB5A45,MovingBox01
+0x4A9FE964,Msk
 0xB4172C6C,Muddy
 0x27F9AFDA,Multi
 0xA685CD02,MultiDot00
@@ -4251,6 +4268,7 @@
 0x0B61B92B,NotRoommate
 0xDDCEE6E8,NotTrouble
 0xCF8FA3D2,Nowhere
+0x958A3716,Nrm
 0x81B8D416,Nudle
 0x636ECC37,ObjAbduction00_Cattle
 0xC90CC3AB,ObjAerogenerator
@@ -5165,6 +5183,7 @@
 0xE7742A99,PetVoiceEffectType
 0x45B7E745,PetVoiceType
 0xCA46CA98,PetWater
+0x2D69B409,Phase0
 0xB56DC8A7,Phase1
 0x8CF5CF56,Phase2
 0x4203BAFC,Phase3
@@ -5284,6 +5303,7 @@
 0x0030D252,Plus1
 0xBFCA2C50,Plus2
 0xB3F68E16,PlusMinus0
+0xE61B3C35,Plx_Alb
 0x3B1DDC17,PoseBattle
 0x02C5D854,Position_02
 0x5069C8DC,PostAddMii
@@ -6797,6 +6817,10 @@
 0x7CC100F0,UnUse
 0xFFBDD6BB,UpMiiAndSurprisedAIBoost
 0xEDB97EBF,Upper
+0x8F1F2325,UpperBoth
+0x9315920F,UpperCenter
+0x5EB80C96,UpperLeft
+0x708FA072,UpperRight
 0x5EDD7299,UseFacePaint
 0x65565D9F,UseItem
 0x02BBDB1F,UserYesNo

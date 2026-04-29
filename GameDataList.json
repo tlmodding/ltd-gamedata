@@ -33787,7 +33787,7 @@
           "Hash": 2265612412,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_B988C5AE>"
+          "HashText": "Player.UnlockMapLevel"
         },
         {
           "DefaultValue": -1,
@@ -46060,8 +46060,8 @@
             {
               "Hash": 3112748462,
               "Value": 2265612412,
-              "HashText": "<Unknown_B988C5AE>",
-              "ValueText": "Player.<Unknown_B988C5AE>"
+              "HashText": "UnlockMapLevel",
+              "ValueText": "Player.UnlockMapLevel"
             },
             {
               "Hash": 3110078746,

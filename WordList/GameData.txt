@@ -6218,6 +6218,7 @@ Player.TroubleInfo.GenerateCount
 Player.TroubleInfo.KeyHash
 Player.TroubleInfo.LastGenerateTime
 Player.TroubleInfo.ResolveSuccessCount
+Player.UnlockMapLevel
 Player.VoiceVolume
 PlayerName
 PlayerNameRegionLanguageID
@@ -6941,6 +6942,7 @@ Unlock.ResolvedTroubleCount
 Unlock.ShopPaidMoneyBuildingFacility
 Unlock.ShopPaidMoneyBuildingMapObje
 Unlock.ShopPaidMoneyBuildingUgcObje
+UnlockMapLevel
 Unown
 Unset
 UntidySleeper
