@@ -19043,7 +19043,7 @@
       "Type": "Bool",
       "Hash": 1239248135
     },
-    "<Unknown_C73509FA>": {
+    "IsExplainedIslandGauge": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 2970389528
@@ -21390,7 +21390,7 @@
           "Length": 70,
           "Hash": 3401057766
         },
-        "<Unknown_9F0161C1>": {
+        "IsDoneHairChangeTalk": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,
@@ -21408,7 +21408,7 @@
           "Size": 210,
           "Hash": 3754435107
         },
-        "<Unknown_32E97527>": {
+        "IsSelectedGoodHairChangeTalk": {
           "DefaultValue": null,
           "Type": "BoolArray",
           "Size": 70,

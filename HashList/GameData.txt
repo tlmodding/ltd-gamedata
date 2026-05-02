@@ -1337,9 +1337,11 @@
 0x0875E791,IsClothShopDialogShown
 0x7B747C59,IsCompleted
 0x7CC5CA74,IsCopy
+0x9F0161C1,IsDoneHairChangeTalk
 0xC121B84A,IsEdit
 0x9CDC5CD3,IsEmissionNightOnly
 0xF2D54C08,IsEnableChildbirth
+0xC73509FA,IsExplainedIslandGauge
 0x2250450C,IsFacePaintFront
 0xA89A92C1,IsFight
 0x62A35019,IsFinishedContentsAccident
@@ -1363,6 +1365,7 @@
 0xA5EE24BA,IsNotifiedBloodTypeCouple
 0x9DCD43FC,IsOwn
 0x4CA942C1,IsRenovationLifted
+0x32E97527,IsSelectedGoodHairChangeTalk
 0x7D73AF37,IsSnapGrid
 0xB4464FD7,IsSuccessImportTrialSaveData
 0xC11776DD,IsTopsIn
@@ -2211,8 +2214,10 @@
 0x5E32ADF4,Mii.MiiMisc.FaceInfo.FacePaintIndex
 0x236E2D73,Mii.MiiMisc.FaceInfo.Gender
 0xCB6830CA,Mii.MiiMisc.FaceInfo.HairChangeGameTime
+0x5A4F133A,Mii.MiiMisc.FaceInfo.IsDoneHairChangeTalk
 0xDE73CEE6,Mii.MiiMisc.FaceInfo.IsFacePaintFront
 0xDFC82223,Mii.MiiMisc.FaceInfo.IsLoveGender
+0x9959AEEA,Mii.MiiMisc.FaceInfo.IsSelectedGoodHairChangeTalk
 0x819D8134,Mii.MiiMisc.FaceInfo.ReadyHairChangeGameTime
 0x4D27E120,Mii.MiiMisc.FaceInfo.RejectHairChangeGameTime
 0xE7386B29,Mii.MiiMisc.PatInfo
@@ -6171,6 +6176,7 @@
 0xB697B9EB,Player.InteriorRoomStyleInfo.Wrestling00.OwnNum
 0xF0860196,Player.InteriorRoomStyleInfo.Wrestling00.State
 0x49DD6D07,Player.IsCameraReverseRotateY
+0xB10C8C18,Player.IsExplainedIslandGauge
 0xD46DF986,Player.IslandName
 0x7BBFF932,Player.IslandNameRegionLanguageID
 0x95A68688,Player.IsLocalNetworkExplained

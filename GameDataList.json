@@ -7359,7 +7359,7 @@
           "Hash": 2970389528,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_C73509FA>"
+          "HashText": "Player.IsExplainedIslandGauge"
         },
         {
           "DefaultValue": false,
@@ -13891,7 +13891,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.MiiMisc.FaceInfo.<Unknown_9F0161C1>"
+          "HashText": "Mii.MiiMisc.FaceInfo.IsDoneHairChangeTalk"
         },
         {
           "DefaultValue": null,
@@ -13918,7 +13918,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.MiiMisc.FaceInfo.<Unknown_32E97527>"
+          "HashText": "Mii.MiiMisc.FaceInfo.IsSelectedGoodHairChangeTalk"
         },
         {
           "DefaultValue": null,
@@ -45183,14 +45183,14 @@
             {
               "Hash": 2667667905,
               "Value": 1515131706,
-              "HashText": "<Unknown_9F0161C1>",
-              "ValueText": "Mii.MiiMisc.FaceInfo.<Unknown_9F0161C1>"
+              "HashText": "IsDoneHairChangeTalk",
+              "ValueText": "Mii.MiiMisc.FaceInfo.IsDoneHairChangeTalk"
             },
             {
               "Hash": 854160679,
               "Value": 2572791530,
-              "HashText": "<Unknown_32E97527>",
-              "ValueText": "Mii.MiiMisc.FaceInfo.<Unknown_32E97527>"
+              "HashText": "IsSelectedGoodHairChangeTalk",
+              "ValueText": "Mii.MiiMisc.FaceInfo.IsSelectedGoodHairChangeTalk"
             },
             {
               "Hash": 1856433201,
@@ -46384,8 +46384,8 @@
             {
               "Hash": 3342141946,
               "Value": 2970389528,
-              "HashText": "<Unknown_C73509FA>",
-              "ValueText": "Player.<Unknown_C73509FA>"
+              "HashText": "IsExplainedIslandGauge",
+              "ValueText": "Player.IsExplainedIslandGauge"
             },
             {
               "Hash": 1544955953,

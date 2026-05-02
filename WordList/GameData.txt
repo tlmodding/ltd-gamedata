@@ -1337,9 +1337,11 @@ IsChildInGame
 IsClothShopDialogShown
 IsCompleted
 IsCopy
+IsDoneHairChangeTalk
 IsEdit
 IsEmissionNightOnly
 IsEnableChildbirth
+IsExplainedIslandGauge
 IsFacePaintFront
 IsFight
 IsFinishedContentsAccident
@@ -1363,6 +1365,7 @@ IsNewlyOwned
 IsNotifiedBloodTypeCouple
 IsOwn
 IsRenovationLifted
+IsSelectedGoodHairChangeTalk
 IsSnapGrid
 IsSuccessImportTrialSaveData
 IsTopsIn
@@ -2211,8 +2214,10 @@ Mii.MiiMisc.FaceInfo
 Mii.MiiMisc.FaceInfo.FacePaintIndex
 Mii.MiiMisc.FaceInfo.Gender
 Mii.MiiMisc.FaceInfo.HairChangeGameTime
+Mii.MiiMisc.FaceInfo.IsDoneHairChangeTalk
 Mii.MiiMisc.FaceInfo.IsFacePaintFront
 Mii.MiiMisc.FaceInfo.IsLoveGender
+Mii.MiiMisc.FaceInfo.IsSelectedGoodHairChangeTalk
 Mii.MiiMisc.FaceInfo.ReadyHairChangeGameTime
 Mii.MiiMisc.FaceInfo.RejectHairChangeGameTime
 Mii.MiiMisc.PatInfo
@@ -6171,6 +6176,7 @@ Player.InteriorRoomStyleInfo.Wrestling00.LastObtainedSec
 Player.InteriorRoomStyleInfo.Wrestling00.OwnNum
 Player.InteriorRoomStyleInfo.Wrestling00.State
 Player.IsCameraReverseRotateY
+Player.IsExplainedIslandGauge
 Player.IslandName
 Player.IslandNameRegionLanguageID
 Player.IsLocalNetworkExplained

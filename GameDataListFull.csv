@@ -1046,7 +1046,7 @@ E718C4ED,3877160173,Bool,Player.InteriorRoomStyleInfo.WoodBoard06.<Unknown_73ADC
 40C12EEC,1086402284,Bool,Player.InteriorRoomStyleInfo.Wrestling00.<Unknown_73ADC433>
 F35E0873,4083026035,Bool,Player.InteriorRoomStyleInfo.Wrestling00.IsNewlyOwned
 49DD6D07,1239248135,Bool,Player.IsCameraReverseRotateY
-B10C8C18,2970389528,Bool,Player.<Unknown_C73509FA>
+B10C8C18,2970389528,Bool,Player.IsExplainedIslandGauge
 95A68688,2510718600,Bool,Player.IsLocalNetworkExplained
 8E79031D,2390295325,Bool,Player.<Unknown_45796467>
 306439C2,0811874754,Bool,Player.<Unknown_C9308D89>
@@ -1776,10 +1776,10 @@ DC1D18C0,3692894400,BoolArray,Mii.Belongings.UgcExteriorOwnInfo
 E0B5E5A1,3770017185,BoolArray,Mii.MiiMisc.BondInfo.IsUnlockPlayerNickName
 D6AD0E0B,3601665547,BoolArray,Mii.MiiMisc.ClothInfo.IsTopsIn
 8AFF821B,2332000795,BoolArray,Mii.MiiMisc.EntryInfo.IsChildInGame
-5A4F133A,1515131706,BoolArray,Mii.MiiMisc.FaceInfo.<Unknown_9F0161C1>
+5A4F133A,1515131706,BoolArray,Mii.MiiMisc.FaceInfo.IsDoneHairChangeTalk
 DE73CEE6,3732131558,BoolArray,Mii.MiiMisc.FaceInfo.IsFacePaintFront
 DFC82223,3754435107,BoolArray,Mii.MiiMisc.FaceInfo.IsLoveGender
-9959AEEA,2572791530,BoolArray,Mii.MiiMisc.FaceInfo.<Unknown_32E97527>
+9959AEEA,2572791530,BoolArray,Mii.MiiMisc.FaceInfo.IsSelectedGoodHairChangeTalk
 75BD7C16,1975352342,BoolArray,Mii.MiiMisc.SleepInfo.HasDream
 DBDB59FA,3688585722,BoolArray,Mii.MiiMisc.UgcInfo.IsCopy
 7F9B5D34,2140888372,BoolArray,Mii.MiiMisc.UgcInfo.IsEdit
