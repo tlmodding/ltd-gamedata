@@ -1004,7 +1004,9 @@ House.RoommateGroupName
 House.RoomSettings
 House.RoomSettings.BaseStyleId
 House.RoomSettings.OverrideFloorStyleId
+House.RoomSettings.OverrideFloorUgcHash
 House.RoomSettings.OverrideWallStyleId
+House.RoomSettings.OverrideWallUgcHash
 House.RoomStyleInfo
 House.RoomStyleInfo.Flag
 House.RoomStyleInfo.Flag.Abduction00
@@ -2429,7 +2431,9 @@ OuterHouse
 OuterHouseChangeCount
 OuterHouseDeco
 OverrideFloorStyleId
+OverrideFloorUgcHash
 OverrideWallStyleId
+OverrideWallUgcHash
 Own
 OwnInfoArray
 OwnNum

@@ -3904,9 +3904,9 @@ B5BC1DFD,3049004541,UInt,Unlock.ShopPaidMoneyBuildingUgcObje
 90B5F643,2427844163,UIntArray,House.OuterHouse.OuterHouseDeco.SubActorSetHash
 E3F33431,3824366641,UIntArray,House.RoomSettings.BaseStyleId
 08BD24C3,0146613443,UIntArray,House.RoomSettings.OverrideFloorStyleId
-BCF88E20,3170405920,UIntArray,House.RoomSettings.<Unknown_8C04A269>
+BCF88E20,3170405920,UIntArray,House.RoomSettings.OverrideFloorUgcHash
 4812603F,1209163839,UIntArray,House.RoomSettings.OverrideWallStyleId
-B7174007,3071754247,UIntArray,House.RoomSettings.<Unknown_A5A4BD8B>
+B7174007,3071754247,UIntArray,House.RoomSettings.OverrideWallUgcHash
 71C9C885,1909049477,UIntArray,Introduction.LectureInfo.LectureIdValue
 B91F5AB0,3105839792,UIntArray,Liberation.SeasonInfo.SeasonIdValue
 F91E67BE,4179519422,UIntArray,Liberation.WishInfo.WishIdValue

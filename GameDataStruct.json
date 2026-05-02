@@ -27300,7 +27300,7 @@
         "Size": 630,
         "Hash": 146613443
       },
-      "<Unknown_8C04A269>": {
+      "OverrideFloorUgcHash": {
         "DefaultValue": null,
         "Type": "UIntArray",
         "Size": 630,
@@ -27312,7 +27312,7 @@
         "Size": 630,
         "Hash": 1209163839
       },
-      "<Unknown_A5A4BD8B>": {
+      "OverrideWallUgcHash": {
         "DefaultValue": null,
         "Type": "UIntArray",
         "Size": 630,

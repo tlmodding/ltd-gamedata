@@ -38113,8 +38113,8 @@
             {
               "Hash": 2349113961,
               "Value": 3170405920,
-              "HashText": "<Unknown_8C04A269>",
-              "ValueText": "House.RoomSettings.<Unknown_8C04A269>"
+              "HashText": "OverrideFloorUgcHash",
+              "ValueText": "House.RoomSettings.OverrideFloorUgcHash"
             },
             {
               "Hash": 4140711953,
@@ -38125,8 +38125,8 @@
             {
               "Hash": 2779037067,
               "Value": 3071754247,
-              "HashText": "<Unknown_A5A4BD8B>",
-              "ValueText": "House.RoomSettings.<Unknown_A5A4BD8B>"
+              "HashText": "OverrideWallUgcHash",
+              "ValueText": "House.RoomSettings.OverrideWallUgcHash"
             }
           ],
           "Hash": 1811245665,
@@ -87163,7 +87163,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 630,
-          "HashText": "House.RoomSettings.<Unknown_8C04A269>"
+          "HashText": "House.RoomSettings.OverrideFloorUgcHash"
         },
         {
           "DefaultValue": null,
@@ -87181,7 +87181,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 2,
           "TotalSize": 630,
-          "HashText": "House.RoomSettings.<Unknown_A5A4BD8B>"
+          "HashText": "House.RoomSettings.OverrideWallUgcHash"
         },
         {
           "DefaultValue": null,

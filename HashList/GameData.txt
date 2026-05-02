@@ -1004,7 +1004,9 @@
 0x6BF56A61,House.RoomSettings
 0xE3F33431,House.RoomSettings.BaseStyleId
 0x08BD24C3,House.RoomSettings.OverrideFloorStyleId
+0xBCF88E20,House.RoomSettings.OverrideFloorUgcHash
 0x4812603F,House.RoomSettings.OverrideWallStyleId
+0xB7174007,House.RoomSettings.OverrideWallUgcHash
 0xB989CD8F,House.RoomStyleInfo
 0x17100753,House.RoomStyleInfo.Flag
 0x936E2028,House.RoomStyleInfo.Flag.Abduction00
@@ -2429,7 +2431,9 @@
 0x30D1B2E5,OuterHouseChangeCount
 0x34568605,OuterHouseDeco
 0x1B34AC5F,OverrideFloorStyleId
+0x8C04A269,OverrideFloorUgcHash
 0xF6CE4011,OverrideWallStyleId
+0xA5A4BD8B,OverrideWallUgcHash
 0x957C23D6,Own
 0xB94D3A0B,OwnInfoArray
 0xF4D12244,OwnNum
