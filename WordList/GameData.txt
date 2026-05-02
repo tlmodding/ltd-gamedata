@@ -602,6 +602,7 @@ Currency
 CurrentPlayDay
 CurrentPlayMonth
 CurrentPlayYear
+CurrentSumDay
 Custom
 CustomThirdPerson
 Cute00
@@ -624,6 +625,7 @@ DailyLog.ContentsCountByPickUp
 DailyLog.CurrentPlayDay
 DailyLog.CurrentPlayMonth
 DailyLog.CurrentPlayYear
+DailyLog.CurrentSumDay
 DailyLog.EmotionBallGet
 DailyLog.EmotionBallSpent
 DailyLog.EnterAtelierCount
@@ -945,6 +947,7 @@ Habit
 HabitInfo2
 HabitOwnInfo
 HairChangeGameTime
+HairChangeOrdered
 HalfBall
 Halloween00
 Hamster
@@ -1306,6 +1309,7 @@ Impression
 IncenseBurner
 Info
 InfoEnableGenerateGameTime
+InformedNewRelease
 InnerRoomChangeCount
 InnerRoomLivingRoomChangeCount
 InnerRoomPrivateRoomChangeCount
@@ -1495,6 +1499,7 @@ MapGrid.GridX
 MapGrid.GridX.GridZ
 MapGrid.GridX.GridZ.FloorKeyHash
 MapGrid.GridX.GridZ.UgcIndex
+MapGrid.UnlockAreaGroup
 MapId
 MapleSyrupSamplingPort
 MapLink
@@ -2214,6 +2219,7 @@ Mii.MiiMisc.FaceInfo
 Mii.MiiMisc.FaceInfo.FacePaintIndex
 Mii.MiiMisc.FaceInfo.Gender
 Mii.MiiMisc.FaceInfo.HairChangeGameTime
+Mii.MiiMisc.FaceInfo.HairChangeOrdered
 Mii.MiiMisc.FaceInfo.IsDoneHairChangeTalk
 Mii.MiiMisc.FaceInfo.IsFacePaintFront
 Mii.MiiMisc.FaceInfo.IsLoveGender
@@ -2520,6 +2526,7 @@ Player.BootNum
 Player.BreakingNewsFlag
 Player.BuildingInfo2
 Player.BuildingInfo2.FirstObtainedSec
+Player.BuildingInfo2.InformedNewRelease
 Player.BuildingInfo2.IsNewlyOwned
 Player.BuildingInfo2.KeyHash
 Player.BuildingInfo2.LastObtainedSec
@@ -2556,6 +2563,7 @@ Player.Currency
 Player.EmotionBall
 Player.FirstBootTime
 Player.FloorInfo
+Player.FloorInfo.InformedNewRelease
 Player.FloorInfo.IsNewlyOwned
 Player.FloorInfo.KeyHash
 Player.FloorInfo.LastObtainedSec
@@ -4266,6 +4274,7 @@ Player.HowToCallName
 Player.InteriorRoomStyleInfo
 Player.InteriorRoomStyleInfo.Abduction00
 Player.InteriorRoomStyleInfo.Abduction00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Abduction00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Abduction00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Abduction00.KeyHash
 Player.InteriorRoomStyleInfo.Abduction00.LastObtainedSec
@@ -4273,6 +4282,7 @@ Player.InteriorRoomStyleInfo.Abduction00.OwnNum
 Player.InteriorRoomStyleInfo.Abduction00.State
 Player.InteriorRoomStyleInfo.Antarctic00
 Player.InteriorRoomStyleInfo.Antarctic00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Antarctic00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Antarctic00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Antarctic00.KeyHash
 Player.InteriorRoomStyleInfo.Antarctic00.LastObtainedSec
@@ -4280,6 +4290,7 @@ Player.InteriorRoomStyleInfo.Antarctic00.OwnNum
 Player.InteriorRoomStyleInfo.Antarctic00.State
 Player.InteriorRoomStyleInfo.Asianresort00
 Player.InteriorRoomStyleInfo.Asianresort00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Asianresort00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Asianresort00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Asianresort00.KeyHash
 Player.InteriorRoomStyleInfo.Asianresort00.LastObtainedSec
@@ -4287,6 +4298,7 @@ Player.InteriorRoomStyleInfo.Asianresort00.OwnNum
 Player.InteriorRoomStyleInfo.Asianresort00.State
 Player.InteriorRoomStyleInfo.Asianresort01
 Player.InteriorRoomStyleInfo.Asianresort01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Asianresort01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Asianresort01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Asianresort01.KeyHash
 Player.InteriorRoomStyleInfo.Asianresort01.LastObtainedSec
@@ -4294,6 +4306,7 @@ Player.InteriorRoomStyleInfo.Asianresort01.OwnNum
 Player.InteriorRoomStyleInfo.Asianresort01.State
 Player.InteriorRoomStyleInfo.Atelier00
 Player.InteriorRoomStyleInfo.Atelier00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Atelier00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Atelier00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Atelier00.KeyHash
 Player.InteriorRoomStyleInfo.Atelier00.LastObtainedSec
@@ -4301,6 +4314,7 @@ Player.InteriorRoomStyleInfo.Atelier00.OwnNum
 Player.InteriorRoomStyleInfo.Atelier00.State
 Player.InteriorRoomStyleInfo.Atelier01
 Player.InteriorRoomStyleInfo.Atelier01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Atelier01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Atelier01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Atelier01.KeyHash
 Player.InteriorRoomStyleInfo.Atelier01.LastObtainedSec
@@ -4308,6 +4322,7 @@ Player.InteriorRoomStyleInfo.Atelier01.OwnNum
 Player.InteriorRoomStyleInfo.Atelier01.State
 Player.InteriorRoomStyleInfo.Baby00
 Player.InteriorRoomStyleInfo.Baby00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Baby00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Baby00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Baby00.KeyHash
 Player.InteriorRoomStyleInfo.Baby00.LastObtainedSec
@@ -4315,6 +4330,7 @@ Player.InteriorRoomStyleInfo.Baby00.OwnNum
 Player.InteriorRoomStyleInfo.Baby00.State
 Player.InteriorRoomStyleInfo.Baby01
 Player.InteriorRoomStyleInfo.Baby01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Baby01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Baby01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Baby01.KeyHash
 Player.InteriorRoomStyleInfo.Baby01.LastObtainedSec
@@ -4322,6 +4338,7 @@ Player.InteriorRoomStyleInfo.Baby01.OwnNum
 Player.InteriorRoomStyleInfo.Baby01.State
 Player.InteriorRoomStyleInfo.Baby02
 Player.InteriorRoomStyleInfo.Baby02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Baby02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Baby02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Baby02.KeyHash
 Player.InteriorRoomStyleInfo.Baby02.LastObtainedSec
@@ -4329,6 +4346,7 @@ Player.InteriorRoomStyleInfo.Baby02.OwnNum
 Player.InteriorRoomStyleInfo.Baby02.State
 Player.InteriorRoomStyleInfo.Bathroom00
 Player.InteriorRoomStyleInfo.Bathroom00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Bathroom00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Bathroom00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Bathroom00.KeyHash
 Player.InteriorRoomStyleInfo.Bathroom00.LastObtainedSec
@@ -4336,6 +4354,7 @@ Player.InteriorRoomStyleInfo.Bathroom00.OwnNum
 Player.InteriorRoomStyleInfo.Bathroom00.State
 Player.InteriorRoomStyleInfo.Bathroom01
 Player.InteriorRoomStyleInfo.Bathroom01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Bathroom01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Bathroom01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Bathroom01.KeyHash
 Player.InteriorRoomStyleInfo.Bathroom01.LastObtainedSec
@@ -4343,6 +4362,7 @@ Player.InteriorRoomStyleInfo.Bathroom01.OwnNum
 Player.InteriorRoomStyleInfo.Bathroom01.State
 Player.InteriorRoomStyleInfo.Bathroom02
 Player.InteriorRoomStyleInfo.Bathroom02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Bathroom02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Bathroom02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Bathroom02.KeyHash
 Player.InteriorRoomStyleInfo.Bathroom02.LastObtainedSec
@@ -4350,6 +4370,7 @@ Player.InteriorRoomStyleInfo.Bathroom02.OwnNum
 Player.InteriorRoomStyleInfo.Bathroom02.State
 Player.InteriorRoomStyleInfo.Bathroom03
 Player.InteriorRoomStyleInfo.Bathroom03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Bathroom03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Bathroom03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Bathroom03.KeyHash
 Player.InteriorRoomStyleInfo.Bathroom03.LastObtainedSec
@@ -4357,6 +4378,7 @@ Player.InteriorRoomStyleInfo.Bathroom03.OwnNum
 Player.InteriorRoomStyleInfo.Bathroom03.State
 Player.InteriorRoomStyleInfo.Bathroom04
 Player.InteriorRoomStyleInfo.Bathroom04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Bathroom04.InformedNewRelease
 Player.InteriorRoomStyleInfo.Bathroom04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Bathroom04.KeyHash
 Player.InteriorRoomStyleInfo.Bathroom04.LastObtainedSec
@@ -4364,6 +4386,7 @@ Player.InteriorRoomStyleInfo.Bathroom04.OwnNum
 Player.InteriorRoomStyleInfo.Bathroom04.State
 Player.InteriorRoomStyleInfo.Beach00
 Player.InteriorRoomStyleInfo.Beach00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Beach00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Beach00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Beach00.KeyHash
 Player.InteriorRoomStyleInfo.Beach00.LastObtainedSec
@@ -4371,6 +4394,7 @@ Player.InteriorRoomStyleInfo.Beach00.OwnNum
 Player.InteriorRoomStyleInfo.Beach00.State
 Player.InteriorRoomStyleInfo.BigFlower00
 Player.InteriorRoomStyleInfo.BigFlower00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.BigFlower00.InformedNewRelease
 Player.InteriorRoomStyleInfo.BigFlower00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.BigFlower00.KeyHash
 Player.InteriorRoomStyleInfo.BigFlower00.LastObtainedSec
@@ -4378,6 +4402,7 @@ Player.InteriorRoomStyleInfo.BigFlower00.OwnNum
 Player.InteriorRoomStyleInfo.BigFlower00.State
 Player.InteriorRoomStyleInfo.BigFlower01
 Player.InteriorRoomStyleInfo.BigFlower01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.BigFlower01.InformedNewRelease
 Player.InteriorRoomStyleInfo.BigFlower01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.BigFlower01.KeyHash
 Player.InteriorRoomStyleInfo.BigFlower01.LastObtainedSec
@@ -4385,6 +4410,7 @@ Player.InteriorRoomStyleInfo.BigFlower01.OwnNum
 Player.InteriorRoomStyleInfo.BigFlower01.State
 Player.InteriorRoomStyleInfo.BigFlower02
 Player.InteriorRoomStyleInfo.BigFlower02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.BigFlower02.InformedNewRelease
 Player.InteriorRoomStyleInfo.BigFlower02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.BigFlower02.KeyHash
 Player.InteriorRoomStyleInfo.BigFlower02.LastObtainedSec
@@ -4392,6 +4418,7 @@ Player.InteriorRoomStyleInfo.BigFlower02.OwnNum
 Player.InteriorRoomStyleInfo.BigFlower02.State
 Player.InteriorRoomStyleInfo.BigFlower03
 Player.InteriorRoomStyleInfo.BigFlower03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.BigFlower03.InformedNewRelease
 Player.InteriorRoomStyleInfo.BigFlower03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.BigFlower03.KeyHash
 Player.InteriorRoomStyleInfo.BigFlower03.LastObtainedSec
@@ -4399,6 +4426,7 @@ Player.InteriorRoomStyleInfo.BigFlower03.OwnNum
 Player.InteriorRoomStyleInfo.BigFlower03.State
 Player.InteriorRoomStyleInfo.BlueSheet00
 Player.InteriorRoomStyleInfo.BlueSheet00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.BlueSheet00.InformedNewRelease
 Player.InteriorRoomStyleInfo.BlueSheet00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.BlueSheet00.KeyHash
 Player.InteriorRoomStyleInfo.BlueSheet00.LastObtainedSec
@@ -4406,6 +4434,7 @@ Player.InteriorRoomStyleInfo.BlueSheet00.OwnNum
 Player.InteriorRoomStyleInfo.BlueSheet00.State
 Player.InteriorRoomStyleInfo.Book00
 Player.InteriorRoomStyleInfo.Book00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Book00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Book00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Book00.KeyHash
 Player.InteriorRoomStyleInfo.Book00.LastObtainedSec
@@ -4413,6 +4442,7 @@ Player.InteriorRoomStyleInfo.Book00.OwnNum
 Player.InteriorRoomStyleInfo.Book00.State
 Player.InteriorRoomStyleInfo.Book01
 Player.InteriorRoomStyleInfo.Book01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Book01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Book01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Book01.KeyHash
 Player.InteriorRoomStyleInfo.Book01.LastObtainedSec
@@ -4420,6 +4450,7 @@ Player.InteriorRoomStyleInfo.Book01.OwnNum
 Player.InteriorRoomStyleInfo.Book01.State
 Player.InteriorRoomStyleInfo.Book02
 Player.InteriorRoomStyleInfo.Book02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Book02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Book02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Book02.KeyHash
 Player.InteriorRoomStyleInfo.Book02.LastObtainedSec
@@ -4427,6 +4458,7 @@ Player.InteriorRoomStyleInfo.Book02.OwnNum
 Player.InteriorRoomStyleInfo.Book02.State
 Player.InteriorRoomStyleInfo.Botanical00
 Player.InteriorRoomStyleInfo.Botanical00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Botanical00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Botanical00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Botanical00.KeyHash
 Player.InteriorRoomStyleInfo.Botanical00.LastObtainedSec
@@ -4434,6 +4466,7 @@ Player.InteriorRoomStyleInfo.Botanical00.OwnNum
 Player.InteriorRoomStyleInfo.Botanical00.State
 Player.InteriorRoomStyleInfo.Brick00
 Player.InteriorRoomStyleInfo.Brick00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Brick00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Brick00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Brick00.KeyHash
 Player.InteriorRoomStyleInfo.Brick00.LastObtainedSec
@@ -4441,6 +4474,7 @@ Player.InteriorRoomStyleInfo.Brick00.OwnNum
 Player.InteriorRoomStyleInfo.Brick00.State
 Player.InteriorRoomStyleInfo.Brick01
 Player.InteriorRoomStyleInfo.Brick01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Brick01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Brick01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Brick01.KeyHash
 Player.InteriorRoomStyleInfo.Brick01.LastObtainedSec
@@ -4448,6 +4482,7 @@ Player.InteriorRoomStyleInfo.Brick01.OwnNum
 Player.InteriorRoomStyleInfo.Brick01.State
 Player.InteriorRoomStyleInfo.Cage00
 Player.InteriorRoomStyleInfo.Cage00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Cage00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Cage00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Cage00.KeyHash
 Player.InteriorRoomStyleInfo.Cage00.LastObtainedSec
@@ -4455,6 +4490,7 @@ Player.InteriorRoomStyleInfo.Cage00.OwnNum
 Player.InteriorRoomStyleInfo.Cage00.State
 Player.InteriorRoomStyleInfo.Camouflage00
 Player.InteriorRoomStyleInfo.Camouflage00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Camouflage00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Camouflage00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Camouflage00.KeyHash
 Player.InteriorRoomStyleInfo.Camouflage00.LastObtainedSec
@@ -4462,6 +4498,7 @@ Player.InteriorRoomStyleInfo.Camouflage00.OwnNum
 Player.InteriorRoomStyleInfo.Camouflage00.State
 Player.InteriorRoomStyleInfo.Camouflage01
 Player.InteriorRoomStyleInfo.Camouflage01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Camouflage01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Camouflage01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Camouflage01.KeyHash
 Player.InteriorRoomStyleInfo.Camouflage01.LastObtainedSec
@@ -4469,6 +4506,7 @@ Player.InteriorRoomStyleInfo.Camouflage01.OwnNum
 Player.InteriorRoomStyleInfo.Camouflage01.State
 Player.InteriorRoomStyleInfo.Camouflage02
 Player.InteriorRoomStyleInfo.Camouflage02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Camouflage02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Camouflage02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Camouflage02.KeyHash
 Player.InteriorRoomStyleInfo.Camouflage02.LastObtainedSec
@@ -4476,6 +4514,7 @@ Player.InteriorRoomStyleInfo.Camouflage02.OwnNum
 Player.InteriorRoomStyleInfo.Camouflage02.State
 Player.InteriorRoomStyleInfo.Camouflage03
 Player.InteriorRoomStyleInfo.Camouflage03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Camouflage03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Camouflage03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Camouflage03.KeyHash
 Player.InteriorRoomStyleInfo.Camouflage03.LastObtainedSec
@@ -4483,6 +4522,7 @@ Player.InteriorRoomStyleInfo.Camouflage03.OwnNum
 Player.InteriorRoomStyleInfo.Camouflage03.State
 Player.InteriorRoomStyleInfo.Candy00
 Player.InteriorRoomStyleInfo.Candy00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Candy00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Candy00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Candy00.KeyHash
 Player.InteriorRoomStyleInfo.Candy00.LastObtainedSec
@@ -4490,6 +4530,7 @@ Player.InteriorRoomStyleInfo.Candy00.OwnNum
 Player.InteriorRoomStyleInfo.Candy00.State
 Player.InteriorRoomStyleInfo.Candy01
 Player.InteriorRoomStyleInfo.Candy01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Candy01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Candy01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Candy01.KeyHash
 Player.InteriorRoomStyleInfo.Candy01.LastObtainedSec
@@ -4497,6 +4538,7 @@ Player.InteriorRoomStyleInfo.Candy01.OwnNum
 Player.InteriorRoomStyleInfo.Candy01.State
 Player.InteriorRoomStyleInfo.Candy02
 Player.InteriorRoomStyleInfo.Candy02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Candy02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Candy02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Candy02.KeyHash
 Player.InteriorRoomStyleInfo.Candy02.LastObtainedSec
@@ -4504,6 +4546,7 @@ Player.InteriorRoomStyleInfo.Candy02.OwnNum
 Player.InteriorRoomStyleInfo.Candy02.State
 Player.InteriorRoomStyleInfo.Cemetery00
 Player.InteriorRoomStyleInfo.Cemetery00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Cemetery00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Cemetery00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Cemetery00.KeyHash
 Player.InteriorRoomStyleInfo.Cemetery00.LastObtainedSec
@@ -4511,6 +4554,7 @@ Player.InteriorRoomStyleInfo.Cemetery00.OwnNum
 Player.InteriorRoomStyleInfo.Cemetery00.State
 Player.InteriorRoomStyleInfo.Chinese00
 Player.InteriorRoomStyleInfo.Chinese00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Chinese00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Chinese00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Chinese00.KeyHash
 Player.InteriorRoomStyleInfo.Chinese00.LastObtainedSec
@@ -4518,6 +4562,7 @@ Player.InteriorRoomStyleInfo.Chinese00.OwnNum
 Player.InteriorRoomStyleInfo.Chinese00.State
 Player.InteriorRoomStyleInfo.Chinese01
 Player.InteriorRoomStyleInfo.Chinese01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Chinese01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Chinese01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Chinese01.KeyHash
 Player.InteriorRoomStyleInfo.Chinese01.LastObtainedSec
@@ -4525,6 +4570,7 @@ Player.InteriorRoomStyleInfo.Chinese01.OwnNum
 Player.InteriorRoomStyleInfo.Chinese01.State
 Player.InteriorRoomStyleInfo.Christmas00
 Player.InteriorRoomStyleInfo.Christmas00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Christmas00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Christmas00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Christmas00.KeyHash
 Player.InteriorRoomStyleInfo.Christmas00.LastObtainedSec
@@ -4532,6 +4578,7 @@ Player.InteriorRoomStyleInfo.Christmas00.OwnNum
 Player.InteriorRoomStyleInfo.Christmas00.State
 Player.InteriorRoomStyleInfo.Christmas01
 Player.InteriorRoomStyleInfo.Christmas01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Christmas01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Christmas01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Christmas01.KeyHash
 Player.InteriorRoomStyleInfo.Christmas01.LastObtainedSec
@@ -4539,6 +4586,7 @@ Player.InteriorRoomStyleInfo.Christmas01.OwnNum
 Player.InteriorRoomStyleInfo.Christmas01.State
 Player.InteriorRoomStyleInfo.Classroom00
 Player.InteriorRoomStyleInfo.Classroom00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Classroom00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Classroom00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Classroom00.KeyHash
 Player.InteriorRoomStyleInfo.Classroom00.LastObtainedSec
@@ -4546,6 +4594,7 @@ Player.InteriorRoomStyleInfo.Classroom00.OwnNum
 Player.InteriorRoomStyleInfo.Classroom00.State
 Player.InteriorRoomStyleInfo.Classroom01
 Player.InteriorRoomStyleInfo.Classroom01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Classroom01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Classroom01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Classroom01.KeyHash
 Player.InteriorRoomStyleInfo.Classroom01.LastObtainedSec
@@ -4553,6 +4602,7 @@ Player.InteriorRoomStyleInfo.Classroom01.OwnNum
 Player.InteriorRoomStyleInfo.Classroom01.State
 Player.InteriorRoomStyleInfo.Club00
 Player.InteriorRoomStyleInfo.Club00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Club00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Club00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Club00.KeyHash
 Player.InteriorRoomStyleInfo.Club00.LastObtainedSec
@@ -4560,6 +4610,7 @@ Player.InteriorRoomStyleInfo.Club00.OwnNum
 Player.InteriorRoomStyleInfo.Club00.State
 Player.InteriorRoomStyleInfo.Cute00
 Player.InteriorRoomStyleInfo.Cute00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Cute00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Cute00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Cute00.KeyHash
 Player.InteriorRoomStyleInfo.Cute00.LastObtainedSec
@@ -4567,6 +4618,7 @@ Player.InteriorRoomStyleInfo.Cute00.OwnNum
 Player.InteriorRoomStyleInfo.Cute00.State
 Player.InteriorRoomStyleInfo.Cute01
 Player.InteriorRoomStyleInfo.Cute01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Cute01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Cute01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Cute01.KeyHash
 Player.InteriorRoomStyleInfo.Cute01.LastObtainedSec
@@ -4574,6 +4626,7 @@ Player.InteriorRoomStyleInfo.Cute01.OwnNum
 Player.InteriorRoomStyleInfo.Cute01.State
 Player.InteriorRoomStyleInfo.Damask00
 Player.InteriorRoomStyleInfo.Damask00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Damask00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Damask00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Damask00.KeyHash
 Player.InteriorRoomStyleInfo.Damask00.LastObtainedSec
@@ -4581,6 +4634,7 @@ Player.InteriorRoomStyleInfo.Damask00.OwnNum
 Player.InteriorRoomStyleInfo.Damask00.State
 Player.InteriorRoomStyleInfo.Damask01
 Player.InteriorRoomStyleInfo.Damask01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Damask01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Damask01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Damask01.KeyHash
 Player.InteriorRoomStyleInfo.Damask01.LastObtainedSec
@@ -4588,6 +4642,7 @@ Player.InteriorRoomStyleInfo.Damask01.OwnNum
 Player.InteriorRoomStyleInfo.Damask01.State
 Player.InteriorRoomStyleInfo.Damask02
 Player.InteriorRoomStyleInfo.Damask02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Damask02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Damask02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Damask02.KeyHash
 Player.InteriorRoomStyleInfo.Damask02.LastObtainedSec
@@ -4595,6 +4650,7 @@ Player.InteriorRoomStyleInfo.Damask02.OwnNum
 Player.InteriorRoomStyleInfo.Damask02.State
 Player.InteriorRoomStyleInfo.Damask03
 Player.InteriorRoomStyleInfo.Damask03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Damask03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Damask03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Damask03.KeyHash
 Player.InteriorRoomStyleInfo.Damask03.LastObtainedSec
@@ -4602,6 +4658,7 @@ Player.InteriorRoomStyleInfo.Damask03.OwnNum
 Player.InteriorRoomStyleInfo.Damask03.State
 Player.InteriorRoomStyleInfo.Damask04
 Player.InteriorRoomStyleInfo.Damask04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Damask04.InformedNewRelease
 Player.InteriorRoomStyleInfo.Damask04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Damask04.KeyHash
 Player.InteriorRoomStyleInfo.Damask04.LastObtainedSec
@@ -4609,6 +4666,7 @@ Player.InteriorRoomStyleInfo.Damask04.OwnNum
 Player.InteriorRoomStyleInfo.Damask04.State
 Player.InteriorRoomStyleInfo.Damask05
 Player.InteriorRoomStyleInfo.Damask05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Damask05.InformedNewRelease
 Player.InteriorRoomStyleInfo.Damask05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Damask05.KeyHash
 Player.InteriorRoomStyleInfo.Damask05.LastObtainedSec
@@ -4616,6 +4674,7 @@ Player.InteriorRoomStyleInfo.Damask05.OwnNum
 Player.InteriorRoomStyleInfo.Damask05.State
 Player.InteriorRoomStyleInfo.Damask06
 Player.InteriorRoomStyleInfo.Damask06.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Damask06.InformedNewRelease
 Player.InteriorRoomStyleInfo.Damask06.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Damask06.KeyHash
 Player.InteriorRoomStyleInfo.Damask06.LastObtainedSec
@@ -4623,6 +4682,7 @@ Player.InteriorRoomStyleInfo.Damask06.OwnNum
 Player.InteriorRoomStyleInfo.Damask06.State
 Player.InteriorRoomStyleInfo.Damask07
 Player.InteriorRoomStyleInfo.Damask07.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Damask07.InformedNewRelease
 Player.InteriorRoomStyleInfo.Damask07.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Damask07.KeyHash
 Player.InteriorRoomStyleInfo.Damask07.LastObtainedSec
@@ -4630,6 +4690,7 @@ Player.InteriorRoomStyleInfo.Damask07.OwnNum
 Player.InteriorRoomStyleInfo.Damask07.State
 Player.InteriorRoomStyleInfo.Desert00
 Player.InteriorRoomStyleInfo.Desert00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Desert00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Desert00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Desert00.KeyHash
 Player.InteriorRoomStyleInfo.Desert00.LastObtainedSec
@@ -4637,6 +4698,7 @@ Player.InteriorRoomStyleInfo.Desert00.OwnNum
 Player.InteriorRoomStyleInfo.Desert00.State
 Player.InteriorRoomStyleInfo.Dilapidated00
 Player.InteriorRoomStyleInfo.Dilapidated00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Dilapidated00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Dilapidated00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Dilapidated00.KeyHash
 Player.InteriorRoomStyleInfo.Dilapidated00.LastObtainedSec
@@ -4644,6 +4706,7 @@ Player.InteriorRoomStyleInfo.Dilapidated00.OwnNum
 Player.InteriorRoomStyleInfo.Dilapidated00.State
 Player.InteriorRoomStyleInfo.Dinosaur00
 Player.InteriorRoomStyleInfo.Dinosaur00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Dinosaur00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Dinosaur00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Dinosaur00.KeyHash
 Player.InteriorRoomStyleInfo.Dinosaur00.LastObtainedSec
@@ -4651,6 +4714,7 @@ Player.InteriorRoomStyleInfo.Dinosaur00.OwnNum
 Player.InteriorRoomStyleInfo.Dinosaur00.State
 Player.InteriorRoomStyleInfo.Dinosaur01
 Player.InteriorRoomStyleInfo.Dinosaur01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Dinosaur01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Dinosaur01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Dinosaur01.KeyHash
 Player.InteriorRoomStyleInfo.Dinosaur01.LastObtainedSec
@@ -4658,6 +4722,7 @@ Player.InteriorRoomStyleInfo.Dinosaur01.OwnNum
 Player.InteriorRoomStyleInfo.Dinosaur01.State
 Player.InteriorRoomStyleInfo.Dog00
 Player.InteriorRoomStyleInfo.Dog00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Dog00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Dog00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Dog00.KeyHash
 Player.InteriorRoomStyleInfo.Dog00.LastObtainedSec
@@ -4665,6 +4730,7 @@ Player.InteriorRoomStyleInfo.Dog00.OwnNum
 Player.InteriorRoomStyleInfo.Dog00.State
 Player.InteriorRoomStyleInfo.Dog01
 Player.InteriorRoomStyleInfo.Dog01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Dog01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Dog01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Dog01.KeyHash
 Player.InteriorRoomStyleInfo.Dog01.LastObtainedSec
@@ -4672,6 +4738,7 @@ Player.InteriorRoomStyleInfo.Dog01.OwnNum
 Player.InteriorRoomStyleInfo.Dog01.State
 Player.InteriorRoomStyleInfo.Dot00
 Player.InteriorRoomStyleInfo.Dot00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Dot00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Dot00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Dot00.KeyHash
 Player.InteriorRoomStyleInfo.Dot00.LastObtainedSec
@@ -4679,6 +4746,7 @@ Player.InteriorRoomStyleInfo.Dot00.OwnNum
 Player.InteriorRoomStyleInfo.Dot00.State
 Player.InteriorRoomStyleInfo.Dot01
 Player.InteriorRoomStyleInfo.Dot01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Dot01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Dot01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Dot01.KeyHash
 Player.InteriorRoomStyleInfo.Dot01.LastObtainedSec
@@ -4686,6 +4754,7 @@ Player.InteriorRoomStyleInfo.Dot01.OwnNum
 Player.InteriorRoomStyleInfo.Dot01.State
 Player.InteriorRoomStyleInfo.Dot02
 Player.InteriorRoomStyleInfo.Dot02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Dot02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Dot02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Dot02.KeyHash
 Player.InteriorRoomStyleInfo.Dot02.LastObtainedSec
@@ -4693,6 +4762,7 @@ Player.InteriorRoomStyleInfo.Dot02.OwnNum
 Player.InteriorRoomStyleInfo.Dot02.State
 Player.InteriorRoomStyleInfo.Dot03
 Player.InteriorRoomStyleInfo.Dot03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Dot03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Dot03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Dot03.KeyHash
 Player.InteriorRoomStyleInfo.Dot03.LastObtainedSec
@@ -4700,6 +4770,7 @@ Player.InteriorRoomStyleInfo.Dot03.OwnNum
 Player.InteriorRoomStyleInfo.Dot03.State
 Player.InteriorRoomStyleInfo.Dot04
 Player.InteriorRoomStyleInfo.Dot04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Dot04.InformedNewRelease
 Player.InteriorRoomStyleInfo.Dot04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Dot04.KeyHash
 Player.InteriorRoomStyleInfo.Dot04.LastObtainedSec
@@ -4707,6 +4778,7 @@ Player.InteriorRoomStyleInfo.Dot04.OwnNum
 Player.InteriorRoomStyleInfo.Dot04.State
 Player.InteriorRoomStyleInfo.Dot05
 Player.InteriorRoomStyleInfo.Dot05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Dot05.InformedNewRelease
 Player.InteriorRoomStyleInfo.Dot05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Dot05.KeyHash
 Player.InteriorRoomStyleInfo.Dot05.LastObtainedSec
@@ -4714,6 +4786,7 @@ Player.InteriorRoomStyleInfo.Dot05.OwnNum
 Player.InteriorRoomStyleInfo.Dot05.State
 Player.InteriorRoomStyleInfo.Dot06
 Player.InteriorRoomStyleInfo.Dot06.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Dot06.InformedNewRelease
 Player.InteriorRoomStyleInfo.Dot06.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Dot06.KeyHash
 Player.InteriorRoomStyleInfo.Dot06.LastObtainedSec
@@ -4721,6 +4794,7 @@ Player.InteriorRoomStyleInfo.Dot06.OwnNum
 Player.InteriorRoomStyleInfo.Dot06.State
 Player.InteriorRoomStyleInfo.Dot07
 Player.InteriorRoomStyleInfo.Dot07.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Dot07.InformedNewRelease
 Player.InteriorRoomStyleInfo.Dot07.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Dot07.KeyHash
 Player.InteriorRoomStyleInfo.Dot07.LastObtainedSec
@@ -4728,6 +4802,7 @@ Player.InteriorRoomStyleInfo.Dot07.OwnNum
 Player.InteriorRoomStyleInfo.Dot07.State
 Player.InteriorRoomStyleInfo.DropCurtain00
 Player.InteriorRoomStyleInfo.DropCurtain00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.DropCurtain00.InformedNewRelease
 Player.InteriorRoomStyleInfo.DropCurtain00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.DropCurtain00.KeyHash
 Player.InteriorRoomStyleInfo.DropCurtain00.LastObtainedSec
@@ -4735,6 +4810,7 @@ Player.InteriorRoomStyleInfo.DropCurtain00.OwnNum
 Player.InteriorRoomStyleInfo.DropCurtain00.State
 Player.InteriorRoomStyleInfo.Factry00
 Player.InteriorRoomStyleInfo.Factry00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Factry00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Factry00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Factry00.KeyHash
 Player.InteriorRoomStyleInfo.Factry00.LastObtainedSec
@@ -4742,6 +4818,7 @@ Player.InteriorRoomStyleInfo.Factry00.OwnNum
 Player.InteriorRoomStyleInfo.Factry00.State
 Player.InteriorRoomStyleInfo.Fantasy00
 Player.InteriorRoomStyleInfo.Fantasy00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Fantasy00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Fantasy00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Fantasy00.KeyHash
 Player.InteriorRoomStyleInfo.Fantasy00.LastObtainedSec
@@ -4749,6 +4826,7 @@ Player.InteriorRoomStyleInfo.Fantasy00.OwnNum
 Player.InteriorRoomStyleInfo.Fantasy00.State
 Player.InteriorRoomStyleInfo.Fantasy01
 Player.InteriorRoomStyleInfo.Fantasy01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Fantasy01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Fantasy01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Fantasy01.KeyHash
 Player.InteriorRoomStyleInfo.Fantasy01.LastObtainedSec
@@ -4756,6 +4834,7 @@ Player.InteriorRoomStyleInfo.Fantasy01.OwnNum
 Player.InteriorRoomStyleInfo.Fantasy01.State
 Player.InteriorRoomStyleInfo.Fantasy02
 Player.InteriorRoomStyleInfo.Fantasy02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Fantasy02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Fantasy02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Fantasy02.KeyHash
 Player.InteriorRoomStyleInfo.Fantasy02.LastObtainedSec
@@ -4763,6 +4842,7 @@ Player.InteriorRoomStyleInfo.Fantasy02.OwnNum
 Player.InteriorRoomStyleInfo.Fantasy02.State
 Player.InteriorRoomStyleInfo.Festival00
 Player.InteriorRoomStyleInfo.Festival00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Festival00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Festival00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Festival00.KeyHash
 Player.InteriorRoomStyleInfo.Festival00.LastObtainedSec
@@ -4770,6 +4850,7 @@ Player.InteriorRoomStyleInfo.Festival00.OwnNum
 Player.InteriorRoomStyleInfo.Festival00.State
 Player.InteriorRoomStyleInfo.Field00
 Player.InteriorRoomStyleInfo.Field00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Field00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Field00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Field00.KeyHash
 Player.InteriorRoomStyleInfo.Field00.LastObtainedSec
@@ -4777,6 +4858,7 @@ Player.InteriorRoomStyleInfo.Field00.OwnNum
 Player.InteriorRoomStyleInfo.Field00.State
 Player.InteriorRoomStyleInfo.Field01
 Player.InteriorRoomStyleInfo.Field01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Field01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Field01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Field01.KeyHash
 Player.InteriorRoomStyleInfo.Field01.LastObtainedSec
@@ -4784,6 +4866,7 @@ Player.InteriorRoomStyleInfo.Field01.OwnNum
 Player.InteriorRoomStyleInfo.Field01.State
 Player.InteriorRoomStyleInfo.Flowergarden00
 Player.InteriorRoomStyleInfo.Flowergarden00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Flowergarden00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Flowergarden00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Flowergarden00.KeyHash
 Player.InteriorRoomStyleInfo.Flowergarden00.LastObtainedSec
@@ -4791,6 +4874,7 @@ Player.InteriorRoomStyleInfo.Flowergarden00.OwnNum
 Player.InteriorRoomStyleInfo.Flowergarden00.State
 Player.InteriorRoomStyleInfo.Formula00
 Player.InteriorRoomStyleInfo.Formula00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Formula00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Formula00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Formula00.KeyHash
 Player.InteriorRoomStyleInfo.Formula00.LastObtainedSec
@@ -4798,6 +4882,7 @@ Player.InteriorRoomStyleInfo.Formula00.OwnNum
 Player.InteriorRoomStyleInfo.Formula00.State
 Player.InteriorRoomStyleInfo.Formula01
 Player.InteriorRoomStyleInfo.Formula01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Formula01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Formula01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Formula01.KeyHash
 Player.InteriorRoomStyleInfo.Formula01.LastObtainedSec
@@ -4805,6 +4890,7 @@ Player.InteriorRoomStyleInfo.Formula01.OwnNum
 Player.InteriorRoomStyleInfo.Formula01.State
 Player.InteriorRoomStyleInfo.Fruit00
 Player.InteriorRoomStyleInfo.Fruit00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Fruit00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Fruit00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Fruit00.KeyHash
 Player.InteriorRoomStyleInfo.Fruit00.LastObtainedSec
@@ -4812,6 +4898,7 @@ Player.InteriorRoomStyleInfo.Fruit00.OwnNum
 Player.InteriorRoomStyleInfo.Fruit00.State
 Player.InteriorRoomStyleInfo.Fruit01
 Player.InteriorRoomStyleInfo.Fruit01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Fruit01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Fruit01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Fruit01.KeyHash
 Player.InteriorRoomStyleInfo.Fruit01.LastObtainedSec
@@ -4819,6 +4906,7 @@ Player.InteriorRoomStyleInfo.Fruit01.OwnNum
 Player.InteriorRoomStyleInfo.Fruit01.State
 Player.InteriorRoomStyleInfo.Fruit02
 Player.InteriorRoomStyleInfo.Fruit02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Fruit02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Fruit02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Fruit02.KeyHash
 Player.InteriorRoomStyleInfo.Fruit02.LastObtainedSec
@@ -4826,6 +4914,7 @@ Player.InteriorRoomStyleInfo.Fruit02.OwnNum
 Player.InteriorRoomStyleInfo.Fruit02.State
 Player.InteriorRoomStyleInfo.Fruit03
 Player.InteriorRoomStyleInfo.Fruit03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Fruit03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Fruit03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Fruit03.KeyHash
 Player.InteriorRoomStyleInfo.Fruit03.LastObtainedSec
@@ -4833,6 +4922,7 @@ Player.InteriorRoomStyleInfo.Fruit03.OwnNum
 Player.InteriorRoomStyleInfo.Fruit03.State
 Player.InteriorRoomStyleInfo.Fruit04
 Player.InteriorRoomStyleInfo.Fruit04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Fruit04.InformedNewRelease
 Player.InteriorRoomStyleInfo.Fruit04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Fruit04.KeyHash
 Player.InteriorRoomStyleInfo.Fruit04.LastObtainedSec
@@ -4840,6 +4930,7 @@ Player.InteriorRoomStyleInfo.Fruit04.OwnNum
 Player.InteriorRoomStyleInfo.Fruit04.State
 Player.InteriorRoomStyleInfo.Fruit05
 Player.InteriorRoomStyleInfo.Fruit05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Fruit05.InformedNewRelease
 Player.InteriorRoomStyleInfo.Fruit05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Fruit05.KeyHash
 Player.InteriorRoomStyleInfo.Fruit05.LastObtainedSec
@@ -4847,6 +4938,7 @@ Player.InteriorRoomStyleInfo.Fruit05.OwnNum
 Player.InteriorRoomStyleInfo.Fruit05.State
 Player.InteriorRoomStyleInfo.Fruit06
 Player.InteriorRoomStyleInfo.Fruit06.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Fruit06.InformedNewRelease
 Player.InteriorRoomStyleInfo.Fruit06.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Fruit06.KeyHash
 Player.InteriorRoomStyleInfo.Fruit06.LastObtainedSec
@@ -4854,6 +4946,7 @@ Player.InteriorRoomStyleInfo.Fruit06.OwnNum
 Player.InteriorRoomStyleInfo.Fruit06.State
 Player.InteriorRoomStyleInfo.Fruit07
 Player.InteriorRoomStyleInfo.Fruit07.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Fruit07.InformedNewRelease
 Player.InteriorRoomStyleInfo.Fruit07.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Fruit07.KeyHash
 Player.InteriorRoomStyleInfo.Fruit07.LastObtainedSec
@@ -4861,6 +4954,7 @@ Player.InteriorRoomStyleInfo.Fruit07.OwnNum
 Player.InteriorRoomStyleInfo.Fruit07.State
 Player.InteriorRoomStyleInfo.Galaxy00
 Player.InteriorRoomStyleInfo.Galaxy00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Galaxy00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Galaxy00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Galaxy00.KeyHash
 Player.InteriorRoomStyleInfo.Galaxy00.LastObtainedSec
@@ -4868,6 +4962,7 @@ Player.InteriorRoomStyleInfo.Galaxy00.OwnNum
 Player.InteriorRoomStyleInfo.Galaxy00.State
 Player.InteriorRoomStyleInfo.Game00
 Player.InteriorRoomStyleInfo.Game00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Game00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Game00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Game00.KeyHash
 Player.InteriorRoomStyleInfo.Game00.LastObtainedSec
@@ -4875,6 +4970,7 @@ Player.InteriorRoomStyleInfo.Game00.OwnNum
 Player.InteriorRoomStyleInfo.Game00.State
 Player.InteriorRoomStyleInfo.Game01
 Player.InteriorRoomStyleInfo.Game01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Game01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Game01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Game01.KeyHash
 Player.InteriorRoomStyleInfo.Game01.LastObtainedSec
@@ -4882,6 +4978,7 @@ Player.InteriorRoomStyleInfo.Game01.OwnNum
 Player.InteriorRoomStyleInfo.Game01.State
 Player.InteriorRoomStyleInfo.Garage00
 Player.InteriorRoomStyleInfo.Garage00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Garage00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Garage00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Garage00.KeyHash
 Player.InteriorRoomStyleInfo.Garage00.LastObtainedSec
@@ -4889,6 +4986,7 @@ Player.InteriorRoomStyleInfo.Garage00.OwnNum
 Player.InteriorRoomStyleInfo.Garage00.State
 Player.InteriorRoomStyleInfo.Garage01
 Player.InteriorRoomStyleInfo.Garage01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Garage01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Garage01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Garage01.KeyHash
 Player.InteriorRoomStyleInfo.Garage01.LastObtainedSec
@@ -4896,6 +4994,7 @@ Player.InteriorRoomStyleInfo.Garage01.OwnNum
 Player.InteriorRoomStyleInfo.Garage01.State
 Player.InteriorRoomStyleInfo.Garage02
 Player.InteriorRoomStyleInfo.Garage02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Garage02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Garage02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Garage02.KeyHash
 Player.InteriorRoomStyleInfo.Garage02.LastObtainedSec
@@ -4903,6 +5002,7 @@ Player.InteriorRoomStyleInfo.Garage02.OwnNum
 Player.InteriorRoomStyleInfo.Garage02.State
 Player.InteriorRoomStyleInfo.Garage03
 Player.InteriorRoomStyleInfo.Garage03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Garage03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Garage03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Garage03.KeyHash
 Player.InteriorRoomStyleInfo.Garage03.LastObtainedSec
@@ -4910,6 +5010,7 @@ Player.InteriorRoomStyleInfo.Garage03.OwnNum
 Player.InteriorRoomStyleInfo.Garage03.State
 Player.InteriorRoomStyleInfo.Garage04
 Player.InteriorRoomStyleInfo.Garage04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Garage04.InformedNewRelease
 Player.InteriorRoomStyleInfo.Garage04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Garage04.KeyHash
 Player.InteriorRoomStyleInfo.Garage04.LastObtainedSec
@@ -4917,6 +5018,7 @@ Player.InteriorRoomStyleInfo.Garage04.OwnNum
 Player.InteriorRoomStyleInfo.Garage04.State
 Player.InteriorRoomStyleInfo.Garage05
 Player.InteriorRoomStyleInfo.Garage05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Garage05.InformedNewRelease
 Player.InteriorRoomStyleInfo.Garage05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Garage05.KeyHash
 Player.InteriorRoomStyleInfo.Garage05.LastObtainedSec
@@ -4924,6 +5026,7 @@ Player.InteriorRoomStyleInfo.Garage05.OwnNum
 Player.InteriorRoomStyleInfo.Garage05.State
 Player.InteriorRoomStyleInfo.Garage06
 Player.InteriorRoomStyleInfo.Garage06.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Garage06.InformedNewRelease
 Player.InteriorRoomStyleInfo.Garage06.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Garage06.KeyHash
 Player.InteriorRoomStyleInfo.Garage06.LastObtainedSec
@@ -4931,6 +5034,7 @@ Player.InteriorRoomStyleInfo.Garage06.OwnNum
 Player.InteriorRoomStyleInfo.Garage06.State
 Player.InteriorRoomStyleInfo.Garage07
 Player.InteriorRoomStyleInfo.Garage07.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Garage07.InformedNewRelease
 Player.InteriorRoomStyleInfo.Garage07.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Garage07.KeyHash
 Player.InteriorRoomStyleInfo.Garage07.LastObtainedSec
@@ -4938,6 +5042,7 @@ Player.InteriorRoomStyleInfo.Garage07.OwnNum
 Player.InteriorRoomStyleInfo.Garage07.State
 Player.InteriorRoomStyleInfo.Garden00
 Player.InteriorRoomStyleInfo.Garden00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Garden00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Garden00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Garden00.KeyHash
 Player.InteriorRoomStyleInfo.Garden00.LastObtainedSec
@@ -4945,6 +5050,7 @@ Player.InteriorRoomStyleInfo.Garden00.OwnNum
 Player.InteriorRoomStyleInfo.Garden00.State
 Player.InteriorRoomStyleInfo.GardenWedding00
 Player.InteriorRoomStyleInfo.GardenWedding00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.GardenWedding00.InformedNewRelease
 Player.InteriorRoomStyleInfo.GardenWedding00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.GardenWedding00.KeyHash
 Player.InteriorRoomStyleInfo.GardenWedding00.LastObtainedSec
@@ -4952,6 +5058,7 @@ Player.InteriorRoomStyleInfo.GardenWedding00.OwnNum
 Player.InteriorRoomStyleInfo.GardenWedding00.State
 Player.InteriorRoomStyleInfo.Gold00
 Player.InteriorRoomStyleInfo.Gold00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Gold00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Gold00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Gold00.KeyHash
 Player.InteriorRoomStyleInfo.Gold00.LastObtainedSec
@@ -4959,6 +5066,7 @@ Player.InteriorRoomStyleInfo.Gold00.OwnNum
 Player.InteriorRoomStyleInfo.Gold00.State
 Player.InteriorRoomStyleInfo.Grassland00
 Player.InteriorRoomStyleInfo.Grassland00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Grassland00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Grassland00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Grassland00.KeyHash
 Player.InteriorRoomStyleInfo.Grassland00.LastObtainedSec
@@ -4966,6 +5074,7 @@ Player.InteriorRoomStyleInfo.Grassland00.OwnNum
 Player.InteriorRoomStyleInfo.Grassland00.State
 Player.InteriorRoomStyleInfo.Gym00
 Player.InteriorRoomStyleInfo.Gym00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Gym00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Gym00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Gym00.KeyHash
 Player.InteriorRoomStyleInfo.Gym00.LastObtainedSec
@@ -4973,6 +5082,7 @@ Player.InteriorRoomStyleInfo.Gym00.OwnNum
 Player.InteriorRoomStyleInfo.Gym00.State
 Player.InteriorRoomStyleInfo.Gym01
 Player.InteriorRoomStyleInfo.Gym01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Gym01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Gym01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Gym01.KeyHash
 Player.InteriorRoomStyleInfo.Gym01.LastObtainedSec
@@ -4980,6 +5090,7 @@ Player.InteriorRoomStyleInfo.Gym01.OwnNum
 Player.InteriorRoomStyleInfo.Gym01.State
 Player.InteriorRoomStyleInfo.Gym02
 Player.InteriorRoomStyleInfo.Gym02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Gym02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Gym02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Gym02.KeyHash
 Player.InteriorRoomStyleInfo.Gym02.LastObtainedSec
@@ -4987,6 +5098,7 @@ Player.InteriorRoomStyleInfo.Gym02.OwnNum
 Player.InteriorRoomStyleInfo.Gym02.State
 Player.InteriorRoomStyleInfo.Halloween00
 Player.InteriorRoomStyleInfo.Halloween00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Halloween00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Halloween00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Halloween00.KeyHash
 Player.InteriorRoomStyleInfo.Halloween00.LastObtainedSec
@@ -4994,6 +5106,7 @@ Player.InteriorRoomStyleInfo.Halloween00.OwnNum
 Player.InteriorRoomStyleInfo.Halloween00.State
 Player.InteriorRoomStyleInfo.Heart00
 Player.InteriorRoomStyleInfo.Heart00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Heart00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Heart00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Heart00.KeyHash
 Player.InteriorRoomStyleInfo.Heart00.LastObtainedSec
@@ -5001,6 +5114,7 @@ Player.InteriorRoomStyleInfo.Heart00.OwnNum
 Player.InteriorRoomStyleInfo.Heart00.State
 Player.InteriorRoomStyleInfo.Heart01
 Player.InteriorRoomStyleInfo.Heart01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Heart01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Heart01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Heart01.KeyHash
 Player.InteriorRoomStyleInfo.Heart01.LastObtainedSec
@@ -5008,6 +5122,7 @@ Player.InteriorRoomStyleInfo.Heart01.OwnNum
 Player.InteriorRoomStyleInfo.Heart01.State
 Player.InteriorRoomStyleInfo.Heart02
 Player.InteriorRoomStyleInfo.Heart02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Heart02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Heart02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Heart02.KeyHash
 Player.InteriorRoomStyleInfo.Heart02.LastObtainedSec
@@ -5015,6 +5130,7 @@ Player.InteriorRoomStyleInfo.Heart02.OwnNum
 Player.InteriorRoomStyleInfo.Heart02.State
 Player.InteriorRoomStyleInfo.Heart03
 Player.InteriorRoomStyleInfo.Heart03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Heart03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Heart03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Heart03.KeyHash
 Player.InteriorRoomStyleInfo.Heart03.LastObtainedSec
@@ -5022,6 +5138,7 @@ Player.InteriorRoomStyleInfo.Heart03.OwnNum
 Player.InteriorRoomStyleInfo.Heart03.State
 Player.InteriorRoomStyleInfo.Heart04
 Player.InteriorRoomStyleInfo.Heart04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Heart04.InformedNewRelease
 Player.InteriorRoomStyleInfo.Heart04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Heart04.KeyHash
 Player.InteriorRoomStyleInfo.Heart04.LastObtainedSec
@@ -5029,6 +5146,7 @@ Player.InteriorRoomStyleInfo.Heart04.OwnNum
 Player.InteriorRoomStyleInfo.Heart04.State
 Player.InteriorRoomStyleInfo.Heaven00
 Player.InteriorRoomStyleInfo.Heaven00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Heaven00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Heaven00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Heaven00.KeyHash
 Player.InteriorRoomStyleInfo.Heaven00.LastObtainedSec
@@ -5036,6 +5154,7 @@ Player.InteriorRoomStyleInfo.Heaven00.OwnNum
 Player.InteriorRoomStyleInfo.Heaven00.State
 Player.InteriorRoomStyleInfo.HoneycombTile00
 Player.InteriorRoomStyleInfo.HoneycombTile00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.HoneycombTile00.InformedNewRelease
 Player.InteriorRoomStyleInfo.HoneycombTile00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.HoneycombTile00.KeyHash
 Player.InteriorRoomStyleInfo.HoneycombTile00.LastObtainedSec
@@ -5043,6 +5162,7 @@ Player.InteriorRoomStyleInfo.HoneycombTile00.OwnNum
 Player.InteriorRoomStyleInfo.HoneycombTile00.State
 Player.InteriorRoomStyleInfo.HoneycombTile01
 Player.InteriorRoomStyleInfo.HoneycombTile01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.HoneycombTile01.InformedNewRelease
 Player.InteriorRoomStyleInfo.HoneycombTile01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.HoneycombTile01.KeyHash
 Player.InteriorRoomStyleInfo.HoneycombTile01.LastObtainedSec
@@ -5050,6 +5170,7 @@ Player.InteriorRoomStyleInfo.HoneycombTile01.OwnNum
 Player.InteriorRoomStyleInfo.HoneycombTile01.State
 Player.InteriorRoomStyleInfo.HoneycombTile02
 Player.InteriorRoomStyleInfo.HoneycombTile02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.HoneycombTile02.InformedNewRelease
 Player.InteriorRoomStyleInfo.HoneycombTile02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.HoneycombTile02.KeyHash
 Player.InteriorRoomStyleInfo.HoneycombTile02.LastObtainedSec
@@ -5057,6 +5178,7 @@ Player.InteriorRoomStyleInfo.HoneycombTile02.OwnNum
 Player.InteriorRoomStyleInfo.HoneycombTile02.State
 Player.InteriorRoomStyleInfo.HoneycombTile03
 Player.InteriorRoomStyleInfo.HoneycombTile03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.HoneycombTile03.InformedNewRelease
 Player.InteriorRoomStyleInfo.HoneycombTile03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.HoneycombTile03.KeyHash
 Player.InteriorRoomStyleInfo.HoneycombTile03.LastObtainedSec
@@ -5064,6 +5186,7 @@ Player.InteriorRoomStyleInfo.HoneycombTile03.OwnNum
 Player.InteriorRoomStyleInfo.HoneycombTile03.State
 Player.InteriorRoomStyleInfo.HoneycombTile04
 Player.InteriorRoomStyleInfo.HoneycombTile04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.HoneycombTile04.InformedNewRelease
 Player.InteriorRoomStyleInfo.HoneycombTile04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.HoneycombTile04.KeyHash
 Player.InteriorRoomStyleInfo.HoneycombTile04.LastObtainedSec
@@ -5071,6 +5194,7 @@ Player.InteriorRoomStyleInfo.HoneycombTile04.OwnNum
 Player.InteriorRoomStyleInfo.HoneycombTile04.State
 Player.InteriorRoomStyleInfo.Horror00
 Player.InteriorRoomStyleInfo.Horror00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Horror00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Horror00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Horror00.KeyHash
 Player.InteriorRoomStyleInfo.Horror00.LastObtainedSec
@@ -5078,6 +5202,7 @@ Player.InteriorRoomStyleInfo.Horror00.OwnNum
 Player.InteriorRoomStyleInfo.Horror00.State
 Player.InteriorRoomStyleInfo.Horror01
 Player.InteriorRoomStyleInfo.Horror01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Horror01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Horror01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Horror01.KeyHash
 Player.InteriorRoomStyleInfo.Horror01.LastObtainedSec
@@ -5085,6 +5210,7 @@ Player.InteriorRoomStyleInfo.Horror01.OwnNum
 Player.InteriorRoomStyleInfo.Horror01.State
 Player.InteriorRoomStyleInfo.Hospital00
 Player.InteriorRoomStyleInfo.Hospital00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Hospital00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Hospital00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Hospital00.KeyHash
 Player.InteriorRoomStyleInfo.Hospital00.LastObtainedSec
@@ -5092,6 +5218,7 @@ Player.InteriorRoomStyleInfo.Hospital00.OwnNum
 Player.InteriorRoomStyleInfo.Hospital00.State
 Player.InteriorRoomStyleInfo.IceRink00
 Player.InteriorRoomStyleInfo.IceRink00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.IceRink00.InformedNewRelease
 Player.InteriorRoomStyleInfo.IceRink00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.IceRink00.KeyHash
 Player.InteriorRoomStyleInfo.IceRink00.LastObtainedSec
@@ -5099,6 +5226,7 @@ Player.InteriorRoomStyleInfo.IceRink00.OwnNum
 Player.InteriorRoomStyleInfo.IceRink00.State
 Player.InteriorRoomStyleInfo.InterviewBoard00
 Player.InteriorRoomStyleInfo.InterviewBoard00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.InterviewBoard00.InformedNewRelease
 Player.InteriorRoomStyleInfo.InterviewBoard00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.InterviewBoard00.KeyHash
 Player.InteriorRoomStyleInfo.InterviewBoard00.LastObtainedSec
@@ -5106,6 +5234,7 @@ Player.InteriorRoomStyleInfo.InterviewBoard00.OwnNum
 Player.InteriorRoomStyleInfo.InterviewBoard00.State
 Player.InteriorRoomStyleInfo.Jail00
 Player.InteriorRoomStyleInfo.Jail00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Jail00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Jail00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Jail00.KeyHash
 Player.InteriorRoomStyleInfo.Jail00.LastObtainedSec
@@ -5113,6 +5242,7 @@ Player.InteriorRoomStyleInfo.Jail00.OwnNum
 Player.InteriorRoomStyleInfo.Jail00.State
 Player.InteriorRoomStyleInfo.Japanese00
 Player.InteriorRoomStyleInfo.Japanese00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Japanese00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Japanese00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Japanese00.KeyHash
 Player.InteriorRoomStyleInfo.Japanese00.LastObtainedSec
@@ -5120,6 +5250,7 @@ Player.InteriorRoomStyleInfo.Japanese00.OwnNum
 Player.InteriorRoomStyleInfo.Japanese00.State
 Player.InteriorRoomStyleInfo.Japanese01
 Player.InteriorRoomStyleInfo.Japanese01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Japanese01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Japanese01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Japanese01.KeyHash
 Player.InteriorRoomStyleInfo.Japanese01.LastObtainedSec
@@ -5127,6 +5258,7 @@ Player.InteriorRoomStyleInfo.Japanese01.OwnNum
 Player.InteriorRoomStyleInfo.Japanese01.State
 Player.InteriorRoomStyleInfo.Japanese02
 Player.InteriorRoomStyleInfo.Japanese02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Japanese02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Japanese02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Japanese02.KeyHash
 Player.InteriorRoomStyleInfo.Japanese02.LastObtainedSec
@@ -5134,6 +5266,7 @@ Player.InteriorRoomStyleInfo.Japanese02.OwnNum
 Player.InteriorRoomStyleInfo.Japanese02.State
 Player.InteriorRoomStyleInfo.Japanese03
 Player.InteriorRoomStyleInfo.Japanese03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Japanese03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Japanese03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Japanese03.KeyHash
 Player.InteriorRoomStyleInfo.Japanese03.LastObtainedSec
@@ -5141,6 +5274,7 @@ Player.InteriorRoomStyleInfo.Japanese03.OwnNum
 Player.InteriorRoomStyleInfo.Japanese03.State
 Player.InteriorRoomStyleInfo.Japanese04
 Player.InteriorRoomStyleInfo.Japanese04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Japanese04.InformedNewRelease
 Player.InteriorRoomStyleInfo.Japanese04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Japanese04.KeyHash
 Player.InteriorRoomStyleInfo.Japanese04.LastObtainedSec
@@ -5148,6 +5282,7 @@ Player.InteriorRoomStyleInfo.Japanese04.OwnNum
 Player.InteriorRoomStyleInfo.Japanese04.State
 Player.InteriorRoomStyleInfo.Japanese05
 Player.InteriorRoomStyleInfo.Japanese05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Japanese05.InformedNewRelease
 Player.InteriorRoomStyleInfo.Japanese05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Japanese05.KeyHash
 Player.InteriorRoomStyleInfo.Japanese05.LastObtainedSec
@@ -5155,6 +5290,7 @@ Player.InteriorRoomStyleInfo.Japanese05.OwnNum
 Player.InteriorRoomStyleInfo.Japanese05.State
 Player.InteriorRoomStyleInfo.Jungle00
 Player.InteriorRoomStyleInfo.Jungle00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Jungle00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Jungle00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Jungle00.KeyHash
 Player.InteriorRoomStyleInfo.Jungle00.LastObtainedSec
@@ -5162,6 +5298,7 @@ Player.InteriorRoomStyleInfo.Jungle00.OwnNum
 Player.InteriorRoomStyleInfo.Jungle00.State
 Player.InteriorRoomStyleInfo.Labo00
 Player.InteriorRoomStyleInfo.Labo00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Labo00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Labo00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Labo00.KeyHash
 Player.InteriorRoomStyleInfo.Labo00.LastObtainedSec
@@ -5169,6 +5306,7 @@ Player.InteriorRoomStyleInfo.Labo00.OwnNum
 Player.InteriorRoomStyleInfo.Labo00.State
 Player.InteriorRoomStyleInfo.Lace00
 Player.InteriorRoomStyleInfo.Lace00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Lace00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Lace00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Lace00.KeyHash
 Player.InteriorRoomStyleInfo.Lace00.LastObtainedSec
@@ -5176,6 +5314,7 @@ Player.InteriorRoomStyleInfo.Lace00.OwnNum
 Player.InteriorRoomStyleInfo.Lace00.State
 Player.InteriorRoomStyleInfo.Lace01
 Player.InteriorRoomStyleInfo.Lace01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Lace01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Lace01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Lace01.KeyHash
 Player.InteriorRoomStyleInfo.Lace01.LastObtainedSec
@@ -5183,6 +5322,7 @@ Player.InteriorRoomStyleInfo.Lace01.OwnNum
 Player.InteriorRoomStyleInfo.Lace01.State
 Player.InteriorRoomStyleInfo.Lace02
 Player.InteriorRoomStyleInfo.Lace02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Lace02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Lace02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Lace02.KeyHash
 Player.InteriorRoomStyleInfo.Lace02.LastObtainedSec
@@ -5190,6 +5330,7 @@ Player.InteriorRoomStyleInfo.Lace02.OwnNum
 Player.InteriorRoomStyleInfo.Lace02.State
 Player.InteriorRoomStyleInfo.Lace03
 Player.InteriorRoomStyleInfo.Lace03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Lace03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Lace03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Lace03.KeyHash
 Player.InteriorRoomStyleInfo.Lace03.LastObtainedSec
@@ -5197,6 +5338,7 @@ Player.InteriorRoomStyleInfo.Lace03.OwnNum
 Player.InteriorRoomStyleInfo.Lace03.State
 Player.InteriorRoomStyleInfo.Lace04
 Player.InteriorRoomStyleInfo.Lace04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Lace04.InformedNewRelease
 Player.InteriorRoomStyleInfo.Lace04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Lace04.KeyHash
 Player.InteriorRoomStyleInfo.Lace04.LastObtainedSec
@@ -5204,6 +5346,7 @@ Player.InteriorRoomStyleInfo.Lace04.OwnNum
 Player.InteriorRoomStyleInfo.Lace04.State
 Player.InteriorRoomStyleInfo.Lace05
 Player.InteriorRoomStyleInfo.Lace05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Lace05.InformedNewRelease
 Player.InteriorRoomStyleInfo.Lace05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Lace05.KeyHash
 Player.InteriorRoomStyleInfo.Lace05.LastObtainedSec
@@ -5211,6 +5354,7 @@ Player.InteriorRoomStyleInfo.Lace05.OwnNum
 Player.InteriorRoomStyleInfo.Lace05.State
 Player.InteriorRoomStyleInfo.LightStick00
 Player.InteriorRoomStyleInfo.LightStick00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.LightStick00.InformedNewRelease
 Player.InteriorRoomStyleInfo.LightStick00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.LightStick00.KeyHash
 Player.InteriorRoomStyleInfo.LightStick00.LastObtainedSec
@@ -5218,6 +5362,7 @@ Player.InteriorRoomStyleInfo.LightStick00.OwnNum
 Player.InteriorRoomStyleInfo.LightStick00.State
 Player.InteriorRoomStyleInfo.LightStick01
 Player.InteriorRoomStyleInfo.LightStick01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.LightStick01.InformedNewRelease
 Player.InteriorRoomStyleInfo.LightStick01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.LightStick01.KeyHash
 Player.InteriorRoomStyleInfo.LightStick01.LastObtainedSec
@@ -5225,6 +5370,7 @@ Player.InteriorRoomStyleInfo.LightStick01.OwnNum
 Player.InteriorRoomStyleInfo.LightStick01.State
 Player.InteriorRoomStyleInfo.LightStick02
 Player.InteriorRoomStyleInfo.LightStick02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.LightStick02.InformedNewRelease
 Player.InteriorRoomStyleInfo.LightStick02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.LightStick02.KeyHash
 Player.InteriorRoomStyleInfo.LightStick02.LastObtainedSec
@@ -5232,6 +5378,7 @@ Player.InteriorRoomStyleInfo.LightStick02.OwnNum
 Player.InteriorRoomStyleInfo.LightStick02.State
 Player.InteriorRoomStyleInfo.LightStick03
 Player.InteriorRoomStyleInfo.LightStick03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.LightStick03.InformedNewRelease
 Player.InteriorRoomStyleInfo.LightStick03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.LightStick03.KeyHash
 Player.InteriorRoomStyleInfo.LightStick03.LastObtainedSec
@@ -5239,6 +5386,7 @@ Player.InteriorRoomStyleInfo.LightStick03.OwnNum
 Player.InteriorRoomStyleInfo.LightStick03.State
 Player.InteriorRoomStyleInfo.LightStick04
 Player.InteriorRoomStyleInfo.LightStick04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.LightStick04.InformedNewRelease
 Player.InteriorRoomStyleInfo.LightStick04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.LightStick04.KeyHash
 Player.InteriorRoomStyleInfo.LightStick04.LastObtainedSec
@@ -5246,6 +5394,7 @@ Player.InteriorRoomStyleInfo.LightStick04.OwnNum
 Player.InteriorRoomStyleInfo.LightStick04.State
 Player.InteriorRoomStyleInfo.LightStick05
 Player.InteriorRoomStyleInfo.LightStick05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.LightStick05.InformedNewRelease
 Player.InteriorRoomStyleInfo.LightStick05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.LightStick05.KeyHash
 Player.InteriorRoomStyleInfo.LightStick05.LastObtainedSec
@@ -5253,6 +5402,7 @@ Player.InteriorRoomStyleInfo.LightStick05.OwnNum
 Player.InteriorRoomStyleInfo.LightStick05.State
 Player.InteriorRoomStyleInfo.LightStick06
 Player.InteriorRoomStyleInfo.LightStick06.FirstObtainedSec
+Player.InteriorRoomStyleInfo.LightStick06.InformedNewRelease
 Player.InteriorRoomStyleInfo.LightStick06.IsNewlyOwned
 Player.InteriorRoomStyleInfo.LightStick06.KeyHash
 Player.InteriorRoomStyleInfo.LightStick06.LastObtainedSec
@@ -5260,6 +5410,7 @@ Player.InteriorRoomStyleInfo.LightStick06.OwnNum
 Player.InteriorRoomStyleInfo.LightStick06.State
 Player.InteriorRoomStyleInfo.LightStick07
 Player.InteriorRoomStyleInfo.LightStick07.FirstObtainedSec
+Player.InteriorRoomStyleInfo.LightStick07.InformedNewRelease
 Player.InteriorRoomStyleInfo.LightStick07.IsNewlyOwned
 Player.InteriorRoomStyleInfo.LightStick07.KeyHash
 Player.InteriorRoomStyleInfo.LightStick07.LastObtainedSec
@@ -5267,6 +5418,7 @@ Player.InteriorRoomStyleInfo.LightStick07.OwnNum
 Player.InteriorRoomStyleInfo.LightStick07.State
 Player.InteriorRoomStyleInfo.LockerRoom00
 Player.InteriorRoomStyleInfo.LockerRoom00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.LockerRoom00.InformedNewRelease
 Player.InteriorRoomStyleInfo.LockerRoom00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.LockerRoom00.KeyHash
 Player.InteriorRoomStyleInfo.LockerRoom00.LastObtainedSec
@@ -5274,6 +5426,7 @@ Player.InteriorRoomStyleInfo.LockerRoom00.OwnNum
 Player.InteriorRoomStyleInfo.LockerRoom00.State
 Player.InteriorRoomStyleInfo.LockerRoom01
 Player.InteriorRoomStyleInfo.LockerRoom01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.LockerRoom01.InformedNewRelease
 Player.InteriorRoomStyleInfo.LockerRoom01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.LockerRoom01.KeyHash
 Player.InteriorRoomStyleInfo.LockerRoom01.LastObtainedSec
@@ -5281,6 +5434,7 @@ Player.InteriorRoomStyleInfo.LockerRoom01.OwnNum
 Player.InteriorRoomStyleInfo.LockerRoom01.State
 Player.InteriorRoomStyleInfo.LockerRoom02
 Player.InteriorRoomStyleInfo.LockerRoom02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.LockerRoom02.InformedNewRelease
 Player.InteriorRoomStyleInfo.LockerRoom02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.LockerRoom02.KeyHash
 Player.InteriorRoomStyleInfo.LockerRoom02.LastObtainedSec
@@ -5288,6 +5442,7 @@ Player.InteriorRoomStyleInfo.LockerRoom02.OwnNum
 Player.InteriorRoomStyleInfo.LockerRoom02.State
 Player.InteriorRoomStyleInfo.Log00
 Player.InteriorRoomStyleInfo.Log00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Log00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Log00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Log00.KeyHash
 Player.InteriorRoomStyleInfo.Log00.LastObtainedSec
@@ -5295,6 +5450,7 @@ Player.InteriorRoomStyleInfo.Log00.OwnNum
 Player.InteriorRoomStyleInfo.Log00.State
 Player.InteriorRoomStyleInfo.Marble00
 Player.InteriorRoomStyleInfo.Marble00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Marble00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Marble00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Marble00.KeyHash
 Player.InteriorRoomStyleInfo.Marble00.LastObtainedSec
@@ -5302,6 +5458,7 @@ Player.InteriorRoomStyleInfo.Marble00.OwnNum
 Player.InteriorRoomStyleInfo.Marble00.State
 Player.InteriorRoomStyleInfo.Marble01
 Player.InteriorRoomStyleInfo.Marble01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Marble01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Marble01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Marble01.KeyHash
 Player.InteriorRoomStyleInfo.Marble01.LastObtainedSec
@@ -5309,6 +5466,7 @@ Player.InteriorRoomStyleInfo.Marble01.OwnNum
 Player.InteriorRoomStyleInfo.Marble01.State
 Player.InteriorRoomStyleInfo.Market00
 Player.InteriorRoomStyleInfo.Market00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Market00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Market00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Market00.KeyHash
 Player.InteriorRoomStyleInfo.Market00.LastObtainedSec
@@ -5316,6 +5474,7 @@ Player.InteriorRoomStyleInfo.Market00.OwnNum
 Player.InteriorRoomStyleInfo.Market00.State
 Player.InteriorRoomStyleInfo.Midcentury00
 Player.InteriorRoomStyleInfo.Midcentury00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Midcentury00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Midcentury00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Midcentury00.KeyHash
 Player.InteriorRoomStyleInfo.Midcentury00.LastObtainedSec
@@ -5323,6 +5482,7 @@ Player.InteriorRoomStyleInfo.Midcentury00.OwnNum
 Player.InteriorRoomStyleInfo.Midcentury00.State
 Player.InteriorRoomStyleInfo.Midcentury01
 Player.InteriorRoomStyleInfo.Midcentury01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Midcentury01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Midcentury01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Midcentury01.KeyHash
 Player.InteriorRoomStyleInfo.Midcentury01.LastObtainedSec
@@ -5330,6 +5490,7 @@ Player.InteriorRoomStyleInfo.Midcentury01.OwnNum
 Player.InteriorRoomStyleInfo.Midcentury01.State
 Player.InteriorRoomStyleInfo.Minimul00
 Player.InteriorRoomStyleInfo.Minimul00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Minimul00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Minimul00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Minimul00.KeyHash
 Player.InteriorRoomStyleInfo.Minimul00.LastObtainedSec
@@ -5337,6 +5498,7 @@ Player.InteriorRoomStyleInfo.Minimul00.OwnNum
 Player.InteriorRoomStyleInfo.Minimul00.State
 Player.InteriorRoomStyleInfo.Minimul01
 Player.InteriorRoomStyleInfo.Minimul01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Minimul01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Minimul01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Minimul01.KeyHash
 Player.InteriorRoomStyleInfo.Minimul01.LastObtainedSec
@@ -5344,6 +5506,7 @@ Player.InteriorRoomStyleInfo.Minimul01.OwnNum
 Player.InteriorRoomStyleInfo.Minimul01.State
 Player.InteriorRoomStyleInfo.Minimul02
 Player.InteriorRoomStyleInfo.Minimul02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Minimul02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Minimul02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Minimul02.KeyHash
 Player.InteriorRoomStyleInfo.Minimul02.LastObtainedSec
@@ -5351,6 +5514,7 @@ Player.InteriorRoomStyleInfo.Minimul02.OwnNum
 Player.InteriorRoomStyleInfo.Minimul02.State
 Player.InteriorRoomStyleInfo.Minimul03
 Player.InteriorRoomStyleInfo.Minimul03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Minimul03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Minimul03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Minimul03.KeyHash
 Player.InteriorRoomStyleInfo.Minimul03.LastObtainedSec
@@ -5358,6 +5522,7 @@ Player.InteriorRoomStyleInfo.Minimul03.OwnNum
 Player.InteriorRoomStyleInfo.Minimul03.State
 Player.InteriorRoomStyleInfo.Minimul04
 Player.InteriorRoomStyleInfo.Minimul04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Minimul04.InformedNewRelease
 Player.InteriorRoomStyleInfo.Minimul04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Minimul04.KeyHash
 Player.InteriorRoomStyleInfo.Minimul04.LastObtainedSec
@@ -5365,6 +5530,7 @@ Player.InteriorRoomStyleInfo.Minimul04.OwnNum
 Player.InteriorRoomStyleInfo.Minimul04.State
 Player.InteriorRoomStyleInfo.Minimul05
 Player.InteriorRoomStyleInfo.Minimul05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Minimul05.InformedNewRelease
 Player.InteriorRoomStyleInfo.Minimul05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Minimul05.KeyHash
 Player.InteriorRoomStyleInfo.Minimul05.LastObtainedSec
@@ -5372,6 +5538,7 @@ Player.InteriorRoomStyleInfo.Minimul05.OwnNum
 Player.InteriorRoomStyleInfo.Minimul05.State
 Player.InteriorRoomStyleInfo.Minimul06
 Player.InteriorRoomStyleInfo.Minimul06.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Minimul06.InformedNewRelease
 Player.InteriorRoomStyleInfo.Minimul06.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Minimul06.KeyHash
 Player.InteriorRoomStyleInfo.Minimul06.LastObtainedSec
@@ -5379,6 +5546,7 @@ Player.InteriorRoomStyleInfo.Minimul06.OwnNum
 Player.InteriorRoomStyleInfo.Minimul06.State
 Player.InteriorRoomStyleInfo.Minimul07
 Player.InteriorRoomStyleInfo.Minimul07.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Minimul07.InformedNewRelease
 Player.InteriorRoomStyleInfo.Minimul07.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Minimul07.KeyHash
 Player.InteriorRoomStyleInfo.Minimul07.LastObtainedSec
@@ -5386,6 +5554,7 @@ Player.InteriorRoomStyleInfo.Minimul07.OwnNum
 Player.InteriorRoomStyleInfo.Minimul07.State
 Player.InteriorRoomStyleInfo.MonitorRoom00
 Player.InteriorRoomStyleInfo.MonitorRoom00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.MonitorRoom00.InformedNewRelease
 Player.InteriorRoomStyleInfo.MonitorRoom00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.MonitorRoom00.KeyHash
 Player.InteriorRoomStyleInfo.MonitorRoom00.LastObtainedSec
@@ -5393,6 +5562,7 @@ Player.InteriorRoomStyleInfo.MonitorRoom00.OwnNum
 Player.InteriorRoomStyleInfo.MonitorRoom00.State
 Player.InteriorRoomStyleInfo.MonitorRoom01
 Player.InteriorRoomStyleInfo.MonitorRoom01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.MonitorRoom01.InformedNewRelease
 Player.InteriorRoomStyleInfo.MonitorRoom01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.MonitorRoom01.KeyHash
 Player.InteriorRoomStyleInfo.MonitorRoom01.LastObtainedSec
@@ -5400,6 +5570,7 @@ Player.InteriorRoomStyleInfo.MonitorRoom01.OwnNum
 Player.InteriorRoomStyleInfo.MonitorRoom01.State
 Player.InteriorRoomStyleInfo.MonitorRoom02
 Player.InteriorRoomStyleInfo.MonitorRoom02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.MonitorRoom02.InformedNewRelease
 Player.InteriorRoomStyleInfo.MonitorRoom02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.MonitorRoom02.KeyHash
 Player.InteriorRoomStyleInfo.MonitorRoom02.LastObtainedSec
@@ -5407,6 +5578,7 @@ Player.InteriorRoomStyleInfo.MonitorRoom02.OwnNum
 Player.InteriorRoomStyleInfo.MonitorRoom02.State
 Player.InteriorRoomStyleInfo.MovingBox00
 Player.InteriorRoomStyleInfo.MovingBox00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.MovingBox00.InformedNewRelease
 Player.InteriorRoomStyleInfo.MovingBox00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.MovingBox00.KeyHash
 Player.InteriorRoomStyleInfo.MovingBox00.LastObtainedSec
@@ -5414,6 +5586,7 @@ Player.InteriorRoomStyleInfo.MovingBox00.OwnNum
 Player.InteriorRoomStyleInfo.MovingBox00.State
 Player.InteriorRoomStyleInfo.MovingBox01
 Player.InteriorRoomStyleInfo.MovingBox01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.MovingBox01.InformedNewRelease
 Player.InteriorRoomStyleInfo.MovingBox01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.MovingBox01.KeyHash
 Player.InteriorRoomStyleInfo.MovingBox01.LastObtainedSec
@@ -5421,6 +5594,7 @@ Player.InteriorRoomStyleInfo.MovingBox01.OwnNum
 Player.InteriorRoomStyleInfo.MovingBox01.State
 Player.InteriorRoomStyleInfo.MultiDot00
 Player.InteriorRoomStyleInfo.MultiDot00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.MultiDot00.InformedNewRelease
 Player.InteriorRoomStyleInfo.MultiDot00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.MultiDot00.KeyHash
 Player.InteriorRoomStyleInfo.MultiDot00.LastObtainedSec
@@ -5428,6 +5602,7 @@ Player.InteriorRoomStyleInfo.MultiDot00.OwnNum
 Player.InteriorRoomStyleInfo.MultiDot00.State
 Player.InteriorRoomStyleInfo.MultiDot01
 Player.InteriorRoomStyleInfo.MultiDot01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.MultiDot01.InformedNewRelease
 Player.InteriorRoomStyleInfo.MultiDot01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.MultiDot01.KeyHash
 Player.InteriorRoomStyleInfo.MultiDot01.LastObtainedSec
@@ -5435,6 +5610,7 @@ Player.InteriorRoomStyleInfo.MultiDot01.OwnNum
 Player.InteriorRoomStyleInfo.MultiDot01.State
 Player.InteriorRoomStyleInfo.MultiDot02
 Player.InteriorRoomStyleInfo.MultiDot02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.MultiDot02.InformedNewRelease
 Player.InteriorRoomStyleInfo.MultiDot02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.MultiDot02.KeyHash
 Player.InteriorRoomStyleInfo.MultiDot02.LastObtainedSec
@@ -5442,6 +5618,7 @@ Player.InteriorRoomStyleInfo.MultiDot02.OwnNum
 Player.InteriorRoomStyleInfo.MultiDot02.State
 Player.InteriorRoomStyleInfo.MultiDot03
 Player.InteriorRoomStyleInfo.MultiDot03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.MultiDot03.InformedNewRelease
 Player.InteriorRoomStyleInfo.MultiDot03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.MultiDot03.KeyHash
 Player.InteriorRoomStyleInfo.MultiDot03.LastObtainedSec
@@ -5449,6 +5626,7 @@ Player.InteriorRoomStyleInfo.MultiDot03.OwnNum
 Player.InteriorRoomStyleInfo.MultiDot03.State
 Player.InteriorRoomStyleInfo.MusicRoom00
 Player.InteriorRoomStyleInfo.MusicRoom00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.MusicRoom00.InformedNewRelease
 Player.InteriorRoomStyleInfo.MusicRoom00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.MusicRoom00.KeyHash
 Player.InteriorRoomStyleInfo.MusicRoom00.LastObtainedSec
@@ -5456,6 +5634,7 @@ Player.InteriorRoomStyleInfo.MusicRoom00.OwnNum
 Player.InteriorRoomStyleInfo.MusicRoom00.State
 Player.InteriorRoomStyleInfo.NeonSign00
 Player.InteriorRoomStyleInfo.NeonSign00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.NeonSign00.InformedNewRelease
 Player.InteriorRoomStyleInfo.NeonSign00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.NeonSign00.KeyHash
 Player.InteriorRoomStyleInfo.NeonSign00.LastObtainedSec
@@ -5463,6 +5642,7 @@ Player.InteriorRoomStyleInfo.NeonSign00.OwnNum
 Player.InteriorRoomStyleInfo.NeonSign00.State
 Player.InteriorRoomStyleInfo.NightView00
 Player.InteriorRoomStyleInfo.NightView00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.NightView00.InformedNewRelease
 Player.InteriorRoomStyleInfo.NightView00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.NightView00.KeyHash
 Player.InteriorRoomStyleInfo.NightView00.LastObtainedSec
@@ -5470,6 +5650,7 @@ Player.InteriorRoomStyleInfo.NightView00.OwnNum
 Player.InteriorRoomStyleInfo.NightView00.State
 Player.InteriorRoomStyleInfo.Nobility00
 Player.InteriorRoomStyleInfo.Nobility00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Nobility00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Nobility00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Nobility00.KeyHash
 Player.InteriorRoomStyleInfo.Nobility00.LastObtainedSec
@@ -5477,6 +5658,7 @@ Player.InteriorRoomStyleInfo.Nobility00.OwnNum
 Player.InteriorRoomStyleInfo.Nobility00.State
 Player.InteriorRoomStyleInfo.Nobility01
 Player.InteriorRoomStyleInfo.Nobility01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Nobility01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Nobility01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Nobility01.KeyHash
 Player.InteriorRoomStyleInfo.Nobility01.LastObtainedSec
@@ -5484,6 +5666,7 @@ Player.InteriorRoomStyleInfo.Nobility01.OwnNum
 Player.InteriorRoomStyleInfo.Nobility01.State
 Player.InteriorRoomStyleInfo.Nobility02
 Player.InteriorRoomStyleInfo.Nobility02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Nobility02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Nobility02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Nobility02.KeyHash
 Player.InteriorRoomStyleInfo.Nobility02.LastObtainedSec
@@ -5491,6 +5674,7 @@ Player.InteriorRoomStyleInfo.Nobility02.OwnNum
 Player.InteriorRoomStyleInfo.Nobility02.State
 Player.InteriorRoomStyleInfo.Office00
 Player.InteriorRoomStyleInfo.Office00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Office00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Office00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Office00.KeyHash
 Player.InteriorRoomStyleInfo.Office00.LastObtainedSec
@@ -5498,6 +5682,7 @@ Player.InteriorRoomStyleInfo.Office00.OwnNum
 Player.InteriorRoomStyleInfo.Office00.State
 Player.InteriorRoomStyleInfo.Office01
 Player.InteriorRoomStyleInfo.Office01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Office01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Office01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Office01.KeyHash
 Player.InteriorRoomStyleInfo.Office01.LastObtainedSec
@@ -5505,6 +5690,7 @@ Player.InteriorRoomStyleInfo.Office01.OwnNum
 Player.InteriorRoomStyleInfo.Office01.State
 Player.InteriorRoomStyleInfo.Otaku00
 Player.InteriorRoomStyleInfo.Otaku00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Otaku00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Otaku00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Otaku00.KeyHash
 Player.InteriorRoomStyleInfo.Otaku00.LastObtainedSec
@@ -5512,6 +5698,7 @@ Player.InteriorRoomStyleInfo.Otaku00.OwnNum
 Player.InteriorRoomStyleInfo.Otaku00.State
 Player.InteriorRoomStyleInfo.Otaku02
 Player.InteriorRoomStyleInfo.Otaku02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Otaku02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Otaku02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Otaku02.KeyHash
 Player.InteriorRoomStyleInfo.Otaku02.LastObtainedSec
@@ -5519,6 +5706,7 @@ Player.InteriorRoomStyleInfo.Otaku02.OwnNum
 Player.InteriorRoomStyleInfo.Otaku02.State
 Player.InteriorRoomStyleInfo.Otaku03
 Player.InteriorRoomStyleInfo.Otaku03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Otaku03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Otaku03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Otaku03.KeyHash
 Player.InteriorRoomStyleInfo.Otaku03.LastObtainedSec
@@ -5526,6 +5714,7 @@ Player.InteriorRoomStyleInfo.Otaku03.OwnNum
 Player.InteriorRoomStyleInfo.Otaku03.State
 Player.InteriorRoomStyleInfo.Otaku04
 Player.InteriorRoomStyleInfo.Otaku04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Otaku04.InformedNewRelease
 Player.InteriorRoomStyleInfo.Otaku04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Otaku04.KeyHash
 Player.InteriorRoomStyleInfo.Otaku04.LastObtainedSec
@@ -5533,6 +5722,7 @@ Player.InteriorRoomStyleInfo.Otaku04.OwnNum
 Player.InteriorRoomStyleInfo.Otaku04.State
 Player.InteriorRoomStyleInfo.Party00
 Player.InteriorRoomStyleInfo.Party00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Party00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Party00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Party00.KeyHash
 Player.InteriorRoomStyleInfo.Party00.LastObtainedSec
@@ -5540,6 +5730,7 @@ Player.InteriorRoomStyleInfo.Party00.OwnNum
 Player.InteriorRoomStyleInfo.Party00.State
 Player.InteriorRoomStyleInfo.Party01
 Player.InteriorRoomStyleInfo.Party01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Party01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Party01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Party01.KeyHash
 Player.InteriorRoomStyleInfo.Party01.LastObtainedSec
@@ -5547,6 +5738,7 @@ Player.InteriorRoomStyleInfo.Party01.OwnNum
 Player.InteriorRoomStyleInfo.Party01.State
 Player.InteriorRoomStyleInfo.Party02
 Player.InteriorRoomStyleInfo.Party02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Party02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Party02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Party02.KeyHash
 Player.InteriorRoomStyleInfo.Party02.LastObtainedSec
@@ -5554,6 +5746,7 @@ Player.InteriorRoomStyleInfo.Party02.OwnNum
 Player.InteriorRoomStyleInfo.Party02.State
 Player.InteriorRoomStyleInfo.Party03
 Player.InteriorRoomStyleInfo.Party03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Party03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Party03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Party03.KeyHash
 Player.InteriorRoomStyleInfo.Party03.LastObtainedSec
@@ -5561,6 +5754,7 @@ Player.InteriorRoomStyleInfo.Party03.OwnNum
 Player.InteriorRoomStyleInfo.Party03.State
 Player.InteriorRoomStyleInfo.Party04
 Player.InteriorRoomStyleInfo.Party04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Party04.InformedNewRelease
 Player.InteriorRoomStyleInfo.Party04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Party04.KeyHash
 Player.InteriorRoomStyleInfo.Party04.LastObtainedSec
@@ -5568,6 +5762,7 @@ Player.InteriorRoomStyleInfo.Party04.OwnNum
 Player.InteriorRoomStyleInfo.Party04.State
 Player.InteriorRoomStyleInfo.Party05
 Player.InteriorRoomStyleInfo.Party05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Party05.InformedNewRelease
 Player.InteriorRoomStyleInfo.Party05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Party05.KeyHash
 Player.InteriorRoomStyleInfo.Party05.LastObtainedSec
@@ -5575,6 +5770,7 @@ Player.InteriorRoomStyleInfo.Party05.OwnNum
 Player.InteriorRoomStyleInfo.Party05.State
 Player.InteriorRoomStyleInfo.Party06
 Player.InteriorRoomStyleInfo.Party06.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Party06.InformedNewRelease
 Player.InteriorRoomStyleInfo.Party06.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Party06.KeyHash
 Player.InteriorRoomStyleInfo.Party06.LastObtainedSec
@@ -5582,6 +5778,7 @@ Player.InteriorRoomStyleInfo.Party06.OwnNum
 Player.InteriorRoomStyleInfo.Party06.State
 Player.InteriorRoomStyleInfo.Party07
 Player.InteriorRoomStyleInfo.Party07.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Party07.InformedNewRelease
 Player.InteriorRoomStyleInfo.Party07.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Party07.KeyHash
 Player.InteriorRoomStyleInfo.Party07.LastObtainedSec
@@ -5589,6 +5786,7 @@ Player.InteriorRoomStyleInfo.Party07.OwnNum
 Player.InteriorRoomStyleInfo.Party07.State
 Player.InteriorRoomStyleInfo.Pirate00
 Player.InteriorRoomStyleInfo.Pirate00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Pirate00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Pirate00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Pirate00.KeyHash
 Player.InteriorRoomStyleInfo.Pirate00.LastObtainedSec
@@ -5596,6 +5794,7 @@ Player.InteriorRoomStyleInfo.Pirate00.OwnNum
 Player.InteriorRoomStyleInfo.Pirate00.State
 Player.InteriorRoomStyleInfo.PublicBath00
 Player.InteriorRoomStyleInfo.PublicBath00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.PublicBath00.InformedNewRelease
 Player.InteriorRoomStyleInfo.PublicBath00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.PublicBath00.KeyHash
 Player.InteriorRoomStyleInfo.PublicBath00.LastObtainedSec
@@ -5603,6 +5802,7 @@ Player.InteriorRoomStyleInfo.PublicBath00.OwnNum
 Player.InteriorRoomStyleInfo.PublicBath00.State
 Player.InteriorRoomStyleInfo.Rain00
 Player.InteriorRoomStyleInfo.Rain00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Rain00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Rain00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Rain00.KeyHash
 Player.InteriorRoomStyleInfo.Rain00.LastObtainedSec
@@ -5610,6 +5810,7 @@ Player.InteriorRoomStyleInfo.Rain00.OwnNum
 Player.InteriorRoomStyleInfo.Rain00.State
 Player.InteriorRoomStyleInfo.Sakura00
 Player.InteriorRoomStyleInfo.Sakura00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Sakura00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Sakura00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Sakura00.KeyHash
 Player.InteriorRoomStyleInfo.Sakura00.LastObtainedSec
@@ -5617,6 +5818,7 @@ Player.InteriorRoomStyleInfo.Sakura00.OwnNum
 Player.InteriorRoomStyleInfo.Sakura00.State
 Player.InteriorRoomStyleInfo.Sauna00
 Player.InteriorRoomStyleInfo.Sauna00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Sauna00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Sauna00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Sauna00.KeyHash
 Player.InteriorRoomStyleInfo.Sauna00.LastObtainedSec
@@ -5624,6 +5826,7 @@ Player.InteriorRoomStyleInfo.Sauna00.OwnNum
 Player.InteriorRoomStyleInfo.Sauna00.State
 Player.InteriorRoomStyleInfo.SF00
 Player.InteriorRoomStyleInfo.SF00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SF00.InformedNewRelease
 Player.InteriorRoomStyleInfo.SF00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SF00.KeyHash
 Player.InteriorRoomStyleInfo.SF00.LastObtainedSec
@@ -5631,6 +5834,7 @@ Player.InteriorRoomStyleInfo.SF00.OwnNum
 Player.InteriorRoomStyleInfo.SF00.State
 Player.InteriorRoomStyleInfo.SF01
 Player.InteriorRoomStyleInfo.SF01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SF01.InformedNewRelease
 Player.InteriorRoomStyleInfo.SF01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SF01.KeyHash
 Player.InteriorRoomStyleInfo.SF01.LastObtainedSec
@@ -5638,6 +5842,7 @@ Player.InteriorRoomStyleInfo.SF01.OwnNum
 Player.InteriorRoomStyleInfo.SF01.State
 Player.InteriorRoomStyleInfo.SF02
 Player.InteriorRoomStyleInfo.SF02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SF02.InformedNewRelease
 Player.InteriorRoomStyleInfo.SF02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SF02.KeyHash
 Player.InteriorRoomStyleInfo.SF02.LastObtainedSec
@@ -5645,6 +5850,7 @@ Player.InteriorRoomStyleInfo.SF02.OwnNum
 Player.InteriorRoomStyleInfo.SF02.State
 Player.InteriorRoomStyleInfo.SF03
 Player.InteriorRoomStyleInfo.SF03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SF03.InformedNewRelease
 Player.InteriorRoomStyleInfo.SF03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SF03.KeyHash
 Player.InteriorRoomStyleInfo.SF03.LastObtainedSec
@@ -5652,6 +5858,7 @@ Player.InteriorRoomStyleInfo.SF03.OwnNum
 Player.InteriorRoomStyleInfo.SF03.State
 Player.InteriorRoomStyleInfo.SF04
 Player.InteriorRoomStyleInfo.SF04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SF04.InformedNewRelease
 Player.InteriorRoomStyleInfo.SF04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SF04.KeyHash
 Player.InteriorRoomStyleInfo.SF04.LastObtainedSec
@@ -5659,6 +5866,7 @@ Player.InteriorRoomStyleInfo.SF04.OwnNum
 Player.InteriorRoomStyleInfo.SF04.State
 Player.InteriorRoomStyleInfo.SF05
 Player.InteriorRoomStyleInfo.SF05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SF05.InformedNewRelease
 Player.InteriorRoomStyleInfo.SF05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SF05.KeyHash
 Player.InteriorRoomStyleInfo.SF05.LastObtainedSec
@@ -5666,6 +5874,7 @@ Player.InteriorRoomStyleInfo.SF05.OwnNum
 Player.InteriorRoomStyleInfo.SF05.State
 Player.InteriorRoomStyleInfo.SFX00
 Player.InteriorRoomStyleInfo.SFX00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SFX00.InformedNewRelease
 Player.InteriorRoomStyleInfo.SFX00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SFX00.KeyHash
 Player.InteriorRoomStyleInfo.SFX00.LastObtainedSec
@@ -5673,6 +5882,7 @@ Player.InteriorRoomStyleInfo.SFX00.OwnNum
 Player.InteriorRoomStyleInfo.SFX00.State
 Player.InteriorRoomStyleInfo.SFX01
 Player.InteriorRoomStyleInfo.SFX01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SFX01.InformedNewRelease
 Player.InteriorRoomStyleInfo.SFX01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SFX01.KeyHash
 Player.InteriorRoomStyleInfo.SFX01.LastObtainedSec
@@ -5680,6 +5890,7 @@ Player.InteriorRoomStyleInfo.SFX01.OwnNum
 Player.InteriorRoomStyleInfo.SFX01.State
 Player.InteriorRoomStyleInfo.Shogun00
 Player.InteriorRoomStyleInfo.Shogun00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Shogun00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Shogun00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Shogun00.KeyHash
 Player.InteriorRoomStyleInfo.Shogun00.LastObtainedSec
@@ -5687,6 +5898,7 @@ Player.InteriorRoomStyleInfo.Shogun00.OwnNum
 Player.InteriorRoomStyleInfo.Shogun00.State
 Player.InteriorRoomStyleInfo.Shoji00
 Player.InteriorRoomStyleInfo.Shoji00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Shoji00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Shoji00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Shoji00.KeyHash
 Player.InteriorRoomStyleInfo.Shoji00.LastObtainedSec
@@ -5694,6 +5906,7 @@ Player.InteriorRoomStyleInfo.Shoji00.OwnNum
 Player.InteriorRoomStyleInfo.Shoji00.State
 Player.InteriorRoomStyleInfo.Shoji01
 Player.InteriorRoomStyleInfo.Shoji01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Shoji01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Shoji01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Shoji01.KeyHash
 Player.InteriorRoomStyleInfo.Shoji01.LastObtainedSec
@@ -5701,6 +5914,7 @@ Player.InteriorRoomStyleInfo.Shoji01.OwnNum
 Player.InteriorRoomStyleInfo.Shoji01.State
 Player.InteriorRoomStyleInfo.Shoji02
 Player.InteriorRoomStyleInfo.Shoji02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Shoji02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Shoji02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Shoji02.KeyHash
 Player.InteriorRoomStyleInfo.Shoji02.LastObtainedSec
@@ -5708,6 +5922,7 @@ Player.InteriorRoomStyleInfo.Shoji02.OwnNum
 Player.InteriorRoomStyleInfo.Shoji02.State
 Player.InteriorRoomStyleInfo.Simple00
 Player.InteriorRoomStyleInfo.Simple00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Simple00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Simple00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Simple00.KeyHash
 Player.InteriorRoomStyleInfo.Simple00.LastObtainedSec
@@ -5715,6 +5930,7 @@ Player.InteriorRoomStyleInfo.Simple00.OwnNum
 Player.InteriorRoomStyleInfo.Simple00.State
 Player.InteriorRoomStyleInfo.Sloppy00
 Player.InteriorRoomStyleInfo.Sloppy00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Sloppy00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Sloppy00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Sloppy00.KeyHash
 Player.InteriorRoomStyleInfo.Sloppy00.LastObtainedSec
@@ -5722,6 +5938,7 @@ Player.InteriorRoomStyleInfo.Sloppy00.OwnNum
 Player.InteriorRoomStyleInfo.Sloppy00.State
 Player.InteriorRoomStyleInfo.Sloppy01
 Player.InteriorRoomStyleInfo.Sloppy01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Sloppy01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Sloppy01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Sloppy01.KeyHash
 Player.InteriorRoomStyleInfo.Sloppy01.LastObtainedSec
@@ -5729,6 +5946,7 @@ Player.InteriorRoomStyleInfo.Sloppy01.OwnNum
 Player.InteriorRoomStyleInfo.Sloppy01.State
 Player.InteriorRoomStyleInfo.SmallFlower00
 Player.InteriorRoomStyleInfo.SmallFlower00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SmallFlower00.InformedNewRelease
 Player.InteriorRoomStyleInfo.SmallFlower00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SmallFlower00.KeyHash
 Player.InteriorRoomStyleInfo.SmallFlower00.LastObtainedSec
@@ -5736,6 +5954,7 @@ Player.InteriorRoomStyleInfo.SmallFlower00.OwnNum
 Player.InteriorRoomStyleInfo.SmallFlower00.State
 Player.InteriorRoomStyleInfo.SmallFlower01
 Player.InteriorRoomStyleInfo.SmallFlower01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SmallFlower01.InformedNewRelease
 Player.InteriorRoomStyleInfo.SmallFlower01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SmallFlower01.KeyHash
 Player.InteriorRoomStyleInfo.SmallFlower01.LastObtainedSec
@@ -5743,6 +5962,7 @@ Player.InteriorRoomStyleInfo.SmallFlower01.OwnNum
 Player.InteriorRoomStyleInfo.SmallFlower01.State
 Player.InteriorRoomStyleInfo.SmallFlower02
 Player.InteriorRoomStyleInfo.SmallFlower02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SmallFlower02.InformedNewRelease
 Player.InteriorRoomStyleInfo.SmallFlower02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SmallFlower02.KeyHash
 Player.InteriorRoomStyleInfo.SmallFlower02.LastObtainedSec
@@ -5750,6 +5970,7 @@ Player.InteriorRoomStyleInfo.SmallFlower02.OwnNum
 Player.InteriorRoomStyleInfo.SmallFlower02.State
 Player.InteriorRoomStyleInfo.SmallFlower03
 Player.InteriorRoomStyleInfo.SmallFlower03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SmallFlower03.InformedNewRelease
 Player.InteriorRoomStyleInfo.SmallFlower03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SmallFlower03.KeyHash
 Player.InteriorRoomStyleInfo.SmallFlower03.LastObtainedSec
@@ -5757,6 +5978,7 @@ Player.InteriorRoomStyleInfo.SmallFlower03.OwnNum
 Player.InteriorRoomStyleInfo.SmallFlower03.State
 Player.InteriorRoomStyleInfo.SmallFlower04
 Player.InteriorRoomStyleInfo.SmallFlower04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SmallFlower04.InformedNewRelease
 Player.InteriorRoomStyleInfo.SmallFlower04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SmallFlower04.KeyHash
 Player.InteriorRoomStyleInfo.SmallFlower04.LastObtainedSec
@@ -5764,6 +5986,7 @@ Player.InteriorRoomStyleInfo.SmallFlower04.OwnNum
 Player.InteriorRoomStyleInfo.SmallFlower04.State
 Player.InteriorRoomStyleInfo.SmallFlower05
 Player.InteriorRoomStyleInfo.SmallFlower05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SmallFlower05.InformedNewRelease
 Player.InteriorRoomStyleInfo.SmallFlower05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SmallFlower05.KeyHash
 Player.InteriorRoomStyleInfo.SmallFlower05.LastObtainedSec
@@ -5771,6 +5994,7 @@ Player.InteriorRoomStyleInfo.SmallFlower05.OwnNum
 Player.InteriorRoomStyleInfo.SmallFlower05.State
 Player.InteriorRoomStyleInfo.SmallFlower06
 Player.InteriorRoomStyleInfo.SmallFlower06.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SmallFlower06.InformedNewRelease
 Player.InteriorRoomStyleInfo.SmallFlower06.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SmallFlower06.KeyHash
 Player.InteriorRoomStyleInfo.SmallFlower06.LastObtainedSec
@@ -5778,6 +6002,7 @@ Player.InteriorRoomStyleInfo.SmallFlower06.OwnNum
 Player.InteriorRoomStyleInfo.SmallFlower06.State
 Player.InteriorRoomStyleInfo.SmallFlower07
 Player.InteriorRoomStyleInfo.SmallFlower07.FirstObtainedSec
+Player.InteriorRoomStyleInfo.SmallFlower07.InformedNewRelease
 Player.InteriorRoomStyleInfo.SmallFlower07.IsNewlyOwned
 Player.InteriorRoomStyleInfo.SmallFlower07.KeyHash
 Player.InteriorRoomStyleInfo.SmallFlower07.LastObtainedSec
@@ -5785,6 +6010,7 @@ Player.InteriorRoomStyleInfo.SmallFlower07.OwnNum
 Player.InteriorRoomStyleInfo.SmallFlower07.State
 Player.InteriorRoomStyleInfo.Snow00
 Player.InteriorRoomStyleInfo.Snow00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Snow00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Snow00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Snow00.KeyHash
 Player.InteriorRoomStyleInfo.Snow00.LastObtainedSec
@@ -5792,6 +6018,7 @@ Player.InteriorRoomStyleInfo.Snow00.OwnNum
 Player.InteriorRoomStyleInfo.Snow00.State
 Player.InteriorRoomStyleInfo.Stadium00
 Player.InteriorRoomStyleInfo.Stadium00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Stadium00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Stadium00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Stadium00.KeyHash
 Player.InteriorRoomStyleInfo.Stadium00.LastObtainedSec
@@ -5799,6 +6026,7 @@ Player.InteriorRoomStyleInfo.Stadium00.OwnNum
 Player.InteriorRoomStyleInfo.Stadium00.State
 Player.InteriorRoomStyleInfo.Stadium01
 Player.InteriorRoomStyleInfo.Stadium01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Stadium01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Stadium01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Stadium01.KeyHash
 Player.InteriorRoomStyleInfo.Stadium01.LastObtainedSec
@@ -5806,6 +6034,7 @@ Player.InteriorRoomStyleInfo.Stadium01.OwnNum
 Player.InteriorRoomStyleInfo.Stadium01.State
 Player.InteriorRoomStyleInfo.Stadium02
 Player.InteriorRoomStyleInfo.Stadium02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Stadium02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Stadium02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Stadium02.KeyHash
 Player.InteriorRoomStyleInfo.Stadium02.LastObtainedSec
@@ -5813,6 +6042,7 @@ Player.InteriorRoomStyleInfo.Stadium02.OwnNum
 Player.InteriorRoomStyleInfo.Stadium02.State
 Player.InteriorRoomStyleInfo.Stage00
 Player.InteriorRoomStyleInfo.Stage00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Stage00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Stage00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Stage00.KeyHash
 Player.InteriorRoomStyleInfo.Stage00.LastObtainedSec
@@ -5820,6 +6050,7 @@ Player.InteriorRoomStyleInfo.Stage00.OwnNum
 Player.InteriorRoomStyleInfo.Stage00.State
 Player.InteriorRoomStyleInfo.StainedGlass00
 Player.InteriorRoomStyleInfo.StainedGlass00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.StainedGlass00.InformedNewRelease
 Player.InteriorRoomStyleInfo.StainedGlass00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.StainedGlass00.KeyHash
 Player.InteriorRoomStyleInfo.StainedGlass00.LastObtainedSec
@@ -5827,6 +6058,7 @@ Player.InteriorRoomStyleInfo.StainedGlass00.OwnNum
 Player.InteriorRoomStyleInfo.StainedGlass00.State
 Player.InteriorRoomStyleInfo.StainedGlass01
 Player.InteriorRoomStyleInfo.StainedGlass01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.StainedGlass01.InformedNewRelease
 Player.InteriorRoomStyleInfo.StainedGlass01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.StainedGlass01.KeyHash
 Player.InteriorRoomStyleInfo.StainedGlass01.LastObtainedSec
@@ -5834,6 +6066,7 @@ Player.InteriorRoomStyleInfo.StainedGlass01.OwnNum
 Player.InteriorRoomStyleInfo.StainedGlass01.State
 Player.InteriorRoomStyleInfo.StainedGlass02
 Player.InteriorRoomStyleInfo.StainedGlass02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.StainedGlass02.InformedNewRelease
 Player.InteriorRoomStyleInfo.StainedGlass02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.StainedGlass02.KeyHash
 Player.InteriorRoomStyleInfo.StainedGlass02.LastObtainedSec
@@ -5841,6 +6074,7 @@ Player.InteriorRoomStyleInfo.StainedGlass02.OwnNum
 Player.InteriorRoomStyleInfo.StainedGlass02.State
 Player.InteriorRoomStyleInfo.StarPrint00
 Player.InteriorRoomStyleInfo.StarPrint00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.StarPrint00.InformedNewRelease
 Player.InteriorRoomStyleInfo.StarPrint00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.StarPrint00.KeyHash
 Player.InteriorRoomStyleInfo.StarPrint00.LastObtainedSec
@@ -5848,6 +6082,7 @@ Player.InteriorRoomStyleInfo.StarPrint00.OwnNum
 Player.InteriorRoomStyleInfo.StarPrint00.State
 Player.InteriorRoomStyleInfo.StarPrint01
 Player.InteriorRoomStyleInfo.StarPrint01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.StarPrint01.InformedNewRelease
 Player.InteriorRoomStyleInfo.StarPrint01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.StarPrint01.KeyHash
 Player.InteriorRoomStyleInfo.StarPrint01.LastObtainedSec
@@ -5855,6 +6090,7 @@ Player.InteriorRoomStyleInfo.StarPrint01.OwnNum
 Player.InteriorRoomStyleInfo.StarPrint01.State
 Player.InteriorRoomStyleInfo.StarPrint02
 Player.InteriorRoomStyleInfo.StarPrint02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.StarPrint02.InformedNewRelease
 Player.InteriorRoomStyleInfo.StarPrint02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.StarPrint02.KeyHash
 Player.InteriorRoomStyleInfo.StarPrint02.LastObtainedSec
@@ -5862,6 +6098,7 @@ Player.InteriorRoomStyleInfo.StarPrint02.OwnNum
 Player.InteriorRoomStyleInfo.StarPrint02.State
 Player.InteriorRoomStyleInfo.StarPrint03
 Player.InteriorRoomStyleInfo.StarPrint03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.StarPrint03.InformedNewRelease
 Player.InteriorRoomStyleInfo.StarPrint03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.StarPrint03.KeyHash
 Player.InteriorRoomStyleInfo.StarPrint03.LastObtainedSec
@@ -5869,6 +6106,7 @@ Player.InteriorRoomStyleInfo.StarPrint03.OwnNum
 Player.InteriorRoomStyleInfo.StarPrint03.State
 Player.InteriorRoomStyleInfo.StarPrint04
 Player.InteriorRoomStyleInfo.StarPrint04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.StarPrint04.InformedNewRelease
 Player.InteriorRoomStyleInfo.StarPrint04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.StarPrint04.KeyHash
 Player.InteriorRoomStyleInfo.StarPrint04.LastObtainedSec
@@ -5876,6 +6114,7 @@ Player.InteriorRoomStyleInfo.StarPrint04.OwnNum
 Player.InteriorRoomStyleInfo.StarPrint04.State
 Player.InteriorRoomStyleInfo.Steampunk00
 Player.InteriorRoomStyleInfo.Steampunk00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Steampunk00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Steampunk00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Steampunk00.KeyHash
 Player.InteriorRoomStyleInfo.Steampunk00.LastObtainedSec
@@ -5883,6 +6122,7 @@ Player.InteriorRoomStyleInfo.Steampunk00.OwnNum
 Player.InteriorRoomStyleInfo.Steampunk00.State
 Player.InteriorRoomStyleInfo.Strata00
 Player.InteriorRoomStyleInfo.Strata00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Strata00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Strata00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Strata00.KeyHash
 Player.InteriorRoomStyleInfo.Strata00.LastObtainedSec
@@ -5890,6 +6130,7 @@ Player.InteriorRoomStyleInfo.Strata00.OwnNum
 Player.InteriorRoomStyleInfo.Strata00.State
 Player.InteriorRoomStyleInfo.Street00
 Player.InteriorRoomStyleInfo.Street00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Street00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Street00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Street00.KeyHash
 Player.InteriorRoomStyleInfo.Street00.LastObtainedSec
@@ -5897,6 +6138,7 @@ Player.InteriorRoomStyleInfo.Street00.OwnNum
 Player.InteriorRoomStyleInfo.Street00.State
 Player.InteriorRoomStyleInfo.Stuffed00
 Player.InteriorRoomStyleInfo.Stuffed00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Stuffed00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Stuffed00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Stuffed00.KeyHash
 Player.InteriorRoomStyleInfo.Stuffed00.LastObtainedSec
@@ -5904,6 +6146,7 @@ Player.InteriorRoomStyleInfo.Stuffed00.OwnNum
 Player.InteriorRoomStyleInfo.Stuffed00.State
 Player.InteriorRoomStyleInfo.Stuffed01
 Player.InteriorRoomStyleInfo.Stuffed01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Stuffed01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Stuffed01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Stuffed01.KeyHash
 Player.InteriorRoomStyleInfo.Stuffed01.LastObtainedSec
@@ -5911,6 +6154,7 @@ Player.InteriorRoomStyleInfo.Stuffed01.OwnNum
 Player.InteriorRoomStyleInfo.Stuffed01.State
 Player.InteriorRoomStyleInfo.Stuffed02
 Player.InteriorRoomStyleInfo.Stuffed02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Stuffed02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Stuffed02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Stuffed02.KeyHash
 Player.InteriorRoomStyleInfo.Stuffed02.LastObtainedSec
@@ -5918,6 +6162,7 @@ Player.InteriorRoomStyleInfo.Stuffed02.OwnNum
 Player.InteriorRoomStyleInfo.Stuffed02.State
 Player.InteriorRoomStyleInfo.Stuffed03
 Player.InteriorRoomStyleInfo.Stuffed03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Stuffed03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Stuffed03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Stuffed03.KeyHash
 Player.InteriorRoomStyleInfo.Stuffed03.LastObtainedSec
@@ -5925,6 +6170,7 @@ Player.InteriorRoomStyleInfo.Stuffed03.OwnNum
 Player.InteriorRoomStyleInfo.Stuffed03.State
 Player.InteriorRoomStyleInfo.Success00
 Player.InteriorRoomStyleInfo.Success00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Success00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Success00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Success00.KeyHash
 Player.InteriorRoomStyleInfo.Success00.LastObtainedSec
@@ -5932,6 +6178,7 @@ Player.InteriorRoomStyleInfo.Success00.OwnNum
 Player.InteriorRoomStyleInfo.Success00.State
 Player.InteriorRoomStyleInfo.Sushi00
 Player.InteriorRoomStyleInfo.Sushi00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Sushi00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Sushi00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Sushi00.KeyHash
 Player.InteriorRoomStyleInfo.Sushi00.LastObtainedSec
@@ -5939,6 +6186,7 @@ Player.InteriorRoomStyleInfo.Sushi00.OwnNum
 Player.InteriorRoomStyleInfo.Sushi00.State
 Player.InteriorRoomStyleInfo.Temple00
 Player.InteriorRoomStyleInfo.Temple00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Temple00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Temple00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Temple00.KeyHash
 Player.InteriorRoomStyleInfo.Temple00.LastObtainedSec
@@ -5946,6 +6194,7 @@ Player.InteriorRoomStyleInfo.Temple00.OwnNum
 Player.InteriorRoomStyleInfo.Temple00.State
 Player.InteriorRoomStyleInfo.Train00
 Player.InteriorRoomStyleInfo.Train00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Train00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Train00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Train00.KeyHash
 Player.InteriorRoomStyleInfo.Train00.LastObtainedSec
@@ -5953,6 +6202,7 @@ Player.InteriorRoomStyleInfo.Train00.OwnNum
 Player.InteriorRoomStyleInfo.Train00.State
 Player.InteriorRoomStyleInfo.Train01
 Player.InteriorRoomStyleInfo.Train01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Train01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Train01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Train01.KeyHash
 Player.InteriorRoomStyleInfo.Train01.LastObtainedSec
@@ -5960,6 +6210,7 @@ Player.InteriorRoomStyleInfo.Train01.OwnNum
 Player.InteriorRoomStyleInfo.Train01.State
 Player.InteriorRoomStyleInfo.Training00
 Player.InteriorRoomStyleInfo.Training00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Training00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Training00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Training00.KeyHash
 Player.InteriorRoomStyleInfo.Training00.LastObtainedSec
@@ -5967,6 +6218,7 @@ Player.InteriorRoomStyleInfo.Training00.OwnNum
 Player.InteriorRoomStyleInfo.Training00.State
 Player.InteriorRoomStyleInfo.Triangle00
 Player.InteriorRoomStyleInfo.Triangle00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Triangle00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Triangle00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Triangle00.KeyHash
 Player.InteriorRoomStyleInfo.Triangle00.LastObtainedSec
@@ -5974,6 +6226,7 @@ Player.InteriorRoomStyleInfo.Triangle00.OwnNum
 Player.InteriorRoomStyleInfo.Triangle00.State
 Player.InteriorRoomStyleInfo.Triangle01
 Player.InteriorRoomStyleInfo.Triangle01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Triangle01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Triangle01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Triangle01.KeyHash
 Player.InteriorRoomStyleInfo.Triangle01.LastObtainedSec
@@ -5981,6 +6234,7 @@ Player.InteriorRoomStyleInfo.Triangle01.OwnNum
 Player.InteriorRoomStyleInfo.Triangle01.State
 Player.InteriorRoomStyleInfo.Triangle02
 Player.InteriorRoomStyleInfo.Triangle02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Triangle02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Triangle02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Triangle02.KeyHash
 Player.InteriorRoomStyleInfo.Triangle02.LastObtainedSec
@@ -5988,6 +6242,7 @@ Player.InteriorRoomStyleInfo.Triangle02.OwnNum
 Player.InteriorRoomStyleInfo.Triangle02.State
 Player.InteriorRoomStyleInfo.Triangle03
 Player.InteriorRoomStyleInfo.Triangle03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Triangle03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Triangle03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Triangle03.KeyHash
 Player.InteriorRoomStyleInfo.Triangle03.LastObtainedSec
@@ -5995,6 +6250,7 @@ Player.InteriorRoomStyleInfo.Triangle03.OwnNum
 Player.InteriorRoomStyleInfo.Triangle03.State
 Player.InteriorRoomStyleInfo.Triangle04
 Player.InteriorRoomStyleInfo.Triangle04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Triangle04.InformedNewRelease
 Player.InteriorRoomStyleInfo.Triangle04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Triangle04.KeyHash
 Player.InteriorRoomStyleInfo.Triangle04.LastObtainedSec
@@ -6002,6 +6258,7 @@ Player.InteriorRoomStyleInfo.Triangle04.OwnNum
 Player.InteriorRoomStyleInfo.Triangle04.State
 Player.InteriorRoomStyleInfo.Triangle05
 Player.InteriorRoomStyleInfo.Triangle05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Triangle05.InformedNewRelease
 Player.InteriorRoomStyleInfo.Triangle05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Triangle05.KeyHash
 Player.InteriorRoomStyleInfo.Triangle05.LastObtainedSec
@@ -6009,6 +6266,7 @@ Player.InteriorRoomStyleInfo.Triangle05.OwnNum
 Player.InteriorRoomStyleInfo.Triangle05.State
 Player.InteriorRoomStyleInfo.TropicalSea00
 Player.InteriorRoomStyleInfo.TropicalSea00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.TropicalSea00.InformedNewRelease
 Player.InteriorRoomStyleInfo.TropicalSea00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.TropicalSea00.KeyHash
 Player.InteriorRoomStyleInfo.TropicalSea00.LastObtainedSec
@@ -6016,6 +6274,7 @@ Player.InteriorRoomStyleInfo.TropicalSea00.OwnNum
 Player.InteriorRoomStyleInfo.TropicalSea00.State
 Player.InteriorRoomStyleInfo.Wedding00
 Player.InteriorRoomStyleInfo.Wedding00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Wedding00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Wedding00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Wedding00.KeyHash
 Player.InteriorRoomStyleInfo.Wedding00.LastObtainedSec
@@ -6023,6 +6282,7 @@ Player.InteriorRoomStyleInfo.Wedding00.OwnNum
 Player.InteriorRoomStyleInfo.Wedding00.State
 Player.InteriorRoomStyleInfo.Wedding01
 Player.InteriorRoomStyleInfo.Wedding01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Wedding01.InformedNewRelease
 Player.InteriorRoomStyleInfo.Wedding01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Wedding01.KeyHash
 Player.InteriorRoomStyleInfo.Wedding01.LastObtainedSec
@@ -6030,6 +6290,7 @@ Player.InteriorRoomStyleInfo.Wedding01.OwnNum
 Player.InteriorRoomStyleInfo.Wedding01.State
 Player.InteriorRoomStyleInfo.Wedding02
 Player.InteriorRoomStyleInfo.Wedding02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Wedding02.InformedNewRelease
 Player.InteriorRoomStyleInfo.Wedding02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Wedding02.KeyHash
 Player.InteriorRoomStyleInfo.Wedding02.LastObtainedSec
@@ -6037,6 +6298,7 @@ Player.InteriorRoomStyleInfo.Wedding02.OwnNum
 Player.InteriorRoomStyleInfo.Wedding02.State
 Player.InteriorRoomStyleInfo.Wedding03
 Player.InteriorRoomStyleInfo.Wedding03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Wedding03.InformedNewRelease
 Player.InteriorRoomStyleInfo.Wedding03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Wedding03.KeyHash
 Player.InteriorRoomStyleInfo.Wedding03.LastObtainedSec
@@ -6044,6 +6306,7 @@ Player.InteriorRoomStyleInfo.Wedding03.OwnNum
 Player.InteriorRoomStyleInfo.Wedding03.State
 Player.InteriorRoomStyleInfo.Western00
 Player.InteriorRoomStyleInfo.Western00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Western00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Western00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Western00.KeyHash
 Player.InteriorRoomStyleInfo.Western00.LastObtainedSec
@@ -6051,6 +6314,7 @@ Player.InteriorRoomStyleInfo.Western00.OwnNum
 Player.InteriorRoomStyleInfo.Western00.State
 Player.InteriorRoomStyleInfo.WesternStyle00
 Player.InteriorRoomStyleInfo.WesternStyle00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WesternStyle00.InformedNewRelease
 Player.InteriorRoomStyleInfo.WesternStyle00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WesternStyle00.KeyHash
 Player.InteriorRoomStyleInfo.WesternStyle00.LastObtainedSec
@@ -6058,6 +6322,7 @@ Player.InteriorRoomStyleInfo.WesternStyle00.OwnNum
 Player.InteriorRoomStyleInfo.WesternStyle00.State
 Player.InteriorRoomStyleInfo.WesternStyle01
 Player.InteriorRoomStyleInfo.WesternStyle01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WesternStyle01.InformedNewRelease
 Player.InteriorRoomStyleInfo.WesternStyle01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WesternStyle01.KeyHash
 Player.InteriorRoomStyleInfo.WesternStyle01.LastObtainedSec
@@ -6065,6 +6330,7 @@ Player.InteriorRoomStyleInfo.WesternStyle01.OwnNum
 Player.InteriorRoomStyleInfo.WesternStyle01.State
 Player.InteriorRoomStyleInfo.WesternStyle02
 Player.InteriorRoomStyleInfo.WesternStyle02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WesternStyle02.InformedNewRelease
 Player.InteriorRoomStyleInfo.WesternStyle02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WesternStyle02.KeyHash
 Player.InteriorRoomStyleInfo.WesternStyle02.LastObtainedSec
@@ -6072,6 +6338,7 @@ Player.InteriorRoomStyleInfo.WesternStyle02.OwnNum
 Player.InteriorRoomStyleInfo.WesternStyle02.State
 Player.InteriorRoomStyleInfo.WesternStyle03
 Player.InteriorRoomStyleInfo.WesternStyle03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WesternStyle03.InformedNewRelease
 Player.InteriorRoomStyleInfo.WesternStyle03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WesternStyle03.KeyHash
 Player.InteriorRoomStyleInfo.WesternStyle03.LastObtainedSec
@@ -6079,6 +6346,7 @@ Player.InteriorRoomStyleInfo.WesternStyle03.OwnNum
 Player.InteriorRoomStyleInfo.WesternStyle03.State
 Player.InteriorRoomStyleInfo.WesternStyle04
 Player.InteriorRoomStyleInfo.WesternStyle04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WesternStyle04.InformedNewRelease
 Player.InteriorRoomStyleInfo.WesternStyle04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WesternStyle04.KeyHash
 Player.InteriorRoomStyleInfo.WesternStyle04.LastObtainedSec
@@ -6086,6 +6354,7 @@ Player.InteriorRoomStyleInfo.WesternStyle04.OwnNum
 Player.InteriorRoomStyleInfo.WesternStyle04.State
 Player.InteriorRoomStyleInfo.WesternStyle05
 Player.InteriorRoomStyleInfo.WesternStyle05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WesternStyle05.InformedNewRelease
 Player.InteriorRoomStyleInfo.WesternStyle05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WesternStyle05.KeyHash
 Player.InteriorRoomStyleInfo.WesternStyle05.LastObtainedSec
@@ -6093,6 +6362,7 @@ Player.InteriorRoomStyleInfo.WesternStyle05.OwnNum
 Player.InteriorRoomStyleInfo.WesternStyle05.State
 Player.InteriorRoomStyleInfo.WesternStyle06
 Player.InteriorRoomStyleInfo.WesternStyle06.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WesternStyle06.InformedNewRelease
 Player.InteriorRoomStyleInfo.WesternStyle06.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WesternStyle06.KeyHash
 Player.InteriorRoomStyleInfo.WesternStyle06.LastObtainedSec
@@ -6100,6 +6370,7 @@ Player.InteriorRoomStyleInfo.WesternStyle06.OwnNum
 Player.InteriorRoomStyleInfo.WesternStyle06.State
 Player.InteriorRoomStyleInfo.WesternStyle07
 Player.InteriorRoomStyleInfo.WesternStyle07.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WesternStyle07.InformedNewRelease
 Player.InteriorRoomStyleInfo.WesternStyle07.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WesternStyle07.KeyHash
 Player.InteriorRoomStyleInfo.WesternStyle07.LastObtainedSec
@@ -6107,6 +6378,7 @@ Player.InteriorRoomStyleInfo.WesternStyle07.OwnNum
 Player.InteriorRoomStyleInfo.WesternStyle07.State
 Player.InteriorRoomStyleInfo.WhiteRoom00
 Player.InteriorRoomStyleInfo.WhiteRoom00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WhiteRoom00.InformedNewRelease
 Player.InteriorRoomStyleInfo.WhiteRoom00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WhiteRoom00.KeyHash
 Player.InteriorRoomStyleInfo.WhiteRoom00.LastObtainedSec
@@ -6114,6 +6386,7 @@ Player.InteriorRoomStyleInfo.WhiteRoom00.OwnNum
 Player.InteriorRoomStyleInfo.WhiteRoom00.State
 Player.InteriorRoomStyleInfo.WoodBoard00
 Player.InteriorRoomStyleInfo.WoodBoard00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WoodBoard00.InformedNewRelease
 Player.InteriorRoomStyleInfo.WoodBoard00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WoodBoard00.KeyHash
 Player.InteriorRoomStyleInfo.WoodBoard00.LastObtainedSec
@@ -6121,6 +6394,7 @@ Player.InteriorRoomStyleInfo.WoodBoard00.OwnNum
 Player.InteriorRoomStyleInfo.WoodBoard00.State
 Player.InteriorRoomStyleInfo.WoodBoard01
 Player.InteriorRoomStyleInfo.WoodBoard01.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WoodBoard01.InformedNewRelease
 Player.InteriorRoomStyleInfo.WoodBoard01.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WoodBoard01.KeyHash
 Player.InteriorRoomStyleInfo.WoodBoard01.LastObtainedSec
@@ -6128,6 +6402,7 @@ Player.InteriorRoomStyleInfo.WoodBoard01.OwnNum
 Player.InteriorRoomStyleInfo.WoodBoard01.State
 Player.InteriorRoomStyleInfo.WoodBoard02
 Player.InteriorRoomStyleInfo.WoodBoard02.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WoodBoard02.InformedNewRelease
 Player.InteriorRoomStyleInfo.WoodBoard02.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WoodBoard02.KeyHash
 Player.InteriorRoomStyleInfo.WoodBoard02.LastObtainedSec
@@ -6135,6 +6410,7 @@ Player.InteriorRoomStyleInfo.WoodBoard02.OwnNum
 Player.InteriorRoomStyleInfo.WoodBoard02.State
 Player.InteriorRoomStyleInfo.WoodBoard03
 Player.InteriorRoomStyleInfo.WoodBoard03.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WoodBoard03.InformedNewRelease
 Player.InteriorRoomStyleInfo.WoodBoard03.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WoodBoard03.KeyHash
 Player.InteriorRoomStyleInfo.WoodBoard03.LastObtainedSec
@@ -6142,6 +6418,7 @@ Player.InteriorRoomStyleInfo.WoodBoard03.OwnNum
 Player.InteriorRoomStyleInfo.WoodBoard03.State
 Player.InteriorRoomStyleInfo.WoodBoard04
 Player.InteriorRoomStyleInfo.WoodBoard04.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WoodBoard04.InformedNewRelease
 Player.InteriorRoomStyleInfo.WoodBoard04.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WoodBoard04.KeyHash
 Player.InteriorRoomStyleInfo.WoodBoard04.LastObtainedSec
@@ -6149,6 +6426,7 @@ Player.InteriorRoomStyleInfo.WoodBoard04.OwnNum
 Player.InteriorRoomStyleInfo.WoodBoard04.State
 Player.InteriorRoomStyleInfo.WoodBoard05
 Player.InteriorRoomStyleInfo.WoodBoard05.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WoodBoard05.InformedNewRelease
 Player.InteriorRoomStyleInfo.WoodBoard05.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WoodBoard05.KeyHash
 Player.InteriorRoomStyleInfo.WoodBoard05.LastObtainedSec
@@ -6156,6 +6434,7 @@ Player.InteriorRoomStyleInfo.WoodBoard05.OwnNum
 Player.InteriorRoomStyleInfo.WoodBoard05.State
 Player.InteriorRoomStyleInfo.WoodBoard06
 Player.InteriorRoomStyleInfo.WoodBoard06.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WoodBoard06.InformedNewRelease
 Player.InteriorRoomStyleInfo.WoodBoard06.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WoodBoard06.KeyHash
 Player.InteriorRoomStyleInfo.WoodBoard06.LastObtainedSec
@@ -6163,6 +6442,7 @@ Player.InteriorRoomStyleInfo.WoodBoard06.OwnNum
 Player.InteriorRoomStyleInfo.WoodBoard06.State
 Player.InteriorRoomStyleInfo.WoodBoard07
 Player.InteriorRoomStyleInfo.WoodBoard07.FirstObtainedSec
+Player.InteriorRoomStyleInfo.WoodBoard07.InformedNewRelease
 Player.InteriorRoomStyleInfo.WoodBoard07.IsNewlyOwned
 Player.InteriorRoomStyleInfo.WoodBoard07.KeyHash
 Player.InteriorRoomStyleInfo.WoodBoard07.LastObtainedSec
@@ -6170,6 +6450,7 @@ Player.InteriorRoomStyleInfo.WoodBoard07.OwnNum
 Player.InteriorRoomStyleInfo.WoodBoard07.State
 Player.InteriorRoomStyleInfo.Wrestling00
 Player.InteriorRoomStyleInfo.Wrestling00.FirstObtainedSec
+Player.InteriorRoomStyleInfo.Wrestling00.InformedNewRelease
 Player.InteriorRoomStyleInfo.Wrestling00.IsNewlyOwned
 Player.InteriorRoomStyleInfo.Wrestling00.KeyHash
 Player.InteriorRoomStyleInfo.Wrestling00.LastObtainedSec
@@ -6952,6 +7233,7 @@ Unlock.ResolvedTroubleCount
 Unlock.ShopPaidMoneyBuildingFacility
 Unlock.ShopPaidMoneyBuildingMapObje
 Unlock.ShopPaidMoneyBuildingUgcObje
+UnlockAreaGroup
 UnlockMapLevel
 Unown
 Unset

@@ -8937,7 +8937,7 @@
     },
     "InteriorRoomStyleInfo": {
       "Abduction00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2905232037
@@ -8974,7 +8974,7 @@
         }
       },
       "Antarctic00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2459932324
@@ -9011,7 +9011,7 @@
         }
       },
       "Asianresort00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2934510867
@@ -9048,7 +9048,7 @@
         }
       },
       "Asianresort01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3501760801
@@ -9085,7 +9085,7 @@
         }
       },
       "Atelier00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3058031018
@@ -9122,7 +9122,7 @@
         }
       },
       "Atelier01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1456188064
@@ -9159,7 +9159,7 @@
         }
       },
       "Baby00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2916480727
@@ -9196,7 +9196,7 @@
         }
       },
       "Baby01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2281735653
@@ -9233,7 +9233,7 @@
         }
       },
       "Baby02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3101075917
@@ -9270,7 +9270,7 @@
         }
       },
       "Bathroom00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1567722758
@@ -9307,7 +9307,7 @@
         }
       },
       "Bathroom01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3587530570
@@ -9344,7 +9344,7 @@
         }
       },
       "Bathroom02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4045577723
@@ -9381,7 +9381,7 @@
         }
       },
       "Bathroom03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2505625227
@@ -9418,7 +9418,7 @@
         }
       },
       "Bathroom04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1742431479
@@ -9455,7 +9455,7 @@
         }
       },
       "Beach00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2675958588
@@ -9492,7 +9492,7 @@
         }
       },
       "BigFlower00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4178489819
@@ -9529,7 +9529,7 @@
         }
       },
       "BigFlower01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 98657476
@@ -9566,7 +9566,7 @@
         }
       },
       "BigFlower02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3098953831
@@ -9603,7 +9603,7 @@
         }
       },
       "BigFlower03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 684848451
@@ -9640,7 +9640,7 @@
         }
       },
       "BlueSheet00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4154187866
@@ -9677,7 +9677,7 @@
         }
       },
       "Book00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4219535217
@@ -9714,7 +9714,7 @@
         }
       },
       "Book01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 341503812
@@ -9751,7 +9751,7 @@
         }
       },
       "Book02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4193830388
@@ -9788,7 +9788,7 @@
         }
       },
       "Botanical00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2279944896
@@ -9825,7 +9825,7 @@
         }
       },
       "Brick00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 628850974
@@ -9862,7 +9862,7 @@
         }
       },
       "Brick01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1489280000
@@ -9899,7 +9899,7 @@
         }
       },
       "Cage00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1238906726
@@ -9936,7 +9936,7 @@
         }
       },
       "Camouflage00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2983099943
@@ -9973,7 +9973,7 @@
         }
       },
       "Camouflage01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2217963403
@@ -10010,7 +10010,7 @@
         }
       },
       "Camouflage02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 77434269
@@ -10047,7 +10047,7 @@
         }
       },
       "Camouflage03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 851497977
@@ -10084,7 +10084,7 @@
         }
       },
       "Candy00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1592096793
@@ -10121,7 +10121,7 @@
         }
       },
       "Candy01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1196966726
@@ -10158,7 +10158,7 @@
         }
       },
       "Candy02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4062011049
@@ -10195,7 +10195,7 @@
         }
       },
       "Cemetery00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1013580518
@@ -10232,7 +10232,7 @@
         }
       },
       "Chinese00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2399287533
@@ -10269,7 +10269,7 @@
         }
       },
       "Chinese01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1739925944
@@ -10306,7 +10306,7 @@
         }
       },
       "Christmas00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1496623194
@@ -10343,7 +10343,7 @@
         }
       },
       "Christmas01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3322221840
@@ -10380,7 +10380,7 @@
         }
       },
       "Classroom00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3420126459
@@ -10417,7 +10417,7 @@
         }
       },
       "Classroom01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2524640140
@@ -10454,7 +10454,7 @@
         }
       },
       "Club00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2841461984
@@ -10491,7 +10491,7 @@
         }
       },
       "Cute00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3837029204
@@ -10528,7 +10528,7 @@
         }
       },
       "Cute01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1547366815
@@ -10565,7 +10565,7 @@
         }
       },
       "Damask00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 107111873
@@ -10602,7 +10602,7 @@
         }
       },
       "Damask01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1678480773
@@ -10639,7 +10639,7 @@
         }
       },
       "Damask02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4195995135
@@ -10676,7 +10676,7 @@
         }
       },
       "Damask03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3957099091
@@ -10713,7 +10713,7 @@
         }
       },
       "Damask04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 842387936
@@ -10750,7 +10750,7 @@
         }
       },
       "Damask05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 817639311
@@ -10787,7 +10787,7 @@
         }
       },
       "Damask06": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3376254020
@@ -10824,7 +10824,7 @@
         }
       },
       "Damask07": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2028537265
@@ -10861,7 +10861,7 @@
         }
       },
       "Desert00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1685211233
@@ -10898,7 +10898,7 @@
         }
       },
       "Dilapidated00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2078389798
@@ -10935,7 +10935,7 @@
         }
       },
       "Dinosaur00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4045988989
@@ -10972,7 +10972,7 @@
         }
       },
       "Dinosaur01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 626498530
@@ -11009,7 +11009,7 @@
         }
       },
       "Dog00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3760803224
@@ -11046,7 +11046,7 @@
         }
       },
       "Dog01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4155487196
@@ -11083,7 +11083,7 @@
         }
       },
       "Dot00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 814736843
@@ -11120,7 +11120,7 @@
         }
       },
       "Dot01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2286443734
@@ -11157,7 +11157,7 @@
         }
       },
       "Dot02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1239471480
@@ -11194,7 +11194,7 @@
         }
       },
       "Dot03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1154588484
@@ -11231,7 +11231,7 @@
         }
       },
       "Dot04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3368668628
@@ -11268,7 +11268,7 @@
         }
       },
       "Dot05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2035031400
@@ -11305,7 +11305,7 @@
         }
       },
       "Dot06": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3873244374
@@ -11342,7 +11342,7 @@
         }
       },
       "Dot07": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2419087933
@@ -11379,7 +11379,7 @@
         }
       },
       "DropCurtain00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3149449206
@@ -11416,7 +11416,7 @@
         }
       },
       "Factry00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3992518902
@@ -11453,7 +11453,7 @@
         }
       },
       "Fantasy00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3940337548
@@ -11490,7 +11490,7 @@
         }
       },
       "Fantasy01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1853338652
@@ -11527,7 +11527,7 @@
         }
       },
       "Fantasy02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3232910524
@@ -11564,7 +11564,7 @@
         }
       },
       "Festival00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3553378686
@@ -11601,7 +11601,7 @@
         }
       },
       "Field00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 452104277
@@ -11638,7 +11638,7 @@
         }
       },
       "Field01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1816793618
@@ -11675,7 +11675,7 @@
         }
       },
       "Flowergarden00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2121590270
@@ -11712,7 +11712,7 @@
         }
       },
       "Formula00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4070321819
@@ -11749,7 +11749,7 @@
         }
       },
       "Formula01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3882114743
@@ -11786,7 +11786,7 @@
         }
       },
       "Fruit00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3132718123
@@ -11823,7 +11823,7 @@
         }
       },
       "Fruit01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1055154058
@@ -11860,7 +11860,7 @@
         }
       },
       "Fruit02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 703591639
@@ -11897,7 +11897,7 @@
         }
       },
       "Fruit03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 220623284
@@ -11934,7 +11934,7 @@
         }
       },
       "Fruit04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1769053032
@@ -11971,7 +11971,7 @@
         }
       },
       "Fruit05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2448408392
@@ -12008,7 +12008,7 @@
         }
       },
       "Fruit06": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3392225568
@@ -12045,7 +12045,7 @@
         }
       },
       "Fruit07": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3421373420
@@ -12082,7 +12082,7 @@
         }
       },
       "Galaxy00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3207453392
@@ -12119,7 +12119,7 @@
         }
       },
       "Game00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2653217264
@@ -12156,7 +12156,7 @@
         }
       },
       "Game01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1012457906
@@ -12193,7 +12193,7 @@
         }
       },
       "Garage00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1902412585
@@ -12230,7 +12230,7 @@
         }
       },
       "Garage01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 340312943
@@ -12267,7 +12267,7 @@
         }
       },
       "Garage02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4200010845
@@ -12304,7 +12304,7 @@
         }
       },
       "Garage03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1839037544
@@ -12341,7 +12341,7 @@
         }
       },
       "Garage04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3513058419
@@ -12378,7 +12378,7 @@
         }
       },
       "Garage05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 875032073
@@ -12415,7 +12415,7 @@
         }
       },
       "Garage06": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 954715122
@@ -12452,7 +12452,7 @@
         }
       },
       "Garage07": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 661003883
@@ -12489,7 +12489,7 @@
         }
       },
       "Garden00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2783456003
@@ -12526,7 +12526,7 @@
         }
       },
       "GardenWedding00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3180296142
@@ -12563,7 +12563,7 @@
         }
       },
       "Gold00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1661379634
@@ -12600,7 +12600,7 @@
         }
       },
       "Grassland00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1940378837
@@ -12637,7 +12637,7 @@
         }
       },
       "Gym00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2866998524
@@ -12674,7 +12674,7 @@
         }
       },
       "Gym01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2319567181
@@ -12711,7 +12711,7 @@
         }
       },
       "Gym02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1926086489
@@ -12748,7 +12748,7 @@
         }
       },
       "Halloween00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2685894741
@@ -12785,7 +12785,7 @@
         }
       },
       "Heart00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 246571673
@@ -12822,7 +12822,7 @@
         }
       },
       "Heart01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2459116683
@@ -12859,7 +12859,7 @@
         }
       },
       "Heart02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 143006002
@@ -12896,7 +12896,7 @@
         }
       },
       "Heart03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3213323069
@@ -12933,7 +12933,7 @@
         }
       },
       "Heart04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3933671999
@@ -12970,7 +12970,7 @@
         }
       },
       "Heaven00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3092920845
@@ -13007,7 +13007,7 @@
         }
       },
       "HoneycombTile00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1787143619
@@ -13044,7 +13044,7 @@
         }
       },
       "HoneycombTile01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3216510911
@@ -13081,7 +13081,7 @@
         }
       },
       "HoneycombTile02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3385036540
@@ -13118,7 +13118,7 @@
         }
       },
       "HoneycombTile03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 466391770
@@ -13155,7 +13155,7 @@
         }
       },
       "HoneycombTile04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2356764877
@@ -13192,7 +13192,7 @@
         }
       },
       "Horror00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1937298053
@@ -13229,7 +13229,7 @@
         }
       },
       "Horror01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2264207296
@@ -13266,7 +13266,7 @@
         }
       },
       "Hospital00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2593022976
@@ -13303,7 +13303,7 @@
         }
       },
       "IceRink00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4164693585
@@ -13340,7 +13340,7 @@
         }
       },
       "InterviewBoard00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4068211475
@@ -13377,7 +13377,7 @@
         }
       },
       "Jail00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3684648784
@@ -13414,7 +13414,7 @@
         }
       },
       "Japanese00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 737925283
@@ -13451,7 +13451,7 @@
         }
       },
       "Japanese01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3275369270
@@ -13488,7 +13488,7 @@
         }
       },
       "Japanese02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4058253694
@@ -13525,7 +13525,7 @@
         }
       },
       "Japanese03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1121411175
@@ -13562,7 +13562,7 @@
         }
       },
       "Japanese04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1387246799
@@ -13599,7 +13599,7 @@
         }
       },
       "Japanese05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1714943767
@@ -13636,7 +13636,7 @@
         }
       },
       "Jungle00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3423182891
@@ -13673,7 +13673,7 @@
         }
       },
       "Labo00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3739376217
@@ -13710,7 +13710,7 @@
         }
       },
       "Lace00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1746952516
@@ -13747,7 +13747,7 @@
         }
       },
       "Lace01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2417895331
@@ -13784,7 +13784,7 @@
         }
       },
       "Lace02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2800779001
@@ -13821,7 +13821,7 @@
         }
       },
       "Lace03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 666229085
@@ -13858,7 +13858,7 @@
         }
       },
       "Lace04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1464049568
@@ -13895,7 +13895,7 @@
         }
       },
       "Lace05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2675907665
@@ -13932,7 +13932,7 @@
         }
       },
       "LightStick00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1106543433
@@ -13969,7 +13969,7 @@
         }
       },
       "LightStick01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2514319552
@@ -14006,7 +14006,7 @@
         }
       },
       "LightStick02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4009652996
@@ -14043,7 +14043,7 @@
         }
       },
       "LightStick03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2200685359
@@ -14080,7 +14080,7 @@
         }
       },
       "LightStick04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3921439498
@@ -14117,7 +14117,7 @@
         }
       },
       "LightStick05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2392010743
@@ -14154,7 +14154,7 @@
         }
       },
       "LightStick06": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3237340171
@@ -14191,7 +14191,7 @@
         }
       },
       "LightStick07": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2469741725
@@ -14228,7 +14228,7 @@
         }
       },
       "LockerRoom00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2077589199
@@ -14265,7 +14265,7 @@
         }
       },
       "LockerRoom01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2177639330
@@ -14302,7 +14302,7 @@
         }
       },
       "LockerRoom02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2032411564
@@ -14339,7 +14339,7 @@
         }
       },
       "Log00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1195826709
@@ -14376,7 +14376,7 @@
         }
       },
       "Marble00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4104604561
@@ -14413,7 +14413,7 @@
         }
       },
       "Marble01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2679133756
@@ -14450,7 +14450,7 @@
         }
       },
       "Market00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 396378459
@@ -14487,7 +14487,7 @@
         }
       },
       "Midcentury00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3806003167
@@ -14524,7 +14524,7 @@
         }
       },
       "Midcentury01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1553021264
@@ -14561,7 +14561,7 @@
         }
       },
       "Minimul00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2664072114
@@ -14598,7 +14598,7 @@
         }
       },
       "Minimul01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4154929355
@@ -14635,7 +14635,7 @@
         }
       },
       "Minimul02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2883750218
@@ -14672,7 +14672,7 @@
         }
       },
       "Minimul03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3468654701
@@ -14709,7 +14709,7 @@
         }
       },
       "Minimul04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 59390337
@@ -14746,7 +14746,7 @@
         }
       },
       "Minimul05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 386171298
@@ -14783,7 +14783,7 @@
         }
       },
       "Minimul06": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2444050741
@@ -14820,7 +14820,7 @@
         }
       },
       "Minimul07": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3013349317
@@ -14857,7 +14857,7 @@
         }
       },
       "MonitorRoom00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 952064117
@@ -14894,7 +14894,7 @@
         }
       },
       "MonitorRoom01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4125808757
@@ -14931,7 +14931,7 @@
         }
       },
       "MonitorRoom02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2868302955
@@ -14968,7 +14968,7 @@
         }
       },
       "MovingBox00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 859381532
@@ -15005,7 +15005,7 @@
         }
       },
       "MovingBox01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1370669524
@@ -15042,7 +15042,7 @@
         }
       },
       "MultiDot00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1907174574
@@ -15079,7 +15079,7 @@
         }
       },
       "MultiDot01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 255887525
@@ -15116,7 +15116,7 @@
         }
       },
       "MultiDot02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3041675840
@@ -15153,7 +15153,7 @@
         }
       },
       "MultiDot03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1072712717
@@ -15190,7 +15190,7 @@
         }
       },
       "MusicRoom00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3416205412
@@ -15227,7 +15227,7 @@
         }
       },
       "NeonSign00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 347770224
@@ -15264,7 +15264,7 @@
         }
       },
       "NightView00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3717717122
@@ -15301,7 +15301,7 @@
         }
       },
       "Nobility00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1657752668
@@ -15338,7 +15338,7 @@
         }
       },
       "Nobility01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1514006650
@@ -15375,7 +15375,7 @@
         }
       },
       "Nobility02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4089477159
@@ -15412,7 +15412,7 @@
         }
       },
       "Office00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1277108271
@@ -15449,7 +15449,7 @@
         }
       },
       "Office01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1064225511
@@ -15486,7 +15486,7 @@
         }
       },
       "Otaku00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 822318976
@@ -15523,7 +15523,7 @@
         }
       },
       "Otaku02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 603144810
@@ -15560,7 +15560,7 @@
         }
       },
       "Otaku03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3442282590
@@ -15597,7 +15597,7 @@
         }
       },
       "Otaku04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4053531186
@@ -15634,7 +15634,7 @@
         }
       },
       "Party00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1795160057
@@ -15671,7 +15671,7 @@
         }
       },
       "Party01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 568391769
@@ -15708,7 +15708,7 @@
         }
       },
       "Party02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1754380814
@@ -15745,7 +15745,7 @@
         }
       },
       "Party03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 932707335
@@ -15782,7 +15782,7 @@
         }
       },
       "Party04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2342158879
@@ -15819,7 +15819,7 @@
         }
       },
       "Party05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 152956463
@@ -15856,7 +15856,7 @@
         }
       },
       "Party06": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1369418911
@@ -15893,7 +15893,7 @@
         }
       },
       "Party07": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 881839621
@@ -15930,7 +15930,7 @@
         }
       },
       "Pirate00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2339510139
@@ -15967,7 +15967,7 @@
         }
       },
       "PublicBath00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 111680296
@@ -16004,7 +16004,7 @@
         }
       },
       "Rain00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4276744997
@@ -16041,7 +16041,7 @@
         }
       },
       "Sakura00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1569885242
@@ -16078,7 +16078,7 @@
         }
       },
       "Sauna00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2752922856
@@ -16115,7 +16115,7 @@
         }
       },
       "SF00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 274960665
@@ -16152,7 +16152,7 @@
         }
       },
       "SF01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4147006786
@@ -16189,7 +16189,7 @@
         }
       },
       "SF02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 812150183
@@ -16226,7 +16226,7 @@
         }
       },
       "SF03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1975872180
@@ -16263,7 +16263,7 @@
         }
       },
       "SF04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4033377626
@@ -16300,7 +16300,7 @@
         }
       },
       "SF05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1214714424
@@ -16337,7 +16337,7 @@
         }
       },
       "SFX00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 589856626
@@ -16374,7 +16374,7 @@
         }
       },
       "SFX01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3693248732
@@ -16411,7 +16411,7 @@
         }
       },
       "Shogun00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 193140992
@@ -16448,7 +16448,7 @@
         }
       },
       "Shoji00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 657091227
@@ -16485,7 +16485,7 @@
         }
       },
       "Shoji01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3479371677
@@ -16522,7 +16522,7 @@
         }
       },
       "Shoji02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4222806110
@@ -16559,7 +16559,7 @@
         }
       },
       "Simple00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 230192847
@@ -16596,7 +16596,7 @@
         }
       },
       "Sloppy00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3069237727
@@ -16633,7 +16633,7 @@
         }
       },
       "Sloppy01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 664819
@@ -16670,7 +16670,7 @@
         }
       },
       "SmallFlower00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2803701688
@@ -16707,7 +16707,7 @@
         }
       },
       "SmallFlower01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3552045616
@@ -16744,7 +16744,7 @@
         }
       },
       "SmallFlower02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 809704509
@@ -16781,7 +16781,7 @@
         }
       },
       "SmallFlower03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2254280326
@@ -16818,7 +16818,7 @@
         }
       },
       "SmallFlower04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1378600450
@@ -16855,7 +16855,7 @@
         }
       },
       "SmallFlower05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3805311636
@@ -16892,7 +16892,7 @@
         }
       },
       "SmallFlower06": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2239987247
@@ -16929,7 +16929,7 @@
         }
       },
       "SmallFlower07": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2475947762
@@ -16966,7 +16966,7 @@
         }
       },
       "Snow00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3998987415
@@ -17003,7 +17003,7 @@
         }
       },
       "Stadium00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4217423722
@@ -17040,7 +17040,7 @@
         }
       },
       "Stadium01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3546532936
@@ -17077,7 +17077,7 @@
         }
       },
       "Stadium02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 80904532
@@ -17114,7 +17114,7 @@
         }
       },
       "Stage00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 533812645
@@ -17151,7 +17151,7 @@
         }
       },
       "StainedGlass00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2997488536
@@ -17188,7 +17188,7 @@
         }
       },
       "StainedGlass01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2761876429
@@ -17225,7 +17225,7 @@
         }
       },
       "StainedGlass02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3141835550
@@ -17262,7 +17262,7 @@
         }
       },
       "StarPrint00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3901232748
@@ -17299,7 +17299,7 @@
         }
       },
       "StarPrint01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3738700478
@@ -17336,7 +17336,7 @@
         }
       },
       "StarPrint02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 445214317
@@ -17373,7 +17373,7 @@
         }
       },
       "StarPrint03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4237674130
@@ -17410,7 +17410,7 @@
         }
       },
       "StarPrint04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2420407363
@@ -17447,7 +17447,7 @@
         }
       },
       "Steampunk00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3908789609
@@ -17484,7 +17484,7 @@
         }
       },
       "Strata00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3973170432
@@ -17521,7 +17521,7 @@
         }
       },
       "Street00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3449188180
@@ -17558,7 +17558,7 @@
         }
       },
       "Stuffed00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 700186108
@@ -17595,7 +17595,7 @@
         }
       },
       "Stuffed01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3386161343
@@ -17632,7 +17632,7 @@
         }
       },
       "Stuffed02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2793823248
@@ -17669,7 +17669,7 @@
         }
       },
       "Stuffed03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4284814914
@@ -17706,7 +17706,7 @@
         }
       },
       "Success00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3289814816
@@ -17743,7 +17743,7 @@
         }
       },
       "Sushi00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2601890663
@@ -17780,7 +17780,7 @@
         }
       },
       "Temple00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1962444706
@@ -17817,7 +17817,7 @@
         }
       },
       "Train00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 789987292
@@ -17854,7 +17854,7 @@
         }
       },
       "Train01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3327909960
@@ -17891,7 +17891,7 @@
         }
       },
       "Training00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 462350195
@@ -17928,7 +17928,7 @@
         }
       },
       "Triangle00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2721916175
@@ -17965,7 +17965,7 @@
         }
       },
       "Triangle01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2982160812
@@ -18002,7 +18002,7 @@
         }
       },
       "Triangle02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3244244170
@@ -18039,7 +18039,7 @@
         }
       },
       "Triangle03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1352457461
@@ -18076,7 +18076,7 @@
         }
       },
       "Triangle04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1375755609
@@ -18113,7 +18113,7 @@
         }
       },
       "Triangle05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1887041285
@@ -18150,7 +18150,7 @@
         }
       },
       "TropicalSea00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2039570690
@@ -18187,7 +18187,7 @@
         }
       },
       "Wedding00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2446463042
@@ -18224,7 +18224,7 @@
         }
       },
       "Wedding01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3391160114
@@ -18261,7 +18261,7 @@
         }
       },
       "Wedding02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3483790997
@@ -18298,7 +18298,7 @@
         }
       },
       "Wedding03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1414825048
@@ -18335,7 +18335,7 @@
         }
       },
       "Western00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1268554855
@@ -18372,7 +18372,7 @@
         }
       },
       "WesternStyle00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2672295105
@@ -18409,7 +18409,7 @@
         }
       },
       "WesternStyle01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1334933954
@@ -18446,7 +18446,7 @@
         }
       },
       "WesternStyle02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 597462043
@@ -18483,7 +18483,7 @@
         }
       },
       "WesternStyle03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3173310359
@@ -18520,7 +18520,7 @@
         }
       },
       "WesternStyle04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 504425396
@@ -18557,7 +18557,7 @@
         }
       },
       "WesternStyle05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3744819058
@@ -18594,7 +18594,7 @@
         }
       },
       "WesternStyle06": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4099521403
@@ -18631,7 +18631,7 @@
         }
       },
       "WesternStyle07": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 4282021884
@@ -18668,7 +18668,7 @@
         }
       },
       "WhiteRoom00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 159207292
@@ -18705,7 +18705,7 @@
         }
       },
       "WoodBoard00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3109771554
@@ -18742,7 +18742,7 @@
         }
       },
       "WoodBoard01": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 476712594
@@ -18779,7 +18779,7 @@
         }
       },
       "WoodBoard02": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1399749543
@@ -18816,7 +18816,7 @@
         }
       },
       "WoodBoard03": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2018088433
@@ -18853,7 +18853,7 @@
         }
       },
       "WoodBoard04": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 2302234931
@@ -18890,7 +18890,7 @@
         }
       },
       "WoodBoard05": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 182601843
@@ -18927,7 +18927,7 @@
         }
       },
       "WoodBoard06": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 3877160173
@@ -18964,7 +18964,7 @@
         }
       },
       "WoodBoard07": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1539937310
@@ -19001,7 +19001,7 @@
         }
       },
       "Wrestling00": {
-        "<Unknown_73ADC433>": {
+        "InformedNewRelease": {
           "DefaultValue": false,
           "Type": "Bool",
           "Hash": 1086402284
@@ -19086,7 +19086,7 @@
       "Hash": 4050283414
     },
     "BuildingInfo2": {
-      "<Unknown_73ADC433>": {
+      "InformedNewRelease": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 512,
@@ -19198,7 +19198,7 @@
       }
     },
     "FloorInfo": {
-      "<Unknown_73ADC433>": {
+      "InformedNewRelease": {
         "DefaultValue": null,
         "Type": "BoolArray",
         "Size": 50,
@@ -21426,7 +21426,7 @@
           "Size": 70,
           "Hash": 1580379636
         },
-        "<Unknown_21D83662>": {
+        "HairChangeOrdered": {
           "DefaultValue": -1,
           "Type": "IntArray",
           "Size": 70,
@@ -27689,7 +27689,7 @@
         }
       }
     },
-    "<Unknown_F8D4F089>": {
+    "UnlockAreaGroup": {
       "DefaultValue": null,
       "Type": "UInt64Array",
       "Size": 4,
@@ -27897,7 +27897,7 @@
       "Type": "UInt",
       "Hash": 3968055953
     },
-    "<Unknown_8111E45A>": {
+    "CurrentSumDay": {
       "DefaultValue": 0,
       "Type": "UInt64",
       "Hash": 2637971666
