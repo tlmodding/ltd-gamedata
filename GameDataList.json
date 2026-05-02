@@ -1129,7 +1129,7 @@
           "Hash": 2997063827,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Introduction.<Unknown_33EA86EF>"
+          "HashText": "Introduction.IsIslandForIntroduction"
         },
         {
           "DefaultValue": false,
@@ -37690,14 +37690,14 @@
             {
               "Hash": 1784936765,
               "Value": 4220539378,
-              "HashText": "<Unknown_6A63F93D>",
-              "ValueText": "DailyLog.<Unknown_6A63F93D>"
+              "HashText": "DailyLastPlayTime",
+              "ValueText": "DailyLog.DailyLastPlayTime"
             },
             {
               "Hash": 1640963615,
               "Value": 2852783027,
-              "HashText": "<Unknown_61CF1E1F>",
-              "ValueText": "DailyLog.<Unknown_61CF1E1F>"
+              "HashText": "DailyLastNoInputPlayTime",
+              "ValueHex": "AA0A03B3"
             },
             {
               "Hash": 2994488338,
@@ -39812,8 +39812,8 @@
             {
               "Hash": 871007983,
               "Value": 2997063827,
-              "HashText": "<Unknown_33EA86EF>",
-              "ValueText": "Introduction.<Unknown_33EA86EF>"
+              "HashText": "IsIslandForIntroduction",
+              "ValueText": "Introduction.IsIslandForIntroduction"
             },
             {
               "Hash": 3505222471,
@@ -80203,15 +80203,14 @@
           "DefaultValue": 0,
           "Hash": 2852783027,
           "ResetTypeValue": 0,
-          "SaveFileIndex": 1,
-          "HashText": "DailyLog.<Unknown_61CF1E1F>"
+          "SaveFileIndex": 1
         },
         {
           "DefaultValue": 0,
           "Hash": 4220539378,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "DailyLog.<Unknown_6A63F93D>"
+          "HashText": "DailyLog.DailyLastPlayTime"
         },
         {
           "DefaultValue": 0,

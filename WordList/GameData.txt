@@ -611,6 +611,8 @@ Cylinder
 DailyClothInfo
 DailyCoordinateInfo
 DailyFoodStringId
+DailyLastNoInputPlayTime
+DailyLastPlayTime
 DailyLog
 DailyLog.AiCountByFocusLeading
 DailyLog.AiCountByPickUp
@@ -626,6 +628,7 @@ DailyLog.CurrentPlayDay
 DailyLog.CurrentPlayMonth
 DailyLog.CurrentPlayYear
 DailyLog.CurrentSumDay
+DailyLog.DailyLastPlayTime
 DailyLog.EmotionBallGet
 DailyLog.EmotionBallSpent
 DailyLog.EnterAtelierCount
@@ -1326,6 +1329,7 @@ Introduction.FocusLeadingInfo.CounterMii
 Introduction.FocusLeadingInfo.CounterObject
 Introduction.FocusLeadingInfo.LastTimeMii
 Introduction.FocusLeadingInfo.LastTimeObject
+Introduction.IsIslandForIntroduction
 Introduction.LectureInfo
 Introduction.LectureInfo.ConductedCount
 Introduction.LectureInfo.IsCompleted
@@ -1355,6 +1359,7 @@ IsFinishedPR
 IsFirstDemoDone
 IsFoodShopDialogShown
 IsGeneratedMiiEvent
+IsIslandForIntroduction
 IslandName
 IslandNameRegionLanguageID
 IsLayingLifted

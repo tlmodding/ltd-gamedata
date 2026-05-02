@@ -25464,7 +25464,7 @@
     }
   },
   "Introduction": {
-    "<Unknown_33EA86EF>": {
+    "IsIslandForIntroduction": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 2997063827
@@ -27902,12 +27902,7 @@
       "Type": "UInt64",
       "Hash": 2637971666
     },
-    "<Unknown_61CF1E1F>": {
-      "DefaultValue": 0,
-      "Type": "UInt64",
-      "Hash": 2852783027
-    },
-    "<Unknown_6A63F93D>": {
+    "DailyLastPlayTime": {
       "DefaultValue": 0,
       "Type": "UInt64",
       "Hash": 4220539378

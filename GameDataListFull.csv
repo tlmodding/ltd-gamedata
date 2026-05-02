@@ -156,7 +156,7 @@ DC5D91BC,3697119676,Bool,Childcare.Pending.HabitOwnInfo.WalkUnsteady.IsChecked
 C5058B30,3305474864,Bool,Childcare.Pending.HabitOwnInfo.WalkUnsteady.IsOwn
 0478516D,0074994029,Bool,Childcare.Pending.IsFacePaintFront
 1A8CD0DB,0445436123,Bool,Childcare.Setting.IsEnableChildbirth
-B2A39093,2997063827,Bool,Introduction.<Unknown_33EA86EF>
+B2A39093,2997063827,Bool,Introduction.IsIslandForIntroduction
 9F2CBAE9,2670508777,Bool,Player.BuildingShopItem.IsNeedShowNew
 308EF934,0814676276,Bool,Player.ClothShopDailyItem.IsNeedShowNew
 94F4B9E5,2499066341,Bool,Player.FoodShopDailyItem.IsNeedShowNew
@@ -3978,8 +3978,8 @@ A8366556,2822137174,UIntArray,UGC.Goods.NetworkDeliverCount
 D17C7BB4,3514596276,UInt64,Childcare.Pending.NextTime
 0F96C18A,0261538186,UInt64,Childcare.Reserve.BirthTime
 9D3C40D2,2637971666,UInt64,DailyLog.CurrentSumDay
-AA0A03B3,2852783027,UInt64,DailyLog.<Unknown_61CF1E1F>
-FB9051F2,4220539378,UInt64,DailyLog.<Unknown_6A63F93D>
+AA0A03B3,2852783027,UInt64,Unknown
+FB9051F2,4220539378,UInt64,DailyLog.DailyLastPlayTime
 82747A38,2188671544,UInt64,DailyLog.LastUpdateTime
 F590A7CE,4119898062,UInt64,Introduction.FocusLeadingInfo.LastTimeMii
 1E57F8C8,0509081800,UInt64,Introduction.FocusLeadingInfo.LastTimeObject
