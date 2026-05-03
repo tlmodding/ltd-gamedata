@@ -7457,7 +7457,7 @@
           "Hash": 4042795718,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Trial.<Unknown_1C2E91AB>"
+          "HashText": "Trial.IsOccurredFocusLeadingDemo"
         },
         {
           "DefaultValue": false,
@@ -33808,7 +33808,7 @@
           "Hash": 100541457,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "UGC.Editor.Setting.<Unknown_027D7033>"
+          "HashText": "UGC.Editor.Setting.MiiEditorBaseSkinColorIndex"
         },
         {
           "DefaultValue": 0,
@@ -74983,8 +74983,8 @@
             {
               "Hash": 1748253484,
               "Value": 1188015765,
-              "HashText": "<Unknown_68343B2C>",
-              "ValueText": "Player.ItemShopDisplayItem.<Unknown_68343B2C>"
+              "HashText": "ItemShopDisplayUgcGoodsHash",
+              "ValueText": "Player.ItemShopDisplayItem.ItemShopDisplayUgcGoodsHash"
             }
           ],
           "Hash": 3266532413,
@@ -75312,8 +75312,8 @@
             {
               "Hash": 472813995,
               "Value": 4042795718,
-              "HashText": "<Unknown_1C2E91AB>",
-              "ValueText": "Trial.<Unknown_1C2E91AB>"
+              "HashText": "IsOccurredFocusLeadingDemo",
+              "ValueText": "Trial.IsOccurredFocusLeadingDemo"
             },
             {
               "Hash": 1692563454,
@@ -75689,8 +75689,8 @@
             {
               "Hash": 41775155,
               "Value": 100541457,
-              "HashText": "<Unknown_027D7033>",
-              "ValueText": "UGC.Editor.Setting.<Unknown_027D7033>"
+              "HashText": "MiiEditorBaseSkinColorIndex",
+              "ValueText": "UGC.Editor.Setting.MiiEditorBaseSkinColorIndex"
             }
           ],
           "Hash": 3260960053,
@@ -87622,7 +87622,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
           "TotalSize": 8,
-          "HashText": "Player.ItemShopDisplayItem.<Unknown_68343B2C>"
+          "HashText": "Player.ItemShopDisplayItem.ItemShopDisplayUgcGoodsHash"
         },
         {
           "DefaultValue": null,

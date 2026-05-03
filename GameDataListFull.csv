@@ -1060,7 +1060,7 @@ C77FB830,3347036208,Bool,Trial.IsFinishedContentsDream
 A04EC338,2689516344,Bool,Trial.IsFinishedPR
 E7DF3B58,3890166616,Bool,Trial.IsFoodShopDialogShown
 D9DA6BB6,3654970294,Bool,Trial.IsGeneratedMiiEvent
-F0F82AC6,4042795718,Bool,Trial.<Unknown_1C2E91AB>
+F0F82AC6,4042795718,Bool,Trial.IsOccurredFocusLeadingDemo
 6CEC276E,1827415918,Bool,Trial.IsSuccessImportTrialSaveData
 62C3F1F4,1657008628,Bool,Trial.IsViewedSequenceImportTrialSaveData
 2482B9FC,0612547068,Bool,UGC.Editor.Setting.IsSnapGrid
@@ -3389,7 +3389,7 @@ E37121E2,3815842274,Int,Player.ProposalFailureCount
 870A807C,2265612412,Int,Player.UnlockMapLevel
 D9276E3A,3643239994,Int,Player.<Unknown_C6DCE61A>
 4743F115,1195634965,Int,Trial.PresentCoordinateColor
-05FE2411,0100541457,Int,UGC.Editor.Setting.<Unknown_027D7033>
+05FE2411,0100541457,Int,UGC.Editor.Setting.MiiEditorBaseSkinColorIndex
 B5B0AD29,3048254761,Int,UGC.SuspendData.UvPatternIdx
 00BC09B7,0012323255,Int,UGC.SuspendMii.ImportHeadwearColorIndex
 E6644DC4,3865333188,IntArray,Childcare.Pending.ParentMiiIndex
@@ -3955,7 +3955,7 @@ E3625749,3814872905,UIntArray,News.UgcTextId
 3C6D2922,1013786914,UIntArray,Player.ClothShopDailyItem.DailyCoordinateInfo.CoordinateStringId
 1C2FB3FB,0472888315,UIntArray,Player.FloorInfo.KeyHash
 D3C03D76,3552591222,UIntArray,Player.FoodShopDailyItem.DailyFoodStringId
-46CFAE95,1188015765,UIntArray,Player.ItemShopDisplayItem.<Unknown_68343B2C>
+46CFAE95,1188015765,UIntArray,Player.ItemShopDisplayItem.ItemShopDisplayUgcGoodsHash
 BC85AC23,3162876963,UIntArray,Player.TroubleInfo.KeyHash
 24433FBE,0608387006,UIntArray,Relation.Info.DirectionalInfo.BitFlag
 89F25CAC,2314362028,UIntArray,UGC.Cloth.Hash

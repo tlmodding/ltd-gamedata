@@ -1373,6 +1373,7 @@ IsNeedShowNew
 IsNew
 IsNewlyOwned
 IsNotifiedBloodTypeCouple
+IsOccurredFocusLeadingDemo
 IsOwn
 IsRenovationLifted
 IsSelectedGoodHairChangeTalk
@@ -1385,6 +1386,7 @@ IsViewedSequenceImportTrialSaveData
 ItemInfo
 ItemRawId
 ItemShopDisplayItem
+ItemShopDisplayUgcGoodsHash
 ItemType
 Jail00
 Japan
@@ -2296,6 +2298,7 @@ Mii.Voice.PresetType
 Mii.Voice.Speed
 Mii.Voice.Tension
 MiiBirthdayNews
+MiiEditorBaseSkinColorIndex
 MiiEditorTutorialFlag
 MiiEvent
 MiiEvent.EnableGenerateGameTime
@@ -6468,6 +6471,7 @@ Player.IslandName
 Player.IslandNameRegionLanguageID
 Player.IsLocalNetworkExplained
 Player.ItemShopDisplayItem
+Player.ItemShopDisplayItem.ItemShopDisplayUgcGoodsHash
 Player.LastBazaarPurchasedTime
 Player.LastClockSnapshot
 Player.LastDonationGameTime
@@ -6840,6 +6844,7 @@ Trial.IsFinishedContentsMinigame
 Trial.IsFinishedPR
 Trial.IsFoodShopDialogShown
 Trial.IsGeneratedMiiEvent
+Trial.IsOccurredFocusLeadingDemo
 Trial.IsSuccessImportTrialSaveData
 Trial.IsViewedSequenceImportTrialSaveData
 Trial.PresentCoordinateColor
@@ -6905,6 +6910,7 @@ UGC.Editor.Sequence.TutorialFlag
 UGC.Editor.Setting
 UGC.Editor.Setting.Grid
 UGC.Editor.Setting.IsSnapGrid
+UGC.Editor.Setting.MiiEditorBaseSkinColorIndex
 UGC.Editor.Setting.Shortcut
 UGC.Editor.Setting.Theme
 UGC.Editor.Setting.Type

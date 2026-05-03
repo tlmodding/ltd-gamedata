@@ -19578,7 +19578,7 @@
       "Hash": 3827421266
     },
     "ItemShopDisplayItem": {
-      "<Unknown_68343B2C>": {
+      "ItemShopDisplayUgcGoodsHash": {
         "DefaultValue": null,
         "Type": "UIntArray",
         "Size": 8,
@@ -19661,7 +19661,7 @@
           "Type": "Enum",
           "Hash": 2024216203
         },
-        "<Unknown_027D7033>": {
+        "MiiEditorBaseSkinColorIndex": {
           "DefaultValue": -1,
           "Type": "Int",
           "Hash": 100541457
@@ -25559,7 +25559,7 @@
       "Type": "Bool",
       "Hash": 3654970294
     },
-    "<Unknown_1C2E91AB>": {
+    "IsOccurredFocusLeadingDemo": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 4042795718
