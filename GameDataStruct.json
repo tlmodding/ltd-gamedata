@@ -27902,6 +27902,11 @@
       "Type": "UInt64",
       "Hash": 2637971666
     },
+    "DailyLastNoInputPlayTime": {
+      "DefaultValue": 0,
+      "Type": "UInt64",
+      "Hash": 2852783027
+    },
     "DailyLastPlayTime": {
       "DefaultValue": 0,
       "Type": "UInt64",

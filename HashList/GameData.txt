@@ -628,6 +628,7 @@
 0x9C426820,DailyLog.CurrentPlayMonth
 0x1F736DBD,DailyLog.CurrentPlayYear
 0x9D3C40D2,DailyLog.CurrentSumDay
+0xAA0A03B3,DailyLog.DailyLastNoInputPlayTime
 0xFB9051F2,DailyLog.DailyLastPlayTime
 0x602EE35D,DailyLog.EmotionBallGet
 0xE515229C,DailyLog.EmotionBallSpent

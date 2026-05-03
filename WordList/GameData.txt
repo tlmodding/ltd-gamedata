@@ -628,6 +628,7 @@ DailyLog.CurrentPlayDay
 DailyLog.CurrentPlayMonth
 DailyLog.CurrentPlayYear
 DailyLog.CurrentSumDay
+DailyLog.DailyLastNoInputPlayTime
 DailyLog.DailyLastPlayTime
 DailyLog.EmotionBallGet
 DailyLog.EmotionBallSpent

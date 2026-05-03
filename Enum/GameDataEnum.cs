@@ -632,6 +632,7 @@ public enum GameDataHashEnum : uint
   DailyLog_CurrentPlayMonth = 0x9C426820,
   DailyLog_CurrentPlayYear = 0x1F736DBD,
   DailyLog_CurrentSumDay = 0x9D3C40D2,
+  DailyLog_DailyLastNoInputPlayTime = 0xAA0A03B3,
   DailyLog_DailyLastPlayTime = 0xFB9051F2,
   DailyLog_EmotionBallGet = 0x602EE35D,
   DailyLog_EmotionBallSpent = 0xE515229C,

@@ -37697,7 +37697,7 @@
               "Hash": 1640963615,
               "Value": 2852783027,
               "HashText": "DailyLastNoInputPlayTime",
-              "ValueHex": "AA0A03B3"
+              "ValueText": "DailyLog.DailyLastNoInputPlayTime"
             },
             {
               "Hash": 2994488338,
@@ -80203,7 +80203,8 @@
           "DefaultValue": 0,
           "Hash": 2852783027,
           "ResetTypeValue": 0,
-          "SaveFileIndex": 1
+          "SaveFileIndex": 1,
+          "HashText": "DailyLog.DailyLastNoInputPlayTime"
         },
         {
           "DefaultValue": 0,

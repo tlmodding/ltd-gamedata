@@ -3978,7 +3978,7 @@ A8366556,2822137174,UIntArray,UGC.Goods.NetworkDeliverCount
 D17C7BB4,3514596276,UInt64,Childcare.Pending.NextTime
 0F96C18A,0261538186,UInt64,Childcare.Reserve.BirthTime
 9D3C40D2,2637971666,UInt64,DailyLog.CurrentSumDay
-AA0A03B3,2852783027,UInt64,Unknown
+AA0A03B3,2852783027,UInt64,DailyLog.DailyLastNoInputPlayTime
 FB9051F2,4220539378,UInt64,DailyLog.DailyLastPlayTime
 82747A38,2188671544,UInt64,DailyLog.LastUpdateTime
 F590A7CE,4119898062,UInt64,Introduction.FocusLeadingInfo.LastTimeMii
