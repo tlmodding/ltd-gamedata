@@ -1048,9 +1048,9 @@ F35E0873,4083026035,Bool,Player.InteriorRoomStyleInfo.Wrestling00.IsNewlyOwned
 49DD6D07,1239248135,Bool,Player.IsCameraReverseRotateY
 B10C8C18,2970389528,Bool,Player.IsExplainedIslandGauge
 95A68688,2510718600,Bool,Player.IsLocalNetworkExplained
-8E79031D,2390295325,Bool,Player.<Unknown_45796467>
-306439C2,0811874754,Bool,Player.<Unknown_C9308D89>
-B679F9D3,3061447123,Bool,Player.<Unknown_7784F7CE>
+8E79031D,2390295325,Bool,Player.IsLocalNetworkFirstReceivedItem
+306439C2,0811874754,Bool,Player.IsLocalNetworkFirstReceivedMii
+B679F9D3,3061447123,Bool,Player.IsLocalNetworkFirstReceivedUgc
 A95A0527,2841249063,Bool,Player.RoomStyleWeeklyItem.IsNeedShowNew
 F16A6B96,4050283414,Bool,Player.<Unknown_07948742>
 7448D1E7,1950929383,Bool,Trial.IsClothShopDialogShown
@@ -3564,13 +3564,13 @@ C876B069,3363221609,UInt,Introduction.FocusLeadingInfo.CounterObject
 A58F70D5,2777641173,UInt,Liberation.ComeTrueCount
 41E43C1E,1105476638,UInt,Liberation.FountainEmotionBall
 A4E65F79,2766561145,UInt,Liberation.FountainLevel
-A32F7E47,2737798727,UInt,Liberation.<Unknown_55D4C49B>
+A32F7E47,2737798727,UInt,Liberation.LiberateRightStock
 E98ABF3D,3918184253,UInt,Player.BGMVolume
 DB7786BB,3682043579,UInt,Player.BirthDay.BirthDay_Day
 C754BEF3,3344219891,UInt,Player.BirthDay.BirthDay_Month
 11996629,0295265833,UInt,Player.BirthDay.BirthDay_Year
 2F19F777,0790230903,UInt,Player.BootNum
-B7B42DF5,3082038773,UInt,Player.CommonDailyItem.<Unknown_7809691D>
+B7B42DF5,3082038773,UInt,Player.CommonDailyItem.NextUpdateRandomSeed
 65F482A4,1710523044,UInt,Player.EmotionBall
 5C80D288,1551946376,UInt,Player.<Unknown_5008ACFB>
 14C30012,0348323858,UInt,Player.InteriorRoomStyleInfo.Abduction00.KeyHash
@@ -4900,7 +4900,7 @@ EED6D279,4007055993,UInt64Array,DailyLog.PlayTimeCameraDistanceLevel
 F580D0F4,4118860020,UInt64Array,Mii.Belongings.ExteriorNextEmotionBallTime
 48C3881A,1220773914,UInt64Array,Mii.Belongings.GoodsOwnInfoSlot.GetTime
 5CA4F5D2,1554314706,UInt64Array,Mii.Belongings.InteriorNextEmotionBallTime
-800E786E,2148431982,UInt64Array,Mii.Belongings.<Unknown_63463FA0>
+800E786E,2148431982,UInt64Array,Mii.Belongings.NextInteriorWantGameTime
 8F8161D5,2407621077,UInt64Array,Mii.Feeling.FeelingEndGameTime
 34190CDF,0874056927,UInt64Array,Mii.HomeLiveTime.StartLiveTogetherTime
 ECF86FFB,3975704571,UInt64Array,Mii.MiiMisc.BalloonTalkInfo.LastTalkGameTime

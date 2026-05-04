@@ -1366,6 +1366,9 @@ IslandNameRegionLanguageID
 IsLayingLifted
 IsLiberated
 IsLocalNetworkExplained
+IsLocalNetworkFirstReceivedItem
+IsLocalNetworkFirstReceivedMii
+IsLocalNetworkFirstReceivedUgc
 IsLock
 IsLoveGender
 IsNeedPutHouseLocalNetwork
@@ -1448,10 +1451,12 @@ LectureIdValue
 LectureInfo
 LeftForward
 Level
+LiberateRightStock
 Liberation
 Liberation.ComeTrueCount
 Liberation.FountainEmotionBall
 Liberation.FountainLevel
+Liberation.LiberateRightStock
 Liberation.SeasonInfo
 Liberation.SeasonInfo.IsBuildingLifted
 Liberation.SeasonInfo.IsLayingLifted
@@ -1854,6 +1859,7 @@ Mii.Belongings.HabitOwnInfo.WalkUnsteady.IsOwn
 Mii.Belongings.HabitOwnInfo.WalkUnsteady.State
 Mii.Belongings.InteriorNextEmotionBallTime
 Mii.Belongings.Money
+Mii.Belongings.NextInteriorWantGameTime
 Mii.Belongings.RoomStyleInfo
 Mii.Belongings.RoomStyleInfo.Flag
 Mii.Belongings.RoomStyleInfo.Flag.Abduction00
@@ -2403,7 +2409,9 @@ NextGameTime
 NextGeneratableTroubleIslandEditTime
 NextId
 NextIndex
+NextInteriorWantGameTime
 NextTime
+NextUpdateRandomSeed
 NickNameToOtherType
 NightView00
 Nobility00
@@ -2561,6 +2569,7 @@ Player.ClothShopDailyItem.DailyCoordinateInfo.Variation
 Player.ClothShopDailyItem.IsNeedShowNew
 Player.CommonDailyItem
 Player.CommonDailyItem.LastUpdateTime
+Player.CommonDailyItem.NextUpdateRandomSeed
 Player.CoordinateInfo
 Player.CoordinateInfo.OwnInfoArray
 Player.CoordinateInfo.OwnInfoArray.FirstObtainedSec
@@ -6470,6 +6479,9 @@ Player.IsExplainedIslandGauge
 Player.IslandName
 Player.IslandNameRegionLanguageID
 Player.IsLocalNetworkExplained
+Player.IsLocalNetworkFirstReceivedItem
+Player.IsLocalNetworkFirstReceivedMii
+Player.IsLocalNetworkFirstReceivedUgc
 Player.ItemShopDisplayItem
 Player.ItemShopDisplayItem.ItemShopDisplayUgcGoodsHash
 Player.LastBazaarPurchasedTime

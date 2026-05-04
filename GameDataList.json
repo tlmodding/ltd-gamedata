@@ -7373,21 +7373,21 @@
           "Hash": 2390295325,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_45796467>"
+          "HashText": "Player.IsLocalNetworkFirstReceivedItem"
         },
         {
           "DefaultValue": false,
           "Hash": 811874754,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_C9308D89>"
+          "HashText": "Player.IsLocalNetworkFirstReceivedMii"
         },
         {
           "DefaultValue": false,
           "Hash": 3061447123,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.<Unknown_7784F7CE>"
+          "HashText": "Player.IsLocalNetworkFirstReceivedUgc"
         },
         {
           "DefaultValue": false,
@@ -39903,8 +39903,8 @@
             {
               "Hash": 1440007323,
               "Value": 2737798727,
-              "HashText": "<Unknown_55D4C49B>",
-              "ValueText": "Liberation.<Unknown_55D4C49B>"
+              "HashText": "LiberateRightStock",
+              "ValueText": "Liberation.LiberateRightStock"
             },
             {
               "Hash": 3792588673,
@@ -40335,8 +40335,8 @@
             {
               "Hash": 1665548192,
               "Value": 2148431982,
-              "HashText": "<Unknown_63463FA0>",
-              "ValueText": "Mii.Belongings.<Unknown_63463FA0>"
+              "HashText": "NextInteriorWantGameTime",
+              "ValueText": "Mii.Belongings.NextInteriorWantGameTime"
             }
           ],
           "Hash": 1329115211,
@@ -46366,20 +46366,20 @@
             {
               "Hash": 3375402377,
               "Value": 811874754,
-              "HashText": "<Unknown_C9308D89>",
-              "ValueText": "Player.<Unknown_C9308D89>"
+              "HashText": "IsLocalNetworkFirstReceivedMii",
+              "ValueText": "Player.IsLocalNetworkFirstReceivedMii"
             },
             {
               "Hash": 2005202894,
               "Value": 3061447123,
-              "HashText": "<Unknown_7784F7CE>",
-              "ValueText": "Player.<Unknown_7784F7CE>"
+              "HashText": "IsLocalNetworkFirstReceivedUgc",
+              "ValueText": "Player.IsLocalNetworkFirstReceivedUgc"
             },
             {
               "Hash": 1165583463,
               "Value": 2390295325,
-              "HashText": "<Unknown_45796467>",
-              "ValueText": "Player.<Unknown_45796467>"
+              "HashText": "IsLocalNetworkFirstReceivedItem",
+              "ValueText": "Player.IsLocalNetworkFirstReceivedItem"
             },
             {
               "Hash": 3342141946,
@@ -46673,8 +46673,8 @@
             {
               "Hash": 2013882653,
               "Value": 3082038773,
-              "HashText": "<Unknown_7809691D>",
-              "ValueText": "Player.CommonDailyItem.<Unknown_7809691D>"
+              "HashText": "NextUpdateRandomSeed",
+              "ValueText": "Player.CommonDailyItem.NextUpdateRandomSeed"
             }
           ],
           "Hash": 2442896392,
@@ -77829,7 +77829,7 @@
           "Hash": 2737798727,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Liberation.<Unknown_55D4C49B>"
+          "HashText": "Liberation.LiberateRightStock"
         },
         {
           "DefaultValue": 10,
@@ -77871,7 +77871,7 @@
           "Hash": 3082038773,
           "ResetTypeValue": 0,
           "SaveFileIndex": 1,
-          "HashText": "Player.CommonDailyItem.<Unknown_7809691D>"
+          "HashText": "Player.CommonDailyItem.NextUpdateRandomSeed"
         },
         {
           "DefaultValue": 0,
@@ -86684,7 +86684,7 @@
           "ResetTypeValue": 0,
           "SaveFileIndex": 0,
           "TotalSize": 70,
-          "HashText": "Mii.Belongings.<Unknown_63463FA0>"
+          "HashText": "Mii.Belongings.NextInteriorWantGameTime"
         },
         {
           "DefaultValue": null,

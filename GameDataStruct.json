@@ -19053,17 +19053,17 @@
       "Type": "Bool",
       "Hash": 2510718600
     },
-    "<Unknown_45796467>": {
+    "IsLocalNetworkFirstReceivedItem": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 2390295325
     },
-    "<Unknown_C9308D89>": {
+    "IsLocalNetworkFirstReceivedMii": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 811874754
     },
-    "<Unknown_7784F7CE>": {
+    "IsLocalNetworkFirstReceivedUgc": {
       "DefaultValue": false,
       "Type": "Bool",
       "Hash": 3061447123
@@ -19446,7 +19446,7 @@
       "Hash": 790230903
     },
     "CommonDailyItem": {
-      "<Unknown_7809691D>": {
+      "NextUpdateRandomSeed": {
         "DefaultValue": 0,
         "Type": "UInt",
         "Hash": 3082038773
@@ -25045,7 +25045,7 @@
         "Size": 70,
         "Hash": 1554314706
       },
-      "<Unknown_63463FA0>": {
+      "NextInteriorWantGameTime": {
         "DefaultValue": null,
         "Type": "UInt64Array",
         "Size": 70,
@@ -27412,7 +27412,7 @@
       "Type": "UInt",
       "Hash": 2766561145
     },
-    "<Unknown_55D4C49B>": {
+    "LiberateRightStock": {
       "DefaultValue": 0,
       "Type": "UInt",
       "Hash": 2737798727
